@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--
+	Devices
+-->
+
+<string_table>
+
+	<string id="st_pda_name">
+		<text>PDA</text>
+	</string>
+	<string id="st_pda_descr">
+		<text>PDA con informaci&#243;n sobre la Zona, registros digitales, mapas detallados de la Zona y localizaci&#243;n de anomal&#237;as. El valor comercial podr&#237;a ser alto si encuentras el comprador adecuado.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] bajo consumo el&#233;ctrico\n
+		</text>
+	</string>
+	
+	<string id="st_pda_1_name">
+		<text>PDA</text>
+	</string>
+	<string id="st_pda_1_descr">
+		<text>Un dispositivo electr&#243;nico de bolsillo destinado a abarcar las funciones b&#225;sicas y m&#225;s vitales de una computadora. El PDA es esencial para el intercambio diario de informaci&#243;n. Viene con un m&#243;dulo GPS preinstalado para proporcionar informaci&#243;n de geolocalizaci&#243;n y hora al usuario.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] bajo consumo el&#233;ctrico\n
+		</text>
+	</string>
+	
+	<string id="st_pda_2_name">
+		<text>PDA (Version 2.0)</text>
+	</string>
+	<string id="st_pda_2_descr">
+		<text>Un dispositivo electr&#243;nico de bolsillo destinado a abarcar las funciones b&#225;sicas y m&#225;s vitales de una computadora. El PDA es esencial para el intercambio diario de informaci&#243;n. Viene con un m&#243;dulo GPS preinstalado para proporcionar informaci&#243;n de geolocalizaci&#243;n y hora al usuario. El m&#243;dulo en esta versi&#243;n ha sido mejorado para recuperar y procesar la posici&#243;n de otros m&#243;dulos conectados a la red en un radio de 300 metros, lo que hace a esta PDA muy atractiva entre los stalkers.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] bajo consumo el&#233;ctrico\n %c[d_purple] • %c[ui_gray_2] muestra la ubicaci&#243;n de los escuadrones cercanos a tu grupo.\n
+		</text>
+	</string>
+	
+	<string id="st_pda_3_name">
+		<text>PDA (Version 3.1)</text>
+	</string>
+	<string id="st_pda_3_descr">
+		<text>Un dispositivo electr&#243;nico de bolsillo destinado a abarcar las funciones b&#225;sicas y m&#225;s vitales de una computadora. El PDA es esencial para el intercambio diario de informaci&#243;n. Viene con un m&#243;dulo GPS preinstalado para proporcionar informaci&#243;n de geolocalizaci&#243;n y tiempo al usuario. El m&#243;dulo en esta versi&#243;n ha sido mejorado considerablemente para recuperar y procesar la posici&#243;n de otros m&#243;dulos conectados a la red, lo que hace que esta PDA sea muy atractiva para los stalkers. A diferencia de los m&#243;dulos GPS habituales, &#233;ste se basa en conjuntos de c&#243;digos que permiten al m&#243;dulo adquirir privilegios especiales en el canal conectado para adquirir m&#225;s informaci&#243;n.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] bajo consumo el&#233;ctrico\n %c[d_purple] • %c[ui_gray_2] muestra la ubicaci&#243;n de los escuadrones naturales cercanos.\n
+		</text>
+	</string>
+	
+	<string id="st_detector1">
+		<text>Eco detector</text>
+	</string>
+	<string id="st_detector1_descr">
+		<text>Este anticuado detector de actividad an&#243;mala produce un aviso de alarma cuando las part&#237;culas an&#243;malas entran en una c&#225;mara especial al acercarse a una anomal&#237;a. Tambi&#233;n puede registrar la presencia de artefactos y medir la distancia al m&#225;s cercano. La distancia se indica por la frecuencia del sonido que emite el detector. Para cambiar al modo de b&#250;squeda de artefactos, abra la tapa frontal del dispositivo. Debido a su sencillo dise&#241;o, El Eco s&#243;lo puede utilizarse para localizar los artefactos m&#225;s comunes.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] consumo el&#233;ctrico moderado\n
+		</text>
+	</string>
+	
+	<string id="st_detector2">
+		<text>Detector Oso</text>
+	</string>
+	<string id="st_detector2_descr">
+		<text>Este detector de actividad an&#243;mala de &#250;ltima generaci&#243;n puede utilizarse para localizar formaciones an&#243;malas y tiene un panel de diodos de color, que no s&#243;lo indica la direcci&#243;n de los artefactos, sino que tambi&#233;n mide la distancia a ellos. Para cambiar al modo de b&#250;squeda de artefactos, abra la cubierta frontal del dispositivo. Desafortunadamente, el dispositivo est&#225; programado con una lista algo anticuada de artefactos detectables.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] consumo el&#233;ctrico moderado\n
+		</text>
+	</string>
+	
+	<string id="st_detector3">
+		<text>Detector Veles</text>
+	</string>
+	<string id="st_detector3_descr">
+		<text>Un esc&#225;ner detector cient&#237;fico de &#250;ltima generaci&#243;n. Gracias a tres c&#225;maras de detecci&#243;n modernas, la posici&#243;n de los artefactos se muestra en una pantalla especial. Cuando se cierra, el dispositivo registra s&#243;lo la radiaci&#243;n y las anomal&#237;as. Para cambiar al modo de b&#250;squeda de artefactos, abra la pantalla LED frontal. Cuando est&#225; en modo de b&#250;squeda, el detector es capaz de localizar todos los artefactos conocidos por la ciencia.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] consumo el&#233;ctrico elevado\n
+		</text>
+	</string>
+	
+	<string id="st_detector4">
+		<text>Detector Svarog</text>
+	</string>
+	<string id="st_detector4_descr">
+		<text>Un prototipo de un esc&#225;ner de frecuencias an&#243;malas de funcionalidad ampliada. Este dispositivo viene con un programa usado para identificar &#225;reas est&#225;ticas de actividad an&#243;mala almacenadas en su base de datos, manteniendo la capacidad de localizar artefactos. La posici&#243;n de las &#225;reas an&#243;malas y los artefactos se muestra en una pantalla especial. El modo de b&#250;squeda de artefactos, que puede activarse abriendo la pantalla LED frontal, ha sido modificado para detectar formaciones an&#243;malas actualmente desconocidas por la ciencia.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] consumo el&#233;ctrico elevado\n
+		</text>
+	</string>
+	
+	<string id="st_detector9">
+		<text>Receptor RF</text>
+	</string>
+	<string id="st_detector9_descr">
+		<text>El receptor RF (Radio-frecuencias) es un peque&#241;o dispositivo con un m&#243;dulo de radiofrecuencia de alta sensibilidad utilizado para las comunicaciones b&#225;sicas. Bastante com&#250;n entre los soldados a pesar de que la tecnolog&#237;a es antigua. Como su nombre indica, tiene la capacidad de interactuar con se&#241;ales de radio en un radio de 200 m. El dispositivo es capaz de procesar ondas de radio con un rango de frecuencia entre 30 y 300 MHz.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] consumo electrico moderado\n
+		</text>
+	</string>
+	
+	<string id="st_detector8">
+		<text>Dispositivo an&#243;malo de medici&#243;n</text>
+	</string>
+	<string id="st_detector8_descr">
+		<text>El primer prototipo fue dise&#241;ado en el 2008 bajo la supervisi&#243;n del profesor Sakharov en el laboratorio m&#243;vil de Yantar. Se han hecho m&#225;s copias despu&#233;s de un probado &#233;xito en los campos de estudio. Este dispositivo es capaz de tomar y registrar medidas de campos an&#243;malos. El marco y los sensores mejorados garantizan el funcionamiento incluso en entornos hostiles. La alta sensibilidad durante la captura o el seguimiento permite su uso en muchos entornos diferentes y en las condiciones de funcionamiento m&#225;s duras.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] consumo el&#233;ctrico moderado\n
+		</text>
+	</string>
+	
+	<string id="st_broken_pda">
+		<text>PDA roto</text>
+	</string>
+	<string id="st_broken_pda_descr">
+		<text>Este PDA parece muy da&#241;ado, la mitad de la pantalla est&#225; rota y el m&#243;dulo GPS no funciona correctamente. El interior se mantuvo intacto en su mayor parte.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	
+	<string id="st_device_torch_name">
+		<text>Linterna frontal</text>
+	</string>
+	<string id="st_device_torch_descr">
+		<text>Una linterna est&#225;ndar montada en la cabeza que funciona perfectamente. &#218;til para los stalkers que se encuentran fuera y deahbulando en la noche, pero puede atraer problemas si se usa imprudentemente.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] consumo el&#233;ctrico moderado\n
+		</text>
+	</string>
+	
+	<string id="st_device_torch_nv_1_name">
+		<text>Linterna frontal con Vision-Nocturna 1PN93-1\n
+		</text>
+	</string>
+	<string id="st_device_torch_nv_1_descr">
+		<text>Una linterna est&#225;ndar montada en la cabeza completamente funcional. &#218;til para los stalkers que se encuentran fuera y alrededor despu&#233;s de la noche, pero puede atraer problemas si se usa imprudentemente. Esta linterna frontal viene con un dispositivo de visi&#243;n nocturna de las Fuerzas Militares Rusas 1PN93-1. Ofrece intensificaci&#243;n de imagen de generaci&#243;n 2+, especialmente &#250;til para operaciones nocturnas o en condiciones de poca luz.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_purple] • %c[ui_gray_2] visi&#243;n nocturna: %c[ui_gray_1]1PN93-1.\n %c[d_blue] • %c[ui_gray_2] consumo el&#233;ctrico moderado\n
+		</text>
+	</string>
+	
+	<string id="st_device_torch_nv_2_name">
+		<text>Linterna frontal con Visi&#243;n-nocturna PN21KL\n
+		</text>
+	</string>
+	<string id="st_device_torch_nv_2_descr">
+		<text>Una linterna est&#225;ndar montada en la cabeza completamente funcional. &#218;til para los stalkers que se encuentran fuera y alrededor despu&#233;s de la noche, pero puede atraer problemas si se usa imprudentemente. Esta linterna frontal viene con una intensificaci&#243;n de imagen IIT de generaci&#243;n 2+, destinada a funcionar de noche con iluminaci&#243;n natural y en la oscuridad total con el iluminador infrarrojo encendido.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_purple] • %c[ui_gray_2] visi&#243;n nocturna: %c[ui_gray_1]PN21KL.\n %c[d_blue] • %c[ui_gray_2] consumo el&#233;ctrico moderado\n
+		</text>
+	</string>
+	
+	<string id="st_device_torch_nv_3_name">
+		<text>Linterna frontal con Psi-estimulador Oracle</text>
+	</string>
+	<string id="st_device_torch_nv_3_descr">
+		<text>Una linterna est&#225;ndar montada en la cabeza completamente funcional. &#218;til para los stalkers que se encuentran fuera y alrededor despu&#233;s de la noche, pero puede atraer problemas si se usa imprudentemente. Esta linterna frontal tiene un poderoso sistema el&#233;ctrico de &#243;pticas y un software de procesamiento que elimina el ruido del v&#237;deo y mejora las capacidades de intensificaci&#243;n de im&#225;genes de la unidad PN21K, convirti&#233;ndola as&#237; en un completo dispositivo de visi&#243;n nocturna de la generaci&#243;n 3+ del IIT.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_purple] • %c[ui_gray_2] visi&#243;n nocturna: %c[ui_gray_1]Oracle.\n %c[d_blue] • %c[ui_gray_2] consumo el&#233;ctrico moderado\n
+		</text>
+	</string>
+	
+	<string id="st_device_flashlight">
+		<text>Linterna</text>
+	</string>
+	<string id="st_device_flashlight_descr">
+		<text>Una linterna de mano de uso com&#250;n. Desafortunadamente, no puede ser usada con la mayor&#237;a de las armas ya que requiere una mano libre. Por lo tanto, s&#243;lo puede usarse simult&#225;neamente con pistolas y otros equipos de una sola mano.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] consumo el&#233;ctrico moderado\n
+		</text>
+	</string>
+	
+	<string id="st_batteries_dead">
+		<text>Bater&#237;as viejas</text>
+	</string>
+	<string id="st_batteries_dead_descr">
+		<text>S&#243;lo una de cada diez bater&#237;as que se encuentran en la Zona todav&#237;a tienen algo de jugo. Los stalkers parecen tirarlas cuando se agotan ya que es casi imposible encontrar un cargador de bater&#237;as. Su capa exterior est&#225; corro&#237;da y cubierta de suciedad, lo que es un fuerte indicio de que est&#225;n casi muertas. A&#250;n as&#237;, como todo en la Zona, tambi&#233;n tienen su prop&#243;sito y pueden ser &#250;tiles para recargas frecuentes de corriente el&#233;ctrica.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	
+	<string id="st_batteries">
+		<text>Pack de bater&#237;as</text>
+	</string>
+	<string id="st_batteries_descr">
+		<text>Un paquete de bater&#237;as. Alguien debe haberlas usado ya que est&#225;n medio agotadas. Pensadas para usarlas en tu linterna, PDA, gafas de visi&#243;n nocturna y otros dispositivos electr&#243;nicos. Recuerda cambiarlas regularmente.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	
+	<string id="st_batteries_ccell">
+		<text>Pack militar de bater&#237;as</text>
+	</string>
+	<string id="st_batteries_ccell_descr">
+		<text>Un paquete de bater&#237;as militares completamente cargadas. Muy valioso y de gran demanda debido a la relativa escasez de bater&#237;as en la Zona. Usado por todas las facciones y stalkers de todos los niveles, desde novatos hasta stalkers maestros. Suministrado a los comerciantes por oficiales militares corruptos que tratan de ganar dinero extra en la Zona..\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	
+	<string id="st_geiger_dead">
+		<text>Contador Geiger</text>
+	</string>
+	<string id="st_geiger_dead_descr">
+		<text>Un contador Geiger mide la radiaci&#243;n ionizante (radiactiva). Detecta la emisi&#243;n de part&#237;culas alfa, beta y gamma. Inventados en 1908, los contadores Geiger siguen siendo un objeto tecnol&#243;gico popular utilizado para mediciones en la salud, la f&#237;sica, la industria, la geolog&#237;a y otros campos de actividad. Hechos de simples circuitos electr&#243;nicos.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] dispositivo tecnol&#243;gico \n %c[d_orange] • %c[ui_gray_2] mide el nivel de contaminaci&#243;n radiactiva\n %c[d_blue] • %c[ui_gray_2] consumo el&#233;ctrico moderado\n %c[d_orange] • %c[ui_gray_2] opera en 3 modos\n
+		</text>
+	</string>
+	
+	<string id="st_electric power">
+		<text>Dispositivo de energ&#237;a universal (energ&#237;a el&#233;ctrica)</text>
+	</string>
+	<string id="st_electric power_descr">
+		<text>Una unidad de alimentaci&#243;n de la &#233;poca de la Guerra Fr&#237;a del tama&#241;o de un walkie-talkie. Acepta casi cualquier tipo de bater&#237;as. Utiliza cada pizca de energ&#237;a de las bater&#237;as insertadas y suministra a los dispositivos electr&#243;nicos energ&#237;a en un flujo mejorado a trav&#233;s de un conjunto de microcables. Estos pueden ser conectados a cualquier equipo, sin importar su complejidad o antig&#252;edad. Permite a los stalkers utilizar y manejar numerosos dispositivos electr&#243;nicos aunque s&#243;lo tengan una bater&#237;a.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] fuente de energ&#237;a port&#225;til\n %c[d_blue] • %c[ui_gray_2] compatible con la mayor&#237;a de los dispositivos modernos\n %c[d_blue] • %c[ui_gray_2] acepta todos los tipos de pilas\n %c[d_blue] • %c[ui_gray_2] capacidad de almacenamiento %c[ui_gray_1]3 Ah (amperios-hora)\n
+		</text>
+	</string>
+	
+	<string id="extension_pda">
+		<text>PDA multimedia</text>
+	</string>
+	<string id="exten_sion_pda">
+		<text>Una costosa PDA resistente a la humedad y a los golpes, con un programa de chat y un reproductor de m&#250;sica integrado.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] permite la reproducci&#243;n de m&#250;sica y la interacci&#243;n en la red stalker\n
+		</text>
+	</string>
+	
+	<string id="st_gps_tracker">
+		<text>M&#243;dulo GPS militar</text>
+	</string>
+	<string id="st_gps_tracker_descr">
+		<text>Un prototipo de la pr&#243;xima generaci&#243;n de dispositivos de navegaci&#243;n GPS. S&#243;lo se hicieron unas pocas copias. Distribuidas exclusivamente entre los m&#225;s altos rangos militares, aunque algunas de ellas se han filtrado a otros lados. El m&#243;dulo mejorado garantiza el funcionamiento incluso en entornos hostiles. La alta sensibilidad durante la captura o el rastreo permite su uso en muchos entornos diferentes y en las condiciones de funcionamiento m&#225;s duras. A diferencia de los m&#243;dulos GPS habituales, &#233;ste se basa en conjuntos de c&#243;digos que permiten al m&#243;dulo adquirir privilegios especiales en el canal conectado. Recupera la posici&#243;n de otros m&#243;dulos conectados en un radio de 300 metros. Por otro lado, este m&#243;dulo consume una cantidad considerable de energ&#237;a mientras funciona. Se incluye un circuito de conmutaci&#243;n autom&#225;tica dentro del m&#243;dulo para apagarlo despu&#233;s de 20 segundos de b&#250;squeda continua.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] consumo el&#233;ctrico muy elevado\n
+		</text>
+	</string>
+
+	<string id="st_musicplayer">
+		<text>Radio</text>
+	</string>
+	<string id="st_musicplayer_desc">
+		<text>Una radio modificada, dise&#241;ada para poder comunicarse con otras radios y a la vez filtrar la mayor cantidad de interferencias posibles. \n \n%c[ui_gray_2]PROPIEDADES:\n \n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	
+	<string id="st_weather_radar">
+		<text>Kit de radar clim&#225;tico Doppler</text>
+	</string>
+	<string id="st_weather_radar_descr">
+		<text>Un mini-kit de radar meteorol&#243;gico Doppler de pulso avanzado. Este kit considerado como un milagro en el campo de la meteorolog&#237;a. Env&#237;a pulsos direccionales de radiaci&#243;n de microondas, del orden de un microsegundo de duraci&#243;n, utilizando un magnetr&#243;n de cavidad conectado por una gu&#237;a de ondas a una antena parab&#243;lica para recoger datos meteorol&#243;gicos.\n Dos cient&#237;ficos descubrieron que utilizando el artefacto Bola de Carne cerca de la antena puede amplificar enormemente la potencia del pulso, hasta el punto de que altera los iones de la capa de la troposfera de la atm&#243;sfera y cambia completamente sus propiedades.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] equipamiento meteorologico\n %c[d_blue] • %c[ui_gray_2] accionado por un artefacto Bola de Carne\n
+		</text>
+	</string>
+	
+	<string id="st_dosimeter_mode">
+		<text>Modo Dosimetro</text>
+	</string>
+	<string id="st_actor_rads">
+		<text>Radiaci&#243;n en el Cuerpo</text>
+	</string>
+	<string id="st_environment_rads">
+		<text>Radiaci&#243;n Ambiental</text>
+	</string>
+</string_table>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="sar_perception">
+		<text>Paso al Norte</text>
+	</string>
+	<string id="sar_perception_1">
+		<text>Conoce al que este detras del Monolito.</text>
+	</string>
+	<string id="sar_perception_2">
+		<text>Encuentra el laboratorio mencionado en el manuscrito y descubre lo que esconde.</text>
+	</string>
+	<string id="sar_perception_3">
+		<text>Usa el decodificador para abrir la puerta.</text>
+	</string>
+	<string id="sar_perception_4">
+		<text>Derrota a los guardias para entrar en la sala.</text>
+	</string>
+	<string id="sar_perception_5">
+		<text>Descubre el codigo de entrada usando los documentos.</text>
+	</string>
+	<string id="warlab_kill_crazy_entity_title">
+		<text>Encargate de la entidad desconocida</text>
+	</string>
+	<string id="warlab_kill_crazy_entity_1">
+		<text>Habla con la entidad</text>
+	</string>
+	<string id="warlab_kill_crazy_entity_2">
+		<text>Mata las tres formas fisicas de la entidad dentro del Laboratorio de Guerra para abrir la puerta</text>
+	</string>
+</string_table> 

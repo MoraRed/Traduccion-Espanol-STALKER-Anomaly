@@ -1,0 +1,1005 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="voronin_living_legend_0">
+		<text>General, el Coronel Petrenko dijo que est&#225; buscando hombres para localizar a un stalker.</text>
+	</string>
+	<string id="voronin_living_legend_1">
+		<text>As&#237; es. Han llegado tiempos dif&#237;ciles. Las emisiones son frecuentes y devastadoras. La M&#225;quina Milagrosa y el Cauterizador est&#225;n activos de nuevo. El Monolito intenta expandir su territorio implacablemente. Pero un viejo aliado, un legendario stalker que casi hab&#237;a logrado derrotarlos a todos, regres&#243;. Lo conoc&#237;a como el Marcado, pero su verdadero nombre es Strelok. Aunque no era miembro de Deber, era un guerrero decidido, y uno de los pocos en asaltar la CNPP y vivir para contarlo. Despu&#233;s de todo este tiempo, puede que tenga el conocimiento necesario para destruir la Zona de una vez por todas. Encu&#233;ntrenlo, o al menos ve lo que sabe, para que podamos proveer la mano de obra y los recursos para lograr ese objetivo.</text>
+	</string>
+	<string id="voronin_living_legend_2">
+		<text>Lo rastrear&#233;, comandante.</text>
+	</string>
+	<string id="voronin_living_legend_21">
+		<text>Me disculpo comandante, no estoy listo para una misi&#243;n tan importante en este momento.</text>
+	</string>
+	<string id="voronin_living_legend_3">
+		<text>Bien. El l&#237;der de Cielo Despejado estaba ansioso por ayudarnos en nuestra b&#250;squeda, as&#237; que por suerte tienes una pista para empezar: un viejo amigo de Strelok, Doctor, vive actualmente en un remoto rinc&#243;n de los Grandes Pantanos. Parece cercado, pero deber&#237;as ser capaz de encontrar un hueco si prestas atenci&#243;n. Aqu&#237; est&#225;n las coordenadas. Toma algo para protegerte de la radiaci&#243;n, lo necesitar&#225;s. Encuentra a Doctor. Averig&#252;a el paradero de Strelok por medio de &#233;l.</text>
+	</string>
+	
+	<string id="voronin_living_legend_finish_0">
+		<text>He vuelto, comandante.</text>
+	</string>
+	<string id="voronin_living_legend_finish_1">
+		<text>Por fin. Nada mas haberlo hecho, ya es impresionante. Pero asumo que no has vuelto con las manos vac&#237;as.</text>
+	</string>
+	<string id="voronin_living_legend_finish_2">
+		<text>Eso es cierto. Conoc&#237; a Strelok y a su equipo. Juntos, le dimos un gran golpe a las fuerzas del Monolito y recuperamos un artefacto extremadamente raro del propio Sarc&#243;fago. Strelok me revel&#243; algunos de los secretos de la Zona y me dio este pendrive. Contiene m&#225;s informaci&#243;n de la que podr&#237;a reportarle.</text>
+	</string>
+	<string id="voronin_living_legend_finish_3">
+		<text>Excelente. &#191;Descubriste la forma de purgar la Zona de una vez por todas?</text>
+	</string>
+	<string id="voronin_living_legend_finish_4">
+		<text>Me temo que eso podr&#237;a ser imposible. Al menos por ahora. Strelok intent&#243; hacerlo hace unos a&#241;os, pero fracas&#243; a lo grande. Todav&#237;a est&#225; buscando una manera de lograrlo. Aconsej&#243; precauci&#243;n.</text>
+	</string>
+	<string id="voronin_living_legend_finish_5">
+		<text>Ya veo. Seguiremos siendo fieles a nuestra causa, pero con un enfoque sensato. Las guerras no se ganan de la noche a la ma&#241;ana. Continuaremos nuestra b&#250;squeda. Mientras tanto, ustedes han terminado con &#233;xito la suya. Tu desempe&#241;o fue loable y mereces una recompensa.</text>
+	</string>
+	
+	<string id="dushman_living_legend_0">
+		<text>Entonces, &#191;de qu&#233; se trata este contrato s&#250;per importante?</text>
+	</string>
+	<string id="dushman_living_legend_1">
+		<text>Un peque&#241;o escondite con una recompensa sustancial. Nuestros agentes informaron de que un famoso stalker llamado Strelok hab&#237;a reaparecido. Strelok es una especie de leyenda local. Explor&#243; cada rinc&#243;n de la Zona, deshabilit&#243; las instalaciones ps&#237;quicas y luch&#243; contra el Monolito. Algunos dicen que visit&#243; el Genio varias veces. Algo de eso es folclore y otro poco ha sido confirmado por nuestra gente. Si al menos la mitad de las cosas que dicen de &#233;l son ciertas, entonces tiene un conocimiento muy valioso que compartir. Todo lo que quiero que hagas es encontrarlo y animarlo a compartir ese conocimiento. No, no hay necesidad de ponerse violento... Lo s&#233;, claro. De todas formas, te pagar&#233; una prima por tu esfuerzo. &#191;Interesado?</text>
+	</string>
+	<string id="dushman_living_legend_2">
+		<text>Eso suena como una misi&#243;n bastante s&#243;lida.</text>
+	</string>
+	<string id="dushman_living_legend_21">
+		<text>Lo siento, no estoy interesado por ahora.</text>
+	</string>
+	<string id="dushman_living_legend_3">
+		<text>Ah, bien, algo al respecto. Los stalkers libre y los mercenarios no son exactamente mejores amigos, como ya sabr&#225;s. Encuentra un buen disfraz y finge que eres un aliado. G&#225;nate su confianza antes de revelar tus verdaderos colores, o no los reveles en absoluto. Aseg&#250;rate de obtener la informaci&#243;n antes de que empiecen a dispararte en la cara. &#191;Entendido?</text>
+	</string>
+	<string id="dushman_living_legend_4">
+		<text>Trabajo encubierto, &#191;eh? Aceptar&#233; el desaf&#237;o.</text>
+	</string>
+	<string id="dushman_living_legend_5">
+		<text>Sab&#237;a que te gustar&#237;a. Ve a buscar al viejo amigo de Strelok, Doctor. Cold nos vendi&#243; las coordenadas del viejo. No te preocupes, son exactas. Fue caro, pero el Doctor es la mejor pista que pudimos conseguir. Llevate tu ingenio, toma algunos anti-rad, trae de vuelta la informaci&#243;n. Que tengas una buena caza.</text>
+	</string>
+	
+	<string id="dushman_living_legend_finish_0">
+		<text>Misi&#243;n cumplida.</text>
+	</string>
+	<string id="dushman_living_legend_finish_1">
+		<text>Lo lograste, &#191;eh? Sab&#237;a que eras un hueso duro de roer. Bien, dime qu&#233; tienes.</text>
+	</string>
+	<string id="dushman_living_legend_finish_2">
+		<text>&#191;Aparte de material para pesadillas durante varios a&#241;os...? Acompa&#241;&#233; a Strelok y sus hombres en su b&#250;squeda en el sarc&#243;fago. En el camino descubr&#237; mucho sobre la Zona. Encontr&#233; algunos documentos de alto secreto en laboratorios clandestinos. Strelok se los llev&#243;, pero me cont&#243; mucho. Y me dio este pendrive. Contiene docenas de gigas de informaci&#243;n encriptada sobre algunos peque&#241;os secretos sucios de la Zona.</text>
+	</string>
+	<string id="dushman_living_legend_finish_3">
+		<text>Eso es definitivamente algo con lo que puedo trabajar. Buen trabajo. Nuestro cliente sabr&#225; qu&#233; hacer con esto.</text>
+	</string>
+	<string id="dushman_living_legend_finish_4">
+		<text>Uhm, &#191;podemos confiar a nuestro cliente toda esa informaci&#243;n?</text>
+	</string>
+	<string id="dushman_living_legend_finish_5">
+		<text>&#191;Confianza? &#191;De qu&#233; est&#225;s hablando? No te preocupes, no le venderemos esto a ning&#250;n dictador ni nada. A todos nos gustar&#237;a ganar algo de dinero pero sin volar el planeta en el proceso, &#191;verdad? Hablando de dinero, te mereces una recompensa. Si tienes alguna pesadilla, usa el dinero como almohada. Eso deber&#237;a ayudar.</text>
+	</string>
+	
+	<string id="sidorovich_living_legend_0">
+		<text>Espera, &#191;qu&#233; es este alboroto por Strelok?</text>
+	</string>
+	<string id="sidorovich_living_legend_1">
+		<text>Ver&#225;s, en 2012 Tabernero y yo organizamos una campa&#241;a para acceder al centro de la Zona. Un stalker llamado el Marcado, o m&#225;s bien Strelok, nos ayud&#243; mucho, deshabilit&#243; el Cauterizador Cerebral. La cosa es que nunca volvi&#243; de la CNPP. Pensamos que fue tragado por una anomal&#237;a espacial, o secuestrado por Spetsnaz. Pero parece que Strelok ha vuelto a la Zona, m&#225;s activo que nunca. Y apuesto a que ahora est&#225; al tanto de alg&#250;n conocimiento de alto secreto. Conocimientos valiosos. &#191;Qu&#233; tal si investigas los rumores de su regreso, lo encuentras y obtienes ese conocimiento?</text>
+	</string>
+	<string id="sidorovich_living_legend_2">
+		<text>Suena emocionante. Muy bien, intentar&#233; localizarlo.</text>
+	</string>
+	<string id="sidorovich_living_legend_21">
+		<text>Vaya, eso suena como un mont&#243;n de problemas. No creo que est&#233; listo justo ahora.</text>
+	</string>
+	<string id="sidorovich_living_legend_3">
+		<text>Bien, bien. Casi puedo ver el simbolo de d&#243;lar en tus ojos. Si hablas en serio, ve a ver a Doctor, el viejo amigo de Strelok. Spore dice que vive en una parte apartada de los Grandes Pantanos. Una parte que mucha gente asume que est&#225; completamente cercada. Se equivocan, por supuesto. Toma algunas precauciones extra contra la radiaci&#243;n, y luego sige la pista que te d&#237;. Con suerte, las cosas se aclarar&#225;n a partir de ah&#237;.</text>
+	</string>
+	
+	<string id="sidorovich_living_legend_finish_0">
+		<text>Hola, Sid. Cu&#225;nto tiempo sin verte.</text>
+	</string>
+	<string id="sidorovich_living_legend_finish_1">
+		<text>As&#237; que, finalmente has vuelto, a diferencia de cierta persona. &#191;Conociste al Marcado?</text>
+	</string>
+	<string id="sidorovich_living_legend_finish_2">
+		<text>Claro que s&#237;. Incluso me un&#237; a su equipo por un tiempo. Me dijo muchas cosas y tambi&#233;n vi muchas cosas con mis propios ojos. Estuve en el sarc&#243;fago con &#233;l. Resulta que el Genio es una trampa de moscas para stalkers ingenuos. S&#237;, existe, pero s&#243;lo para atraer a la gente al coraz&#243;n de la Zona, para que les laven el cerebro y se conviertan en zombis o monolitos. No es un sue&#241;o sino una maldita pesadilla.</text>
+	</string>
+	<string id="sidorovich_living_legend_finish_3">
+		<text>Oh, ya veo. Suena bien. Debe haber una raz&#243;n por la que ning&#250;n stalker se ha convertido de repente en el hombre m&#225;s poderoso o m&#225;s rico del planeta. Ser&#225; m&#225;s f&#225;cil disuadir a los novatos de esa mierda con pruebas reales que lo respalden. Porque tienes alguna prueba, stalker. &#191;Verdad?</text>
+	</string>
+	<string id="sidorovich_living_legend_finish_4">
+		<text>S&#237;, no s&#243;lo mi palabra. Strelok me dio un pendrive con muchos datos encriptados. La copia de sus hallazgos. Aqu&#237; est&#225;.</text>
+	</string>
+	<string id="sidorovich_living_legend_finish_5">
+		<text>Excelente trabajo, stalker. Te las arreglaste para terminar lo que el Marcado hab&#237;a empezado hace unos a&#241;os. El Cauterizador est&#225; inactivo de nuevo, as&#237; que podemos llegar al norte. Y ahora sabemos que el Genio es un cebo. Eso deber&#237;a ayudar a todos a centrarse en los verdaderos tesoros de las profundidades de la Zona. Genial. Por cierto, aqu&#237; tienes una recompensa para ti.</text>
+	</string>
+	
+	<string id="cold_living_legend_0">
+		<text>Estoy interesado en ayudarte a encontrar a Strelok. Sin embargo, necesito saber por qu&#233; esto es tan importante para usted.</text>
+	</string>
+	<string id="cold_living_legend_1">
+		<text>Ver&#225;s, hay algunos asuntos pendientes que finalmente podr&#237;amos resolver. Cuando Lebedev decidi&#243; llevar a cabo la fat&#237;dica incursi&#243;n en la Central Nuclear de Chernobyl hace unos a&#241;os, fue porque pens&#243; que hab&#237;a descubierto qui&#233;n era el responsable del repentino aumento de las emisiones. Era Strelok, un misterioso stalker que supuestamente hab&#237;a encontrado un camino al coraz&#243;n de la Zona que sorteaba al Cauterizador. Cielo Despejado lo sigui&#243; para detenerlo, y la mayor&#237;a de ellos nunca regresaron. La cosa es que no sabemos qu&#233; pas&#243; exactamente all&#237; y qui&#233;n fue responsable de qu&#233;. Los sobrevivientes tratamos de seguir adelante, pero recientemente ha habido rumores de que Strelok regres&#243; sin que nadie se lo esperara. No quiero distraerlos con la persecuci&#243;n de un fantasma, aunque a algunos de nosotros nos gustar&#237;a tener un par de respuestas.</text>
+	</string>
+	<string id="cold_living_legend_2">
+		<text>De acuerdo, entiendo la necesidad de cerrar el asunto. Tambi&#233;n me gustar&#237;a averiguar m&#225;s sobre esos eventos por m&#237; mismo.</text>
+	</string>
+	<string id="cold_living_legend_21">
+		<text>No estoy seguro, Cold. Tal vez ser&#237;a mejor simplemente dejar a Strelok en paz. Lo pensar&#233;.</text>
+	</string>
+	<string id="cold_living_legend_3">
+		<text>Gracias, te lo agradezco. Intenta encontrar a Doctor primero, es el antiguo compa&#241;ero de Strelok. No me gusta molestar al viejo, pero es nuestra mejor oportunidad de encontrar a Strelok de nuevo. Vive en un rinc&#243;n remoto de nuestros pantanos, pasa a trav&#233;s de un agujero en lo que parece una zona vallada. Una advertencia: la radiaci&#243;n all&#237; puede ser desagradable si te equivocas, as&#237; que lleva algo para que te ayude con eso. De otra forma no volver&#225;s a Kalancha a tiempo.</text>
+	</string>
+	
+	<string id="cold_living_legend_finish_0">
+		<text>Oye, Cold. Por fin he vuelto. Creo que entiendo por qu&#233; la mayor&#237;a de nuestros chicos no lograron regresar de la campa&#241;a a la CNPP. A&#250;n as&#237;, aqu&#237; estoy.</text>
+	</string>
+	<string id="cold_living_legend_finish_1">
+		<text>Hace mucho tiempo que no nos vemos. Me alegro de que lo hayas logrado. &#191;Tienes alguna respuesta?</text>
+	</string>
+	<string id="cold_living_legend_finish_2">
+		<text>S&#237;. Me reun&#237; y habl&#233; con Strelok. Me dijo que las emisiones sol&#237;an ser el mecanismo de defensa de la Zona. Lebedev ten&#237;a raz&#243;n en que las excursiones de Strelok al coraz&#243;n de la Zona causaron el aumento de la frecuencia. Desafortunadamente, el asalto de Cielo Despejado a la CNPP iba a provocar una reacci&#243;n a&#250;n m&#225;s fuerte. B&#225;sicamente, atrayeron su destino sobre s&#237; mismos.</text>
+	</string>
+	<string id="cold_living_legend_finish_3">
+		<text>Oh, ya veo. Cre&#237;amos que sab&#237;amos tanto de la Zona que pod&#237;amos actuar como sus guardas profesionales... Pero la Zona se defiende sola y no quiere ninguna ayuda. Realmente nos quemamos los dedos en ese entonces. Al menos, me alegro de que nuestra actitud actual parezca ser la correcta. &#191;Descubriste algo m&#225;s?</text>
+	</string>
+	<string id="cold_living_legend_finish_4">
+		<text>Bastante, en realidad. Experimentos fallidos, campos ps&#237;quicos, distorsi&#243;n de la realidad, laboratorios subterr&#225;neos, todas esas locuras. Strelok me dio este pendrive. Contiene un mont&#243;n de datos encriptados que ha recogido a lo largo de los a&#241;os.</text>
+	</string>
+	<string id="cold_living_legend_finish_5">
+		<text>Estoy muy agradecido, stalker. Voy a invitar a los veteranos, para que podamos discutirlo apropiadamente, preferiblemente con una caja o dos de vodka para aliviar nuestra pena. Le dar&#233; el pendrive a Kalancha, &#233;l sabr&#225; qu&#233; hacer. De todas formas, aqu&#237; est&#225; tu recompensa. Te debemos mucho.</text>
+	</string>
+	
+	<string id="lukash_living_legend_0">
+		<text>Bien, &#191;qu&#233; es eso de Strelok?</text>
+	</string>
+	<string id="lukash_living_legend_1">
+		<text>Una leyenda viviente est&#225; de vuelta entre nosotros, mortales enclenques. Strelok es una m&#225;quina con bolas de acero. Hace unos a&#241;os luch&#243; contra los man&#237;acos del Monolito por el acceso a la Zona profunda y gan&#243;. Al menos por un tiempo, eso es. El status quo anterior ha vuelto, pero ahora &#233;l tambi&#233;n. Hay muchas historias intrigantes sobre el reactor de Chernobyl, el Genio y muchas otras cosas del centro de la Zona. Me gustar&#237;a mucho saber qu&#233; vio Strelok all&#237;. La Zona tiene mucho que ofrecer, y debe haber visto lo mejor de ella. Entonces, &#191;est&#225;s dentro?</text>
+	</string>
+	<string id="lukash_living_legend_2">
+		<text>Eso suena genial, &#161;cuenta conmigo!</text>
+	</string>
+	<string id="lukash_living_legend_21">
+		<text>Oh, wow. Lo siento hombre, necesito pensarlo mejor.</text>
+	</string>
+	<string id="lukash_living_legend_3">
+		<text>Ese es el esp&#237;ritu. Muy bien, creo que hablar con el doctor primero es una buena idea. Sol&#237;a ser uno de los amigos de Strelok, y lo mejor es que Cielo Despejado nos dijo d&#243;nde est&#225; su casa de retiro. Encuentra al Doctor en el extremo noroeste de los Grandes Pantanos y p&#237;dele algunos consejos para encontrar a Strelok. Empaquen algunas bebidas y tambien cigarrillos para el camino. He o&#237;do que las anomal&#237;as radiactivas alrededor del Doctor son especialmente duras. Supongo que no le gusta que le molesten.</text>
+	</string>
+	
+	<string id="lukash_living_legend_finish_0">
+		<text>Ey Lukash, estoy en casa.</text>
+	</string>
+	<string id="lukash_living_legend_finish_1">
+		<text>&#161;Oh, has vuelto! &#191;Te divertiste en tu aventura?</text>
+	</string>
+	<string id="lukash_living_legend_finish_2">
+		<text>Mierda, hombre. Claro, me divert&#237; mucho, especialmente la clase de diversi&#243;n que te hace mearte en los pantalones. Mat&#233; como cien tipos del Monolito y fui con Strelok y su equipo a la CNPP. Brillar&#233; en la oscuridad durante semanas. Puede que incluso me crezca una segunda cabeza o algo as&#237;.</text>
+	</string>
+	<string id="lukash_living_legend_finish_3">
+		<text>Suena genial. &#191;Te dijo algo interesante sobre la Zona?</text>
+	</string>
+	<string id="lukash_living_legend_finish_4">
+		<text>S&#237;, muchas cosas. Resulta que la Zona es una especie de experimento fallido. Un grupo de cient&#237;ficos quer&#237;an hacer feliz a todo el mundo, aparentemente, pero les explot&#243; en la cara espectacularmente. Aqu&#237;, me dio este pendrive con material cient&#237;fico.</text>
+	</string>
+	<string id="lukash_living_legend_finish_5">
+		<text>&#191;En serio? Bueno, la Zona nos hace felices, as&#237; que funcion&#243; de todos modos. Diablos, ya me imagino al gobierno echando humo cuando publiquemos todo. Buen trabajo, hermano. Te mereces una medalla, y esto.</text>
+	</string>
+	
+	<string id="sakharov_living_legend_0">
+		<text>Cu&#233;nteme m&#225;s sobre la situaci&#243;n con Strelok, profesor.</text>
+	</string>
+	<string id="sakharov_living_legend_1">
+		<text>Ese valiente hombre nos ayud&#243; bastante hace varios a&#241;os. Logr&#243; desactivar el Genio por su cuenta, para que no nos vi&#233;ramos amenazados por sus emanaciones ps&#237;quicas. Incluso trabaj&#243; como nuestro Jefe Cient&#237;fico Consultor durante alg&#250;n tiempo, pero tristemente eso no iba a durar. A pesar de todo, Strelok estaba en el centro de la Zona. Me estremezco al imaginar las cosas que presenci&#243; y experiment&#243; all&#237;. Debe poseer un gran conocimiento sobre el funcionamiento interno de la Zona, tal vez su verdadero origen tambi&#233;n. Joven, &#191;sabe lo que eso significar&#237;a para la comunidad cient&#237;fica?</text>
+	</string>
+	<string id="sakharov_living_legend_2">
+		<text>Eso podr&#237;a ser material para el Premio Nobel. &#191;Quieres que lo encuentre?</text>
+	</string>
+	<string id="sakharov_living_legend_21">
+		<text>Le pido disculpas, profesor, no estoy preparado para emprender una misi&#243;n tan dif&#237;cil justo en este momento.</text>
+	</string>
+	<string id="sakharov_living_legend_3">
+		<text>Eso ser&#237;a excelente. El profesor Kalancha estaba igualmente ansioso por ayudar en esta b&#250;squeda. Tristemente no pudo ayudar mucho tiempo, pero sugiere que primero visitemos a Doctor, el antiguo compa&#241;ero de Strelok, para reunir m&#225;s pistas sobre el paradero de nuestra leyenda viviente. Doctor vive en un remoto rinc&#243;n de los Grandes Pantanos, que yo marcar&#233; para ustedes. El Profesor Kalancha tambi&#233;n dijo que trajera una buena protecci&#243;n contra la radiaci&#243;n; al Doctor no le gusta que lo molesten en estos d&#237;as, y su entorno lo refleja. Esperemos que sepa del regreso de nuestro viejo amigo.</text>
+	</string>
+	
+	<string id="sakharov_living_legend_finish_0">
+		<text>He vuelto, profesor.</text>
+	</string>
+	<string id="sakharov_living_legend_finish_1">
+		<text>Me alegro de que finalmente hayas vuelto. Me doy cuenta de que debe haber sido una gran prueba. Me pregunto si tuvo &#233;xito en su b&#250;squeda.</text>
+	</string>
+	<string id="sakharov_living_legend_finish_2">
+		<text>S&#237;. Me reun&#237; y habl&#233; con Strelok. Despu&#233;s de que le ayud&#233; a derrotar a las fuerzas del Monolito y a asaltar la CNPP, me habl&#243; de los secretos de la Zona. Evidentemente, la Zona es el resultado de un experimento secreto fallido que pretend&#237;a influir en un campo ps&#237;quico que envuelve nuestro planeta. Fue llevado a cabo por un grupo de cient&#237;ficos que se hab&#237;an convertido en un colectivo llamado Conciencia Com&#250;n. Su fracaso caus&#243; una grieta en el campo ps&#237;quico que gener&#243; las anomal&#237;as de la Zona.</text>
+	</string>
+	<string id="sakharov_living_legend_finish_3">
+		<text>Ya veo. Sospech&#225;bamos que la Zona era obra del hombre. Parte de la informaci&#243;n que Strelok descubri&#243; hace unos a&#241;os apoyaba nuestra hip&#243;tesis, y ahora por fin recibimos una confirmaci&#243;n. &#191;Pero, tienes algo concreto para probar esto?</text>
+	</string>
+	<string id="sakharov_living_legend_finish_4">
+		<text>S&#237;. Aqu&#237; est&#225; el pendrive que Strelok me dio. Contiene una copia de sus hallazgos, cosas recogidas de varios laboratorios clandestinos y documentos secretos.</text>
+	</string>
+	<string id="sakharov_living_legend_finish_5">
+		<text>Muy bien. Analizaremos y evaluaremos los datos. M&#225;s que eso, tambi&#233;n consideraremos la forma en que debemos manejar esta informaci&#243;n despu&#233;s. Aun as&#237;, usted ha sido de inmensa ayuda para nosotros. Gracias a ti hemos dado un gran salto hacia la comprensi&#243;n de la Zona.</text>
+	</string>
+	
+	<string id="doctor_living_legend_0">
+		<text>He o&#237;do que Strelok sigue vivo. &#191;Sabes d&#243;nde est&#225;?</text>
+	</string>
+	<string id="doctor_living_legend_1">
+		<text>&#191;Strelok? &#191;Estas seguro?</text>
+	</string>
+	<string id="doctor_living_legend_2">
+		<text>Bastante seguro. La Zona entera no puede dejar de hablar de &#233;l. Necesito encontrarlo. &#191;Tienes alguna idea de d&#243;nde puede estar?</text>
+	</string>
+	<string id="doctor_living_legend_3">
+		<text>Bueno, bueno, incluso despu&#233;s de todos estos a&#241;os... lamentablemente, no lo s&#233; con certeza. El hombre es como un fantasma. Pero si hay un lugar que visitar&#237;a con cierta frecuencia, ser&#237;a su escondite en el metro de Agroprom. Quiz&#225; pueda encontrarlo all&#237;, o al menos algunas pistas. Para llegar all&#237;, entra a trav&#233;s de una boca de alcantarilla en alg&#250;n lugar alrededor del complejo norte, luego revisa las paredes subterr&#225;neas para ver si hay alguna gran abertura circular a la que puedas trepar. Una de ellas llevar&#225; a su escondite.</text>
+	</string>
+	<string id="doctor_living_legend_4">
+		<text>Bien, gracias por la informaci&#243;n. Supongo que es hora de una aventura.</text>
+	</string>
+	<string id="doctor_living_legend_5">
+		<text>Si lo encuentras... por favor dile que visite a un viejo amigo de vez en cuando.</text>
+	</string>
+	<string id="doctor_living_legend_6">
+		<text>Lo har&#233;. Nos vemos.</text>
+	</string>
+	
+	<string id="doctor_living_legend_strelok_0">
+		<text>Hey, Doc. Conoc&#237; a Strelok. Le dije lo que me pedistes.</text>
+	</string>
+	<string id="doctor_living_legend_strelok_1">
+		<text>Gracias. Pero a&#250;n asi me pregunto si me escuchar&#225;.</text>
+	</string>
+	<string id="doctor_living_legend_strelok_2">
+		<text>Parec&#237;a bastante ocupado, lo admito. Todav&#237;a est&#225; tratando de entender la Zona.</text>
+	</string>
+	<string id="doctor_living_legend_strelok_3">
+		<text>Bueno, espero que tenga &#233;xito algun dia. Entonces, los dos seguiremos adelante. Al menos me alegro de que siga vivo. Y, una vez m&#225;s, gracias.</text>
+	</string>
+	
+	<string id="barkeep_living_legend_0">
+		<text>Hey, Tabernero, necesito informaci&#243;n. Tengo una raz&#243;n para creer que Strelok pas&#243; por aqu&#237;. &#191;Sigue por aqu&#237;?</text>
+	</string>
+	<string id="barkeep_living_legend_1">
+		<text>&#191;Qu&#233;, aqu&#237; en el bar? No, por poco lo pierdes. Pas&#243; por aqu&#237; ayer. Le dije que mucha gente lo estaba buscando, pero &#233;l se mantuvo firme en que no pod&#237;a quedarse a charlar. Estaba con otros cuatro stalkers, se dirigi&#243; al norte. Le record&#233; que el Cauterizador est&#225; activo de nuevo, pero no pareci&#243; importarle. Me compr&#243; la mitad de la comida y se fueron. Lo llamar&#237;a tonto si no hubiera sobrevivido todos esos a&#241;os en las partes m&#225;s peligrosas de la Zona.</text>
+	</string>
+	<string id="barkeep_living_legend_2">
+		<text>&#191;Dices que no estaba solo?</text>
+	</string>
+	<string id="barkeep_living_legend_3">
+		<text>Ten&#237;a algunos compa&#241;eros con &#233;l. Duros y experimentados stalkers por lo que parece, estoy seguro que no eran un mont&#243;n de novatos. Esa fue una de las razones por la que no lo detuve. Todos parec&#237;an saber lo que estaban haciendo.</text>
+	</string>
+	<string id="barkeep_living_legend_4">
+		<text>&#191;As&#237; que Strelok fue visto por &#250;ltima vez pasando la barrera? Estoy en una misi&#243;n para encontrarlo, y parece que se ha vuelto mucho m&#225;s dif&#237;cil...</text>
+	</string>
+	<string id="barkeep_living_legend_5">
+		<text>Jejeje, eso es lo que obtienes cuando intentas perseguir una leyenda. Apuesto a que ha vuelto a poner sus ojos en la central nuclear de Chern&#243;bil. Llegar hasta all&#237; ser&#225; una dura prueba, especialmente con el Cauterizador en medio. No ir&#237;a sin alg&#250;n tipo de protecci&#243;n ps&#237;quica avanzada. Habla con Cancerbero, es un muro andante con agallas que ayuda a defender la Barrera. Puede que te ayude m&#225;s tarde.</text>
+	</string>
+	<string id="barkeep_living_legend_51">
+		<text>Jejeje, eso es lo que obtienes cuando intentas perseguir una leyenda. Apuesto a que ha vuelto a poner sus ojos en la central nuclear de Chern&#243;bil. Llegar hasta all&#237; ser&#225; una dura prueba, especialmente con el Cauterizador en el camino. No ir&#237;a sin alg&#250;n tipo de protecci&#243;n ps&#237;quica avanzada. Habla con Cancerbero, es un muro andante de agallas que ayuda a defender la Barrera. Puede que te ayude m&#225;s tarde. Oh, pero ten cuidado con las fuerzas de Libertad que estan cerca de &#233;l. Se concentran en defenderse de los ataques del Monolito, pero no les gustar&#225; ver a un miembro de Deber merodeando.</text>
+	</string>
+	<string id="barkeep_living_legend_6">
+		<text>Es muy importante, as&#237; que har&#233; lo que pueda. Gracias por la informaci&#243;n, Tabernero.</text>
+	</string>
+	<string id="barkeep_living_legend_7">
+		<text>No hay problema hombre. Buena suerte.</text>
+	</string>
+	
+	<string id="aslan_living_legend_0">
+		<text>Hola, Aslan. He estado siguiendo el rastro de un stalker llamado Strelok. Se dirige al norte. &#191;Alguna idea de c&#243;mo puedo llegar all&#237;?</text>
+	</string>
+	<string id="aslan_living_legend_1">
+		<text>&#191;Eh? Ah, claro. Strelok. Reconozco ese nombre. El tipo conoce la Zona como la palma de su mano. Tambi&#233;n tiene algunos logros en su haber. De todos modos, &#191;quieres ir al norte? &#191;Finalmente est&#225;s listo para despedirte de este mundo cruel?</text>
+	</string>
+	<string id="aslan_living_legend_2">
+		<text>Vamos, puedo arregl&#225;rmelas bien. S&#243;lo dime cu&#225;l ser&#237;a la mejor forma de entrarle.</text>
+	</string>
+	<string id="aslan_living_legend_3">
+		<text>&#191;La mejor? No ir all&#237;. &#191;La segunda mejor? Supongo que deber&#237;as visitar a los cerebritos de Yantar y conseguir alg&#250;n dispositivo para protegerte del campo ps&#237;quico. Luego, habla con Cancerbero. El bastardo come fan&#225;ticos Monolito de desayuno. Ayuda a mantener la Barrera y evita sus repetidas incursiones hacia el sur. El radar es la &#250;nica ruta semisensible que querr&#225;s tomar si quieres ir al norte. Pero preparate para manadas de feos mutantes, enredadas anomal&#237;as, niveles extremos de radiaci&#243;n y soldados Monolito bien armados que vigilan el camino.</text>
+	</string>
+	<string id="aslan_living_legend_4">
+		<text>No suena muy bien, pero no tengo intenci&#243;n de abandonar mi misi&#243;n.</text>
+	</string>
+	<string id="aslan_living_legend_5">
+		<text>Esa es tu elecci&#243;n, claro. Algunos stalkers aventureros lo hacen de vez en cuando. Sin dolor, no hay ganancia... como dicen los ni&#241;os. De todos modos, Cancerbero sabr&#225; m&#225;s sobre esto, as&#237; que es tu pr&#243;xima parada.</text>
+	</string>
+	<string id="aslan_living_legend_6">
+		<text>Gracias Aslan. Ya me voy.</text>
+	</string>
+	<string id="aslan_living_legend_7">
+		<text>No hay problema. Buena caza, mercenario.</text>
+	</string>
+	<string id="aslan_living_legend_71">
+		<text>No hay problema. Buena caza, stalker.</text>
+	</string>
+	
+	<string id="stalker_gatekeeper_dialog_0">
+		<text>&#191;Qu&#233; te trae al fin del mundo, stalker?</text>
+	</string>
+	
+	<string id="stalker_gatekeeper_st_1">
+		<text>Fui parte de la carrera hacia Pripyat en 2012. He visto cosas y he estado en lugares que muchos stalkers no creer&#237;an. Estuve en el norte varias veces despu&#233;s de eso, antes de que se reactivara el Cauterizador. Vi la CNPP asom&#225;ndose por el horizonte... y a la alegre banda de fan&#225;ticos que lo protegen. Puedes luchar contra stalkers, soldados, incluso mutantes y zombis, pero el Monolito es algo completamente diferente. Sent&#237; que no pod&#237;a dejar que esos man&#237;acos se extendieran m&#225;s, as&#237; que finalmente me instal&#233; aqu&#237;. Ayudo a los chicos de Libertad a defender la Barrera. Mientras yo viva, nadie del Monolito dar&#225; un solo paso al sur de este punto. Lo juro.</text>
+	</string>
+	
+	<string id="stalker_gatekeeper_breakthrough_0">
+		<text>Cancerbero, he estado siguiendo a un stalker llamado Strelok. &#191;Pas&#243; por aqu&#237; hace una semana o algo as&#237;?</text>
+	</string>
+	<string id="stalker_gatekeeper_breakthrough_1">
+		<text>&#191;Strelok? Lo conozco. Nos vimos un par de veces durante nuestras excursiones a las profundidades de la zona. De hecho, vino hace unos d&#237;as y me pregunt&#243; sobre la situaci&#243;n. Luego &#233;l y su equipo nos ayudaron a repeler otra incursi&#243;n del Monolito. Normalmente podemos arregl&#225;rnoslas solos, pero realmente hicieron un buen trabajo. Masacramos a los malditos fan&#225;ticos en tiempo r&#233;cord.</text>
+	</string>
+	<string id="stalker_gatekeeper_breakthrough_2">
+		<text>Bien, &#191;entonces los viste cruzar la barrera?</text>
+	</string>
+	<string id="stalker_gatekeeper_breakthrough_3">
+		<text>S&#237;, es cierto. Estaban armados con cascos ps&#237;quicos. Por lo que s&#233;, podr&#237;an estar buscando alg&#250;n tipo de tesoro en el laboratorio X-19. No me extra&#241;ar&#237;a que fuera cierto.</text>
+	</string>
+	<string id="stalker_gatekeeper_breakthrough_4">
+		<text>Maldici&#243;n, no hay forma de evitarlo. Tengo que hacerlo yo mismo.</text>
+	</string>
+	<string id="stalker_gatekeeper_breakthrough_5">
+		<text>Eso parece. Pero, si tienes algo que te proteja de las emisiones ps&#237;quicas, podr&#237;as tratar de alcanzarles, e incluso desactivar el Cauterizador. Strelok logr&#243; eso por su cuenta hace unos a&#241;os. Si est&#225;s tan decidido a seguirlo hacia el norte, tambi&#233;n podr&#237;as lograrlo. O volver como zombi, qui&#233;n sabe.</text>
+	</string>
+	<string id="stalker_gatekeeper_breakthrough_6">
+		<text>De todas maneras, gracias por la confianza, Cancerbero.</text>
+	</string>
+	<string id="stalker_gatekeeper_breakthrough_7">
+		<text>&#161;Shh! &#191;Oyes eso? &#161;El Monolito ataca de nuevo! Ven conmigo, tenemos que defenderlos o nadie ir&#225; al norte por el momento. &#161;V&#225;monos!</text>
+	</string>
+	<string id="stalker_gatekeeper_breakthrough_8">
+		<text>&#161;Entendido!</text>
+	</string>
+	
+	<string id="stalker_gatekeeper_brainscorcher_0">
+		<text>Demonios, eso estuvo cerca.</text>
+	</string>
+	<string id="stalker_gatekeeper_brainscorcher_1">
+		<text>&#191;En serio? Yo llamo a esto "promedio". De todos modos, gracias por la ayuda. No tenemos un suministro ilimitado de mano de obra, as&#237; que cualquier ayuda que recibamos ser&#225; apreciada.</text>
+	</string>
+	<string id="stalker_gatekeeper_brainscorcher_2">
+		<text>Supongo que ahora es el mejor momento para atacar el Cauterizador.</text>
+	</string>
+	<string id="stalker_gatekeeper_brainscorcher_3">
+		<text>S&#237;, no enviar&#225;n otro asalto hasta por un buen rato. Podr&#237;as usar ese tiempo para hacer las cosas un poco m&#225;s f&#225;ciles.</text>
+	</string>
+	<string id="stalker_gatekeeper_brainscorcher_4">
+		<text>&#191;Alg&#250;n otro consejo?</text>
+	</string>
+	<string id="stalker_gatekeeper_brainscorcher_5">
+		<text>Claro. No te mueras. A&#250;n te enfrentar&#225;s a anomal&#237;as, radiaci&#243;n, mutantes y patrullas de monolitos. Adem&#225;s, si logras apagar el Cauterizador, sugiero que vayas a Zaton despu&#233;s. Hay unos viejos restos llamados Skadovsk que son un lugar de encuentro para los stalkers locales. Si no lo encuentras por tu cuenta, ser&#225; tu mejor opci&#243;n para localizar a Strelok. Dile a Barbas que Cancerbero le env&#237;a saludos.</text>
+	</string>
+	<string id="stalker_gatekeeper_brainscorcher_6">
+		<text>Es mejor que nada. Gracias, nos vemos luego.</text>
+	</string>
+	<string id="stalker_gatekeeper_brainscorcher_7">
+		<text>Buena caza, stalker.</text>
+	</string>
+	<string id="stalker_gatekeeper_brainscorcher_71">
+		<text>Buena caza, mercenario.</text>
+	</string>
+	
+	<string id="beard_living_legend_0">
+		<text>Hola, Barbas. Cancerbero te manda saludos.</text>
+	</string>
+	<string id="beard_living_legend_1">
+		<text>&#161;Jaja, as&#237; que ese viejo brib&#243;n sigue vivo! Me alegra o&#237;rlo. Dile que... &#161;espera! As&#237; que has venido del sur. &#191;Te trajo un gu&#237;a hasta aqu&#237;, o t&#250; mismo te escabulliste del Cauterizador?</text>
+	</string>
+	<string id="beard_living_legend_2">
+		<text>No pas&#233; por alto el Cauterizador. Lo desactiv&#233;.</text>
+	</string>
+	<string id="beard_living_legend_3">
+		<text>Vaya. &#161;Gran trabajo stalker! Esa maldita m&#225;quina era realmente un dolor de culo. Despu&#233;s de varios a&#241;os de saludable afluencia de stalkers del sur, esos malditos bastardos del Monolito s&#243;lo ten&#237;an que reactivar su cosa ps&#237;quica. Son as&#237; de obstinados, ya sabes. De todas formas... aqu&#237;... d&#233;jame servirte una fr&#237;a. Invita la casa para nuestro h&#233;roe. Estoy balbuceando de nuevo. Probablemente quieras algo del viejo Barbas, &#191;verdad?</text>
+	</string>
+	<string id="beard_living_legend_4">
+		<text>Gracias. Y s&#237;, he estado persiguiendo a un stalker llamado Strelok. Escuch&#233; que lleg&#243; al norte hace alg&#250;n tiempo. &#191;Sabes algo sobre su paradero?</text>
+	</string>
+	<string id="beard_living_legend_5">
+		<text>Ya veo. &#191;Una estrella en ascenso quiere conversar con la leyenda viviente? S&#237;, visit&#243; Skadovsk con sus amigos hace m&#225;s de una semana. Hablamos de la situaci&#243;n aqu&#237; que es, o esperemos que no, tan buena. Puede que mejore r&#225;pidamente con el Cauterizador apagado.</text>
+	</string>
+	<string id="beard_living_legend_6">
+		<text>Est&#225; bien. &#191;Te dijo algo sobre su objetivo?</text>
+	</string>
+	<string id="beard_living_legend_7">
+		<text>Nada espec&#237;fico, el hombre es un misterio andante. Un d&#237;a se fue y esa fue la &#250;ltima vez que lo vi. &#161;Pero! Uno de sus compa&#241;eros volvi&#243; ayer, uno un poco callado, creo que se llamaba Rogue. No dijo mucho, pero tal vez puedas extraerle alguna informaci&#243;n. Int&#233;ntalo.</text>
+	</string>
+	<string id="beard_living_legend_8">
+		<text>&#191;D&#243;nde puedo encontrarlo?</text>
+	</string>
+	<string id="beard_living_legend_9">
+		<text>Es ese tipo brusco que lleva un traje Sunrise camuflado y una m&#225;scara antig&#225;s M40 a tu derecha. S&#243;lo trata de no hacerlo enojar. Parece que podr&#237;a arrancarle la cabeza a un chupasangre en un mal dia.</text>
+	</string>
+	<string id="beard_living_legend_10">
+		<text>Gracias por la ayuda. Ir&#233; a hablar con &#233;l.</text>
+	</string>
+	<string id="beard_living_legend_11">
+		<text>No hay problema. Y por cierto, aqu&#237; hay una recompensa para nuestro h&#233;roe. T&#243;mala, una parte de mis futuras ganancias. &#161;Buena suerte!</text>
+	</string>
+	
+	<string id="stalker_rogue_dialog_0">
+		<text>Pi&#233;rdete.</text>
+	</string>
+	<string id="stalker_rogue_dialog2_0">
+		<text>&#191;Qu&#233;?</text>
+	</string>
+	<string id="stalker_rogue_dialog_underpass_0">
+		<text>Vamonos.</text>
+	</string>
+	<string id="stalker_rogue_dialog_revenge_0">
+		<text>Cuando termine con &#233;l no quedar&#225; nada que enterrar.</text>
+	</string>
+	<string id="stalker_rogue_dialog_raid_0">
+		<text>Esto va a ser dif&#237;cil.</text>
+	</string>
+	
+	<string id="stalker_rogue_living_legend_start_0">
+		<text>Hola, Rogue. Me gustar&#237;a hablar.</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_1">
+		<text>A mi no. D&#233;jame en paz, stalker.</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_111">
+		<text>A mi no. D&#233;jame en paz, mercenario.</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_2">
+		<text>&#161;Vamos, no me abr&#237; paso a trav&#233;s del Radar s&#243;lo para que me rechaces as&#237;!</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_3">
+		<text>&#191;Qu&#233; hiciste qu&#233;? &#191;C&#243;mo demonios pasaste el Cauterizador?</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_4">
+		<text>Consegu&#237; un casco ps&#237;quico del profesor Sakharov, y luego apagu&#233; el Cauterizador como buena medida.</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_5">
+		<text>T&#250;... no est&#225;s mintiendo. Vale, entonces eres un tipo duro, de acuerdo. &#191;Qu&#233; es lo que quieres?</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_6">
+		<text>Me dijeron que eres es uno de los compa&#241;eros de Strelok. Estoy en una misi&#243;n para encontrarlo.</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_71">
+		<text>Eres de Cielo Despejado. Yo... no s&#233; qu&#233; querr&#237;as de &#233;l.</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_81">
+		<text>S&#243;lo algunas respuestas, nada m&#225;s.</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_72">
+		<text>&#191;Qu&#233; buscas, stalker? &#191;Dinero, informaci&#243;n, un golpe?</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_82">
+		<text>Sidorovich me envi&#243;. Quiere saber sobre los descubrimientos de Strelok en el coraz&#243;n de la Zona.</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_73">
+		<text>Cabezas de huevo, &#191;eh? Strelok ya les dijo que no quiere que le implanten esa pr&#243;tesis de ojo de Carne.</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_83">
+		<text>No, no, s&#243;lo he venido a obtener al menos algo de su conocimiento interno del funcionamiento de la Zona.</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_74">
+		<text>Ustedes los mercenarios no son dignos de confianza. No te ayudar&#233; a cobrar una recompensa por la cabeza de mi amigo.</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_84">
+		<text>Esta vez no es un asesinato. Mis superiores s&#243;lo quieren que le saque informaci&#243;n valiosa, no hay necesidad de violencia.</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_75">
+		<text>Ah, Deber quiere descubrir la forma de destruir la Zona. Me temo que eso no es tan f&#225;cil, chico duro.</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_85">
+		<text>Lo que quiero es descubrir la forma de hablar con Strelok. Lo que comparta depende de &#233;l.</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_76">
+		<text>Ve a fumar marihuana a otro lugar, Liberhippi.</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_86">
+		<text>Eres un hombre divertido. Muy gracioso. Pero he jurado dejar la marihuana hasta que termine mi misi&#243;n. No voy a ceder.</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_9">
+		<text>Muy bien, tipo duro. Vine aqu&#237; a buscar algo para mi equipo. Pude conseguir algo de informaci&#243;n y estaba a punto de irme, pero... Aqu&#237; tienes. Hay una instalaci&#243;n militar abandonada al suroeste. Tengo buenas razones para creer que queda un arma experimental all&#237;. Tr&#225;eme esa arma si la encuentras, y entonces hablaremos de esto seriamente. &#191;Entendido?</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_10">
+		<text>Lo har&#233;. &#191;C&#243;mo es el arma?</text>
+	</string>
+	<string id="stalker_rogue_living_legend_start_11">
+		<text>Estoy seguro de que la reconoceras. La maldita cosa parece de ciencia-ficci&#243;n, ni siquiera usa balas. Ahora vete, antes de que cambie de opini&#243;n.</text>
+	</string>
+	
+	<string id="stalker_rogue_living_legend_fetch_complete_0">
+		<text>Echale un vistazo a esto.</text>
+	</string>
+	<string id="stalker_rogue_living_legend_fetch_complete_1">
+		<text>Mmm, esta es. No est&#225; mal. Esperaba que desaparecieras sin dejar rastro. Bien, &#191;qu&#233; es lo que quieres exactamente?</text>
+	</string>
+	<string id="stalker_rogue_living_legend_fetch_complete_2">
+		<text>S&#243;lo una buena y significativa conversaci&#243;n con Strelok. Un hombre como &#233;l tiene muchas historias, y ha aprendido muchas cosas. Cosas que ayudar&#237;an a dar sentido a todo este lugar. No intentar&#233; nada gracioso, tienes mi palabra.</text>
+	</string>
+	<string id="stalker_rogue_living_legend_fetch_complete_3">
+		<text>Ser&#225; mejor que no lo hagas. Lo pensar&#233;.</text>
+	</string>
+	
+	<string id="stalker_rogue_st_1">
+		<text>La curiosidad mat&#243; al gato. Pero digamos que te soportar&#233; por un rato. Mi amigo y yo sol&#237;amos ser soldados. Nos emocionamos al principio cuando nos asignaron a la Zona. No tardamos en darnos cuenta de que las condiciones eran horribles y la paga rid&#237;cula. Luego vimos a algunos de nuestros suboficiales tratando con stalkers comunes. Pensamos que ellos estaban mejor, as&#237; que un d&#237;a nos fuimos de patrulla, completamente equipados y con todas nuestras cosas en mochilas. Nos unimos a los stalkers en el campamento de novatos y comenzamos nuestra peque&#241;a aventura desde all&#237;. En realidad, hoy en d&#237;a soy como cualquier otro stalker. S&#243;lo que con disciplina y entrenamiento de combate.</text>
+	</string>
+	
+	<string id="stalker_rogue_st_team_0">
+		<text>Mencionaste a un amigo, y eres uno del grupo de Strelok. &#191;D&#243;nde est&#225; el resto?</text>
+	</string>
+	<string id="stalker_rogue_st_team_1">
+		<text>Tanto Strelok como Stitch se quedaron en nuestro escondite en las afueras de Pripyat. Vine aqu&#237; solo para encontrar un arma poderosa.</text>
+	</string>
+	<string id="stalker_rogue_st_team_2">
+		<text>&#191;Viniste aqu&#237; desde Pripyat solo? Escuch&#233; que el lugar es una maldita zona de muerte.</text>
+	</string>
+	<string id="stalker_rogue_st_team_3">
+		<text>As&#237; es. No fue f&#225;cil pero me las arregl&#233;. Hay pocas cosas que no se caigan cuando mi LMG empieza a hablar.</text>
+	</string>
+	<string id="stalker_rogue_st_team_4">
+		<text>Ya veo. &#191;Pero s&#243;lo quedan tres de ustedes?</text>
+	</string>
+	<string id="stalker_rogue_st_team_5">
+		<text>Antes hab&#237;a cinco.</text>
+	</string>
+	<string id="stalker_rogue_st_team_6">
+		<text>Aguarda. Cancerbero dijo que lo hiciste muy bien luchando contra el Monolito cerca de la Barrera. &#191;Qu&#233; pas&#243; despu&#233;s de eso?</text>
+	</string>
+	<string id="stalker_rogue_st_team_7">
+		<text>Ugh. Est&#225; bien. Con el conocimiento de Strelok de la Zona y la habilidad del Caminante para encontrar un camino seguro a trav&#233;s de las anomal&#237;as, todos fuimos capaces de llegar a Pripyat. Ni los mutantes ni el Monolito pudieron detenernos. Pero entonces la mierda se dispar&#243;. Nos dirig&#237;amos al noroeste cuando tuvimos otra escaramuza con las fuerzas del Monolito. Los cuatro buscamos refugio detr&#225;s de los coches destrozados en la calle mientras mi amigo, Scope, nos cubr&#237;a con fuego francotirador desde un tejado. Est&#225;bamos a punto de acabar con el enemigo cuando o&#237; disparos de rifles de asalto desde su posici&#243;n. Mir&#233; hacia arriba y lo vi caer desde la azotea de un edificio de cinco pisos. Y ah&#237; estaba ese maldito...</text>
+	</string>
+	<string id="stalker_rogue_st_team_8">
+		<text>&#191;Uno de los Monolitos embosc&#243; a tu amigo?</text>
+	</string>
+	<string id="stalker_rogue_st_team_9">
+		<text>No un simple fan&#225;tico. El tipo se qued&#243; all&#237;, mir&#225;ndonos, con su extra&#241;a armadura. Me gir&#233; para ponerle unas cuantas balas en la cabeza, pero desapareci&#243;. Sab&#237;a que Scope hab&#237;a quedado como una maldita tortilla, as&#237; que me centr&#233; en el enfrentamiento. El Monolito vino con una segunda oleada asi que Strelok nos dijo que nos retir&#225;ramos. Mat&#233; a unos cuantos con fuego de supresi&#243;n, pero luego ese tipo sali&#243; de la nada otra vez. Camin&#243; entre los disparos cantando sus tonter&#237;as. "Soy Eidolon, elegido del Monolito, la pesadilla de los infieles". Repet&#237;a eso una y otra vez.</text>
+	</string>
+	<string id="stalker_rogue_st_team_10">
+		<text>Eidolon, &#191;eh?</text>
+	</string>
+	<string id="stalker_rogue_st_team_11">
+		<text>Finalmente matamos al resto, pero ese bastardo se neg&#243; a morir. Hubo un momento en que todo nuestro grupo ten&#237;a sus armas apuntandole. Pero simplemente sigui&#243; avanzando. Las balas parec&#237;an no poder alcanzarlo. Me dispar&#243; en el brazo. Caminante quer&#237;a agarrarlo, pero el maldito lo mat&#243;. Strelok le lanz&#243; una granada y junto con Stitch me arrastraron.</text>
+	</string>
+	<string id="stalker_rogue_st_team_12">
+		<text>Maldici&#243;n. &#191;Strelok atrap&#243; a ese Eidolon?</text>
+	</string>
+	<string id="stalker_rogue_st_team_13">
+		<text>No. El cabr&#243;n no nos persigui&#243; m&#225;s, pero lo vi a trav&#233;s del humo, a&#250;n en pie. Eso no era normal. Entiendo que llevaba una especie de traje de radiaci&#243;n h&#237;brido, pero nadie deber&#237;a ser capaz de absorber esa cantidad de da&#241;o. Tal vez ten&#237;a alg&#250;n artefacto raro, no lo s&#233;.</text>
+	</string>
+	<string id="stalker_rogue_st_team_14">
+		<text>Entonces, &#191;su grupo encontr&#243; un escondite y Strelok te envi&#243; a buscar un arma que pueda acabar con ese tipo?</text>
+	</string>
+	<string id="stalker_rogue_st_team_15">
+		<text>Exactamente. Tratamos de entrar en Pripyat unas cuantas veces, pero el Monolito nos repeli&#243;. Como si supieran siempre por donde ir&#237;amos. Nos retiramos a las afueras y ya sabes el resto.</text>
+	</string>
+	<string id="stalker_rogue_st_team_16">
+		<text>Bien, ya veo. Puedo ayudarte con eso a cambio del conocimiento de Strelok sobre la Zona. &#191;Que tal suena?</text>
+	</string>
+	<string id="stalker_rogue_st_team_17">
+		<text>Como un negocio justo. Trato hecho. Volver&#233; a Pripyat pronto. Aprovisionate y dime cuando est&#233;s listo.</text>
+	</string>
+	
+	<string id="stalker_rogue_join_0">
+		<text>Estoy listo.</text>
+	</string>
+	<string id="stalker_rogue_join_1">
+		<text>Est&#225; bien. Pasaremos por el metro de J&#250;piter, es el camino m&#225;s seguro al escondite que conozco.</text>
+	</string>
+	
+	<string id="stalker_rogue_underpass_0">
+		<text>El camino no es realmente tan seguro, &#191;eh?</text>
+	</string>
+	<string id="stalker_rogue_underpass_1">
+		<text>Joder, deben haberme seguido. Me vieron entrar y pusieron centinelas para defender el pasaje. A&#250;n as&#237; era m&#225;s seguro que atravesar Pripyat directamente, te lo aseguro.</text>
+	</string>
+	<string id="stalker_rogue_underpass_2">
+		<text>&#191;Qu&#233; sigue, Rogue?</text>
+	</string>
+	<string id="stalker_rogue_underpass_3">
+		<text>Seguimos adelante. Esos eran s&#243;lo unos peque&#241;os inconveniente. Todav&#237;a hay que prepararse para el fan&#225;tico invencible.</text>
+	</string>
+	<string id="stalker_rogue_underpass_4">
+		<text>Estoy mareado por los nervios.</text>
+	</string>
+	<string id="stalker_rogue_underpass_5">
+		<text>Eres casi gracioso. Ahora vamos.</text>
+	</string>
+	
+	<string id="living_legend_rogue_titan_0">
+		<text>&#191;C&#243;mo puedo ayudar a prepararte para Eidolon?</text>
+	</string>
+	<string id="living_legend_rogue_titan_1">
+		<text>Los stalkers locales informaron de un pseudogigante muy agresivo que merodea por la zona. Es dif&#237;cil planear algo cuando esa cosa anda por alli, esperando irrumpir en el peor momento posible. No podemos permitirnos ninguna distracci&#243;n. Aqu&#237;... he subido su &#250;ltima ubicaci&#243;n conocida a tu PDA. Ve a matarlo.</text>
+	</string>
+	
+	<string id="living_legend_rogue_titan_complete_0">
+		<text>Yo lo hice. El pseudogigante se ha ido.</text>
+	</string>
+	<string id="living_legend_rogue_titan_complete_1">
+		<text>Buen trabajo. Ahora podemos centrarnos en el Monolito.</text>
+	</string>
+	
+	<string id="stalker_rogue_join_eidolon_0">
+		<text>Estamos listos. V&#225;monos.</text>
+	</string>
+	<string id="stalker_rogue_join_eidolon_1">
+		<text>Ya lo tengo. Toma esta arma y municiones de Cardan. La necesitar&#225;s para derrotar a Eidolon. Recuerda que es el tipo que lleva un traje de radiaci&#243;n con un casco de pantalla. Mant&#233;n tu distancia y apuntale a la cabeza, es nuestra &#250;nica oportunidad.</text>
+	</string>
+	
+	<string id="lost_stalker_strelok_dialog_0">
+		<text>...</text>
+	</string>
+	
+	<string id="living_legend_strelok_start_0">
+		<text>Strelok, &#191;supongo?</text>
+	</string>
+	<string id="living_legend_strelok_start_1">
+		<text>S&#237;. No esperaba que Rogue reclutara a nadie, aunque un miembro de Deber es una elecci&#243;n bastante razonable.</text>
+	</string>
+	<string id="living_legend_strelok_start_11">
+		<text>S&#237;. No esperaba que Rogue reclutara a nadie, y mucho menos que contratara a un mercenario.</text>
+	</string>
+	<string id="living_legend_strelok_start_12">
+		<text>S&#237;. No esperaba que Rogue reclutara a nadie. Igual nos vendr&#237;a bien la ayuda de un camarada stalker.</text>
+	</string>
+	<string id="living_legend_strelok_start_13">
+		<text>S&#237;. No esperaba que Rogue reclutara a nadie. Si supiera los problemas que Cielo Despejado me ha causado en el pasado...</text>
+	</string>
+	<string id="living_legend_strelok_start_14">
+		<text>S&#237;. No esperaba que Rogue reclutara a nadie, y mucho menos uno de Libertad.</text>
+	</string>
+	<string id="living_legend_strelok_start_15">
+		<text>S&#237;. No esperaba que Rogue reclutara a nadie, y mucho menos un Ecologista.</text>
+	</string>
+	<string id="living_legend_strelok_start_2">
+		<text>Hicimos un trato. De todas maneras necesito hablar contigo.</text>
+	</string>
+	<string id="living_legend_strelok_start_3">
+		<text>&#191;Hablar? D&#233;jame adivinar. Tu l&#237;der quiere extraerme los secretos de la Zona.</text>
+	</string>
+	<string id="living_legend_strelok_start_4">
+		<text>Exactamente.</text>
+	</string>
+	<string id="living_legend_strelok_start_5">
+		<text>Todo tiene su precio, y pagu&#233; caro para obtener el conocimiento que ahora poseo. No estoy exactamente ansioso por compartirlo. En parte porque todav&#237;a hay muchas cosas de las que no estoy seguro.</text>
+	</string>
+	<string id="living_legend_strelok_start_6">
+		<text>Acept&#233; ayudarlos contra el problema del Monolito a cambio de tu conocimiento. Rogue dijo que es un trato justo.</text>
+	</string>
+	<string id="living_legend_strelok_start_7">
+		<text>Tal vez. Pero debo encontrar algunas respuestas yo mismo. Respuestas que s&#243;lo el coraz&#243;n de la Zona me puede dar. Necesito urgentemente volver all&#237;, pero hemos sido acechados por un inusual soldado del Monolito. No podemos pasar de &#233;l.</text>
+	</string>
+	<string id="living_legend_strelok_start_8">
+		<text>S&#237;, Rogue me habl&#243; de Eidolon. Tenemos el arma experimental que deber&#237;a matarlo. Lo &#250;nico que queda es encontrarlo y desperdigarlo.</text>
+	</string>
+	<string id="living_legend_strelok_start_9">
+		<text>Ya veo. Con algo de potencia de fuego adicional podemos prepararnos para el empuj&#243;n final. Sin embargo, nos enfrentaremos a Eidolon s&#243;lo cuando estemos completamente preparados. Los tres necesitamos que se haga algo de trabajo primero.</text>
+	</string>
+	
+	<string id="stalker_strelok_st_1">
+		<text>S&#243;lo soy un stalker. He estado merodeando por la Zona durante varios a&#241;os en busca de soluciones a sus misterios. Junto con Fang y Ghost fui el primero en llegar a la CNPP desde el desastre de 2006. Pero eso fue hace mucho tiempo, y mis recuerdos son confusos. Hay espacios vac&#237;os e im&#225;genes incomprensibles que me atormentan cada vez que trato de recordar esos tiempos. S&#233; que Fang y Ghost cumplieron sus objetivos. &#191;Y en cuanto a m&#237;? Persecuci&#243;n, cataclismo, voces en mi cabeza... Durante alg&#250;n tiempo fui conocido como el Marcado, un amn&#233;sico que hab&#237;a sido enviado accidentalmente a la b&#250;squeda de la muerte. &#191;Por qui&#233;n? Te lo dir&#233; m&#225;s tarde. Baste decir que descubr&#237; algunos de los m&#225;s grandes secretos de la Zona, y tuve que tomar decisiones dif&#237;ciles que no estoy seguro de que fueran correctas.</text>
+	</string>
+	
+	<string id="stalker_strelok_doctor_0">
+		<text>Por cierto, aqu&#237; est&#225;n tus notas, las encontr&#233; en tu antiguo escondite. Y casi lo olvido, Doctor quiere que le hagas una visita un dia de estos.</text>
+	</string>
+	<string id="stalker_strelok_doctor_1">
+		<text>Gracias. As&#237; que todav&#237;a est&#225; vivo. Mi &#250;nico amigo que queda de los viejos tiempos. Espero ser capaz de hacer tiempo para ir.</text>
+	</string>
+	
+	<string id="living_legend_strelok_x8_0">
+		<text>&#191;C&#243;mo puedo ayudarte a preparar la batalla con Eidolon?</text>
+	</string>
+	<string id="living_legend_strelok_x8_1">
+		<text>Hay un laboratorio subterr&#225;neo secreto ubicado en esta parte de la ciudad. No he visitado el lugar todav&#237;a, pero sospecho que puede contener otra pieza del rompecabezas. Ve all&#237; y busca cualquier documento que pueda haber sido dejado atr&#225;s.</text>
+	</string>
+	
+	<string id="living_legend_strelok_preparations_0">
+		<text>He hecho todo lo que quer&#237;as.</text>
+	</string>
+	<string id="living_legend_strelok_preparations_1">
+		<text>Bien. Ya casi estamos listos. Vuelve a m&#237; cuando tu tambien lo est&#233;s.</text>
+	</string>
+	
+	<string id="living_legend_strelok_eidolon_0">
+		<text>Estoy listo.</text>
+	</string>
+	<string id="living_legend_strelok_eidolon_1">
+		<text>El Monolito finalmente ha encontrado mi escondite. Hay un escuadr&#243;n de reconocimiento acerc&#225;ndose a nosotros mientras hablamos. Una vez que nos ocupemos de ellos nos dirigiremos al centro de Pripyat. El plan es asaltar el Palacio de Cultura y atraer a Eidolon. Sacarlo tan pronto como aparezca. V&#225;monos.</text>
+	</string>
+	
+	<string id="living_legend_strelok_objective_0">
+		<text>&#191;En una escala de "promedio" a "muy cerca..."?</text>
+	</string>
+	<string id="living_legend_strelok_objective_1">
+		<text>Lo suficientemente cerca. Parece que Eidolon ten&#237;a un artefacto extremadamente raro... Qu&#233;datelo si quieres. Consid&#233;ralo un bono por tu ayuda.</text>
+	</string>
+	<string id="living_legend_strelok_objective_2">
+		<text>Gracias, Strelok. Ahora que hemos eliminado la mitad de las fuerzas del Monolito en la Zona, &#191;puede decirme qu&#233; est&#225; buscando tan al norte?</text>
+	</string>
+	<string id="living_legend_strelok_objective_3">
+		<text>Respuestas. Como t&#250;, busco respuestas. Para conseguirlas debemos hacer una redada en la central Chern&#243;bil y encontrar un fragmento del Genio.</text>
+	</string>
+	<string id="living_legend_strelok_objective_4">
+		<text>Vale... no, espera. &#191;Est&#225;s loco? &#191;Asaltar la planta? &#191;El Genio? &#191;Es real despu&#233;s de todo? Escuch&#233; leyendas, pero...</text>
+	</string>
+	<string id="living_legend_strelok_objective_5">
+		<text>Hay un grano de verdad en cada leyenda, stalker. El Genio existe, lo he visto con mis propios ojos. Y no te preocupes. Nos las hemos arreglado para derrotar a Eidolon y sus fuerzas. Yo mismo pude entrar en la Central hace unos a&#241;os. Con tu ayuda nos las arreglaremos de nuevo.</text>
+	</string>
+	<string id="living_legend_strelok_objective_51">
+		<text>Hay un grano de verdad en cada leyenda, mercenario. El Genio existe, lo he visto con mis propios ojos. Y no te preocupes. Nos las hemos arreglado para derrotar a Eidolon y sus fuerzas. Yo mismo pude entrar en la Planta hace unos a&#241;os. Con tu ayuda nos las arreglaremos de nuevo.</text>
+	</string>
+	<string id="living_legend_strelok_objective_6">
+		<text>Esto es una locura. &#191;C&#243;mo planeas atacarlo?</text>
+	</string>
+	<string id="living_legend_strelok_objective_7">
+		<text>Lo haremos a la antigua, stalker.</text>
+	</string>
+	<string id="living_legend_strelok_objective_71">
+		<text>Lo haremos a la antigua, mercenario.</text>
+	</string>
+	<string id="living_legend_strelok_objective_8">
+		<text>No puedo esperar a ver qu&#233; informaci&#243;n vale todo esto.</text>
+	</string>
+	<string id="living_legend_strelok_objective_9">
+		<text>Paciencia. Acomp&#225;&#241;anos a las profundidades del sarc&#243;fago y en el proceso encontrar&#225;s muchas de las respuestas que buscas. Cuando obtengamos el fragmento, te dir&#233; todo lo que quieras saber. Te lo prometo.</text>
+	</string>
+	<string id="living_legend_strelok_objective_10">
+		<text>Me parece justo. Ir&#233; contigo.</text>
+	</string>
+	<string id="living_legend_strelok_objective_11">
+		<text>Bien. Preparate para la aventura de tu vida.</text>
+	</string>
+	
+	<string id="living_legend_strelok_answers_0">
+		<text>Muy bien, Strelok, he hecho lo que quer&#237;as. Toma el fragmento. Tus respuestas por las m&#237;as.</text>
+	</string>
+	<string id="living_legend_strelok_answers_1">
+		<text>Muy bien. Te agradezco la ayuda. Pregunta, y har&#233; lo mejor que pueda para responder.</text>
+	</string>
+	<string id="living_legend_strelok_answers_21">
+		<text>&#191;Qu&#233; es exactamente la Zona?</text>
+	</string>
+	<string id="living_legend_strelok_answers_211">
+		<text>La Zona no es ni un milagro ni una manifestaci&#243;n del mal. Tampoco es un fen&#243;meno natural. Hace m&#225;s de 10 a&#241;os un grupo de cient&#237;ficos realiz&#243; un experimento secreto. Descubrieron que un misterioso campo ps&#237;quico, llamado noosfera, envolv&#237;a la Tierra. Pensaron que al influir en el campo podr&#237;an influir en la poblaci&#243;n mundial. Quer&#237;an eliminar la violencia y el ego&#237;smo de la mente de la gente. Ninguna persona por s&#237; sola pod&#237;a lograrlo, as&#237; que unieron sus mentes para convertirse en Conciencia Com&#250;n, conectada a un conjunto de generadores extremadamente poderosos. Como era de esperar, las cosas se desviaron y el experimento caus&#243; una grieta en la noosfera. Las emanaciones, o m&#225;s bien la Primera Emisi&#243;n de energ&#237;a ps&#237;quica descontrolada cre&#243; la Zona.</text>
+	</string>
+	<string id="living_legend_strelok_answers_212">
+		<text>&#191;Qui&#233;n o qu&#233; era la Conciencia Com&#250;n?</text>
+	</string>
+	<string id="living_legend_strelok_answers_213">
+		<text>Eran un grupo de cient&#237;ficos demasiado ambiciosos. Pensaban que pod&#237;an arreglar a la humanidad usando algo que apenas comprend&#237;an. No lo sab&#237;an, pero estaban pavimentando su propio camino hacia el infierno. Para lograr su objetivo de "salvar" a la humanidad, se convirtieron en una mente artificial. Crearon accidentalmente la Zona. Fueron responsables de las emisiones, la M&#225;quina Milagrosa, el Cauterizador Cerebral, los zombis y el Monolito, que formaban parte de su red de defensa. Y fueron los que colocaron al Genio dentro del Sarc&#243;fago. Tuve la oportunidad de matarlos... as&#237; que lo hice.</text>
+	</string>
+	<string id="living_legend_strelok_answers_214">
+		<text>&#191;Cu&#225;l es la verdadera naturaleza del Genio?</text>
+	</string>
+	<string id="living_legend_strelok_answers_215">
+		<text>El Genio, tambi&#233;n conocido como el Monolito, es una farsa. Fue hecho para atraer a stalkers ingenuos al coraz&#243;n de la Zona, para que la Conciencia-C pudiera agarrarlos, lavarles el cerebro y convertirlos en soldados obedientes. Lo vi con mis propios ojos y no estoy seguro, pero... Puede que haya deseado algo. No lo recuerdo, mis recuerdos son a&#250;n confusos. Fui capaz de resistir su llamada cuando volv&#237; aqu&#237; en 2012, y no quiero volver a enfrentarme a ella nunca m&#225;s. Pero ten&#237;a curiosidad por saber si la reacci&#243;n ps&#237;quica despu&#233;s de la muerte de la Conciencia-C ten&#237;a alg&#250;n efecto sobre ella. Entonces escuch&#233; los rumores sobre el fragmento del monolito.</text>
+	</string>
+	<string id="living_legend_strelok_answers_216">
+		<text>&#191;Qu&#233; clase de artefacto es el fragmento del monolito?</text>
+	</string>
+	<string id="living_legend_strelok_answers_217">
+		<text>Eso se explica por s&#237; mismo. Las leyendas dicen que cuando la Conciencia C muri&#243;, El Genio fue da&#241;ado. Una parte de &#233;l se rompi&#243;. Alg&#250;n stalker visit&#243; la CNPP despu&#233;s y encontr&#243; el fragmento. Claramente, su fisgoneo provoc&#243; la ira de las fuerzas del Monolito que volv&#237;an para asegurar la planta de energ&#237;a, y tuvo que escapar r&#225;pidamente, dejando el fragmento atr&#225;s para desalentar la persecuci&#243;n. Aunque suene ap&#243;crifo, la historia se extendi&#243; r&#225;pidamente. Sab&#237;a que pod&#237;a ser al menos parcialmente cierta, as&#237; que quer&#237;a investigar. El fragmento podr&#237;a contener respuestas que ning&#250;n documento antiguo podr&#237;a revelar.</text>
+	</string>
+	<string id="living_legend_strelok_answers_22">
+		<text>&#191;Qu&#233; sabes sobre las emisiones?</text>
+	</string>
+	<string id="living_legend_strelok_answers_221">
+		<text>La grieta en la noosfera que produjo la Zona tal como la conocemos hoy en d&#237;a se desborda con el exceso de energ&#237;a ps&#237;quica. Esta energ&#237;a es la que forma las emisiones, como el vapor de agua puede condensarse en una tormenta el&#233;ctrica. La energ&#237;a sol&#237;a ser controlada y descargada deliberadamente, pero sin la gu&#237;a de la Conciencia C, simplemente se acumula hasta que se desborda en una ola a trav&#233;s de toda la Zona. En lugar de las raras pero devastadoras emisiones que se supon&#237;a que eliminar&#237;an una amenaza espec&#237;fica, hoy en d&#237;a tenemos emisiones relativamente d&#233;biles pero frecuentes que barren la zona y matan indiscriminadamente. No estoy seguro de que eso sea un negocio justo.</text>
+	</string>
+	<string id="living_legend_strelok_answers_23">
+		<text>&#191;Qu&#233; sabes sobre las anomal&#237;as?</text>
+	</string>
+	<string id="living_legend_strelok_answers_231">
+		<text>Son grietas en miniatura en la noosfera. O peque&#241;os parches de realidad afectados por energ&#237;as ps&#237;quicas tan fuertes que rompen las leyes de la f&#237;sica. No estoy completamente seguro. Cada vez que se produce una emisi&#243;n, las viejas anomal&#237;as se desplazan o desaparecen mientras que otras nuevas emergen. Y los artefactos... muchos de ellos sol&#237;an ser objetos normales, o son una colecci&#243;n de objetos normales cambiados por esas energ&#237;as incomprensibles. A veces pienso que nacen de los deseos de los stalkers, aunque es posible que est&#233;n formados por los miedos, inseguridades y deseos de la humanidad en todo el mundo.</text>
+	</string>
+	<string id="living_legend_strelok_answers_24">
+		<text>&#191;Qu&#233; sabes sobre los mutantes?</text>
+	</string>
+	<string id="living_legend_strelok_answers_241">
+		<text>No te dejes enga&#241;ar por las teor&#237;as de que son el resultado de la radiaci&#243;n. Los perros y los gatos, tal vez, pero otros... quimeras, controladores, quemadores, pseudogigantes, incluso los carnes... La mayor&#237;a de ellos son en realidad hechos por el hombre. Los cient&#237;ficos que m&#225;s tarde se convirtieron en la Conciencia C realizaron muchos experimentos en sus laboratorios subterr&#225;neos. No s&#243;lo gen&#233;ticos, sino tambi&#233;n los que involucraban las energ&#237;as ps&#237;quicas de la noosfera. Esto significa que los mutantes poseen una fuerte conexi&#243;n con la Zona. Como las emisiones, son uno de los muchos mecanismos de defensa que protegen sus secretos.</text>
+	</string>
+	<string id="living_legend_strelok_answers_25">
+		<text>&#191;Qu&#233; pas&#243; durante el ataque a Cielo Despejado en la CNPP?</text>
+	</string>
+	<string id="living_legend_strelok_answers_251">
+		<text>Cielo Despejado... sab&#237;an m&#225;s sobre la Zona que nadie. Evidentemente, no sab&#237;an lo suficiente. Se dieron cuenta de que mis intentos de entrar en el coraz&#243;n de la Zona eran la causa de emisiones m&#225;s frecuentes. Intentaron detenerme haciendo lo mismo, pero a una escala mucho mayor. Esa fue la mayor incursi&#243;n en Chern&#243;bil que he visto nunca. Condenada desde el principio. Me persiguieron a trav&#233;s de Limansk, hasta la Central El&#233;ctrica, y casi me llevan all&#237;. Pero la Conciencia C los detect&#243; y los elimin&#243; con una poderosa emisi&#243;n. Eso es lo &#250;ltimo que recuerdo antes de que todo se volviera rojo. En resumen, mordieron m&#225;s de lo que pod&#237;an masticar y se ahogaron en sus ambiciones.</text>
+	</string>
+	<string id="living_legend_strelok_answers_26">
+		<text>&#191;Hay alguna forma de destruir la Zona y detener esta locura?</text>
+	</string>
+	<string id="living_legend_strelok_answers_261">
+		<text>Ya lo hab&#237;a intentado y s&#243;lo hab&#237;a empeorado las cosas como resultado. Pens&#233; que con matar la Conciencia C ser&#237;a suficiente. Sin embargo, las emisiones son m&#225;s frecuentes que nunca. Mutantes, anomal&#237;as, el Monolito aun persisten. Descubr&#237; el origen de la Zona pero no los medios para destruirla. Nadie sabe c&#243;mo lograrlo. Pero seguir&#233; intent&#225;ndolo. Tal vez el fragmento del Monolito revele m&#225;s. O documentos de otras instalaciones secretas. O el verdadero coraz&#243;n de la Zona... Por ahora, no sabemos lo suficiente.</text>
+	</string>
+	<string id="living_legend_strelok_answers_27">
+		<text>S&#233; que en el 2011 Cielo Despejado emple&#243; a un mercenario llamado Scar para perseguirte. &#191;Recuerdas lo que le pas&#243;?</text>
+	</string>
+	<string id="living_legend_strelok_answers_271">
+		<text>La cicatriz... S&#237;, creo que me acuerdo. Al menos algunas partes. Cielo Despejado pens&#243; que deb&#237;an evitar que yo volviera al centro de la Zona, as&#237; que lo enviaron tras de m&#237;. Me alcanz&#243; en el Bosque Rojo, pero me las arregl&#233; para escapar. Fang no tuvo tanta suerte, aunque... Scar y Cielo Despejado llegaron a la CNPP justo despu&#233;s de m&#237;. Desactiv&#243; mi dispositivo de protecci&#243;n ps&#237;quica con un arma electromagn&#233;tica y luego... y luego... Todo se volvi&#243; rojo. Hubo una emisi&#243;n poderosa. Probablemente los mataron, pero no estoy del todo seguro. Podr&#237;a haberse convertido en un zombi o en un guerrero del Monolito. No lo he visto desde entonces.</text>
+	</string>
+	<string id="living_legend_strelok_answers_28">
+		<text>Cuando todo el mundo te llamaba el Marcado, colaboraste con Sidorovich y Tabernero. &#191;Por qu&#233; no volviste con ellos?</text>
+	</string>
+	<string id="living_legend_strelok_answers_281">
+		<text>Llegu&#233; a la CNPP, vi el Monolito, habl&#233; con la Conciencia C... y luego, despu&#233;s de una batalla extremadamente dif&#237;cil, los mat&#233;. La experiencia me dej&#243; agotado y vac&#237;o. No estoy seguro de lo que pas&#243; despu&#233;s. Estuve vagando por el centro de la Zona por alg&#250;n tiempo, aunque no puedo decir por cu&#225;nto. Luego, ayud&#233; a los restos de una operaci&#243;n militar en Pripyat. Me reclutaron como consejero por un tiempo. Pero al final no pude resistir el llamado de la Zona, y los abandon&#233;. Las preguntas y las dudas todav&#237;a me atormentan... Estaba demasiado ocupado tratando de encontrar respuestas.</text>
+	</string>
+	<string id="living_legend_strelok_answers_29">
+		<text>Apenas puedo creer que la Zona est&#233; hecha por el hombre. He visto la M&#225;quina Milagrosa y el Cauterizador, pero esto... &#191;C&#243;mo se las arreglaron para lograr esto?</text>
+	</string>
+	<string id="living_legend_strelok_answers_291">
+		<text>Con algo mucho m&#225;s poderoso. Creo que la Planta de Energ&#237;a est&#225; de alguna manera conectada a esto. Tal vez uno o m&#225;s de los reactores sol&#237;an funcionar incluso despu&#233;s del incidente de 1986. Pero esa ser&#237;a s&#243;lo la posible fuente de energ&#237;a. He o&#237;do rumores de que hay una instalaci&#243;n de alto secreto a&#250;n m&#225;s al norte. Un &#225;rea tan profunda dentro de la Zona que la realidad misma se derrumba all&#237;. Mutantes horribles, innumerables anomal&#237;as, tropas del Monolito... y un conjunto de generadores que se usaron en el experimento fallido de 2006. Se mencionan en los documentos que me trajiste. Tal vez pueda encontrarlos alg&#250;n d&#237;a.</text>
+	</string>
+	<string id="living_legend_strelok_answers_3">
+		<text>Vaya. Esto es mucho para procesar. Esto definitivamente cambia mi perspectiva en muchas cosas.</text>
+	</string>
+	<string id="living_legend_strelok_answers_4">
+		<text>Todo lo que puedo ofrecerle es estos trozos de informaci&#243;n. Documentos de alto secreto, laboratorios subterr&#225;neos abandonados, dispositivos complejos, experiencias y observaciones personales... La Zona no es y nunca ser&#225; f&#225;cil de entender. Somos como el primer cavern&#237;cola que rasp&#243; dos piedras y accidentalmente encendi&#243; un fuego. No estamos seguros de lo que pas&#243; y lo que estamos viendo mientras el fuego se extiende, consumiendo todo a su alrededor...</text>
+	</string>
+	<string id="living_legend_strelok_answers_5">
+		<text>Gracias, esto es posiblemente m&#225;s de lo que podr&#237;a haber esperado. Volver&#233; a mi base. &#191;Y qu&#233; hay de ti?</text>
+	</string>
+	<string id="living_legend_strelok_answers_6">
+		<text>Tengo un objetivo que se aleja de m&#237; cuanto m&#225;s avanzo. Hay algunos secretos por descubrir m&#225;s all&#225; incluso de la CNPP, y un mont&#243;n de &#225;reas inexploradas que pueden revelar a&#250;n m&#225;s. O producir a&#250;n m&#225;s preguntas, qui&#233;n sabe. No estoy seguro de que valga la pena todas las vidas que se han perdido en el camino hacia all&#237;... y puede que yo nunca lo est&#233;.</text>
+	</string>
+	<string id="living_legend_strelok_answers_71">
+		<text>No creo que los chicos de la Base Oculta se alegren de o&#237;r la verdad sobre el ataque a la CNPP. Todo fue en vano, despu&#233;s de todo.</text>
+	</string>
+	<string id="living_legend_strelok_answers_711">
+		<text>La Zona nos jug&#243; una broma cruel a todos. No hay raz&#243;n para ninguna animosidad, s&#243;lo una lecci&#243;n a aprender. Si valoras el conocimiento, entonces es una peque&#241;a bendici&#243;n disfrazada para ti, por lo que vale la pena.</text>
+	</string>
+	<string id="living_legend_strelok_answers_712">
+		<text>Supongo que tienes raz&#243;n. Cold y los chicos quer&#237;an saber. De todas formas, nunca lanzaremos otra campa&#241;a como esa. No somos Deber. Seguiremos centr&#225;ndonos en la investigaci&#243;n en lugar de en el conflicto.</text>
+	</string>
+	<string id="living_legend_strelok_answers_72">
+		<text>Conozco a algunas personas en el campamento de novatos que no estar&#225;n contentos con que el Genio sea una trampa para moscas. Pero es mejor que no intenten contactar con la CNPP nunca m&#225;s. Y Sidorovich finalmente obtendr&#225; algunas respuestas tambi&#233;n.</text>
+	</string>
+	<string id="living_legend_strelok_answers_721">
+		<text>Esta revelaci&#243;n se ha retrasado mucho. No necesitamos m&#225;s soldados del Monolito de los que ya tenemos, especialmente unos como Eidolon. Hay otros aspectos mucho menos peligrosos de la Zona que pueden explotar si est&#225;n tan desesperados por obtener un beneficio personal.</text>
+	</string>
+	<string id="living_legend_strelok_answers_722">
+		<text>O una aventura, Strelok, no te olvides de eso. No todos somos cazadores de tesoros obsesionados. Hemos prendido fuego al lugar para poder sentarnos, calentarnos las manos y contar algunas historias, &#191;verdad?</text>
+	</string>
+	<string id="living_legend_strelok_answers_73">
+		<text>Bueno, bueno, toda esa informaci&#243;n parece muy valiosa. Pero pensar&#233; en venderla a la gente indicada, no s&#243;lo a los m&#225;s ricos.</text>
+	</string>
+	<string id="living_legend_strelok_answers_731">
+		<text>Es una decisi&#243;n sensata. Este no es el tipo de informaci&#243;n que deber&#237;a hacerse p&#250;blica. Y hay gente que definitivamente no debe saber sobre esto. Elije a tu cliente con cuidado, mercanario. Ninguna cantidad de dinero vale un cataclismo mundial.</text>
+	</string>
+	<string id="living_legend_strelok_answers_732">
+		<text>A menos que sea suficiente para comprarme una isla privada en alg&#250;n lugar del Pac&#237;fico, &#191;verdad? Vale, s&#243;lo estoy bromeando. Es un trato, Strelok.</text>
+	</string>
+	<string id="living_legend_strelok_answers_74">
+		<text>Bueno, las cosas que me has dicho ciertamente arrojan una nueva luz sobre muchos fen&#243;menos que encontramos en la Zona. El profesor Sakharov estar&#225; encantado de recibir todo ese conocimiento.</text>
+	</string>
+	<string id="living_legend_strelok_answers_741">
+		<text>S&#237;. Los ecologistas pueden finalmente publicar algo sustancial despu&#233;s de todos estos a&#241;os. Pero ten cuidado. Si revelan demasiado, demasiado r&#225;pido o en el momento equivocado, las consecuencias pueden ser terribles. Dudo que la humanidad est&#233; lista para descubrir los peque&#241;os secretos sucios de la Zona. Considera tus acciones y decisiones.</text>
+	</string>
+	<string id="living_legend_strelok_answers_742">
+		<text>Estoy seguro de que el profesor sabr&#225; c&#243;mo manejar estos datos. Hemos sospechado algunas de las cosas que me dijo durante mucho tiempo, y ciertamente no queremos poner en peligro el mundo exterior por algo... controvertido que hemos descubierto. Tendremos cuidado.</text>
+	</string>
+	<string id="living_legend_strelok_answers_75">
+		<text>Esa mierda es una locura, hombre. Imagina todas las historias que podr&#233; contarle a la gente en la base. S&#243;lo no te esfuerces demasiado en destruir la Zona, &#191;de acuerdo? Juega bien y puede que te devuelva el favor.</text>
+	</string>
+	<string id="living_legend_strelok_answers_751">
+		<text>&#191;Sigues siendo optimista incluso despu&#233;s de todas las cosas que has experimentado personalmente? Vale, puedo prometer que me replantear&#233; mi enfoque. Me temo que algunas de las mayores calamidades locales fueron causadas por mi propia imprudencia. Podr&#237;a evitar repetir mis errores si act&#250;o con m&#225;s cautela.</text>
+	</string>
+	<string id="living_legend_strelok_answers_752">
+		<text>Eso es todo lo que pido, hombre. &#161;Disfrutemos de la Zona y que empiece a disfrutar de nuestra presencia tambi&#233;n!</text>
+	</string>
+	<string id="living_legend_strelok_answers_76">
+		<text>El conocimiento es la mitad de la batalla. Me reportar&#233; con el general Voronin lo antes posible. Un d&#237;a podr&#237;amos lanzar una gran campa&#241;a para atacar el coraz&#243;n de la Zona y deshacernos de su vil prole de una vez por todas.</text>
+	</string>
+	<string id="living_legend_strelok_answers_761">
+		<text>Recuerden que Cielo Despejado intent&#243; alcanzar un objetivo similar, y fracasaron miserablemente. La Zona no es algo que pueda ser destruido con ametralladoras y granadas de mano. Todav&#237;a hay mucho que aprender sobre sus secretos, y puede que nunca lleguemos a saber todo lo que se requiere para lograr ese objetivo.</text>
+	</string>
+	<string id="living_legend_strelok_answers_762">
+		<text>Nuestra resoluci&#243;n no vacilar&#225;, sin importar las dificultades. Pero tendr&#233; en cuenta tu consejo, Strelok.</text>
+	</string>
+	<string id="living_legend_strelok_answers_81">
+		<text>Bien. Toma esto como una muestra de gratitud y una recompensa por su ayuda. Deber&#237;amos seguir caminos separados ahora, pero espero que nos encontremos de nuevo, alg&#250;n d&#237;a. Adi&#243;s, stalker.</text>
+	</string>
+	<string id="living_legend_strelok_answers_82">
+		<text>Bien. Toma esto como una muestra de gratitud y una recompensa por su ayuda. Deber&#237;amos seguir caminos separados ahora, pero espero que nos encontremos de nuevo, alg&#250;n d&#237;a. Adi&#243;s, stalker.</text>
+	</string>
+	<string id="living_legend_strelok_answers_83">
+		<text>Bien. Toma esto como una muestra de gratitud y una recompensa por su ayuda. Deber&#237;amos seguir caminos separados ahora, pero espero que nos encontremos de nuevo, alg&#250;n d&#237;a. Adi&#243;s, mercenario.</text>
+	</string>
+	<string id="living_legend_strelok_answers_84">
+		<text>Bien. Toma esto como una muestra de gratitud y una recompensa por su ayuda. Deber&#237;amos seguir caminos separados ahora, pero espero que nos encontremos de nuevo, alg&#250;n d&#237;a. Adi&#243;s, stalker.</text>
+	</string>
+	<string id="living_legend_strelok_answers_85">
+		<text>Bien. Toma esto como una muestra de gratitud y una recompensa por su ayuda. Deber&#237;amos seguir caminos separados ahora, pero espero que nos encontremos de nuevo, alg&#250;n d&#237;a. Adi&#243;s, stalker.</text>
+	</string>
+	<string id="living_legend_strelok_answers_86">
+		<text>Bien. Toma esto como una muestra de gratitud y una recompensa por su ayuda. Deber&#237;amos seguir caminos separados ahora, pero espero que nos encontremos de nuevo, alg&#250;n d&#237;a. Adi&#243;s, stalker.</text>
+	</string>
+	<string id="living_legend_strelok_answers_9">
+		<text>Nos vemos, Strelok.</text>
+	</string>
+	
+	<string id="stalker_stitch_dialog_0">
+		<text>Oh no, eres t&#250; otra vez. &#161;Ja, es una broma!</text>
+	</string>
+	<string id="stalker_stitch_dialog_revenge_0">
+		<text>Le meter&#233; dos balas en la cabeza. Una para Scope, otra para Caminante. &#161;Nunca sabr&#225; qu&#233; lo golpe&#243;!</text>
+	</string>
+	<string id="stalker_stitch_dialog_raid_0">
+		<text>Vaya, eso s&#237; que es un asunto serio. Mejor que traiga mis cartas, jeje.</text>
+	</string>
+	
+	<string id="stalker_stitch_dialog_meet_0">
+		<text>Eres Stitch, &#191;verdad? Encantado de conocerte.</text>
+	</string>
+	<string id="stalker_stitch_dialog_meet_1">
+		<text>Oh, hey, es un tipo duro de Deber. Has venido con Rogue, &#191;eh? Ese tipo no hace amigos tan facil. &#191;Qu&#233;, tambi&#233;n desert&#243; del ej&#233;rcito o algo as&#237;?</text>
+	</string>
+	<string id="stalker_stitch_dialog_meet_11">
+		<text>Has venido con Rogue, &#191;eh? Ese tipo no hace amigos tan facil, especialmente soldados de fortuna. &#191;Qu&#233;, amenazaste a su familia? S&#243;lo bromeaba. No tiene familia.</text>
+	</string>
+	<string id="stalker_stitch_dialog_meet_12">
+		<text>&#191;Otro stalker hizo todo el camino hasta aqu&#237;? Has venido con Rogue, &#191;eh? Ese tipo no hace amigos tan facil. &#191;Qu&#233; le hiciste? &#191;Control mental?</text>
+	</string>
+	<string id="stalker_stitch_dialog_meet_13">
+		<text>Oh, mira, es uno de los tipos azules reservados. Has venido con Rogue, &#191;eh? Ese tipo no hace amigos f&#225;cilmente. &#191;Qu&#233; le has hecho? &#191;Control mental?</text>
+	</string>
+	<string id="stalker_stitch_dialog_meet_14">
+		<text>Parece que estamos a punto de tener una fiesta. Has venido con Rogue, &#191;eh? A ese tipo no le gusta Libertad. &#191;Qu&#233; le has hecho? &#191;Control mental?</text>
+	</string>
+	<string id="stalker_stitch_dialog_meet_15">
+		<text>Vaya, &#191;un nerd se las arregl&#243; para venir hasta Pripyat? Con Rogue, de todas las personas. Ese tipo no hace amigos tan facil. &#191;Qu&#233; le hiciste? &#191;Control mental?</text>
+	</string>
+	<string id="stalker_stitch_dialog_meet_2">
+		<text>Uhm, no, s&#243;lo un buen favor por otro tipo de favor.</text>
+	</string>
+	<string id="stalker_stitch_dialog_meet_3">
+		<text>Me parece justo. Espero que no seas un controlador disfrazado. &#191;Lo eres?</text>
+	</string>
+	<string id="stalker_stitch_dialog_meet_4">
+		<text>No...</text>
+	</string>
+	<string id="stalker_stitch_dialog_meet_5">
+		<text>Te estar&#233; vigilando. Y s&#237;, soy Stitch, un m&#233;dico de combate extraordinario. Puedo coserte mientras tenga todas las piezas necesarias. Soy un experto en agujas, pero las pierdo constantemente... ah, aqu&#237;, aqu&#237; hay una.</text>
+	</string>
+	<string id="stalker_stitch_dialog_meet_6">
+		<text>Me voy.</text>
+	</string>
+	<string id="stalker_stitch_dialog_meet_7">
+		<text>&#161;Oye, no te vayas!</text>
+	</string>
+	
+	<string id="stalker_stitch_st_1">
+		<text>&#191;Qu&#233; puedo decir? Trato de mantener un buen y equilibrado ambiente aqu&#237;. Ver&#225;s, cuando otros contraen un caso agudo de balas, yo soy el que se queda y hago la magia de curarlos. Sol&#237;a ser un enfermero antes de venir a la Zona. &#191;Eh? &#191;Qu&#233; tiene eso de divertido? De todas formas, me mantengo firme durante un tiroteo. Tengo un amiguito que me ayuda en caso de que alguien quiera disparar al m&#233;dico. O control mental, o pisotear, o comer, ya sabes como es la cosa. Conoc&#237; a Strelok en Agroprom hace alg&#250;n tiempo. El pobre siempre se mete en problemas, as&#237; que lo acompa&#241;&#233; para ayudarlo a &#233;l y a Rogue con las heridas. L&#225;stima que no pude salvar a Scope y Caminante... Brindemos por ellos.</text>
+	</string>
+	
+	<string id="living_legend_stitch_supplies_0">
+		<text>&#191;Hay alg&#250;n trabajo que quieras que haga?</text>
+	</string>
+	<string id="living_legend_stitch_supplies_1">
+		<text>Ver&#225;s, nunca me quedo sin heridas de bala y laceraciones que tratar, pero no tengo un suministro infinito de cosas con las que atenderlas. Vamos a necesitar m&#225;s suministros m&#233;dicos. &#191;Puedo contar contigo?</text>
+	</string>
+	
+	<string id="living_legend_stitch_supplies_complete_0">
+		<text>Aqu&#237; est&#225;, he tra&#237;do los suministros m&#233;dicos.</text>
+	</string>
+	<string id="living_legend_stitch_supplies_complete_1">
+		<text>&#161;Ja, eso es genial! En caso de que te desgastes un poco, te remendar&#233;, &#161;lo prometo!</text>
+	</string>
+	
+	<string id="stalker_stitch_join_eidolon_0">
+		<text>Estamos listos. V&#225;monos.</text>
+	</string>
+	<string id="stalker_stitch_join_eidolon_1">
+		<text>&#161;Muy bien, adelante!</text>
+	</string>
+	
+	<string id="stalker_stitch_heal_0">
+		<text>Necesito atenci&#243;n m&#233;dica.</text>
+	</string>
+	<string id="stalker_stitch_heal_1">
+		<text>Muy bien, d&#233;jame echar un vistazo.</text>
+	</string>
+	<string id="stalker_stitch_heal_2">
+		<text>&#191;Tienes un corte de papel o algo as&#237;? Est&#225; bien.</text>
+	</string>
+	<string id="stalker_stitch_heal_3">
+		<text>[Continuar...]</text>
+	</string>
+	<string id="stalker_stitch_heal_4">
+		<text>Listo para ir.</text>
+	</string>
+	
+	<string id="stalker_scope_dialog_0">
+		<text>Eh, &#191;qu&#233; quieres?</text>
+	</string>
+	
+	<string id="stalker_wayfarer_dialog_0">
+		<text>Creo que puedo sentir algo...</text>
+	</string>
+</string_table>

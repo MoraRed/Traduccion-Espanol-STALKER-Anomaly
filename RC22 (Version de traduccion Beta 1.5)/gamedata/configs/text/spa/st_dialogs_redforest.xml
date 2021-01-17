@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Forester -->
+	<string id="red_forester_hello_dialog_0">
+		<text>&#191;A qu&#233; debo este placer?</text>
+	</string>
+	<string id="red_forester_hello_dialog_1">
+		<text>&#191;Que esta buscando un novato como tu en la finca de Forester?</text>
+	</string>
+	<string id="red_forester_hello_dialog_2">
+		<text>&#191;Fue la casualidad la que te trajo a mi?</text>
+	</string>
+	<string id="red_forester_hello_dialog_3">
+		<text>&#161;Buena suerte, hijo!</text>
+	</string>
+	<string id="red_forester_hello_dialog_4">
+		<text>&#161;No te olvides de mi!</text>
+	</string>
+	<string id="red_forester_hello_dialog_5">
+		<text>&#161;Recu&#233;rdame bien!</text>
+	</string>
+	<string id="red_forester_who_are_you_0">
+		<text>&#191;Qui&#233;n eres?</text>
+	</string>
+	<string id="red_forester_who_are_you_1">
+		<text>&#191;Que te puedo decir sobre mi? Soy Forester. Llevo aqu&#237; mucho tiempo. He pasado toda mi vida viviendo al lado de este bosque. Soy viejo. A mi edad, te apegas a tu lugar de residencia, sin importar cual sea. Me negue a ser evacuado despues del accidente en la central nuclear, y tambien sobrevivi a la aparicion de la Zona. Recuerdo un destello en el horizonte... Mucha gente murio ese dia, pero la Zona me salvo, &#191;lo ves? &#161;Diablos, no solo me salvo, me dio un don! Solia poder encontrar caminos en el bosque, y ahora puedo sentir un camino seguro a traves de anomalias mortales. Los stalkers me envidian, pero no puedo decir que estoy tan feliz con mi don. Debes entender que todo tiene un precio. Algun dia, la Zona tomara el pago. Eso es lo que temo, amigo.</text>
+	</string>
+	<string id="red_forester_who_are_you_111">
+		<text>No, este era tu tipico bosque de pinos. Bueno, tambien era una reserva natural, pero no era tan especial como lo es ahora. Se puso rojo despues del accidente en la central nuclear de Chernobyl en 1986. Era verde cuando me fui a la cama, y cuando desperte era como lo ves ahora. Entonces apareci&#243; la Zona, y los animales y las aves abandonaron este bosque. Yo era el unico ser vivo que se quedaba atras. Solo yo, un bosque rojo, y esta espesa niebla que nunca se despeja.</text>
+	</string>
+	<string id="red_forester_who_are_you_11111">
+		<text>Si, muchos stalkers han encontrado su fin aqu&#237;. Incluso he escuchado rumores de que un espiritu maligno vive en el Bosque Rojo. Desde mi punto de vista, este bosque es como todo lo dem&#225;s en la Zona. Si lo tratas bien, no te tocara. El problema es que vosotros, los stalkers, no tratan nada bien. Buscas poseer partes de la Zona y, a cambio, obtienes... lo que te corresponde.</text>
+	</string>
+	<string id="red_forester_about_forest_0">
+		<text>Cuentame sobre el Bosque Rojo.</text>
+	</string>
+	<string id="red_forester_about_forest_1">
+		<text>Esto solia ser una reserva de fauna silvestre, y yo era el guardabosques local. Proteg&#237;a el bosque y sus animales de los cazadores furtivos. Ahora, la Zona protege este lugar, y lo hace tan bien que las personas estan dispuestas a viajar una docena de kilometros adicionales solo para evitarla. Si un extra&#241;o pone su pie en el bosque, dalo por muerto. Aunque me digan Forester, yo no se exactamente que sucede aqu&#237;. Un hombre entra en la niebla y simplemente es absorbido por la nada. Podrias estar caminando justo detras de el y a&#250;n no saber como conocio su final. Asi es, hijo.</text>
+	</string>
+	<string id="red_forester_about_zone_0">
+		<text>&#191;Que me puedes decir sobre la Zona?</text>
+	</string>
+	<string id="red_forester_about_zone_1">
+		<text>La Zona, je... La Zona tiene vida propia, y nosotros la gente simplemente se interpone en su camino; algunos m&#225;s, algunos menos. La Zona trabaja para neutralizar cualquier riesgo para su existencia de la misma manera que nuestros cuerpos luchan contra las enfermedades. Tenemos fiebre y la Zona tambien tiene sus 'enfermedades'. Emisiones... Ahora, esas son una forma de 'vomitar'. Cuanta m&#225;s irritacion le causamos, m&#225;s fuertes seran las nuevas emisiones.</text>
+	</string>
+	<string id="red_forester_about_zone_11">
+		<text>&#191;Como sobreviviste aqu&#237; todos este tiempo? &#191;Solo... y en medio de todos los peligros?</text>
+	</string>
+	<string id="red_forester_about_zone_111">
+		<text>Una accion tonta puede destruir la Zona... junto con todo lo que le pertenece. No solo mutantes y anomalias, sino tambien artefactos y vosotros, los stalkers... y yo. Puedo sentir que la Zona esta profundamente preocupada; algo lo esta alterando, perturbando su equilibrio. Se avecina una tormenta... y no se si se puede preservar el balance.</text>
+	</string>
+	
+	<string id="red_forester_about_doc_0">
+		<text>Estoy buscando a alguien que pueda contarme m&#225;s sobre la Zona. Dime abuelo, &#191;sabes algo que me pueda servir?</text>
+	</string>
+	<string id="red_forester_about_doc_1">
+		<text>Hmm... Eres bastante ambicioso, &#191;eh? Me recuerdas a todos esos stalkers que vinieron aqu&#237; buscando lo desconocido, pobres almas... \nHace algun tiempo, un viejo amigo mio solia viajar con un grupo especial. Uno de ellos ha llegado al lado m&#225;s profundo de la Zona. Deberia ser el que estas buscando. Si mi memoria no me falla, se instalo en los Grandes Pantanos junto con su perro.</text>
+	</string>
+	<string id="red_forester_about_doc_11">
+		<text>Perfecto, gracias por la informaci&#243;n.</text>
+	</string>
+	<string id="red_forester_about_doc_111">
+		<text>Cuidado con lo que deseas, joven.</text>
+	</string>
+
+	<string id="look_for_cs_history_part_2_1_0">
+		<text>Forester, necesito cruzar el puente de Limansk.</text>
+	</string>
+	<string id="look_for_cs_history_part_2_1_1">
+		<text>&#191;Cruzar el puente, dices? &#191;Por que no vas a hablar con los que vigilan el puente?</text>
+	</string>
+	<string id="look_for_cs_history_part_2_1_2">
+		<text>Puede que lo hayas olvidado, pero es gracias a ti que Limansk ahora esta repleta de mercenarios.</text>
+	</string>
+	<string id="look_for_cs_history_part_2_1_3">
+		<text>No lo he olvidado, pero tampoco recibir&#225;s ninguna ayuda de mi parte. Todavia no estoy seguro si hice lo correcto al ayudar a esos mercenarios.</text>
+	</string>
+	<string id="look_for_cs_history_part_2_1_4">
+		<text>Escucha, necesitas ayudarme. &#191;Que importa si hiciste lo correcto o no? En cualquier caso, necesito averiguar si podre llegar a la ciudad.</text>
+	</string>
+	<string id="look_for_cs_history_part_2_1_5">
+		<text>Si no me cuentas todo ahora mismo, recibir&#225;s un pase gratis a la morgue.</text>
+	</string>
+	<string id="look_for_cs_history_part_2_1_6">
+		<text>Viejo, si la Zona me quiere en Limansk, llegare all&#237;. Te conviene ayudarme, a ver si te va a pasar algo malo.</text>
+	</string>
+	<string id="look_for_cs_history_part_2_1_7">
+		<text>... Vi algo en Scar: la Zona lo necesitaba. Tu, sin embargo... Si, me gustaria saber que le paso. Entonces, escuchame: ayudamos al destacamento mercenario a salir de la anomalia espacial. Una vez que todo estuvo arreglado, me hicieron una visita. Parece que uno de ellos se burlo de mi y les dijo que tambien particip&#233; en el rescate. Habl&#233; con su lider, Leshiy, quien me dio algunas provisiones, dinero y municiones, y luego siguio su camino. En sus propias palabras, se dirigio a los Almacenes Militares, a Libertad. Puedes ir a buscarlo alli, ha pasado mucho tiempo, pero a juzgar por nuestra conversacion, sus intenciones de unirse a ellos son serias.</text>
+	</string>
+
+	
+<!-- (Monolith Trader) by the bridge to Limansk -->
+	<string id="meet_guid_red_forest_mon_0">
+		<text>&#191;A que lugares puedo viajar, hermano?</text>
+	</string>
+	<string id="meet_guid_red_forest_mon_1">
+		<text>No puedo acompa&#241;arte personalmente, pero nuestros hermanos pueden mostrarte a donde ir, por un precio. Tenemos puestos establecidos en el Bosque Rojo, Jupiter y Pripyat. Estaremos encantados de ayudarte en cualquier momento.</text>
+	</string>
+
+	<string id="meet_guid_red_forest_mon_list_0">
+		<text>&#191;A donde me pueden llevar los guias?</text>
+	</string>
+	<string id="meet_guid_red_forest_mon_list_1">
+		<text>Al Bosque Rojo por cinco mil rublos, Jupiter por dos mil y Pripyat por mil.</text>
+	</string>
+
+	<string id="travel_guid_red_forest_mon_0">
+		<text>Me gustaria viajar a un sitio especifico.</text>
+	</string>
+	<string id="travel_guid_red_forest_mon_1">
+		<text>Claro que si. &#191;A donde te gustaria que te llevaran los guias?</text>
+	</string>
+	<string id="travel_guid_red_forest_mon_2">
+		<text>Al Bosque Rojo. %c[d_orange][5000 RU]</text>
+	</string>
+	<string id="travel_guid_red_forest_mon_3">
+		<text>A Jupiter. %c[d_orange][2000 RU]</text>
+	</string>
+	<string id="travel_guid_red_forest_mon_4">
+		<text>A Pripyat. %c[d_orange][1000 RU]</text>
+	</string>
+	<string id="travel_guid_red_forest_mon_5">
+		<text>He cambiado de opinion.</text>
+	</string>
+	
+<!-- Sin trader -->
+	<string id="red_greh_trader_start_dialog_0">
+		<text>Vamos, hermano. Me asegurar&#233; de que puedas servir bien a la Zona.</text>
+	</string>
+	<string id="red_greh_trader_st_1">
+		<text>Si necesitas equipo, puedo d&#225;rtelo. No s&#243;lo recojo y manejo el equipo que nuestros valientes cruzados toman de los enemigos ca&#237;dos. No, no, no, a lo largo de los a&#241;os he establecido muchos contactos con proveedores externos. Ver&#225;s, hermano, otros pueden no entender la magnificencia de la Zona, no estar de acuerdo con la justicia de nuestra causa, incluso nos quieren muertos... pero tan pronto como reconocen una oportunidad de obtener beneficios, est&#225;n m&#225;s que dispuestos a cooperar. Y yo estoy m&#225;s que dispuesto a explotar sus defectos para nuestro beneficio. Mientras nos proporcionan las herramientas necesarias para realizar nuestra visi&#243;n del Vyraj, todo lo que ganan a cambio son d&#237;gitos, discos met&#225;licos y trozos de papel. Ir&#243;nico, &#191;no?</text>
+	</string>
+
+<!-- Sin mechanic -->
+	<string id="red_greh_tech_start_dialog_0">
+		<text>Hay m&#225;s de lo que se ve en la Zona.</text>
+	</string>
+	<string id="red_greh_tech_st_1">
+		<text>No soy m&#225;s que un humilde servidor. Sabes, hermano, sol&#237;a trabajar como ingeniero para los Maestros incluso antes de que se creara la Zona. Fui uno de los muchos que ensamblaron los venerables Generadores, sin autoridad para hablar, y un peque&#241;o pero importante papel en la creaci&#243;n de la Zona. Cuando los Maestros ascendieron a Vyraj y nuestro Padre, Chernobog, fue liberado para llevar a cabo su voluntad, me reclut&#243; en las filas del reci&#233;n nacido Pecado en reconocimiento de mi papel en la misi&#243;n y las habilidades mec&#225;nicas. Hoy en d&#237;a, trabajo constantemente para mantener el equipo de nuestros cruzados en condiciones satisfactorias, para que puedan llevar a cabo la voluntad de los Maestros tambi&#233;n.</text>
+	</string>
+</string_table>

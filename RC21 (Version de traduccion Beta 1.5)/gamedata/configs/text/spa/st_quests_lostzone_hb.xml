@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEX-T STRINGS FOR LOST TO THE ZONE: HOLLOW BOUNDARIES TASKS
+<	Anomaly 1.5 - Lost to the Zone: Hollow Boundaries
+<
+<	Made by: Tronex
+<	Last revised: 10 September 2019
+<
+<===========================================================-->
+
+<string_table>
+
+	<!-- Dushman intel -->
+	<string id="st_hb_isg_dushman_intel_name">
+		<text>Inteligencia Dushman</text>
+	</string>
+	<string id="st_hb_isg_dushman_intel_desc">
+		<text>Si Dushman cumpli&#243; su palabra, esta caja contiene mapas y notas invaluables para la UNISG. Deber&#237;a reducir dr&#225;sticamente el riezgo que conllevar&#225;n las futuras misiones de la UNISG.</text>
+	</string>
+
+
+	<!-- Hollow Boundaries Arc 1 -->
+	<string id="lttz_hb_task_1_1_dushman_intel_name">
+		<text>L&#237;mites Huecos: Inteligencia</text>
+	</string>
+	<string id="lttz_hb_task_1_1_dushman_intel_desc">
+		<text>El Mayor Hern&#225;ndez me ha encargado encontrar a un hombre conocido como "Dushman", y recibir informaci&#243;n importante de inteligencia por la que la ONU le pag&#243;.</text>
+	</string>
+	
+	<string id="lttz_hb_task_1_2_recruit_name">
+		<text>L&#237;mites Huecos: Encuentro</text>
+	</string>
+	<string id="lttz_hb_task_1_2_recruit_desc">
+		<text>El Mayor Hern&#225;ndez y su escuadr&#243;n se han establecido en un lugar que los lugare&#241;os llaman "J&#250;piter". Debo llevarle el informe de inteligencia al lugar especificado.</text>
+	</string>
+
+	
+	<!-- Hollow Boundaries Arc 2 -->
+	<string id="lttz_hb_task_2_1_guarded_secrets_name_1">
+		<text>L&#237;mites Huecos: Investiga la Fabrica de Jupiter</text>
+	</string>
+	<string id="lttz_hb_task_2_1_guarded_secrets_name_2">
+		<text>L&#237;mites Huecos: Regresa con Hern&#225;ndez</text>
+	</string>
+	<string id="lttz_hb_task_2_1_guarded_secrets_desc_1">
+		<text>Debemos buscar el malet&#237;n en la F&#225;brica de J&#250;piter. Los testigos deben ser eliminados.</text>
+	</string>
+	<string id="lttz_hb_task_2_1_guarded_secrets_desc_2">
+		<text>Una vez que nos aseguremos de que el &#225;rea es segura, deber&#237;a llevar este malet&#237;n al Mayor Hern&#225;ndez.</text>
+	</string>
+
+	<string id="lttz_hb_task_2_2_breakthrough_name_1">
+		<text>L&#237;mites Huecos: Avance</text>
+	</string>
+	<string id="lttz_hb_task_2_2_breakthrough_name_2">
+		<text>L&#237;mites Huecos: Hablar con Hern&#225;ndez</text>
+	</string>
+	<string id="lttz_hb_task_2_2_breakthrough_desc_1">
+		<text>He sido asignado para tomar posici&#243;n a trav&#233;s del metro de J&#250;piter. El mayor seguir&#225; con el resto de su escuadr&#243;n. Las &#243;rdenes son avanzar y estar atento a cualquier documento que pueda estar a&#250;n aqu&#237; abajo.</text>
+	</string>
+	<string id="lttz_hb_task_2_2_breakthrough_desc_2">
+		<text>Encontr&#233; algunos documentos. Debo mostrarselos al Mayor Hern&#225;ndez.</text>
+	</string>
+	
+	<!-- Hollow Boundaries Arc 3 -->
+	<string id="st_lttz_hb_task_3_1_search_agr_ug_name">
+		<text>Investiga los Tuneles de Agroprom</text>
+	</string>
+	<string id="st_lttz_hb_task_3_1_search_agr_ug_text">
+		<text>Investiga los Tuneles de Agroprom y busca pruebas contundentes de una conspiraci&#243;n.</text>
+	</string>
+	<string id="st_lttz_hb_task_3_2_search_labx18_name">
+		<text>Investiga el Laboratorio X-18</text>
+	</string>
+	<string id="st_lttz_hb_task_3_2_search_labx18_text">
+		<text>Fui asignado para investigar el Laboratorio X-18 y buscar pruebas contundentes de una conspiraci&#243;n.</text>
+	</string>
+	<string id="st_lttz_hb_task_3_3_search_labx16_name">
+		<text>Investiga el Laboratorio X-16</text>
+	</string>
+	<string id="st_lttz_hb_task_3_3_search_labx16_text">
+		<text>Fui asignado para investigar el Laboratorio X-16 y buscar pruebas contundentes de una conspiraci&#243;n.</text>
+	</string>
+	<string id="st_lttz_hb_task_3_4_search_labx10_name">
+		<text>Investiga el Laboratorio X-19</text>
+	</string>
+	<string id="st_lttz_hb_task_3_4_search_labx10_text">
+		<text>Fui asignado para investigar el Laboratorio X-19 y buscar pruebas contundentes de una conspiraci&#243;n.</text>
+	</string>
+	<string id="st_lttz_hb_task_3_5_search_labx8_name">
+		<text>Investiga el Laboratorio X-8</text>
+	</string>
+	<string id="st_lttz_hb_task_3_5_search_labx8_text">
+		<text>Fui asignado para investigar el Laboratorio X-8 y buscar pruebas contundentes de una conspiraci&#243;n.</text>
+	</string>
+	
+	<string id="lttz_hb_task_3_8_handle_docs_name">
+		<text>Misterio al Descubierto</text>
+	</string>
+	<string id="lttz_hb_task_3_8_handle_docs_text">
+		<text>He encontrado suficientes pruebas de una gran conspiraci&#243;n. Deber&#237;a ir a ver al Mayor con mis hallazgos, estar&#225; encantado de ver lo que he descubierto.</text>
+	</string>
+
+	<!-- Hollow Boundaries Arc 4 -->
+	<string id="lttz_hb_task_4_1_crossfire_1_name">
+		<text>Fuego cruzado: Eliminar las Fuerzas Militares</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_2_name">
+		<text>Fuego cruzado: Trato con Strelok</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_3_name">
+		<text>Fuego cruzado: Escolta a Strelok</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_4_name">
+		<text>Fuego cruzado: Hablar con Strelok</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_5_name">
+		<text>Fuego cruzado: Mata a Strelok</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_6_name">
+		<text>Fuego cruzado: Revisa el cuerpo de Strelok</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_7_name">
+		<text>Fuego cruzado: Regresa con el Mayor Hern&#225;ndez</text>
+	</string>
+	
+	<string id="lttz_hb_task_4_1_crossfire_1_desc">
+		<text>El Mayor Hern&#225;ndez me ha encargado que extraiga informaci&#243;n de Strelok, pero primero debo eliminar las fuerzas militares que lo persiguen en las afueras de Pripyat.</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_2_desc">
+		<text>El escuadr&#243;n militar ha sido eliminado. Tiempo de obtener los secretos de Strelok, de una forma u otra.</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_3_desc">
+		<text>Puedo ayudar a Strelok escolt&#225;ndolo al Bosque Rojo. Alternativamente, podr&#237;a capt&#250;rarlo atray&#233;ndolo a la base de UNISG, en el subterr&#225;neo de J&#250;piter.</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_4_desc">
+		<text>Strelok y yo hemos llegado a salvo al Bosque Rojo, como prometimos. Tal vez est&#233; listo para hablar ahora.</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_5_desc">
+		<text>Strelok no puede escapar de nosotros ahora. Es hora de matarlo</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_6_desc">
+		<text>Strelok est&#225; muerto. Debo buscar en su cuerpo cualquier informaci&#243;n &#250;til que pueda llevar.</text>
+	</string>
+	<string id="lttz_hb_task_4_1_crossfire_7_desc">
+		<text>Encontr&#233; una memoria flash entre las pertenencias de Strelok. El Mayor Hern&#225;ndez deber&#237;a ver esto lo antes posible.</text>
+	</string>
+
+	
+	<!-- Maus (ISG Mechanic) Find Level 1 Toolkit Task -->
+	<string id="jup_depo_isg_tech_task_1_name">
+		<text>Encuentra %s para Maus</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_1_text">
+		<text>Maus requiere %s para instalar actualizaciones de equipos b&#225;sicos. Debo llev&#225;rselo si encuentro alguno.</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_1_about">
+		<text>Tengo una propuesta para ti. Si puedes traerme algunas herramientas nuevas, recibiras un pago. &#191;Est&#225;s preparado para esto?</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_1_fetch_about">
+		<text>Lo estoy. He estado buscando por todas partes un conjunto de %s. Deber&#237;a contener algo de aceite y herramientas que necesito para trabajar con armas de fuego. Te pagar&#233; por uno de esos juegos de herramientas si puedes traerme un juego completo.</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_1_fetch_finish">
+		<text>&#161;Brillante! Esto es lo que he estado buscando. &#161;Gracias!</text>
+	</string>
+
+	<!-- Maus (ISG Mechanic) Find Level 2 Toolkit Task -->
+	<string id="jup_depo_isg_tech_task_2_name">
+		<text>Encuentra %s para Maus</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_2_text">
+		<text>Maus requiere %s para instalar actualizaciones de equipos avanzados. Debo llev&#225;rselo si encuentro alguno.</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_2_about">
+		<text>Tengo otra proposici&#243;n. El conjunto de herramientas que me trajiste est&#225; funcionando bien, pero no tiene todo lo que necesito. &#191;Crees que puedes encontrarme un mejor conjunto?</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_2_fetch_about">
+		<text>Necesito un %s. No estoy seguro de d&#243;nde puede obtener uno de esos, pero si puedes encontrar uno, lo necesito.</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_2_fetch_finish">
+		<text>Tiene todo lo que necesito. Gracias.</text>
+	</string>
+
+	<!-- Maus (ISG Mechanic) Find Level 3 Toolkit Task -->
+	<string id="jup_depo_isg_tech_task_3_name">
+		<text>Encuentra %s para Maus</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_3_text">
+		<text>Maus requiere %s para instalar actualizaciones de equipos expertos. Debo llev&#225;rselo si encuentro alguno.</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_3_about">
+		<text>Tengo otra proposici&#243;n. El conjunto de herramientas que me trajiste est&#225; funcionando bien, pero no tiene todo lo que necesito. &#191;Crees que puedes encontrarme un mejor conjunto?</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_3_fetch_about">
+		<text>Necesito un %s. No estoy seguro de d&#243;nde puede obtener uno de esos, pero si puedes encontrar uno, lo necesito.</text>
+	</string>
+	<string id="jup_depo_isg_tech_task_3_fetch_finish">
+		<text>Tiene todo lo que necesito. Gracias.</text>
+	</string>
+	
+</string_table>

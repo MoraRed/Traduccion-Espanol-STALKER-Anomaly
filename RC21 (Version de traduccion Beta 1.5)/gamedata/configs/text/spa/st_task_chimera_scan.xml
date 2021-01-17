@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+<string id="yan_stalker_sakharov_task_chimera_scan_name">
+	<text>Sondeo Mental</text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_about">
+	<text>Has o&#237;do hablar del mutante com&#250;nmente conocido como la Quimera, &#191;s&#237;? Hay mucho debate en la comunidad cient&#237;fica sobre si la criatura es simplemente un animal gravemente mutado que lleg&#243; a desarrollar lo que parece ser una cabeza humana O el resultado de una terrible violaci&#243;n de la &#233;tica cient&#237;fica. Para arrojar luz sobre este misterio necesitamos m&#225;s datos. Nuestros t&#233;cnicos prepararon un dispositivo especial para registrar las ondas electromagn&#233;ticas emitidas del cerebro y, bueno, sin &#225;nimo de ofender, pero dudo que encuentren el resto de la explicaci&#243;n comprensible. De todos modos, lo que necesitamos es un voluntario para llegar a un esp&#233;cimen espec&#237;fico de Quimera y registrar sus se&#241;ales cerebrales. Por supuesto, esto debe hacerse mientras el mutante a&#250;n vive y aqu&#237; es donde radica la dificultad de la tarea. Tendr&#225; que acercarse a &#233;l y sobrevivir hasta que el dispositivo se estabilice y logre registrar las se&#241;ales. Despu&#233;s de eso, no es necesario dejar a la pobre criatura con vida, pero eso depende de ti.</text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_stage_0">
+	<text>Quedate cerca de la Quimera desinganada para grabar sus ondas cerebrales</text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_stage_1">
+	<text>Recupera el dispositivo</text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_stage_2">
+	<text>Regresa con Sakharov</text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_start">
+	<text>Inicializaci&#243;n completada: escaneo iniciado</text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_error">
+	<text>Error: se&#241;al perdidad, escaneo abortado</text>
+</string>
+<string id="yan_stalker_sakharov_task_chimera_scan_complete">
+	<text>Escaneo completado.</text>
+</string>
+<string id="chimera_scan_device_name">
+	<text>Escaner de ondas cerebrales</text>
+</string>
+<string id="chimera_scan_device_desc">
+	<text>Un dispositivo dise&#241;ado para registrar las ondas electromagn&#233;ticas cercanas, este ha sido espec&#237;ficamente ajustado para aislar las oscilaciones neurales de un esp&#233;cimen espec&#237;fico de Quimera.</text>
+</string>
+</string_table>

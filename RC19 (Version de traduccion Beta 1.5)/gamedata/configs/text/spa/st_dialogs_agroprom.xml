@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Sergeant Spooner (Military Trader) -->
+	<string id="guid_agr_mlr_military_0">
+		<text>&#191;Puedes organizar un viaje? Hay un lugar a donde necesito ir.</text>
+	</string>
+	<string id="guid_agr_mlr_military_1">
+		<text>Si, puedo llevarte al Cordon y Yantar... Espera, &#191;qui&#233;n eres t&#250;? Ofrezco transporte, pero no para un soldado com&#250;n como tu. Shuu.</text>
+	</string>
+
+	<string id="guid_agr_mlr_military_list_0">
+		<text>&#191;A d&#243;nde vuelas otra vez?</text>
+	</string>
+	<string id="guid_agr_mlr_military_list_1">
+		<text>A nuestro punto de control en el Cordon por cinco mil rublos, as&#237; como a la base en Yantar por siete mil.</text>
+	</string>
+
+	<string id="guid_agr_mlr_military_vert_0">
+		<text>Requiero un piloto.</text>
+	</string>
+	<string id="guid_agr_mlr_military_vert_1">
+		<text>Muy bien, nuestro proximo vuelo sale en breve. A d&#243;nde?</text>
+	</string>
+	<string id="guid_agr_mlr_military_vert_2">
+		<text>Al puesto de control en el Cordon. %c[d_orange][5000 RU]</text>
+	</string>
+	<string id="guid_agr_mlr_military_vert_3">
+		<text>A la base en Yantar. %c[d_orange][7000 RU]</text>
+	</string>
+	<string id="guid_agr_mlr_military_vert_4">
+		<text>He cambiado de opinion.</text>
+	</string>
+	
+	<string id="find_blackbox_mlr_reward_army_0">
+		<text>He encontrado la caja negra entre los restos de un helicoptero.</text>
+	</string>
+	<string id="find_blackbox_mlr_reward_army_1">
+		<text>&#161;Buen descubrimiento! Bien hecho, soldado.</text>
+	</string>
+
+	
+<!-- Military - Medic -->
+	<string id="rogovets_about_himself_1_6_army_mlr_0">
+		<text>Hablame de ti.</text>
+	</string>
+	<string id="rogovets_about_himself_1_6_army_mlr_1">
+		<text>Soy el m&#233;dico de esta base. Llegu&#233; a la Zona bajo contrato hace a&#241;os. Despu&#233;s de alguna preparaci&#243;n, me asignaron al prestigioso Fairway Group. Lamentablemente, la Operaci&#243;n Fairway fue un fracaso. No tuvimos m&#225;s remedio que refugiarnos en Pripyat... bueno, los que a&#250;n est&#225;bamos vivos, al menos... hasta que un investigador de la SSU lleg&#243; y nos ayud&#243; en la evacuaci&#243;n.\n \nMe alegro de haberme librado de ese lugar. Cosas extra&#241;as suceden todo el tiempo en esa maldita ciudad, y una de mis experiencias m&#225;s extra&#241;as fue despertarme en un refrigerador encerrado. Hasta el d&#237;a de hoy, no tengo ni idea de c&#243;mo llegu&#233; all&#237;, o qu&#233; estaba haciendo antes. Los otros hombres se burlaban de m&#237; por ello, pero recuerdo el sudor, la falta de aire, el velo sobre mis ojos. Una vez m&#225;s los soldados empezaron a encontrarse con los llamados "m&#237;ticos" Controladores, bueno, digamos que las burlas cesaron.</text>
+	</string>
+	<string id="rogovets_about_himself_1_6_army_mlr_2">
+		<text>&#191;Y entonces que paso? &#191;Por que no renunciaste al contrato?</text>
+	</string>
+	<string id="rogovets_about_himself_1_6_army_mlr_3">
+		<text>Oh, yo lo "dej&#233;" por un tiempo. O mejor dicho, me fui a la reserva. Despu&#233;s de que mi comandante fue despedido por el fracaso de la Operaci&#243;n Fairway, me qued&#243; un mal sabor de boca. Entonces dej&#233; el servicio activo tan pronto como pude para avanzar en mi carrera m&#233;dica. A&#250;n as&#237;, hay algo especial en el trabajo con los soldados, y siento que los estar&#237;a abandonando si no regresara eventualmente. No es culpa de los gru&#241;ones que algunos del estado mayor son... ehhh.... ehmm...\n \nComo dec&#237;a, el estilo de mando del Coronel Kuznetsov no es ciertamente la forma en que mi antiguo comandante, el ex Coronel Kovalsky, habr&#237;a hecho las cosas. Pero estoy feliz de mantener las tropas con vida de todas formas. Estar&#237;a m&#225;s feliz si ese investigador de la SSU, el Coronel Degtyarev, tomara un papel de liderazgo m&#225;s activo aqu&#237; tambi&#233;n, pero supongo que es suficiente saber que sigue ah&#237; fuera, dando vueltas por la Zona en alg&#250;n lugar. Me ha salvado la vida m&#225;s veces de las que me gustar&#237;a admitir.  </text>
+	</string>
+	<string id="rogovets_about_himself_1_6_army_mlr_4">
+		<text>Entendido. Gracias por decirlo, pero debo volver a los negocios.</text>
+	</string>
+	
+	<string id="rogovets_hello_1_6_army_mlr_0">
+		<text>Eh? Oh, eres tu...</text>
+	</string>
+
+	
+<!-- Commander, barman in Agroprom -->
+	<string id="barmen_about_himself_1_6_army_mlr_0">
+		<text>&#191;Qui&#233;n eres?</text>
+	</string>
+	<string id="barmen_about_himself_1_6_army_mlr_1">
+		<text>Bueno, soy el barman local - o un administrador de provisiones - lo que prefieras. Las tropas de aqu&#237; me llaman Comandante. Mi primer per&#237;odo en la Zona fue como liquidador, limpiando alrededor de la Central Nuclear despu&#233;s del accidente del 86. No soy exactamente de aqu&#237;, pero despu&#233;s de la ca&#237;da de la Uni&#243;n Sovi&#233;tica decid&#237; quedarme en la Zona contratado. Tengo algo de experiencia encima, hah. </text>
+	</string>
+	<string id="barmen_about_himself_1_6_army_mlr_2">
+		<text>&#191;C&#243;mo fue la limpieza despu&#233;s del primer accidente?</text>
+	</string>
+	<string id="barmen_about_himself_1_6_army_mlr_3">
+		<text>Bueno, yo era mucho m&#225;s joven en ese entonces... s&#243;lo un recluta del ej&#233;rcito, &#191;entiendes? No el semicentenario que ves ahora. Tuve suerte. S&#243;lo consegu&#237; limpiar con manguera el polvo de los pueblos vac&#237;os y remover la tierra despu&#233;s. Los oficiales med&#237;an la radiaci&#243;n y yo era enviado a limpiarla. Sin embargo, los liquidadores cerca de la central acabaron con la mierda hasta la cintura. All&#237; arriba, incluso nuestra tecnolog&#237;a muri&#243; por la lluvia radioactiva, sin mencionar a la gente. Imag&#237;nate eso. \n \nAs&#237; que limpiaron los techos con grafito con unas malditas palas. Pero ten&#237;a que hacerse, por el bien del estado, lo que sea que eso signifique ahora. Sol&#237;a pensar que la radiaci&#243;n era una cosa extra&#241;a, c&#243;mo maldec&#237;a a algunos y perdonaba a otros, como Dyatlov, que sobrevivi&#243; para terminar en prisi&#243;n. Pero, comparado con lo que ha estado sucediendo desde 2006, no lo s&#233;. Ciertamente hay cosas m&#225;s extra&#241;as que la radiaci&#243;n en estos d&#237;as.</text>
+	</string>
+</string_table>

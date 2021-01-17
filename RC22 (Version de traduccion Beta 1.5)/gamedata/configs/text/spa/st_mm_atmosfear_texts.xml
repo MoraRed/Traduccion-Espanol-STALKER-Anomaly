@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	<string id="st_cap_af_weather_options">
+		<text>Clima</text>
+	</string>
+	<string id="st_cap_af_event_options">
+		<text>Evento</text>
+	</string>
+	<string id="st_cap_af_moon_options">
+		<text>Noche</text>
+	</string>
+	<string id="st_cap_af_default_options">
+		<text>Efectos</text>
+	</string>
+	<string id="st_cap_af_blowout">
+		<text>Emisiones</text>
+	</string>
+	<string id="st_cap_af_fallout">
+		<text>Lluvias</text>
+	</string>
+	<string id="st_cap_af_psi_storm">
+		<text>Tormentas ps&#237;quicas</text>
+	</string>
+	<string id="st_cap_check_enable_blowout">
+		<text>Emisiones habilitadas</text>
+	</string>
+	<string id="st_cap_check_enable_fallout">
+		<text>Lluvia activada</text>
+	</string>
+	<string id="st_cap_check_enable_psi_storm">
+		<text>Tormentas Psi activadas</text>
+	</string>
+
+	<string id="st_cap_fate">
+		<text>Destino de los NPC</text>
+	</string>
+	<string id="st_cap_warning">
+		<text>Advertencias</text>
+	</string>
+	<string id="st_cap_task">
+		<text>Tareas</text>
+	</string>
+	<string id="st_cap_freq">
+		<text>Frecuencia</text>
+	</string>
+	
+	<string id="st_list_freq_12">
+		<text>cada 6 - 12 horas</text>
+	</string>
+	<string id="st_list_freq_24">
+		<text>cada 12 - 24 horas</text>
+	</string>
+	<string id="st_list_freq_48">
+		<text>cada 1 - 2 dias</text>
+	</string>
+	<string id="st_list_freq_96">
+		<text>cada 2 - 4 dias</text>
+	</string>
+
+	<string id="st_list_fate_killatend">
+		<text>Matar al final</text>
+	</string>
+	<string id="st_list_fate_killatwave">
+		<text>Matar a medida que avanza la ola</text>
+	</string>
+	<string id="st_list_fate_turntozombie">
+		<text>Convertir en zombie</text>
+	</string>
+	<string id="st_list_fate_explode">
+		<text>Matar</text>
+	</string>
+	<string id="st_list_fate_poison">
+		<text>Envenenamiento Rad./qui.</text>
+	</string>
+	<string id="st_list_fate_none">
+		<text>Ileso</text>
+	</string>
+	<string id="st_list_fate_kill">
+		<text>Matar en la descarga de v&#243;rtice</text>
+	</string>
+	<string id="st_list_fate_killorturn">
+		<text>Mata o convierte a zombie</text>
+	</string>
+	<string id="st_list_warning_radio_siren">
+		<text>Radio y sirena</text>
+	</string>
+	<string id="st_list_warning_radio">
+		<text>Radio</text>
+	</string>
+	<string id="st_list_warning_siren">
+		<text>Sirena</text>
+	</string>
+	<string id="st_list_warning_none">
+		<text>Sin advertencia</text>
+	</string>
+	<string id="st_list_task_give">
+		<text>Generar tarea</text>
+	</string>
+	<string id="st_list_task_none">
+		<text>No dar tarea</text>
+	</string>
+	<string id="st_cap_moon_phases">
+		<text>Fases de la luna</text>
+	</string>
+	<string id="st_cap_night_brightness">
+		<text>Brillo nocturno ambiente</text>
+	</string>
+	<string id="st_list_night_brightness_dark">
+		<text>Noches oscuras</text>
+	</string>
+	<string id="st_list_night_brightness_slight">
+		<text>Noches un poco m&#225;s brillantes</text>
+	</string>
+	<string id="st_list_night_brightness_medium">
+		<text>Noches medio brillantes</text>
+	</string>
+	<string id="st_list_night_brightness_bright">
+		<text>Noches muy brillantes</text>
+	</string>
+	<string id="st_cap_weather_presets">
+		<text>Predefinidos:</text>
+	</string>
+	<string id="st_cap_weather_balance_presets">
+		<text>Equilibrar</text>
+	</string>
+	<string id="st_cap_weather_length_presets">
+		<text>Longitud</text>
+	</string>
+	<string id="st_period_length_2h">
+		<text>2h</text>
+	</string>
+	<string id="st_period_length_3h">
+		<text>3h</text>
+	</string>
+	<string id="st_period_length_4h">
+		<text>4h</text>
+	</string>
+	<string id="st_period_length_5h">
+		<text>5h</text>
+	</string>
+	<string id="st_period_length_6h">
+		<text>6h</text>
+	</string>
+	<string id="st_period_length_7h">
+		<text>7h</text>
+	</string>
+	<string id="st_period_length_8h">
+		<text>8h</text>
+	</string>
+	<string id="st_period_length_9h">
+		<text>9h</text>
+	</string>
+	<string id="st_period_length_10h">
+		<text>10h</text>
+	</string>
+	<string id="st_period_length_11h">
+		<text>11h</text>
+	</string>
+	<string id="st_period_length_12h">
+		<text>12h</text>
+	</string>
+	<string id="st_period_length">
+		<text>Duraci&#243;n del per&#237;odo</text>
+	</string>
+	<string id="st_cap_moon_cycle_length">
+		<text>Longitud del ciclo lunar</text>
+	</string>
+	<string id="st_cap_moon_cycle_length_8">
+		<text>8 dias</text>
+	</string>
+	<string id="st_cap_moon_cycle_length_28">
+		<text>28 d&#237;as</text>
+	</string>
+	<string id="st_cap_moon_static">
+		<text>No cambia</text>
+	</string>
+	<string id="st_cap_moon_phase_0">
+		<text>Luna nueva</text>
+	</string>
+	<string id="st_cap_moon_phase_1">
+		<text>Luna creciente</text>
+	</string>
+	<string id="st_cap_moon_phase_2">
+		<text>1er cuarto</text>
+	</string>
+	<string id="st_cap_moon_phase_3">
+		<text>Luna menguante</text>
+	</string>
+	<string id="st_cap_moon_phase_4">
+		<text>Luna llena</text>
+	</string>
+	<string id="st_cap_moon_phase_5">
+		<text>Menguante gibosa</text>
+	</string>
+	<string id="st_cap_moon_phase_6">
+		<text>3er cuarto</text>
+	</string>
+	<string id="st_cap_moon_phase_7">
+		<text>Creciente menguante</text>
+	</string>
+	<string id="st_list_weather_balance_preset_default">
+		<text>Varios balances</text>
+	</string>
+	<string id="st_list_weather_balance_preset_good">
+		<text>Mayormente bueno</text>
+	</string>
+	<string id="st_list_weather_balance_preset_bad">
+		<text>Mayormente malo</text>
+	</string>
+	<string id="st_list_weather_balance_preset_custom">
+		<text>Personalizado</text>
+	</string>
+	<string id="st_list_weather_length_preset_default">
+		<text>Varias duraciones de per&#237;odo</text>
+	</string>
+	<string id="st_list_weather_length_preset_short">
+		<text>Corto</text>
+	</string>
+	<string id="st_list_weather_length_preset_long">
+		<text>Largo</text>
+	</string>
+	<string id="st_list_weather_length_preset_custom">
+		<text>Personalizado</text>
+	</string>
+	<string id="st_list_periods_clear">
+		<text>Soleado</text>
+	</string>
+	<string id="st_list_periods_clear_foggy">
+		<text>Soleado / Nebuloso</text>
+	</string>
+	<string id="st_list_periods_foggy">
+		<text>Brumoso</text>
+	</string>
+	<string id="st_list_periods_foggy_rainy">
+		<text> Brumoso / Llovizna</text>
+	</string>
+	<string id="st_list_periods_rainy">
+		<text>Llovizna</text>
+	</string>
+	<string id="st_list_periods_stormy">
+		<text>Lluvioso</text>
+	</string>
+	<string id="st_btn_load_color_balance">
+		<text>TormentosoCargar configuraciones predeterminadas de balance de color y brillo</text>
+	</string>
+	<string id="st_btn_load_default_settings">
+		<text>Restaurar la configuracion predeterminada de clima, eventos y luna</text>
+	</string>
+	<string id="st_msg_after_save">
+		<text>La configuracion se almacenara con la proxima partida guardada</text>
+	</string>
+	<string id="st_msg_load_user">
+		<text>Deseas cargar la configuracion predeterminada de balance de color y brillo de la consola?</text>
+	</string>
+	<string id="st_msg_load_default_settings">
+		<text>Deseas cargar la configuracion predeterminada de clima, eventos y luna?</text>
+	</string>
+	<string id="st_msg_load_user_done">
+		<text>Se han cargado las configuraciones predeterminadas de balance de color y brillo de la consola</text>
+	</string>
+	<string id="st_msg_load_default_settings_done">
+		<text>Se han restaurado los ajustes predeterminados de clima, eventos y luna</text>
+	</string>
+	
+	<string id="st_cap_weather_occurrence">
+		<text>Ocurrencia</text>
+	</string>
+	<string id="st_cap_weather_period">
+		<text>Periodo</text>
+	</string>
+	<string id="st_occurrence_rare">
+		<text>Raro</text>
+	</string>
+	<string id="st_occurrence_zero">
+		<text>Ninguno</text>
+	</string>
+	<string id="st_occurrence_regular">
+		<text>Regular</text>
+	</string>
+	<string id="st_wthr_clear">
+		<text>Soleado</text>
+	</string>
+	<string id="st_wthr_partly">
+		<text>Parcialmente nublado</text>
+	</string>
+	<string id="st_wthr_cloudy">
+		<text>Nublado</text>
+	</string>
+	<string id="st_wthr_rain">
+		<text>Llovizna</text>
+	</string>
+	<string id="st_wthr_storm">
+		<text>Tormentoso</text>
+	</string>
+	<string id="st_wthr_foggy">
+		<text>Nebuloso</text>
+	</string>
+	
+	<string id="st_cap_af_eff_tiny">
+		<text>Efectos dinamicos del polvo</text>
+	</string>
+	<string id="st_cap_af_eff_fog">
+		<text>Efectos dinamicos de la niebla</text>
+	</string>
+	<string id="st_cap_af_eff_wind">
+		<text>Los sonidos din&#225;micos del viento</text>
+	</string>
+	<string id="st_cap_af_eff_rain">
+		<text>Sonidos dinamicos de lluvia</text>
+	</string>
+</string_table>

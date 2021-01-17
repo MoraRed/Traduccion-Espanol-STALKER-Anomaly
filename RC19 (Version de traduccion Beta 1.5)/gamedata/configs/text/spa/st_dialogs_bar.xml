@@ -1,0 +1,679 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Barkeep -->
+	<string id="bar_visitors_barman_stalker_trader_start_dialog_11">
+		<text>Oh, hola, &#191;qu&#233; onda compadre?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_start_dialog_12">
+		<text>&#191;Qu&#233; necesitas, stalker?</text>
+	</string>
+	<string id="bar_visitors_barman_stalker_trader_start_dialog_13">
+		<text>Ey stalker. &#191;Quieres algo de beber? Tal vez te quite esa mirada fea de la cara.</text>
+	</string>
+	
+	<string id="barkeep_100rads_0">
+		<text>H&#225;blame de este lugar.</text>
+	</string>
+	<string id="barkeep_100rads_1">
+		<text>Bienvenido al bar 100 Rads, mi peque&#241;o oasis en este pedazo de infierno. Este barrio es uno de los m&#225;s seguros de la Zona, gracias a Deber. T&#250; tambi&#233;n estar&#225;s a salvo mientras te mantengas tranquilo. Stalkers de todas partes viajan aqu&#237; para comer, descansar, hablar, encontrar informaci&#243;n o buscar trabajo. Entonces, &#191;qu&#233; es lo que buscas? &#191;Qu&#233; puede hacer el viejo Tabernero por ti hoy?</text>
+	</string>
+	
+	<string id="information_about_stash_barmen_0">
+		<text>&#191;Alguna informaci&#243;n sobre un escondite que vendas?</text>
+	</string>
+	<string id="information_about_stash_barmen_1">
+		<text>S&#237;... A veces, cuando los stalkers de aqu&#237; agarran una botella, se les escapa la informaci&#243;n de sus escondites. No s&#233; lo que guardan, pero lo que s&#237; s&#233; es el costo de esa info. Siete mil y es todo tuyo.</text>
+	</string>
+
+	<string id="information_about_stash_barmen1_0">
+		<text>Claro. Aqu&#237; estan. %c[d_orange][7000 RU]</text>
+	</string>
+	<string id="information_about_stash_barmen1_1">
+		<text>Te lo agradezco muchisimo.</text>
+	</string>
+	
+	<string id="devushka_4_help_0">
+		<text>Hola Tabernero. He tra&#237;do a alguien que quiz&#225;s quieras ver.</text>
+	</string>
+	<string id="devushka_4_help_1">
+		<text>Uh-huh. Ah, Hip. Ten amigo, toma un trago a cuenta de la casa mientras hablo con ella en privado.</text>
+	</string>
+	
+	<string id="devushka_help_0">
+		<text>Gracias. Te espero...</text>
+	</string>
+	<string id="devushka_help_1">
+		<text>...Est&#225; bien. Hip ahora sabe lo que tiene que hacer, y quer&#237;a que te dijera que mientras se prepara, va a pasar la barrera de Zaton para dejar algunos contenedores de artefactos para Barbas. Los artefactos son la sangre de Skadovsk, como habr&#225;s o&#237;do. Oh, y aparentemente Hip se niega a hacer esta entrega sin ti. Entonces, &#191;est&#225;s listo?</text>
+	</string>
+	<string id="devushka_help_2">
+		<text>S&#237;, estoy listo. Nos llevaremos los contenedores.</text>
+	</string>
+	<string id="devushka_help_3">
+		<text>Casi, s&#243;lo necesito unos minutos para agarrar todo.</text>
+	</string>
+	
+	
+<!-- GARIK -->
+	<string id="request_go_to_nimble_0">
+		<text>Necesito pasar.</text>
+	</string>
+	
+	
+<!-- Voronin (Duty Leader) -->
+	<string id="story_dolg_0">
+		<text>&#191;Cu&#225;l es la situaci&#243;n actual, se&#241;or?</text>
+	</string>
+	<string id="story_dolg_1">
+		<text>Justo ahora tenemos cuatro enemigos operacionales: Libertad, El Monolito, Mercenarios y bandidos. De esos cuatro, los dos m&#225;s preocupantes son el Monolito y los bandidos - este &#250;ltimo se est&#225; organizando cada d&#237;a m&#225;s. Esto podr&#237;a suponer una seria amenaza, dado su n&#250;mero as&#237; como su falta general de humanidad.\n \nEn cuanto al Monolito, recientemente se han levantado con sorprendente rapidez. Su resurgimiento a principios de este a&#241;o paraliz&#243; nuestra presencia en Yanov, y tuvimos que hacer grandes sacrificios para asegurar la seguridad general de Rostok.\n \n Ahora, en lo que respecta a Libertad y el Grupo de los Azules, las cosas son c&#243;modas. No lo malinterprete, son adversarios respetables, y nuestros esp&#237;as deben vigilarlos de cerca. Pero aun as&#237; en la actualidad no se mueven para enfrentarnos a nosotros o a nuestros aliados directamente, lo que nos da un respiro. </text>
+	</string>
+	<string id="story_dolg_2">
+		<text>&#191;C&#243;mo va Deber, se&#241;or?</text>
+	</string>
+	<string id="story_dolg_3">
+		<text>&#191;Te refieres a los &#250;ltimos reclutas de Deber? Dir&#237;a que un tres de cinco... no es bueno, pero tampoco es terrible. Gracias a Petrenko, estamos atrayendo una buena afluencia de nuevos combatientes, aunque admitir&#233; que estoy un poco decepcionado por la falta de sentido com&#250;n que han mostrado hasta ahora.\n \nLa disciplina podr&#237;a ser mejor, y actualmente estamos cortos de oficiales que puedan entrenar ese est&#250;pido h&#225;bito refunfu&#241;on de nuestros miembros m&#225;s j&#243;venes. Con el tiempo, espero que Deber se recupere por completo... pero llevar&#225; tiempo.</text>
+	</string>
+	<string id="story_dolg_4">
+		<text>&#191;Puedo preguntar c&#243;mo perdimos Yanov, se&#241;or?</text>
+	</string>
+	<string id="story_dolg_5">
+		<text>... Supongo que no hay necesidad de ocultarlo. Ten&#237;amos un eslab&#243;n d&#233;bil. Un traidor. Un est&#250;pido oficial llamado Morgan. Lo encontraron vendiendo armas a los mismos bandidos que intent&#225;bamos exterminar. Y como si esa situaci&#243;n no fuera suficientemente mala, fue un grupo de neutrales quienes se las arreglaron para atraparlo en el acto, en vez de nuestros oficiales de guardia. Como resultado, llev&#243; a&#241;os de esfuerzo recuperar la confianza que hab&#237;amos perdido. Todo por culpa de un hombre.\n \nEsto nos dej&#243; en una posici&#243;n terrible para enfrentar el reciente regreso del Monolito. El valiente oficial al mando que nombr&#233; para Yanov, el teniente coronel Shulga, tuvo que hacer una serie de sombr&#237;os sacrificios que finalmente le costaron la vida. De todo el contingente que lider&#243;, s&#243;lo Gavrilenko logr&#243; regresar a Rostok en una sola pieza.\n \nIncluso entonces, el pobre hombre apenas pod&#237;a hablar cuando lleg&#243;, y lo que finalmente inform&#243; fue... desconcertante. Si lo ve, le aconsejo que lo deje en paz.</text>
+	</string>
+	<string id="story_dolg_6">
+		<text>Muy bien se&#241;or. Entiendo.</text>
+	</string>
+	
+	<string id="st_bar_dolg_leader_life_ask">
+		<text>Me gustar&#237;a saber m&#225;s sobre Deber. &#191;Qu&#233; puedes decirme sobre ellos?</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_1">
+		<text>Veamos, &#191;qu&#233; puedo decirte? Bueno, no todos los que trabajan con nosotros llevan el uniforme, o llevan la placa. Deber contrata constantemente a stalkers neutrales como auxiliares e informantes. Aunque nuestros objetivos son de largo alcance, s&#243;lo somos unos pocos, y ser&#237;a arrogante pensar que podemos estar en todas partes a la vez. No importa cu&#225;l sea su rango, todos los stalkers necesitan comer. Si trabajar con nosotros para proteger el futuro de la humanidad es la forma en que quieren ganarse el pan, entonces tanto mejor.\n \nSi conoces a alguien que busque trabajo, aseg&#250;rate de mandarlo con el Coronel Petrenko. &#201;l estar&#225; m&#225;s que feliz de ayudarles a ganarse la vida honorablemente.</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_2">
+		<text>Aunque pueda parecer contrario a la intuici&#243;n dado nuestro odio por la Zona, Deber mantiene una relaci&#243;n especial con los Ecologistas. Luchamos contra un enemigo como ning&#250;n otro; un enemigo que no existe como un ej&#233;rcito, sino como una fuerza abominable de la naturaleza. No se puede ganar ninguna guerra sin conocimiento, y mucho menos una guerra como &#233;sta, y &#191;qui&#233;n conoce a nuestro enemigo mejor que los propios ecologistas? En este momento, ingenuamente buscan usar la Zona para mejorar la humanidad, pero no se enga&#241;an como lo hace Libertad: un d&#237;a se dar&#225;n cuenta de que destruirla es la &#250;nica opci&#243;n real. Su inmenso conocimiento, respaldado por la valent&#237;a y la habilidad de Deber, ser&#225; sin duda el fin de la Zona ese d&#237;a.\n \nMientras tanto, es de inter&#233;s para la humanidad proporcionar a los cient&#237;ficos cualquier cosa que puedan necesitar, ya sea a trav&#233;s de cajas de artefactos donados para que los estudien, o a trav&#233;s de guardias armados para protegerlos de los criminales. Las cosas pueden estar tranquilas ahora, pero en el pasado, Libertad y los Mercenarios se dedicaban a criticar a los cient&#237;ficos del gobierno siempre que pod&#237;an. Es s&#243;lo la amenaza de represalias de Deber lo que mantiene la paz entre estos tres grupos hoy en d&#237;a.</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_3">
+		<text>Supongo que te preguntas sobre nuestros uniformes, &#191;no?\n \nMe pregunto por qu&#233; cualquier soldado en su sano juicio ir&#237;a a la batalla vestido de negro y rojo. Me gustar&#237;a que te tomaras un momento para considerar qui&#233;nes son nuestros verdaderos enemigos. &#191;Los mercenarios? No. &#191;Los bandidos? Una constante molestia, pero no. &#191;Libertad? Son tontos peligrosos, pero a&#250;n as&#237; no. Ni siquiera el Monolito es nuestro verdadero enemigo. El verdadero enemigo es la propia Zona.\n \nDime, &#191;crees que el camuflaje va a enga&#241;ar a un chupasangre, que puede sentir el pulso de tu coraz&#243;n en el aire? &#191;Qu&#233; hay de los perros, que usan el olfato y la ecolocalizaci&#243;n? O los controladores, que s&#243;lo necesitan leer tus pensamientos...\n \nDe nuevo, contra nuestros verdaderos enemigos, el camuflaje es in&#250;til. En estos casos, prefiero vestir a los hombres con colores fuertes que les ayuden a ver a sus camaradas, y el negro y el rojo especialmente los hacen luchar m&#225;s valientemente, m&#225;s ferozmente. Comparado con los mutantes, todo lo dem&#225;s es s&#243;lo un paseo por el parque.\n \nAs&#237; que, cuando se lucha contra enemigos humanos, algunos podr&#237;an pensar que el camuflaje es bueno porque no puedes matar lo que no puedes ver. Despu&#233;s del infierno que hemos pasado, Deber cree que aquello que los criminales pueden ver, r&#225;pidamente aprender&#225;n a temer.</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_4">
+		<text>D&#233;jeme contarle una historia corta, para ense&#241;arle la diferencia entre Libertad y Deber.\n \nEn 2006, Rostok era un lugar salvaje. Har&#237;a que el Territorio Salvaje de hoy en d&#237;a pareciera domesticado en comparaci&#243;n. Sin embargo, aqu&#237; es donde Deber eligi&#243; acampar, porque sab&#237;amos que Rostok fue una vez una planta industrial, y est&#225;bamos decididos a restaurarla.\n \nCuando llegamos, encontramos un stalker cojeando, lejos de una jaur&#237;a, aferr&#225;ndose desesperadamente a la vida. Lo salvamos, lo curamos y le pregunt&#233;: "Hijo, &#191;qu&#233; hace un joven como t&#250; en un lugar como &#233;ste?"\nY &#233;l me dijo: "Bueno, se&#241;or, yo sol&#237;a ser un camarero, pero me echaron los chantajistas.As&#237; que vine aqu&#237; para escapar de ellos, para tratar de sobrevivir".\n \nMiro a este chico, veo que sus manos tiemblan demasiado para sostener un arma, y le digo, "Bueno, est&#225;s en el lugar correcto".\nEste chico se convertir&#237;a en Barman, y juntos restaurar&#237;amos Rostok a lo que es hoy. Trabajamos con los stalkers, sacando sus mejores habilidades para recuperar lo poco bueno que queda en la Zona.\n \nAh, pero te est&#225;s preguntando d&#243;nde entra Libertad en todo esto. Bueno, en 2011, ya hab&#237;an echado a perder su vieja base, as&#237; que decidieron salir y robar una nueva.\n \nEsperaron hasta que las anomal&#237;as aislaran a Rostok del resto de la Zona, y aprovecharon la oportunidad para asaltar los Almacenes del Ej&#233;rcito - territorio del gobierno soberano - y arrebat&#225;rselo a sus leg&#237;timos due&#241;os. &#191;Y qu&#233; ha sido de los almacenes desde entonces? Desde que Libertad tom&#243; el control, ese una vez orgulloso basti&#243;n se ha convertido en nada m&#225;s que balas y anarqu&#237;a, y los veh&#237;culos de exploraci&#243;n que sol&#237;an desafiar lo desconocido hace tiempo que se han oxidado.\n \nLibertad promete 'libertad', pero a la larga s&#243;lo traen la ruina. Es s&#243;lo cuesti&#243;n de tiempo antes de que se quemen tambi&#233;n.</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_5">
+		<text>Supongo que puedo darte un poco de informaci&#243;n sobre el juramento Deber. Es realmente muy simple.\n \n"Yo, un stalker conocido como Voronin,\njuro defender los objetivos e ideales de Deber.\nProteger la Tierra de los peligros de la Zona, buscar y destruir todo lo que genere dentro y fuera de sus fronteras. \nLuchar contra cualquier inconformista, ya sean stalkers independientes o agrupaciones.\nY dar mi vida en nombre de la justicia y el orden en la Tierra".\n \nEsas son las palabras que jur&#233;, junto con Petrenko, cuando me un&#237; por primera vez hace tantos a&#241;os. Es por eso que no buscamos artefactos para nuestro propio beneficio, sino que se los damos a Tabernero o a los ecologistas, que son los &#250;nicos en los que podemos confiar para manejar el comercio de artefactos de manera responsable. Es por eso que luchamos contra los bandidos, los mercenarios y Libertad, que buscan explotar a los inocentes o difundir ingenuamente los "regalos" de la Zona sin precauci&#243;n o previsi&#243;n. Aunque no eximimos a los stalkers comunes de tales cr&#237;menes, en su caso creemos en la inocencia hasta que se demuestre la culpabilidad, a diferencia de los perros con gatillo f&#225;cil bajo el mando de Kuznetsov.\n \nPero luchar contra los descarriados es algo secundario para nuestro verdadero objetivo: contener la Zona, y hacerla retroceder. Esto significa matar a los mutantes que crea, destruir sus artefactos m&#225;s peligrosos y disipar sus anomal&#237;as cuando podamos.\n \nPor el bien de las generaciones futuras, ayudamos a los comerciantes a mantener los est&#225;ndares para moderar el manejo de los artefactos y reducir el riesgo... est&#225;ndares que los mercenarios de la esquina ignoran en aras de la ganancia.\n \nLa parte final de nuestro c&#243;digo enfatiza el lugar del individuo dentro del gran todo de la humanidad; todos estamos trabajando por una causa superior en Deber, y es dulce y apropiado dar la vida al servicio de la defensa de la humanidad.\n \nEl teniente coronel Shulga entendi&#243; esa &#250;ltima parte mejor que nadie.</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_6">
+		<text>A diferencia de los anarquistas del norte, Deber entiende el valor del autocontrol, y todos los miembros que esperan ascensos se les inculca una firme creencia en la disciplina y la integridad interna.\n \nA nuestros ojos, un mal acto no elimina lo bueno... no existe ni lo malo ni lo bueno. Ellos existen uno al lado del otro, y debemos juzgar a cada uno por lo que es.\n \nAs&#237; que, cuando tropezamos y no nos vigilamos a nosotros mismos, como en este vergonzoso caso en Zaton hace muchos a&#241;os, nos corregimos y nos hacemos responsables lo mejor que podemos.\n \nEn algunos casos, incluso ante nuestros enemigos. Hace muchos a&#241;os, un talentoso escuadr&#243;n Deber tom&#243; a un joven prisionero del grupo Libertad, y lo llev&#243; de vuelta a Rostok para interrogarlo. Los Debers involucrados deb&#237;an ser elogiados por su astucia... es decir, hasta que los investigadores de nuestra facci&#243;n descubrieron una grave mala conducta dentro del escuadr&#243;n. S&#237;, Deber y Libertad est&#225;n en guerra, pero lo que ese escuadr&#243;n hizo a sus prisioneros... ...lo que esos gusanos hab&#237;an hecho fue imperdonable.\n \nCada uno de los Debers involucrados fue dado de baja con deshonor, hicimos lo mejor para limpiar la obscenidad falsa que grabaron de sus prisioneros en la red PDA, y se hizo justicia. Deber ocupa una posici&#243;n de confianza, y es una posici&#243;n que ganamos con nuestra voluntad de hacer lo correcto, aunque a veces signifique sacrificar la conveniencia estrat&#233;gica. La Zona es un reflejo de los males que hay dentro de todos nosotros. No podemos luchar contra ella si tambi&#233;n elegimos alimentarla.</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_7">
+		<text>De vez en cuando oigo a alg&#250;n c&#237;nico murmurando, preguntando por qu&#233; Deber todav&#237;a necesita combatientes... por qu&#233; todav&#237;a se nos necesita en este mundo. Cada vez que escucho esta pregunta, siempre doy la misma respuesta...\n \nAntes, los mutantes m&#225;s peligrosos s&#243;lo acechaban bajo tierra; s&#243;lo eran material de leyendas. Ahora, tengo informes de Snorkers en Valle Oscuro, Controladores caminando por la superficie, incluso el ocasional chupasangre en el Cordon. LLa Zona est&#225; creciendo y, a menos que se frene su expansi&#243;n, sus horrores se extender&#225;n por todo el mundo, como una enfermedad.\n \nEl ej&#233;rcito ha jurado asegurarse de que nada se salga de los l&#237;mites actuales de la Zona, pero esos soldados pasan la mayor parte del tiempo acosando a inofensivos stalkers en lugar de luchar contra la verdadera amenaza. Con la fuerza de defensa de nuestra naci&#243;n cada vez m&#225;s desorientada y corrupta, la carga de proteger al mundo de la Zona ha ca&#237;do directamente sobre nosotros. Si no somos nosotros, &#191;entonces qui&#233;n m&#225;s?</text>
+	</string>
+	<string id="st_bar_dolg_leader_life_end">
+		<text>No hay nada m&#225;s que desee conversar contigo.</text>
+	</string>
+
+	
+<!-- Mangun (Duty Mechanic) -->
+	<string id="story_dolg_m_0">
+		<text>Hablame de ti.</text>
+	</string>
+	<string id="story_dolg_m_1">
+		<text>Hm, s&#237;, est&#225; bien. &#191;Por qu&#233; no?\n \nSol&#237;a estar apostado en el Instituto de Investigaci&#243;n Agroprom, antes de que me ascendieran. Antes de eso, antes de que la Zona existiera, era mec&#225;nico de coches. Deber not&#243; mis habilidades como t&#233;cnico de mantenimiento despu&#233;s de haber estado un tiempo por aqu&#237;, as&#237; que finalmente decidieron asignarme como t&#233;cnico. Prefiero trabajar con armas pesadas y de asalto... Odio trabajar con francotiradores, especialmente los de la OTAN.</text>
+	</string>
+	<string id="story_dolg_m_2">
+		<text>&#191;Qu&#233; es ese olor? No cre&#237;a que Deber permitiera beber tanto.</text>
+	</string>
+	<string id="story_dolg_m_3">
+		<text>Hombre, es dif&#237;cil arregl&#225;rselas sin un trago. O unos pocos. Ojal&#225; hubiera podido ayudar a Yanov cuando el Monolito golpe&#243;... ...pero, por otra parte, probablemente no estar&#237;a vivo si no se me ordenara quedarme aqu&#237;. Tantos buenos hombres se perdieron defendiendo ese lugar... Parece que nos hemos salido del tema. De todas formas, no seas t&#237;mido, ahora... mu&#233;strame tus juguetes si necesitas que te los arreglen.</text>
+	</string>
+	<string id="story_dolg_m_4">
+		<text>Ver&#233; si tengo algo.</text>
+	</string>
+
+	
+<!-- Snitch (Informer) at the Bar -->
+	<string id="talk_to_inf_trader_0">
+		<text>&#191;Qui&#233;n eres?</text>
+	</string>
+	<string id="talk_to_inf_trader_1">
+		<text>Soy un informante local, y puedo ofrecerte todo tipo de servicios. Por el momento, tengo diferentes tipos de informaci&#243;n y mapas con rutas a varios lugares. Mis fuentes son algunas de las m&#225;s fiables de la Zona, pero tambi&#233;n matan para preservar sus secretos, as&#237; que no vayas preguntando d&#243;nde aprendo estas cosas - la respuesta no es bonita.</text>
+	</string>
+	
+	<string id="talk_to_maps_0">
+		<text>&#191;Alguna informaci&#243;n gratis sobre los alrededores que me puedas compartir?</text>
+	</string>
+	<string id="talk_to_maps_1">
+		<text>Normalmente la informaci&#243;n es la forma de ganarme la vida, pero como todo est&#225; tranquilo, puedo darte un poco de informaci&#243;n. Invita la casa.</text>
+	</string>
+	<string id="talk_to_maps_2">
+		<text>Soy todo o&#237;dos.</text>
+	</string>
+	<string id="talk_to_maps_3">
+		<text>Bueno, probablemente ya est&#233;s familiarizado con todo lo que hay al sur de aqu&#237;. Ahora mismo, est&#225;s en Rostok. Es completamente seguro si te llevas bien con Deber. Al este est&#225; el Cementerio de Camiones - como el Vertedero, pero mucho m&#225;s grande, mucho m&#225;s radiactivo y mucho, mucho m&#225;s peligroso. Al oeste est&#225; el Territorio Salvaje - las partes de Rostok que Deber no puede patrullar regularmente. Ese lugar es una absoluta pesadilla, y la mayor&#237;a de los stalkers recomiendan evitarlo a menos que se necesite llegar a Yantar. Al norte est&#225;n los Almacenes del Ej&#233;rcito, propiedad del "mejor amigo" de Deber, Libertad. M&#225;s al norte que eso se convierte r&#225;pidamente en territorio Monol&#237;tico, defendido por despiadados fan&#225;ticos y campos psico-an&#243;malos</text>
+	</string>
+	<string id="talk_to_maps_4">
+		<text>&#191;Qu&#233; puedes decirme sobre el Monolito?</text>
+	</string>
+	<string id="talk_to_maps_5">
+		<text>Supuestamente, son los guardianes de un antiguo cristal alien&#237;gena conocido como "El Genio". El Monolito cree que este cristal cre&#243; la Zona, y que conceder&#225; deseos a aquellos que considere dignos. Con este fin, lo defender&#225;n ferozmente de cualquiera que se atreva a dar un paso m&#225;s all&#225; de la barrera norte de los almacenes del ej&#233;rcito. Por supuesto, hay leyendas de gente que es encontrada digna del Genio, pero todo es mierda. Hay formas m&#225;s f&#225;ciles de hacerse rico, y uno pensar&#237;a que a estas alturas alguien ya hubiese deseado que los mutantes desaparecieran, o que se acabaran las enfermedades, o incluso la paz mundial... &#161;ja! Pero... Supongo que para cuando llegas al Genio, no te importa una mierda los demas.  </text>
+	</string>
+	<string id="talk_to_maps_6">
+		<text>Gracias por la informaci&#243;n.</text>
+	</string>
+
+	<string id="buy_information_from_trader_0">
+		<text>&#191;Tienes alguna nueva informaci&#243;n?</text>
+	</string>
+	<string id="buy_information_from_trader_1">
+		<text>Tengo informaci&#243;n sobre el m&#233;dico del pantano. Ya sabes, el viejo loco con los legendarios poderes curativos. Al menos eso es lo que dicen. Puedo decirte la verdad, por siete mil.</text>
+	</string>
+		<string id="buy_information_from_trader_6">
+			<text>Te escucho.</text>
+		</string>
+		<string id="buy_information_from_trader_11">
+			<text>Como sabr&#225;s, vive en el Gran Pantano. Lo que quiz&#225; no sepas es por qu&#233; est&#225; all&#237;. Est&#225; esperando a su viejo amigo, Strelok. Con el rumor del regreso de Strelok, mucha gente quiere conocer a Doctor, pero pocos lo encuentran. Pero es bastante f&#225;cil, busca una brecha en la valla a lo largo del noroeste del pantano, y ten cuidado con la radiaci&#243;n y las anomal&#237;as en el camino. </text>
+		</string>
+		<string id="buy_information_from_trader_2">
+			<text>Tengo informaci&#243;n sobre un stalker que recientemente hizo una redada en la CNPP, por diez grandes.</text>
+		</string>
+		<string id="buy_information_from_trader_7">
+			<text>Soy todo o&#237;dos.</text>
+		</string>
+		<string id="buy_information_from_trader_12">
+			<text>Entonces, antes de que el Monolito se enfadara y se levantara en serio una vez m&#225;s, este stalker estaba explorando el sarc&#243;fago buscando que llevarse y... escucha esto... &#161;se encuentra con un artefacto completamente &#250;nico! Aparentemente es un fragmento del propio Genio. Al Monolito no le gust&#243;... se vio obligado a dejarlo atr&#225;s para desalentar la persecuci&#243;n. Ahora s&#243;lo podemos preguntarnos cu&#225;nto valdria...</text>
+		</string>
+		<string id="buy_information_from_trader_3">
+			<text>Tengo informaci&#243;n que arroja luz sobre el grupo de Strelok, pero s&#243;lo por quince grandes.</text>
+		</string>
+		<string id="buy_information_from_trader_8">
+			<text>Dimela.</text>
+		</string>
+		<string id="buy_information_from_trader_13">
+			<text>Todo el mundo sabe que Strelok recientemente logr&#243; reunir un nuevo equipo, pero nadie sabe qui&#233;nes son. Son un grupo de individuos con habilidades &#250;nicas: Stitch, Pionero, Rogue y Scope. Un m&#233;dico de combate, un gu&#237;a talentoso, un desertor militar y un francotirador de alto nivel, respectivamente. Ahora solo nos preguntamos d&#243;nde est&#225;n, o qu&#233; est&#225;n haciendo.</text>
+		</string>
+		<string id="buy_information_from_trader_4">
+			<text>Puedo revelar informaci&#243;n sobre las aventuras de un misterioso stalker que explor&#243; los Generadores, por veinticuatro mil.</text>
+		</string>
+		<string id="buy_information_from_trader_9">
+			<text>P&#225;sala.</text>
+		</string>
+		<string id="buy_information_from_trader_14">
+			<text>&#191;Has o&#237;do hablar mucho de los Generadores? Hasta hace poco, s&#243;lo se consideraban un mito... pero despu&#233;s del segundo viaje de Strelok al centro de la Zona, no hay duda de que son reales. Ha habido constantes disputas sobre lo que son, pero las viejas im&#225;genes de sat&#233;lite sugieren alg&#250;n tipo de infraestructura extra&#241;a, en cuyo honor se nombr&#243; toda la zona. Aparentemente, ese es el lugar donde el Monolito lleva a cabo sus estrategias y todos los procesos importantes en la Zona. As&#237; que, el stalker ya ha ido all&#237; y creo que es serio - su intervenci&#243;n podr&#237;a tener un gran impacto en la Zona. Los l&#237;deres de algunos grupos ya han expresado su descontento con respecto a esta informaci&#243;n.</text>
+		</string>
+	<string id="buy_information_from_trader_5">
+		<text>No en este momento.</text>
+	</string>
+	<string id="buy_information_from_trader_10">
+		<text>No me interesa.</text>
+	</string>
+
+	<string id="st_top_10_task_about_dialog_0">
+		<text>Entonces, &#191;qu&#233; haces aqu&#237; para divertirte?</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_1">
+		<text>&#191;Diversi&#243;n? Este lugar se puede poner aburrido r&#225;pidamente, hombre. Los clientes de hoy en d&#237;a apenas buscan nada interesante. S&#243;lo un pu&#241;ado de aficionados que quieren tener en sus manos artefactos y cosas as&#237;, &#191;entiendes lo que quiero decir?</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_2">
+		<text>Con que as&#237; son las cosas, &#191;no?</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_3">
+		<text>S&#237;, pero &#191;ninguno de ellos sue&#241;a con hacer algo &#233;pico, algo legendario? Como t&#250;, por ejemplo, pareces tener experiencia. &#191;No quieres lograr algo que la gente nunca olvide? </text>
+	</string>
+	<string id="st_top_10_task_about_dialog_4">
+		<text>Contin&#250;a...</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_5">
+		<text>Tengo un contacto muy especial que ofrece una gran recompensa por derribar a diez stalkers. Cincuenta mil, m&#225;s dulces. Suena como bastante efectivo para una simple lista de recompensas, &#191;verdad? Aqu&#237; est&#225; la parte interesante: sus objetivos son los diez mejores stalkers de toda la Zona. Esto significa que podr&#237;as estar cazando a los habituales, a los Debers, a los mercenarios o incluso a los mismos malditos Monolitos. Puedes ver la lista en tu PDA si quieres. Este tipo los quiere muertos, no importa c&#243;mo.</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_61">
+		<text>&#191;Qu&#233;? &#161;Es una locura! &#191;Por qu&#233; alguien querr&#237;a esto?</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_62">
+		<text>Cuenta conmigo.</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_63">
+		<text>No gracias, estoy fuera de esto.</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_7">
+		<text>Le ped&#237; a mi contacto algo similar. B&#225;sicamente, est&#225; cansado de andar con rastas que aspiran todo el bot&#237;n con sus rifles de lujo y sus trajes caros. Quiere darle al hombre com&#250;n m&#225;s oportunidades. De todas formas, la paga ser&#225; incre&#237;ble, as&#237; que, &#191;a qui&#233;n le importa?</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_8">
+		<text>&#161;Fant&#225;stico! Subir&#233; la ubicaci&#243;n del primer objetivo a tu PDA. Cada vez que mates a uno de ellos, obtendr&#225;s la ubicaci&#243;n del siguiente. Divi&#233;rtete.</text>
+	</string>
+	<string id="st_top_10_task_about_dialog_9">
+		<text>Como quieras. La oferta sigue en pie si cambias de opini&#243;n.</text>
+	</string>
+	
+	<string id="st_top_10_task_finish_dialog_0">
+		<text>Bien, Snitch. Ya est&#225; hecho. Esos diez objetivos estan como muertos.</text>
+	</string>
+	<string id="st_top_10_task_finish_dialog_1">
+		<text>&#161;Espl&#233;ndido trabajo, amigo! Nuestro cliente est&#225; muy contento con tus resultados. Como prometi&#243;, aqu&#237; est&#225; la recompensa. Me alegro de que estuvieras a la altura despu&#233;s de todo, incluso ahora, puedo o&#237;r a la gente hablar de tus haza&#241;as. &#161;El asesino de las leyendas! Esto va a sacudir un poco las cosas, jeje...</text>
+	</string>
+	
+<!-- modified by Tronex -->
+	<string id="inf_trader_buy_transitions_0">
+		<text>Me gustar&#237;a comprar informaci&#243;n de algunas rutas.</text>
+	</string>
+	<string id="inf_trader_buy_transitions_1">
+		<text>Por supuesto. Esto es lo que tengo.</text>
+	</string>
+	<string id="inf_trader_buy_transitions_2">
+		<text>De los almacenes del ej&#233;rcito a Radar %c[d_orange][7000 RU]</text>
+	</string>
+		<string id="inf_trader_buy_transitions_9">
+			<text>Entonces, &#191;tienes el dinero?</text>
+		</string>
+		<string id="inf_trader_buy_transitions_11">
+			<text>Si. Aqu&#237; tienes.</text>
+		</string>
+	<string id="inf_trader_buy_transitions_3">
+		<text>Desde el Radar hasta el b&#250;nker que est&#225; debajo de &#233;l. %c[d_orange][11.000 RU]</text>
+	</string>
+		<string id="inf_trader_buy_transitions_12">
+			<text>&#191;Tienes la pasta?</text>
+		</string>
+		<string id="inf_trader_buy_transitions_13">
+			<text>Por supuesto. Aqu&#237; tienes.</text>
+		</string>
+	<string id="inf_trader_buy_transitions_4">
+		<text>De Radar a Pripyat. %c[d_orange][9000 RU]</text>
+	</string>
+		<string id="inf_trader_buy_transitions_14">
+			<text>&#191;Tienes el dinero?</text>
+		</string>
+		<string id="inf_trader_buy_transitions_15">
+			<text>Aqu&#237; tienes.</text>
+		</string>
+	<string id="inf_trader_buy_transitions_5">
+		<text>Desde el centro Pripyat hasta las afueras. %c[d_orange][9000 RU]</text>
+	</string>
+		<string id="inf_trader_buy_transitions_16">
+			<text>Necesitar&#233; la pasta primero.</text>
+		</string>
+		<string id="inf_trader_buy_transitions_17">
+			<text>S&#237;, aqu&#237; est&#225;.</text>
+		</string>
+	<string id="inf_trader_buy_transitions_6">
+		<text>Desde Pripyat hasta la Central Nuclear. %c[d_orange][30.000 RU]</text>
+	</string>
+		<string id="inf_trader_buy_transitions_18">
+			<text>&#191;Llevas algo de dinero?</text>
+		</string>
+		<string id="inf_trader_buy_transitions_19">
+			<text>S&#237;, ah&#237; tienes.</text>
+		</string>
+	<string id="inf_trader_buy_transitions_7">
+		<text>Entre las partes sur y norte de la Central de Chern&#243;bil. %c[d_orange][35.000 RU]</text>
+	</string>
+		<string id="inf_trader_buy_transitions_20">
+			<text>El dinero primero.</text>
+		</string>
+		<string id="inf_trader_buy_transitions_21">
+			<text>Aqu&#237; tienes.</text>
+		</string>
+	<string id="inf_trader_buy_transitions_10">
+		<text>No tengo dinero.</text>
+	</string>
+	<string id="inf_trader_buy_transitions_8">
+		<text>He cambiado de opinion.</text>
+	</string>
+
+
+<!-- Guide -->
+	<string id="meet_guid_bar_0">
+		<text>&#191;Eres un gu&#237;a?</text>
+	</string>
+	<string id="meet_guid_bar_1">
+		<text>S&#237;, me llaman Navegante. Puedo llevarte a unos cuantos lugares por una m&#243;dica suma. Los novatos son mis clientes casi siempre, pero tambi&#233;n puedo guiar a cualquier stalker experimentado, no te averguenzes por eso. Lo resumir&#233;: t&#250; pagas, te llevo a donde quieras y vuelvo aqu&#237;. Puedo llevarte a Yantar, al Gran Pantano, a los Almacenes del ej&#233;rcito, al Vertedero, al Cord&#243;n y a J&#250;piter.</text>
+	</string>
+
+	<string id="meet_guid_bar_list_0">
+		<text>Lo siento, &#191;A d&#243;nde puedes acompa&#241;arme?</text>
+	</string>
+	<string id="meet_guid_bar_list_1">
+		<text>Al Vertedero por setecientos, a los Almacenes del Ej&#233;rcito por mil, a la Aldea de los Novatos en el Cord&#243;n por tres mil, a Yantar por tres mil quinientos, a la estaci&#243;n de Yanov en J&#250;piter por seis mil y al Gran Pantano, tambi&#233;n por seis mil.</text>
+	</string>
+
+	<string id="travel_guid_bar_0">
+		<text>Necesito que me lleves a un sitio.</text>
+	</string>
+	<string id="travel_guid_bar_1">
+		<text>S&#237;, &#191;d&#243;nde?</text>
+	</string>
+	<string id="travel_guid_bar_2">
+		<text>Al Cord&#243;n. %c[d_orange][3000 RU]</text>
+	</string>
+	<string id="travel_guid_bar_3">
+		<text>Al Vertedero. %c[d_orange][700 RU]</text>
+	</string>
+	<string id="travel_guid_bar_4">
+		<text>A los almacenes del ej&#233;rcito. %c[d_orange][1000 RU]</text>
+	</string>
+	<string id="travel_guid_bar_5">
+		<text>A Yantar. %c[d_orange][3500 RU]</text>
+	</string>
+	<string id="travel_guid_bar_6">
+		<text>A J&#250;piter. %c[d_orange][6000 RU]</text>
+	</string>
+	<string id="travel_guid_bar_7">
+		<text>A los Grandes Pantanos. %c[d_orange][6000 RU]</text>
+	</string>
+	<string id="travel_guid_bar_8">
+		<text>He cambiado de opinion.</text>
+	</string>
+
+<!-- Medic -->
+	<string id="bar_dolg_medic_talking_0">
+		<text>&#191;Qui&#233;n eres?</text>
+	</string>
+	<string id="bar_dolg_medic_talking_1">
+		<text>Soy el cirujano local, aunque antes era s&#243;lo un param&#233;dico. Me llamo Teniente Sostradov, pero los stalkers de por aqu&#237; me llaman Aspirina. S&#237;, de verdad. Me he vuelto bastante bueno en el tratamiento de una amplia gama de enfermedades y lesiones a lo largo de los a&#241;os. Tambi&#233;n act&#250;o como farmac&#233;utico residente, despu&#233;s de todo, necesitas algunas medicinas en el campo si esperas volver vivo a recibir el tratamiento adecuado. </text>
+	</string>
+	<string id="bar_dolg_medic_talking_2">
+		<text>&#191;Como te hiciste m&#233;dico de Deber?</text>
+	</string>
+	<string id="bar_dolg_medic_talking_3">
+		<text>&#191;C&#243;mo se llega a estar en Deber? La Zona te quita algo. Y luego vuelve a hacerlo, y luego otra vez. Hasta que no te queda nada m&#225;s que la propia Zona. M&#233;dico o no, as&#237; es como un stalker llega a estar en Deber.\n \nSomos los que perdimos todo en este infierno, pero nos quedamos para evitar que otros sufran lo mismo. Por supuesto, la mayor&#237;a de los guardianes eligen proteger a la gente tratando de matar a la Zona.\n \nYo no soy as&#237;. Estoy aqu&#237; para deshacer todas las heridas que deja en la gente. Para asegurarme de que los stalkers de este pueblo vivan otro d&#237;a en el que sus amigos arrastren sus cuerpos ensangrentados por las calles de cualquier est&#250;pida expedici&#243;n en la que hayan participado.\n \nMientras vuelvas aqu&#237; con vida, te har&#233; sentir como nuevo. Ni siquiera te cobrar&#233; de m&#225;s, a diferencia de otros comerciantes de por aqu&#237;.</text>
+	</string>
+	<string id="bar_dolg_medic_talking_4">
+		<text>Gracias, Aspirina.</text>
+	</string>
+	
+<!-- ARENA -->
+	<string id="bar_arena_man_job_0">
+		<text>&#191;A qui&#233;n tienes para pelear?</text>
+	</string>
+	<string id="bar_arena_man_job_11">
+		<text>Entonces, &#191;tu primera pelea? Tu oponente es un pedazo de carne como t&#250;. Est&#225; aqu&#237; por sus deudas y s&#243;lo tiene dos opciones: salir a pelear, o aterrizar en la anomal&#237;a m&#225;s cercana. Luchar&#225; como un animal acorralado. El equipo para hoy... D&#233;jeme pensar... &#191;Qu&#233; tal si ustedes dos usan pistolas b&#225;sicas, dos cajas de municiones deber&#237;an ser suficientes. O le pateas el culo o te damos de comer a los perros, no hay muchas opciones. Ahora vete.</text>
+	</string>
+	<string id="bar_arena_man_job_111">
+		<text>Estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_112">
+		<text>No estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_12">
+		<text>Tu &#250;ltima pelea no signific&#243; una mierda, sigues siendo el mismo pedazo de carne que eras antes y ninguna persona que se respete a s&#237; misma apostar&#225; ni un solo cargador por ti. Si quieres ganar algo de dinero en serio tendr&#225;s que hacer unas cuantas apariciones m&#225;s en la arena. Tu nuevo oponente tambi&#233;n pas&#243; el primer asalto, y su lucha fue mucho m&#225;s dura que la tuya. No me gusta, para ser honesto - mata demasiado r&#225;pido y a la multitud no le gusta eso. As&#237; que, &#161;ve y mu&#233;stranos lo que puedes hacer! Las apuestas aumentar&#225;n despu&#233;s de esta pelea - todo lo que tienes que hacer es mantenerte vivo. &#161;Mu&#233;vete!</text>
+	</string>
+	<string id="bar_arena_man_job_121">
+		<text>Estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_122">
+		<text>No estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_13">
+		<text>Bien, bien... No eres tan marica como parec&#237;as al principio. Ahora es el momento de ponerte a prueba en una pelea de verdad. Te enfrentas a dos tipos. El primero se llama Swede y no recuerdo el nombre del segundo. Fueron juntados aproposito ya que se odian, as&#237; que no te preocupes por que trabajen en equipo, es m&#225;s probable que se disparen entre ellos. Hoy es d&#237;a del rifle, as&#237; que no dejes que se acerquen demasiado o tendremos que recogerlos pieza por pieza. Las probabilidades son de 10:1, as&#237; que si ganan, ganar&#225;n bastante. &#161;Adelante!</text>
+	</string>
+	<string id="bar_arena_man_job_131">
+		<text>Estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_132">
+		<text>No estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_14">
+		<text>Bueno, ahora puedo decir con seguridad que eres un luchador, un verdadero luchador. Ahora es el momento de una pelea de equipo. Tienes que luchar con dos novatos - dos hermanos - de tu lado. No han peleado todav&#237;a pero son hermanos, as&#237; que tuve que ponerlos en una pelea de equipo. No esperar&#237;a que me ayudaran en serio si fuera t&#250;. Est&#225;s luchando con un equipo experimentado, son candidatos para la final de esta temporada. Un grupo peligroso. Usan diferentes armas, pero uno tiene una escopeta autom&#225;tica, ten mucho cuidado con &#233;l. Buena suerte, amigo... La vas a necesitar.</text>
+	</string>
+	<string id="bar_arena_man_job_141">
+		<text>Estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_142">
+		<text>No estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_15">
+		<text>Hoy tienes una pelea especial. &#161;Incluso el ej&#233;rcito oy&#243; hablar de ti! No te sorprendas, ellos tambi&#233;n luchan aqu&#237;, incluso hay un general en la multitud. Estos tipos son de la Spetsnaz o del OMON. Est&#225;n bien armados y su armadura es tan buena como se puede esperar. No te preocupes, tampoco te dejar&#233; afuera en la lluvia. Tendr&#225;s un chaleco usado por Libertad, es ligero, as&#237; que no te retrasar&#225;. Vamos, mu&#233;strales que los stalkers no somos chivos expiatorios de nadie. &#161;Buena suerte!</text>
+	</string>
+	<string id="bar_arena_man_job_151">
+		<text>Estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_152">
+		<text>No estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_16">
+		<text>Es hora de que muestres lo que puedes hacer. Deber captur&#243; a un grupo de bandidos que hab&#237;an estado causando problemas a los stalkers cerca de Rostok. Los capturaron por la noche, as&#237; que la mayor&#237;a estan vivos. Iban a ser ejecutados de todos modos, as&#237; que convenc&#237; a Deber para que les diera una oportunidad. Si alguno de ellos sobreviv&#237;a, ir&#225;n a la c&#225;rcel fuera de la Zona... lo que es mejor que morir aqu&#237;. Se les ha dado buen equipo, y son seis, as&#237; que ten cuidado. &#161;Adelante!</text>
+	</string>
+	<string id="bar_arena_man_job_161">
+		<text>Estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_162">
+		<text>No estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_17">
+		<text>Bueno, ya casi est&#225;s en la final. Ahora luchar&#225;s contra un verdadero stalker. Est&#225; solo, pero tiene un rifle de asalto y lleva un buen traje. Si te pega con una r&#225;faga, est&#225;s frito. Tambien habr&#225; una sorpresa que no puedo contarte... Este es mi consejo: prep&#225;rate, va a ser dif&#237;cil. El ganador llega a la final. Luchen hasta la muerte, &#161;vamos!</text>
+	</string>
+	<string id="bar_arena_man_job_171">
+		<text>Estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_172">
+		<text>No estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_18">
+		<text>&#161;Felicidades, est&#225;s en la final! Uno m&#225;s para ir y este es a la muerte, cada hombre por su cuenta. Habr&#225; otros 4 stalkeres en la arena: todos verdaderos profesionales de los exoesqueletos, pero esta vez es un trato justo, tendr&#225;s exactamente lo que ellos tienen. Lo &#250;nico es que no te dar&#225;n medicamentos o vendas en una pelea a muerte. &#191;Listo? Ve a demostrar que eres el mejor, &#161;vamos!</text>
+	</string>
+	<string id="bar_arena_man_job_181">
+		<text>Estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_job_182">
+		<text>No estoy listo.</text>
+	</string>
+	<string id="bar_arena_man_start_111112">
+		<text>&#161;Oye! &#161;Me pagaste por una pelea pero te fuiste!</text>
+	</string>
+	<string id="bar_arena_man_start_11">
+		<text>&#161;Oye! Tengo una nueva pelea para ti.</text>
+	</string>
+	<string id="bar_arena_man_start_21">
+		<text>Ve a tomar un trago o algo as&#237;. La Arena no est&#225; lista todav&#237;a.</text>
+	</string>
+	<string id="bar_arena_man_start_31">
+		<text>&#161;&#161;Ya te has convertido en un profesional!!</text>
+	</string>
+	<string id="bar_arena_man_start_41">
+		<text>&#161;Ganaste! Aqu&#237; est&#225; tu recompensa.</text>
+	</string>
+	<string id="bar_arena_man_start_51">
+		<text>No tienes suficiente experiencia para esta lucha.</text>
+	</string>
+	<string id="bar_arena_manager_game_0">
+		<text>&#191;Qu&#233; desaf&#237;o me tienes?</text>
+	</string>
+	<string id="bar_arena_manager_game_1">
+		<text>No hay nada contra lo que pelear, vuelve m&#225;s tarde cuando tengamos m&#225;s mutantes.</text>
+	</string>
+	<string id="bar_arena_manager_game_100">
+		<text>Hay una cuota de participaci&#243;n. 1.000 RU.</text>
+	</string>
+	<string id="bar_arena_manager_game_101">
+		<text>Bien, aqu&#237; est&#225; tu dinero.</text>
+	</string>
+	<string id="bar_arena_manager_game_105">
+		<text>No tengo suficiente dinero.</text>
+	</string>
+	<string id="bar_arena_manager_game_1051">
+		<text>Entonces sal de aqu&#237;, stalker.</text>
+	</string>
+	<string id="bar_arena_manager_game_110">
+		<text>Me debes 2.000 RU por participar.</text>
+	</string>
+	<string id="bar_arena_manager_game_111">
+		<text>Bien, aqu&#237; est&#225; tu dinero.</text>
+	</string>
+	<string id="bar_arena_manager_game_11111112">
+		<text>&#161;Ya te pagu&#233;!</text>
+	</string>
+	<string id="bar_arena_manager_game_115">
+		<text>No tengo suficiente dinero.</text>
+	</string>
+	<string id="bar_arena_manager_game_1151">
+		<text>Entonces deja de hacer tantas preguntas.</text>
+	</string>
+	<string id="bar_arena_manager_game_120">
+		<text>Paga 3.000 RU por la participaci&#243;n y el chupasangre es tuyo.</text>
+	</string>
+	<string id="bar_arena_manager_game_121">
+		<text>Bien. Aqu&#237; est&#225; tu dinero.</text>
+	</string>
+	<string id="bar_arena_manager_game_125">
+		<text>No tengo suficiente.</text>
+	</string>
+	<string id="bar_arena_manager_game_1251">
+		<text>No me hagas perder el tiempo, stalker.</text>
+	</string>
+	<string id="bar_arena_manager_game_130">
+		<text>No tan r&#225;pido. El precio de la participaci&#243;n es de 5.000 RU.</text>
+	</string>
+	<string id="bar_arena_manager_game_131">
+		<text>Bien. Aqu&#237; est&#225; el dinero.</text>
+	</string>
+	<string id="bar_arena_manager_game_135">
+		<text>No tengo suficiente dinero.</text>
+	</string>
+	<string id="bar_arena_manager_game_1351">
+		<text>No intentes fingir que eres un mendigo.</text>
+	</string>
+	<string id="bar_arena_manager_game_140">
+		<text>El precio para participar es 5,000 RU.</text>
+	</string>
+	<string id="bar_arena_manager_game_141">
+		<text>Bien. Aqu&#237; est&#225; tu dinero.</text>
+	</string>
+	<string id="bar_arena_manager_game_145">
+		<text>No tengo suficiente dinero.</text>
+	</string>
+	<string id="bar_arena_manager_game_1451">
+		<text>D&#233;jame adivinar. &#191;Alguien te rob&#243; los rublos?</text>
+	</string>
+	<string id="bar_arena_manager_game_2">
+		<text>Hay un pseudodog. Un esp&#233;cimen grande, pero bastante golpeado. Por otro lado es muy feroz, como mi suegra.</text>
+	</string>
+	<string id="bar_arena_manager_game_200">
+		<text>Trato hecho. Antes de pelear, deber&#237;as poner una estaca en el tiempo que necesites para hacer la matanza. Si logras hacerlo, te ganar&#225;s un poco de dinero extra.</text>
+	</string>
+	<string id="bar_arena_manager_game_201">
+		<text>30 segundos, triple victoria.</text>
+	</string>
+	<string id="bar_arena_manager_game_202">
+		<text>Un minuto y medio, doble victoria.</text>
+	</string>
+	<string id="bar_arena_manager_game_203">
+		<text>Sin l&#237;mite de tiempo. Una victoria a medias.</text>
+	</string>
+	<string id="bar_arena_manager_game_204">
+		<text>Cambi&#233; de opini&#243;n.</text>
+	</string>
+	<string id="bar_arena_manager_game_2041">
+		<text>Mala suerte. Ya has pagado.</text>
+	</string>
+	<string id="bar_arena_manager_game_21">
+		<text>Puedo hacerlo. Pelear&#233; con tu perro.</text>
+	</string>
+	<string id="bar_arena_manager_game_22">
+		<text>&#191;Un perro? &#191;Eso es todo lo que tienes?</text>
+	</string>
+	<string id="bar_arena_manager_game_221">
+		<text>Aw, &#191;nuestra chica tiene miedo de un perrito? No te enfades.</text>
+	</string>
+	<string id="bar_arena_manager_game_3">
+		<text>Hay un monstruo en una m&#225;scara de gas, llamado snorkel. Delgado y de aspecto d&#233;bil pero bastante &#225;gil.</text>
+	</string>
+	<string id="bar_arena_manager_game_300">
+		<text>Genial, lo prepararemos todo. Entra en la arena.</text>
+	</string>
+	<string id="bar_arena_manager_game_31">
+		<text>Tr&#225;elo. Luchar&#233; contra tu esn&#243;rquel.</text>
+	</string>
+	<string id="bar_arena_manager_game_32">
+		<text>Hacen que se me revuelva el est&#243;mago. Diablos, no.</text>
+	</string>
+	<string id="bar_arena_manager_game_321">
+		<text>&#191;Asustado por un monstruo enm&#225;scarado y medio podrido?</text>
+	</string>
+	<string id="bar_arena_manager_game_4">
+		<text>Esta vez hemos tenido mucha suerte. Atrapamos a un joven chupasangre. Todav&#237;a es tonto, pero ya con malos modales.</text>
+	</string>
+	<string id="bar_arena_manager_game_41">
+		<text>Adelante, prepara al chupasangre.</text>
+	</string>
+	<string id="bar_arena_manager_game_42">
+		<text>&#191;Un chupasangre? &#161;Al diablo con eso!</text>
+	</string>
+	<string id="bar_arena_manager_game_421">
+		<text>&#191;Qu&#233;? &#191;Ahora te encantan los chupasangres? &#191;Cu&#225;ndo te uniste a Libertad?</text>
+	</string>
+	<string id="bar_arena_manager_game_5">
+		<text>Esta vez tenemos a un enano gordo con capa negra. Los lugare&#241;os lo llaman "quemador".</text>
+	</string>
+	<string id="bar_arena_manager_game_51">
+		<text>&#191;Gordo y bajito? F&#225;cil. Yo lo har&#233;.</text>
+	</string>
+	<string id="bar_arena_manager_game_52">
+		<text>He o&#237;do todo sobre esas cosas. Paso.</text>
+	</string>
+	<string id="bar_arena_manager_game_521">
+		<text>Apenas te llega a la cintura. &#191;Y te asusta?</text>
+	</string>
+	<string id="bar_arena_manager_game_6">
+		<text>Hoy es un d&#237;a especial. No s&#233; d&#243;nde lo encontraron... Pero es una verdadera bestia.</text>
+	</string>
+	<string id="bar_arena_manager_game_61">
+		<text>Trato hecho. Lo sacar&#233; de su miseria.</text>
+	</string>
+	<string id="bar_arena_manager_game_62">
+		<text>No tengo ganas de morir, encuentra a alguien m&#225;s.</text>
+	</string>
+	<string id="bar_arena_manager_game_621">
+		<text>Bueno, francamente hasta yo encuentro a la bestia aterradora. Pero no estoy peleando en la arena, as&#237; que, &#191;a qui&#233;n le importa?</text>
+	</string>
+	<string id="bar_arena_manager_info_0">
+		<text>Tengo un par de preguntas.</text>
+	</string>
+	<string id="bar_arena_manager_info_1">
+		<text>Dispara.</text>
+	</string>
+	<string id="bar_arena_manager_info_10">
+		<text>No importa.</text>
+	</string>
+	<string id="bar_arena_manager_info_11">
+		<text>&#191;Qu&#233; es este establecimiento?</text>
+	</string>
+	<string id="bar_arena_manager_info_111">
+		<text>Esta es la arena, mi peque&#241;o negocio. Un lugar donde los stalkers pueden poner a prueba su temple y ganar fama luchando contra los horrores de la Zona.</text>
+	</string>
+	<string id="bar_arena_manager_info_12">
+		<text>&#191;C&#243;mo se capturan los mutantes de aqu&#237;?</text>
+	</string>
+	<string id="bar_arena_manager_info_121">
+		<text>Hicimos un trato con Deber, en lugar de matar a todos los mutantes que encuentran traen a los m&#225;s d&#233;biles aqu&#237; a cambio de dinero. Deber obtiene dinero, los mutantes son asesinados, y luego me pagan a m&#237;. Todo el mundo gana.</text>
+	</string>
+	<string id="bar_arena_manager_info_13">
+		<text>&#191;De donde eres?</text>
+	</string>
+	<string id="bar_arena_manager_info_131">
+		<text>Soy de muchos lugares. Escuch&#233; sobre este peque&#241;o remanso y comprend&#237; que pod&#237;a ganar un buen centavo aqu&#237;. As&#237; que aqu&#237; estoy.</text>
+	</string>
+	<string id="bar_arena_manager_rules_0">
+		<text>&#191;Cuales son las normas?</text>
+	</string>
+	<string id="bar_arena_manager_rules_1">
+		<text>Las reglas son bastante simples. Las invent&#233; yo mismo. Para los desaf&#237;os, hay una jaula, y se deja entrar a un mutante en la jaula. Pagas y me dices el tiempo que necesitas para matar al monstruo. Si lo logras, t&#250; ganas, si no lo haces, yo gano. Pero para el plato principal, los bandidos y los otros degenerados de la Zona capturados por Deber luchan en la arena por sus cr&#237;menes. Algunos son s&#243;lo stalkers a los que les gusta pelear, y no son criminales, pero quien abandone la arena en la menor cantidad de piezas recibe una recompensa considerable. Si siguen ganando peleas, m&#225;s stalkers vendr&#225;n a verlas y los combatientes ganar&#225;n mayores recompensas.</text>
+	</string>
+	<string id="bar_arena_manager_start_11">
+		<text>Me alegro de verte stalker, bienvenido a La Arena.</text>
+	</string>
+	<string id="bar_arena_manager_start_21">
+		<text>Entonces, &#191;qu&#233; est&#225;s esperando? M&#233;tete en la jaula.</text>
+	</string>
+	<string id="bar_arena_manager_start_31">
+		<text>Lo siento, no hay nada contra lo que luchar todav&#237;a. Espera un d&#237;a o dos hasta que podamos atrapar a un nuevo mutante.</text>
+	</string>
+	<string id="bar_arena_manager_start_41">
+		<text>&#161;Ah&#237; est&#225;! &#161;Bien hecho! Aqu&#237; est&#225; tu victoria. Si deseas otra pelea por dinero, entonces ven cuando quieras.</text>
+	</string>
+	<string id="bar_arena_manager_start_51">
+		<text>Lo siento, hermano, pero perdiste. Vuelve la pr&#243;xima vez si quieres.</text>
+	</string>
+
+	<!-- bar_visitors_stalker_mechanic -->
+	<string id="bar_visitors_stalker_mechanic_start_dialog_1">
+		<text>&#191;Otro stalker viene a visitar al viejo Mangun? Mmm, est&#225; bien. Muestrame lo que se te rompi&#243; y lo arreglo. Solo espero que tengas para pagar las piezas. </text>
+	</string>
+</string_table>

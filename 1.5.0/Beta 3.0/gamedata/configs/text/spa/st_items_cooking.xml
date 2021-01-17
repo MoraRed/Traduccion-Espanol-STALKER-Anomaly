@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Faction Patches
+-->
+<string_table>
+	<string id="st_matches">
+		<text>Kit iniciador de fuego</text>
+	</string>
+	<string id="st_matches_descr">
+		<text>Un conjunto simple de palos de madera de pino, impregnados de resina. Cualquiera que haya intentado encender un fuego al aire libre sabe que r&#225;fagas de viento al azar pueden extinguir las llamas muy r&#225;pidamente. Este set de iniciador, permite crear una fogata peque&#241;a pero constante, cuya temperatura es significativamente m&#225;s alta que la del papel o la cera. Indispensable en cualquier campa&#241;a porque es f&#225;cil de encender incluso con humedad.\n\n\n %c[d_green] &#8226; %c[ui_gray_2] usado para iniciar el fuego</text>
+	</string>
+	
+	<string id="st_wood_stove">
+		<text>Estufa hexagonal a le&#241;a</text>
+	</string>
+	<string id="st_wood_stove_descr">
+		<text>Este horno plegable compacto est&#225; dise&#241;ado para cocinar comidas individuales con madera seca. Sin embargo, dado que la madera que se encuentra dentro de la Zona est&#225; demasiado contaminada como para ser utilizada con ese fin, los stalkers dependen del carb&#243;n importado como el material combustible m&#225;s barato y ampliamente disponible. La estufa puede producir temperaturas suficientes para asar carne de mutante menos envenenada, pero preparar carne m&#225;s t&#243;xica requiere la utilizaci&#243;n de equipos m&#225;s avanzados. Se necesitan habilidades b&#225;sicas de fogatas. Fabricado en acero inoxidable y titanio ultraligero.\n \n %c[ui_gray_3]NOTAS:\n \n %c[ui_gray_1]Aunque el carb&#243;n est&#225; disponible en la Zona a precios relativamente baratos, debe usar una cantidad significativa de este para poder preparar una sola comida. Por esta raz&#243;n, el carb&#243;n no es tan rentable como parece. Por otro lado, es relativamente ligero, lo que lo hace perfecto para viajes largos en las profundidades de la Zona.\n \n %c[ui_gray_1]Las carnes mutantes que no requieren preparaci&#243;n de altas temperaturas se conocen como de "nivel bajo", mientras que aquellas que requieren altas temperaturas se conocen como de "nivel alto".\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] &#8226; %c[ui_gray_2] art&#237;culo tecnol&#243;gico \n %c[d_green] &#8226; %c[ui_gray_2] equipo de cocci&#243;n de campo de bajo nivel\n %c[d_green] &#8226; %c[ui_gray_2] combustible: %c[ui_gray_1] carb&#243;n\n %c[d_green] &#8226; %c[ui_gray_2] utilizable para cocinar carnes de mutantes menores\n</text>
+	</string>
+	
+	<string id="st_cooking">
+		<text>Kit de cocina para acampar</text>
+	</string>
+	<string id="st_cooking_descr">
+		<text>Un kit de cocina para acampar. Contiene accesorios y utensilios de cocina para usar cuando se acampa y se viaja. Produce mucho ruido y es dif&#237;cil de manejar debido a su gran peso. Muy popular entre los grandes grupos de stalkers.\n \n %c[ui_gray_3]NOTAS:\n \n %c[ui_gray_1]Aunque el carb&#243;n vegetal est&#225; disponible en la Zona a precios relativamente baratos, es necesario utilizar una cantidad significativa para preparar una sola comida. Por esta raz&#243;n, el carb&#243;n no es tan rentable como parece. Por otro lado, es relativamente ligero, lo que lo hace perfecto para viajes largos en las profundidades de la Zona.\n \n %c[ui_gray_1]Las carnes mutantes que no requieren preparaci&#243;n de altas temperaturas se conocen como de "nivel bajo", mientras que aquellas que requieren altas temperaturas se conocen como de "nivel alto".\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] &#8226; %c[ui_gray_2] art&#237;culo tecnol&#243;gico \n %c[d_green] &#8226; %c[ui_gray_2] equipo de cocci&#243;n de campo de bajo nivel\n %c[d_green] &#8226; %c[ui_gray_2] combustible: %c[ui_gray_1] carb&#243;n\n %c[d_green] &#8226; %c[ui_gray_2] utilizable para cocinar carnes de mutantes menores\n
+		</text>
+	</string>
+	
+	<string id="st_army_bowler">
+		<text>Hervidor del ej&#233;rcito</text>
+	</string>
+	<string id="st_army_bowler_descr">
+		<text>El hervidor militar tiene un perfil inferior convexo y c&#243;ncavo en un lado. Se entrega con un cable de alambre para colgarlo y transportarlo. Cuando se lleva en el cintur&#243;n, el lado c&#243;ncavo debe colocarse hacia cuerpo. La tapa del hervidor puede usarse como una sart&#233;n cuando se calienta o se prepara un segundo plato. Usando la manilla de control separada, puede ajustar la llama al calor que desee, incluso si usa guantes.\n \n %c[ui_gray_3]NOTAS: \n %c[ui_gray_1]Dado que los combustibles utilizados en las estufas multicombustible son portadores de energ&#237;a mucho m&#225;s eficientes que la le&#241;a o el carb&#243;n, la estufa multicombustible es, a largo plazo, significativamente m&#225;s rentable que las estufas tradicionales de le&#241;a o carb&#243;n. Por otra parte, estos combustibles suelen transportarse en contenedores de metales pesados, lo que los hace m&#225;s adecuados para su uso en bases que en operaciones sobre el terreno.\n \n %c[ui_gray_1]Las carnes mutantes que no requieren altas temperaturas para ser preparados se denominan "niveles bajos", mientras que aquellas que requieren altas temperaturas se conocen como "niveles altos". \n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] &#8226; %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] &#8226; %c[ui_gray_2] alta calidad\n %c[d_green] &#8226; %c[ui_gray_2] equipo de cocci&#243;n de campo de nivel medio\n %c[d_green] &#8226; %c[ui_gray_2] combustible: %c[ui_gray_1] carb&#243;n\n %c[d_green] &#8226; %c[ui_gray_2] usable en: %c[ui_gray_1]fogatas%c[ui_gray_2] %c[d_green] &#8226; %c[ui_gray_2] utilizable para cocinar carne de mutantes menores (nivel bajo)\n</text>
+	</string>
+	
+	<string id="st_fieldcooker">
+		<text>Estufa multi-combustible</text>
+	</string>
+	<string id="st_fieldcooker_descr">
+		<text>Este horno ha sido probado sobradamente durante muchos a&#241;os y se ha utilizado en innumerables expediciones. Es extremadamente robusto, fiable y potente y fue dise&#241;ado para manejar situaciones exigentes, altitudes extrem&#225;s y temperaturas bajas y altas. Tiene un rendimiento muy elevado y se puede utilizar con casi cualquier tipo de combustible, incluidos butano, gasolina/gasolina, diesel, queroseno/parafina e incluso combustible de aviones. Usando la manilla de control separada, puede ajustar la llama al calor que desee, incluso si usa guantes.\n \n %c[ui_gray_3]NOTAS: \n %c[ui_gray_1]Dado que los combustibles utilizados en las estufas multicombustible son portadores de energ&#237;a mucho m&#225;s eficientes que la le&#241;a o el carb&#243;n, la estufa multicombustible es, a largo plazo, significativamente m&#225;s rentable que las estufas tradicionales de le&#241;a o carb&#243;n. Por otra parte, estos combustibles suelen transportarse en contenedores de metales pesados, lo que los hace m&#225;s adecuados para su uso en bases que en operaciones sobre el terreno.\n \n %c[ui_gray_1]Las carnes mutantes que no requieren altas temperaturas para ser preparados se denominan "niveles bajos", mientras que aquellas que requieren altas temperaturas se conocen como "niveles altos". \n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] &#8226; %c[ui_gray_2] art&#237;culo tecnol&#243;gico \n %c[d_green] &#8226; %c[ui_gray_2] equipo de cocci&#243;n de campo de alto nivel \n %c[d_green] &#8226; %c[ui_gray_2] combustible: %c[ui_gray_1]gasolina, gas natural, queroseno \n %c[d_green] &#8226; %c[ui_gray_2] utilizable para cocinar carnes de todos los mutantes\n</text>
+	</string>
+	
+	<string id="st_box_matches">
+		<text>Caja de f&#243;sforos</text>
+	</string>
+	<string id="st_box_matches_descr">
+		<text>Una caja de f&#243;sforos es el segundo elemento m&#225;s importante de la Zona despu&#233;s de un arma. Con la ayuda de los f&#243;sforos, se puede crear un fuego, se puede pasar una llama a un amigo y se pueden iluminar peque&#241;os espacios. Esta caja en particular fue producida en una f&#225;brica subterr&#225;nea desconocida en las rotondas de la Zona, por lo que no se puede esperar una alta calidad, aunque el precio tampoco es alto. La caja ha sido permanentemente arrugada, azufre desmenuzado y f&#243;sforos h&#250;medos rotos. S&#243;lo una cuarta parte de su contenido sigue siendo utilizable. A&#250;n as&#237;, encender un fuego o un cigarrillo es muy dif&#237;cil si se utiliza la caja de f&#243;sforos, por lo que los stalkers tienden a comprar un encendedor m&#225;s caro pero pr&#225;ctico.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] &#8226; %c[ui_gray_2] art&#237;culo de uso cotidiano\n %c[d_orange] &#8226; %c[ui_gray_2] utilizable para:%c[ui_gray_1] Iniciar un fuego, encender un cigarrillo\n</text>
+	</string>
+	
+	<string id="st_kerosene">
+		<text>Queroseno</text>
+	</string>
+	<string id="st_kerosene_descr">
+		<text>El queroseno se usa ampliamente, por ejemplo en la aviaci&#243;n como combustible para cohetes, y como combustible en productos de vidrio, iluminaci&#243;n dom&#233;stica y dispositivos de calefacci&#243;n. Al ser un excelente solvente, alcanza f&#225;cilmente los mecanismos internos y, por lo tanto, es ampliamente utilizado en la limpieza y reparaci&#243;n de diversos componentes.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] &#8226; %c[ui_gray_2]art&#237;culo tecnol&#243;gico\n %c[d_green] &#8226; %c[ui_gray_2] combustible para cocinar de alto nivel\n
+		</text>
+	</string>
+	
+	<string id="st_charcoal">
+		<text>Carb&#243;n</text>
+	</string>
+	<string id="st_charcoal_descr">
+		<text>Carb&#243;n de le&#241;a de madera dura para cocinar carne, pescado, verduras en el horno y barbacoa.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] &#8226; %c[ui_gray_2]art&#237;culo tecnol&#243;gico\n %c[d_green] &#8226; %c[ui_gray_2] combustible de cocina de bajo nivel\n</text>
+	</string>
+
+	<string id="st_fuel_tier_1">
+		<text>Todos los inflamables</text>
+	</string>
+	<string id="st_fuel_tier_1_desc">
+		<text>
+		%c[d_blue] &#8226; %c[ui_gray_2] Fogata\n %c[d_blue] &#8226; %c[ui_gray_2] Carb&#243;n\n %c[d_blue] &#8226; %c[ui_gray_2] Queroseno\n %c[d_blue] &#8226; %c[ui_gray_2] Trampa de bidon\n %c[d_blue] &#8226; %c[ui_gray_2] Bombona de gas\n
+		</text>
+	</string>
+	
+	<string id="st_fuel_tier_2">
+		<text>S&#243;lo combustible l&#237;quido</text>
+	</string>
+	<string id="st_fuel_tier_2_desc">
+		<text>
+		%c[d_blue] &#8226; %c[ui_gray_2] Queroseno\n %c[d_blue] &#8226; %c[ui_gray_2] Trampa de bidon\n %c[d_blue] &#8226; %c[ui_gray_2] Bombona de gas\n
+		</text>
+	</string>
+
+</string_table> 

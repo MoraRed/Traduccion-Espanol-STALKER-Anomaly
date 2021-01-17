@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Weapons Attachments
+-->
+
+<string_table>
+
+	<string id="st_addon_scope">
+		<text>Mira PSO-1M</text>
+	</string>
+	<string id="st_addon_scope_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]todos los fusiles del Pacto de Varsovia \n \n %c[ui_gray_1]PSO (para Pritsel Snaipersky Optichesky, "Optical Sniper Sight" o "Vista &#211;ptica de Francotirador") es una serie de miras &#243;pticas fabricadas en la Uni&#243;n Sovi&#233;tica y producidas por la Planta de fabricaci&#243;n de instrumentos de Novosibirsk (NPZ Optics State Plant). En uso com&#250;n desde 1964 cuando se introdujo como mira telesc&#243;pica est&#225;ndar para el rifle de francotirador SVD. adaptado para rifles de asalto como AK-74 o AN-94. Reconocido por su durabilidad, versatilidad y dise&#241;o de ret&#237;cula muy bien dise&#241;ado con una conveniente escala de alcance de rango.Este tipo particular tiene una tasa de aumento de 4.0x, por lo que es utilizable principalmente para el combate en alcance largo. Se adjunta a las armas por medio de una montura en cola de milano, que es est&#225;ndar en los pa&#237;ses del Pacto de Varsovia.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Aumento: %c[ui_gray_1]4.0 x \n %c[d_purple] &#8226; %c[ui_gray_2]Condici&#243;n: %c[ui_gray_1]bueno \n %c[d_purple] &#8226; %c[0,14 0,140,140]Patr&#243;n de ret&#237;cula: %c[ui_gray_1]PSO-1</text>
+	</string>
+	
+	<string id="st_addon_scope_1p29">
+		<text>Mira 1P29 "Tulip"</text>
+	</string>
+	<string id="st_addon_scope_1p29_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]todos rifles del Pacto de Varsovia\n \n %c[ui_gray_1]La mira USP-1 (&#237;ndice 1P29) tiene una disposici&#243;n &#243;ptica con un sistema de montaje de prism&#225;s. Los &#225;ngulos de visi&#243;n se establecen mec&#225;nicamente girando el cuerpo de la mira en relaci&#243;n con el soporte de montaje del arma. No requiere bater&#237;as ya que est&#225; iluminado con tritio. La escala de rango en el borde del campo de visi&#243;n proporciona un medio para encontrar visualmente el rango de hasta 1200 m de un objetivo de 1,5 m de altura.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Aumento: %c[ui_gray_1]4,0x \n %c[d_purple] &#8226; %c[ui_gray_2]Condici&#243;n: %c[ui_gray_1]bueno \n %c[d_purple] &#8226; %c[ui_gray_2]Patr&#243;n de ret&#237;culo: %c[ui_gray_1]PSU-1</text>
+	</string>
+	
+	<string id="st_addon_scope_ac10632">
+		<text>Mira Barska ELECTRO SIGHT AC10632</text>
+	</string>
+	<string id="st_addon_scope_ac10632_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]todos los rifles NATO (OTAN)\n \n %c[ui_gray_1]Se desarroll&#243; el visor de puntos rojos Barska Electro Sight Multi Reticle AC10632 para ser el mejor producto para cualquiera que busque una vista de alta calidad. Puede montarse en armas de la OTAN y en el AK-12.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Ampliaci&#243;n: %c[ui_gray_1]ninguno (colimador) \n %c[0,93, 0,116] &#8226; %c[ui_gray_2]Estado: %c[ui_gray_1]muy bueno</text>
+	</string>
+	
+	<string id="st_addon_scope_acog">
+		<text>Mira ACOG 3,5x</text>
+	</string>
+	<string id="st_addon_scope_acog_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]todos los rifles NATO (OTAN)\n \n%c[ui_gray_1]ACOG son las siglas de Advanced Combat Optical Gunsights y se refiere a una familia de visores de armas de fuego producidos por la compa&#241;&#237;a Trijicon. Las miras de este tipo suelen ser de alta calidad y tienen una iluminaci&#243;n ret&#237;cula interna a base de tritio. Este tipo particular tiene una ret&#237;cula de estilo USMC y un aumento ajustable.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Ampliaci&#243;n: %c[ui_gray_1]3.5x \n %c[0, 93,0,116] &#8226; %c[ui_gray_2]Condici&#243;n: %c[ui_gray_1]muy buena \n %c[d_purple] &#8226; %c[ui_gray_2]Patr&#243;n de ret&#237;cula: %c[ui_gray_1]USMC</text>
+	</string>
+	
+	<string id="st_addon_scope_eotech">
+		<text>Mira EOTech</text>
+	</string>
+	<string id="st_addon_scope_eotech_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]todos los rifles NATO (OTAN)\n \n %c[ui_gray_1]Mira hologr&#225;fica para rifles de asalto y ametralladoras de la OTAN.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Aumento: %c[ui_gray_1]ninguno (colimador) \n %c[d_purple] &#8226; %c[ui_gray_2]Condici&#243;n: %c[ui_gray_1]muy bueno</text>
+	</string>
+	
+	<string id="st_addon_scope_galil_susat">
+		<text>Mira Galil 4.0x (SUSAT)</text>
+	</string>
+	<string id="st_addon_scope_galil">
+		<text>Mira Galil 4.0x</text>
+	</string>
+	<string id="st_addon_scope_galil_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]rifle autom&#225;tico Galil AR \n \n %c[ui_gray_1]Visor &#243;ptico para el rifle israel&#237; IMI Galil.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Ampliaci&#243;n: %c[ui_gray_1]4.0x \n %c[d_purple] &#8226; %c[ui_gray_2]Estado: %c[ui_gray_1]bueno \n %c[d_purple] &#8226; %c[ui_gray_2]Patr&#243;n de ret&#237;cula: %c[ui_gray_1]SUSAT</text>
+	</string>
+	
+	<string id="st_addon_scope_kobra">
+		<text>EKP 1S-03 "Kobra"</text>
+	</string>
+	<string id="st_addon_scope_kobra_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]todas los rifles del Pacto de Varsovia\n \n %c[ui_gray_1]La mira Kobra es una &#243;ptica de combate de colimador abierto que utiliza un HUD generado por l&#225;ser para superponer un patr&#243;n de ret&#237;cula en una lente filtrada. Est&#225; dise&#241;ado para acoplarse r&#225;pida metas y objetivos que aparecen durante un corto per&#237;odo de tiempo en lugares cerrados y combate urbano en diferentes condiciones de luz en movimiento. Proporciona una orientaci&#243;n clara de 104 lx a 10-2 lx (luz del d&#237;a, crep&#250;sculo y luz de luna), uno o dos objetivos. Efectiva al disparar desde veh&#237;culos en movimiento.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Ampliaci&#243;n: %c[ui_gray_1]Ninguno (colimador) \n %c[d_purple] &#8226; %c[ui_gray_2]Condici&#243;n: %c[ui_gray_1]muy bueno</text>
+	</string>
+	
+	<string id="st_addon_scope_po4x34">
+		<text>Mira PO4x34</text>
+	</string>
+	<string id="st_addon_scope_po4x34_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n \n%c[d_cyan] &#8226; %c[ui_gray_2]Serie de armas OTs-14\n \n %c[ui_gray_1]Vista &#243;ptica para la serie de armas OTs-14.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Ampliaci&#243;n: %c[ui_gray_1]4.0x\n %c[d_purple] &#8226; %c[ui_gray_2]Estado: %c[ui_gray_1]bueno\n %c[d_purple] &#8226; %c[ui_gray_2]Patr&#243;n de ret&#237;cula: %c[ui_gray_1]4x34</text>
+	</string>
+	
+	<string id="st_addon_scope_pso-1m2-01">
+		<text>Mira PSO-1M2-1</text>
+	</string>
+	<string id="st_addon_scope_pso-1m2-01_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]todas Pacto de Varsovia rifles \n \n %c[ui_gray_1]El PSO-1M2-O1 cuenta con una muy eficaz y &#250;til tel&#233;metro basado en la altura para uso doble, con escalas graduadas para la estimaci&#243;n de la figura de pie y prono. El gradiente basado 400 metros de altura Simonov (estilo estrangulador) tel&#233;metro tiene un chevron para su uso con los rifles 9x39 calibre \n \n %c[d_purple] &#8226; %c[ui_gray_2]Ampliaci&#243;n: %c[ui_gray_1]4.0 x \n %c[d_purple] &#8226; %c[ui_gray_2]Estado: %c[ui_gray_1]muy buena \n %c[d_purple] &#8226; %c[ui_gray_2]patr&#243;n de ret&#237;cula: %c[ui_gray_1]PSO-1-1</text>
+	</string>
+	
+	<string id="st_addon_scope_pu">
+		<text>Mira PU</text>
+	</string>
+	<string id="st_addon_scope_pu_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]rifles rusos hist&#243;ricos\n \n %c[ui_gray_1]Vista telesc&#243;pica est&#225;ndar del Ej&#233;rcito Rojo en la Guerra Mundial II y a&#241;os despu&#233;s, dise&#241;ado para caber rifles de infanter&#237;a y de precisi&#243;n como Mosin-Nagant o SVT-40. Cuenta con un zoom fijo de 3.5x por lo que es una buena opci&#243;n para el combate a larga distancia. Como todos los dise&#241;os sovi&#233;ticos, es duradero y eficaz, permaneciendo en producci&#243;n y uso hasta el d&#237;a de hoy.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Ampliaci&#243;n: %c[ui_gray_1]3.5x \n %c[d_purple] &#8226; %c[ui_gray_2]Condici&#243;n: %c[ui_gray_1]media \n %c[d_purple] &#8226; %c[ui_gray_2]Patr&#243;n de ret&#237;cula: %c[ui_gray_1]PU</text>
+	</string>
+	
+	<string id="st_addon_scope_zf4">
+		<text>Mira ZF-4</text>
+	</string>
+	<string id="st_addon_scope_zf4_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]rifles alemanes hist&#243;ricos \n \n %c[ui_gray_1]ZF-4 es uno de los primeros telescopios jam&#225;s creados. Dise&#241;ado y fabricado en Alemania durante la Segunda Guerra Mundial, su objetivo era proporcionar a la infanter&#237;a regular la capacidad de luchar a grandes distancias. Al final, debido a que no se han producido suficientes n&#250;meros, ha sido utilizado principalmente por francotiradores alemanes y escuadrones de combate de &#233;lite. La mira todav&#237;a est&#225; en uso, ya que las armas para las que ha sido dise&#241;ado est&#225;n com&#250;nmente disponibles, por lo que tambi&#233;n sigue siendo un modelo relativamente popular en la Zona.\n \n %c[d_purple] &#8226; %c[ui_gray_2] Aumento: %c[ui_gray_1]2.0x\n %c[d_purple] &#8226; %c[ui_gray_2] Estado: %c[ui_gray_1]bueno\n %c[d_purple] &#8226; %c[ui_gray_2] Patr&#243;n de ret&#237;cula: %c[ui_gray_1]ZF-41</text>
+	</string>
+	
+	<string id="st_addon_scope_cmore">
+        <text>Mira T&#225;ctica C-MORE</text>
+    </string>
+    <string id="st_addon_scope_cmore_descr">
+        <text>Una mira de punto rojo de alto rendimiento que proporciona un campo de visi&#243;n ilimitado, a la vez que elimina la obstrucci&#243;n y la visi&#243;n de t&#250;nel com&#250;n a los visores de estilo tubular. La serie "Railway" tiene una base de riel est&#225;ndar preinstalada para permitir que la mira se fije en la mayor&#237;a de los soportes o receptores de rieles Weaver o Picatinny.\n\n %c[d_purple] &#8226; %c[ui_gray_2] Aumento: %c[ui_gray_1]ninguno (collimator)\n %c[d_purple] &#8226; %c[ui_gray_2] Condici&#243;n: %c[ui_gray_1]bueno\n</text>
+    </string>
+	
+	<string id="st_addon_scope_ac11090">
+        <text>Mira AC11090 Red Dot</text>
+    </string>
+    <string id="st_addon_scope_ac11090_descr">
+        <text>Una mira de punto rojo barata con 2 aumentos para rifles de asalto de la OTAN, subfusiles y AK-12.</text>
+    </string>
+	
+	<string id="st_addon_sil_45">
+		<text>.45 Silenciador de ACP</text>
+	</string>
+	<string id="st_addon_sil_45_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2].45 armas de calibre\n \n%c[ui_gray_1]Silenciador para las pistolas .45 ACP y ametralladoras.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Supresi&#243;n de sonido: %c[ui_gray_1]muy alto (pistola)</text>
+	</string>
+	
+	<string id="st_addon_sil_57">
+		<text>Silenciador 5,7x28</text>
+	</string>
+	<string id="st_addon_sil_57_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]5.7 mm armas de calibre\n \n%c[ui_gray_1]Silenciador para el FN-P90 PDW.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Supresi&#243;n de sonido: %c[ui_gray_1]alto</text>
+	</string>
+	
+	<string id="st_addon_sil_6p9">
+		<text>Silenciador 6P9</text>
+	</string>
+	<string id="st_addon_sil_6p9_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]armas de calibre 9 mm\n \n%c[ui_gray_1]Silenciador para la pistola PB.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Supresi&#243;n de sonido: %c[ui_gray_1]muy bueno</text>
+	</string>
+	
+	<string id="st_addon_sil_9a91">
+		<text>Silenciador 9A-91/VSK-94</text>
+	</string>
+	<string id="st_addon_sil_9a91_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]Armas de calibre 9x39 \n \n%c[ui_gray_1]Silenciador para la carabina 9A-91 y VSK-94.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Supresi&#243;n de sonido: %c[ui_gray_1]muy alto</text>
+	</string>
+	
+	<string id="st_addon_sil_9mm">
+		<text>Silenciador de 9mm</text>
+	</string>
+	<string id="st_addon_sil_9mm_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]Armas de calibre 9 mm\n \n%c[ui_gray_1]Silenciador para pistolas y subametralladoras. Un Silenciador de sonido efectivo para armas de calibre 9x18. Es muy arcaico y, sin embargo, bastante efectivo. Su cuerpo contiene un rollo apretado de malla de lat&#243;n fino. La parte frontal de la unidad est&#225; compuesta por un conjunto de toallitas de hule con orificios del tama&#241;o de un calibre para que la bala atraviese. Normalmente se usa para enfrentamientos cuerpo a cuerpo contra enemigos con armadura ligera y para asesinatos.\n \n%c[d_purple] &#8226; %c[ui_gray_2]Supresi&#243;n de sonido: %c[ui_gray_1]muy alto</text>
+	</string>
+	
+	<string id="st_addon_sil_aps">
+		<text>Silenciador de APS</text>
+	</string>
+	<string id="st_addon_sil_aps_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]armas de calibre 9 mm\n \n %c[ui_gray_1]Silenciador para la pistola OTs-33 "Pernach".\n \n %c[d_purple] &#8226; %c[ui_gray_2]Supresi&#243;n de sonido: %c[ui_gray_1]medio</text>
+	</string>
+	
+	<string id="st_addon_sil_atg">
+		<text>Silenciador ATG</text>
+	</string>
+	<string id="st_addon_sil_atg_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]armas de calibre 7.62 \n \n %c[ui_gray_1]Silenciador para la AK-102, AK-103 and AK-104.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Supresi&#243;n de sonido: %c[ui_gray_1]medio</text>
+	</string>
+	
+	<string id="st_addon_sil_gemtech">
+		<text>Silenciador Gemtech</text>
+	</string>
+	<string id="st_addon_sil_gemtech_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]9 mm, calibre .45 armas\n \n %c[ui_gray_1]Silenciador para la Glock y la FN- FNP.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Supresi&#243;n de sonido: %c[ui_gray_1]alto</text>
+	</string>
+	
+	<string id="st_addon_sil_kzrzp">
+		<text>Silenciador KZRZP</text>
+	</string>
+	<string id="st_addon_sil_kzrzp_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]7.62 armas de calibre\n \n %c[ui_gray_1]Silenciador para el rifle de francotirador SVD.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Supresi&#243;n de sonido: %c[ui_gray_1]medio</text>
+	</string>
+	
+	<string id="st_addon_sil_nato">
+		<text>Silenciador NATO (OTAN)</text>
+	</string>
+	<string id="st_addon_sil_nato_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2].45, 5,56, 7,62 armas de calibre\n \n %c[ui_gray_1]Silenciador para la norma NATO (OTAN) 5,56x45 mm rifles de calibre.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Supresi&#243;n de sonido: %c[ui_gray_1]alta</text>
+	</string>
+	
+	<string id="st_addon_sil_pbs1">
+		<text>Silenciador PBS-1</text>
+	</string>
+	<string id="st_addon_sil_pbs1_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]7.62 armas de calibre\n \n %c[ui_gray_1]Silenciador para disparar sin ruido y sin llama con Kalashnikov 7,62 mm.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Supresi&#243;n de sonido: %c[ui_gray_1]medio</text>
+	</string>
+	
+	<string id="st_addon_sil_pbs4">
+		<text>Silenciador PBS-4</text>
+	</string>
+	<string id="st_addon_sil_pbs4_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]5.45 armas de calibre\n \n %c[ui_gray_1]Silenciador para el rifle AKS-74U rifle.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Supresi&#243;n de sonido: %c[ui_gray_1]medio</text>
+	</string>
+	
+	<string id="st_addon_sil_sr25">
+		<text>Silenciador SR-25</text>
+	</string>
+	<string id="st_addon_sil_sr25_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]7.62 mm armas de calibre\n \n %c[ui_gray_1]Silenciador para el SR-25.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Supresi&#243;n de sonido: %c[ui_gray_1]alto</text>
+	</string>
+	
+	<string id="st_addon_sil_tgp-a">
+		<text>Silenciador TGP-A</text>
+	</string>
+	<string id="st_addon_sil_tgp-a_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2] armas de calibre 5.45 \n \n %c[ui_gray_1]Silenciador para la serie de rifles AK y ametralladoras RPK-74.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Supresi&#243;n de sonido: %c[ui_gray_1]medio</text>
+	</string>
+	
+	<string id="st_addon_sil_vihr">
+		<text>Silenciador SR-3M</text>
+	</string>
+	<string id="st_addon_sil_vihr_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]Armas de calibre 9x39 \n \n %c[ui_gray_1]Silenciador para la el rifle SR-3M.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Supresi&#243;n de sonido: %c[ui_gray_1]muy alto</text>
+	</string>
+	
+	<string id="st_addon_silencer">
+		<text>Silenciador de rifle de peque&#241;o calibre del ej&#233;rcito de EE.</text>
+	</string>
+	<string id="st_addon_silencer_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2] armas de calibre 5.56x45 \n \n %c[ui_gray_1]Silenciador de rifle avanzado para dise&#241;o y fabricaci&#243;n estadounidense, que tiene aparentemente "desapareci&#243;" de uno de los contenedores de suministros del ej&#233;rcito de la armada de los EEUU. UU. Consiste en un cuerpo de acero de alto grado lleno de cuatro c&#225;maras de extensi&#243;n, seguido de una serie de deflectores de titanio tipo Z. La unidad reduce casi por completo el fogonazo y reprime considerablemente el sonido emitido al disparar. Tambi&#233;n requiere un mantenimiento m&#237;nimo. Los Silenciadores de este tipo y similares se usan com&#250;nmente en todos los rifles fabricados en el oeste de peque&#241;o calibre y permanecen en servicio activo en las fuerzas armadas occidentales.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Supresi&#243;n de sonido: %c[ui_gray_1]medio</text>
+	</string>
+	
+	<string id="st_addon_silencer_svu">
+		<text>Silenciador de SVU</text>
+	</string>
+	<string id="st_addon_silencer_svu_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]rifles SVU\n \n %c[ui_gray_1]Este Silenciador de tres c&#225;maras especialmente dise&#241;ado no est&#225; destinado a silenciar por completo el rifle SVU ya que el soldado no usar&#237;a munici&#243;n subs&#243;nica. Su objetivo principal es silenciar y difundir el ruido lo suficiente para dificultar la detecci&#243;n por parte del enemigo. Su caracter&#237;stica especial es un corte de boca muy eficaz colocado en el extremo del Silenciador, capaz de reducir el retroceso en aproximadamente un 40%. Las capacidades superiores tienen el costo de reducir la velocidad del ca&#241;&#243;n y, por lo tanto, reducen significativamente la producci&#243;n de da&#241;os del arma.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Supresi&#243;n del sonido: %c[ui_gray_1]bajo \n \n %c[ui_gray_1]ESPECIAL:\n \n%c[d_red] &#8226; %c[ui_gray_2]reducci&#243;n de retroceso mejorado</text>
+	</string>
+	
+	<string id="st_addon_trijicon_acog">
+		<text>Mira ACOG</text>
+	</string>
+	<string id="st_addon_trijicon_acog_descr">
+		<text>\n \n%c[ui_gray_2]COMPATIBILIDAD:\n \n%c[d_cyan] &#8226; %c[ui_gray_2]rifles seleccionados OTAN (OTAN)\n \n %c[ui_gray_1]Alcance &#243;ptico desmontable hecho espec&#237;ficamente para rifles NATO (OTAN). ACOG significa Defensas Opticas de Combate Avanzadas y se refiere a una familia de armas de fuego producida por la empresa Trijicon. Las miras de este tipo suelen ser de alta calidad y tienen una iluminaci&#243;n ret&#237;cula interna a base de tritio. Este tipo particular tiene una ret&#237;cula de un moderno 'trijicon' y un aumento fijo de 2.0x.\n \n %c[d_purple] &#8226; %c[ui_gray_2]Ampliaci&#243;n: %c[ui_gray_1]2,0x \n %c[0, 93,0,116] &#8226; %c[ui_gray_2]Condici&#243;n: %c[ui_gray_1]muy buena \n %c[d_purple] &#8226; %c[ui_gray_2]Patr&#243;n de ret&#237;cula: %c[ui_gray_1]trijicon</text>
+	</string>
+	
+</string_table> 

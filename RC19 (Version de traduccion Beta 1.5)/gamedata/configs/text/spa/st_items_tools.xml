@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Usable Items (Special Purposes)
+-->
+
+<string_table>
+	
+	<string id="st_itm_repairkit_tier_1_name">
+		<text>Herramientas b&#225;sicas</text>
+	</string>
+	<string id="st_itm_basickit_name">
+		<text>Herramientas b&#225;sicas</text>
+	</string>
+	<string id="st_itm_basickit_descr">
+		<text>Un kit de herramientas b&#225;sicas de reparaci&#243;n. Pueden utilizarse para fabricar equipos b&#225;sicos, dispositivos y piezas de actualizaci&#243;n de equipos. El kit contiene diferentes tipos y tama&#241;os de alicates, tornillos, adhesivos y sujetadores varios.\n \n %c[ui_gray_3]NOTAS:\n %c[0,250,250,0] • %c[ui_gray_2] Un t&#233;cnico podr&#237;a usarlas para modificar completamente las armas y armaduras. \n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_purple] • %c[ui_gray_2] utilizable en el taller de mec&#225;nica para la fabricaci&#243;n\n %c[d_blue] • %c[ui_gray_2] valioso\n %c[d_red] • %c[ui_gray_2] requiere materiales adecuados\n</text>
+	</string>
+
+	<string id="st_itm_repairkit_tier_2_name">
+		<text>Herramientas avanzadas</text>
+	</string>
+	<string id="st_itm_advancedkit_name">
+		<text>Herramientas avanzadas</text>
+	</string>
+	<string id="st_itm_advancedkit_descr">
+		<text>Un conjunto decente de herramientas viejas, pero a pesar de su edad parecen estar en buenas condiciones. Contiene un pu&#241;ado de peque&#241;os alicates, pinzas con punta, una sonda y un juego de p&#250;as. Con suficiente conocimiento y experiencia, este kit puede ser utilizado para fabricar un mejor equipo.\n \n %c[ui_gray_3]NOTAS:\n %c[0,250,250,0] • %c[ui_gray_2] Un t&#233;cnico podr&#237;a usarlo para modificar completamente las armas y armaduras.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_purple] • %c[ui_gray_2] utilizable en el taller de mec&#225;nica para la fabricaci&#243;n\n %c[d_blue] • %c[ui_gray_2] valioso\n %c[d_red] • %c[ui_gray_2] requiere materiales adecuados\n</text>
+	</string>
+	
+	<string id="st_itm_repairkit_tier_3_name">
+		<text>Herramientas expertas</text>
+	</string>
+	<string id="st_itm_expertkit_name">
+		<text>Herramientas expertas</text>
+	</string>
+	<string id="st_itm_expertkit_descr">
+		<text>Un juego profesional de herramientas de alta calidad para el ajuste fino de equipos. Contiene un juego de brocas, pinzas de precisi&#243;n, hierro para soldar, brocas Destornillador de 4 mm y un mult&#237;metro. Con suficiente conocimiento y experiencia, este kit puede ser usado para la creaci&#243;n de equipo de avanzada.\n \n %c[ui_gray_3]NOTAS:\n %c[0,250,250,0] • %c[ui_gray_2] Un t&#233;cnico podr&#237;a usarlos para modificar completamente las armas y armaduras.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_purple] • %c[ui_gray_2] utilizable en el taller de mec&#225;nica para la fabricaci&#243;n\n %c[d_blue] • %c[ui_gray_2] valioso\n %c[d_red] • %c[ui_gray_2] requiere materiales adecuados\n</text>
+	</string>
+	
+	<string id="st_itm_drugkit">
+		<text>Kit de fabricaci&#243;n de drogas</text>
+	</string>
+	<string id="st_itm_drugkit_descr">
+		<text>Cajas peque&#241;as y diversos objetos met&#225;licos constituyen un conjunto para la gesti&#243;n y la producci&#243;n de drogas. Contiene algunos paquetes de pl&#225;stico, comprimidos y ampollas.\n \n %c[ui_gray_3]NOTAS:\n %c[0,250,250,0] • %c[ui_gray_2] Un m&#233;dico podr&#237;a usarlas para fabricar drogas y medicinas.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_purple] • %c[ui_gray_2] utilizable en el taller de mec&#225;nica para la fabricaci&#243;n\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_blue] • %c[ui_gray_2] valioso\n %c[d_red] • %c[ui_gray_2] requiere materiales adecuados\n</text>
+	</string>
+	
+	<string id="st_itm_ammokit">
+		<text>Herramientas de armer&#237;a</text>
+	</string>
+	<string id="st_itm_ammokit_descr">
+		<text>Un juego decente de viejas herramientas de armero y accesorios. Contiene un juego de punzones, un martillo de rueda, una herramienta de prensa y un kit de medici&#243;n de p&#243;lvora negra. Con suficiente conocimiento y experiencia, este kit puede ser utilizado para el reciclaje de municiones da&#241;adas y la creaci&#243;n de mejores variantes.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_purple] • %c[ui_gray_2] utilizable en el taller de mec&#225;nica para la fabricaci&#243;n\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_blue] • %c[ui_gray_2] valioso\n %c[d_red] • %c[ui_gray_2] requiere materiales adecuados\n</text>
+	</string>
+	
+	<string id="st_binocular_name">
+		<text>Prism&#225;ticos militares</text>
+	</string>
+	<string id="st_binocular_descr">
+		<text>Prism&#225;ticos militares est&#225;ndar de fabricaci&#243;n ucraniana. Son &#250;tiles en la Zona porque permiten a su due&#241;o observar cosas a la distancia. Muy duraderos.\n</text>
+	</string>
+	
+	<string id="st_con_checker_name">
+		<text>Papel con la condici&#243;n del equipo</text>
+	</string>
+	<string id="st_con_checker_descr">
+		<text>Un trozo de papel con la condici&#243;n de tu equipo escrito en &#233;l.\n \n %c[ui_gray_3]PROPIEDAES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso cotidiano\n %c[d_orange] • %c[ui_gray_2] usable para: %c[ui_gray_1] evaluaci&#243;n del estado del equipo\n</text>
+	</string>
+	
+	<string id="st_container_tool_name">
+		<text>Herramienta para manejo de artefactos</text>
+	</string>
+	<string id="st_container_tool_descr">
+		<text>Pinzas de acero templado, destinadas exclusivamente a la manipulaci&#243;n de artefactos. Debido a la mec&#225;nica espec&#237;fica de funcionamiento, no hay otra forma de sacar un artefacto de los contenedores. Las pinzas tambi&#233;n le permitir&#225;n evitar las quemaduras que normalmente se producen al tocar un artefacto con las manos desnudas; sin embargo, no te proteger&#225;n de los efectos de los artefactos en tu psique y sistema neural. Ning&#250;n verdadero cazador de artefactos de la Zona sale de la base sin una herramienta similar.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[ui_white] • %c[ui_gray_2] usado para el manejo de artefactos\n %c[ui_white] • %c[ui_gray_2] esencial para manipular el contenido de los dispositivos de almacenamiento de artefactos\n</text>
+	</string>
+	
+	<string id="st_lead_box_name">
+		<text>Contenedor de metal con revestimiento de plomo (vac&#237;o)</text>
+	</string>
+	<string id="st_lead_box_descr">
+		<text>El contenedor de metal revestido de plomo (LLMC) es una simple caja de metal con paredes gruesas e inserciones de espuma, as&#237; como una tapa pesada con mecanismo de sellado a presi&#243;n. Dise&#241;ado espec&#237;ficamente para el transporte de materiales radiactivos, en la Zona el LLMC se emplea m&#225;s com&#250;nmente como dispositivo de almacenamiento y transporte de artefactos. Sin embargo, el dispositivo no puede ser fijado al cintur&#243;n, lo que significa que las propiedades positivas y negativas de los artefactos no aplicar&#225;n al portador. \n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[ui_white] • %c[ui_gray_2] dispositivo de almacenamiento de artefactos\n %c[ui_white] • %c[ui_gray_2] capacidad: %c[ui_gray_1] 1\n %c[ui_white] • %c[ui_gray_2] estado: %c[ui_gray_1] vac&#237;o\n \n %c[d_red]ADVERTENCIA:\n \n %c[default]Debes retirar los artefactos del contenedor antes de venderlos.\n</text>
+	</string>
+	
+	<string id="st_lead_box_half_name">
+		<text>Contenedor de metal con revestimiento de plomo (medio lleno)</text>
+	</string>
+	<string id="st_lead_box_half_descr">
+		<text>El contenedor de metal revestido de plomo (LLMC) es una simple caja de metal con paredes gruesas e inserciones de espuma, as&#237; como una tapa pesada con mecanismo de sellado a presi&#243;n. Dise&#241;ado espec&#237;ficamente para el transporte de materiales radiactivos, en la Zona el LLMC se emplea m&#225;s com&#250;nmente como dispositivo de almacenamiento y transporte de artefactos. Sin embargo, el dispositivo no puede ser fijado al cintur&#243;n, lo que significa que las propiedades positivas y negativas de los artefactos no aplicar&#225;n al portador. \n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[ui_white] • %c[ui_gray_2] dispositivo de almacenamiento de artefactos\n %c[ui_white] • %c[ui_gray_2] capacidad: %c[ui_gray_1] 1\n %c[ui_white] • %c[ui_gray_2] estado: %c[ui_gray_1] 50% lleno\n \n %c[d_red]ADVERTENCIA:\n \n %c[default]Debes retirar los artefactos del contenedor antes de venderlos.\n</text>
+	</string>
+	
+	<string id="st_lead_box_closed_name">
+		<text>Contenedor de metal con revestimiento de plomo (Lleno)</text>
+	</string>
+	<string id="st_lead_box_closed_descr">
+		<text>El contenedor de metal revestido de plomo (LLMC) es una simple caja de metal con paredes gruesas e inserciones de espuma, as&#237; como una tapa pesada con mecanismo de sellado a presi&#243;n. Dise&#241;ado espec&#237;ficamente para el transporte de materiales radiactivos, en la Zona el LLMC se emplea m&#225;s com&#250;nmente como dispositivo de almacenamiento y transporte de artefactos. Sin embargo, el dispositivo no puede ser fijado al cintur&#243;n, lo que significa que las propiedades positivas y negativas de los artefactos no aplicar&#225;n al portador. \n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[ui_white] • %c[ui_gray_2] dispositivo de almacenamiento de artefactos\n %c[ui_white] • %c[ui_gray_2] capacidad: %c[ui_gray_1] 1\n %c[ui_white] • %c[ui_gray_2] estado: %c[ui_gray_1] lleno\n \n %c[d_red]ADVERTENCIA:\n \n %c[default]Debes retirar los artefactos del contenedor antes de venderlos.\n</text>
+	</string>
+	
+	<string id="st_crowbar">
+		<text>Palanca (reutilizable)</text>
+	</string>
+	<string id="st_crowbar_descr">
+		<text>La mejor herramienta para abrir cerraduras y desbloquear puertas. Algo com&#250;n en las zonas industriales. Algunos stalkers por razones desconocidas la mantienen en sus inventarios a pesar de su gran peso. De bajo valor. Hubo un famoso stalker que llevaba una palanca especial con la inscripci&#243;n "Propiedad de Black Mesa". Es tan buscada que algunos stalkers la buscan como si estuvieran buscando artefactos raros y valiosos.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso cotidiano\n %c[d_orange] • %c[ui_gray_2] usos ilimitados</text>
+	</string>
+	
+	<string id="st_bolts_pack">
+		<text>Paquete de tornillos</text>
+	</string>
+	<string id="st_bolts_pack_descr">
+		<text>Como los tornillos son baratos y comunes, se usan como una alternativa barata para la localizaci&#243;n de anomal&#237;as. Los paquetes peque&#241;os que contienen un pu&#241;ado de tornillos y municiones vac&#237;as siempre se pueden encontrar entre comerciantes y mercaderes.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso cotidiano\n %c[d_orange] • %c[ui_gray_2] contiene de 20 a 30 tornillos\n</text>
+	</string>
+	
+	
+	<string id="st_swiss">
+		<text>Navaja suiza</text>
+	</string>
+	<string id="st_swiss_descr">
+		<text>&#191;Quieres abrir latas de comida, mantener apretado tu equipo mec&#225;nico, cortar cuerdas o afilar tus mejores balas? Usa este cuchillo suizo universal y elegante. Embalado en una peque&#241;a caja. Com&#250;nmente se encuentra en la Zona, por lo que tiene poco valor. Sin embargo, puede ser utilizado como material de apoyo en la reparaci&#243;n de armas y equipos.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso cotidiano %c[d_purple] • %c[ui_gray_2] herramienta de desarme\n
+		</text>
+	</string>
+	
+	<string id="st_grooming">
+		<text>Kit de aseo</text>
+	</string>
+	<string id="st_grooming_descr">
+		<text>Kit de aseo que incluye una funda de viaje de nylon bal&#237;stico con peine de barba y bigote y tijeras faciales para los detalles, anillos para los dedos del tama&#241;o de un hombre, cuchillas de corte ultra afiladas de acero inoxidable, empu&#241;adura de goma antideslizante y una punta de recorte de precisi&#243;n.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso cotidiano\n %c[d_purple] • %c[ui_gray_2] herramienta de desarme\n
+		</text>
+	</string>
+	
+	<string id="st_drugs_kit">
+		<text>Kit de drogas peque&#241;o</text>
+	</string>
+	<string id="st_drugs_kit_descr">
+		<text>Las cajas peque&#241;as y los diversos objetos met&#225;licos forman un conjunto para la manipulaci&#243;n y fabricaci&#243;n de drogas. Algunas bolsas de pl&#225;stico contienen p&#237;ldoras y hierbas.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] valioso\n %c[d_red] • %c[ui_gray_2] inutilizable\n</text>
+	</string>
+	
+	<string id="st_itm_sleepbag_name">
+		<text>Saco de dormir</text>
+	</string>
+	<string id="st_itm_sleepbag_descr">
+		<text>Una bolsa de dormir ligera que te mantendr&#225; caliente y seco cuando necesites descansar. Aseg&#250;rate de elegir un lugar seguro con una posible ruta de escape. El saco se recoge autom&#225;ticamente despu&#233;s de dormir o si se pulsa el bot&#243;n "cancelar".\n \n %c[d_cyan]ADVERTENCIA:\n \n %c[ui_gray_1]Dormir a la intemperie puede atraer a los depredadores. No protege de la radiaci&#243;n.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] instala una cama port&#225;til\n %c[d_blue] • %c[ui_gray_2] usos infinitos\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso cotidiano\n</text>
+	</string>
+	
+	<string id="st_compression_bag">
+		<text>Bolsa de compresi&#243;n</text>
+	</string>
+	<string id="st_compression_bag_descr">
+		<text>Contiene un peque&#241;o saco de dormir o un poco de ropa\n \n %c[ui_gray_2] PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] usar cerca de un saco de dormir desenrollado para empacarlo\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso cotidiano\n</text>
+	</string>
+	
+	<string id="st_itm_tent_bag">
+		<text>Bolsa vac&#237;a para tienda de campa&#241;a</text>
+	</string>
+	<string id="st_itm_tent_bag_descr">
+		<text>Una bolsa, destinada al almacenamiento y transporte de una tienda de campa&#241;a. El desmontaje y el embalaje lleva alg&#250;n tiempo.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso cotidiano\n %c[d_orange] • %c[ui_gray_2] usado para empacar una tienda\n %c[d_blue] • %c[ui_gray_2] usos ilimitados\n</text>
+	</string>
+
+	<string id="st_itm_tent_name">
+		<text>Bolsa con una tienda de campa&#241;a</text>
+	</string>
+	<string id="st_itm_tent_descr">
+		<text>Una bolsa que contiene una tienda de campa&#241;a para acampar, protegi&#233;ndose asi de la lluvia y el viento. El montaje y la instalaci&#243;n toma alg&#250;n tiempo. En la Zona, es mejor desplegarla en un lugar con rutas de escape en caso de peligro.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso cotidiano\n %c[d_orange] • %c[ui_gray_2] usado para deplegar tienda\n %c[d_blue] • %c[ui_gray_2] usos ilimitados\n</text>
+	</string>
+	
+	<string id="st_lighter">
+		<text>Mechero</text>
+	</string>
+	<string id="st_lighter_descr">
+		<text>Una confiable fuente de fuego a prueba de agua. En la Zona es esencial no s&#243;lo para cocinar, sino tambi&#233;n para emitir humo o algo m&#225;s fuerte antes de - golpear la madera - una pelea con un controlador. Este duradero y robusto encendedor de gas fabricado en metal es la elecci&#243;n perfecta en vista del ambiente t&#243;xico y da&#241;ino de la Zona.\n \n %c[ui_gray_3]PROPIEDADES: \n %c[d_orange] • %c[ui_gray_2] usable para: %c[ui_gray_1] cocinar, fumar\n</text>
+	</string>
+	
+	<string id="st_lighter_refillers_descr">
+		<text>Casi no tiene sentido llevar un mechero si no puedes usarlo para iluminar nada. Los stalkers experimentados siempre recuerdan llenar sus encendedores con combustible antes de salir en excursiones largas a las profundidades de la Zona. El combustible com&#250;nmente disponible para encendedores "Carcinoleum" es relativamente barato y cumple con el prop&#243;sito suficientemente bien.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_orange] • %c[ui_gray_2] usable para: %c[ui_gray_1] combustible (+100%)\n</text>
+	</string>
+	
+	<string id="st_lighter_refiller5">
+		<text>Combustible de mechero (133 ml restantes)</text>
+	</string>
+	<string id="st_lighter_refiller4">
+		<text>Combustible de mechero (107 ml restantes)</text>
+	</string>
+	<string id="st_lighter_refiller3">
+		<text>Combustible de mechero (80 ml restantes)</text>
+	</string>
+	<string id="st_lighter_refiller2">
+		<text>Combustible de mechero (54 ml restantes)</text>
+	</string>
+	<string id="st_lighter_refiller1">
+		<text>Combustible de mechero (27 ml restantes)</text>
+	</string>
+	
+	<string id="st_itm_mapkit">
+		<text>Mapa de anomal&#237;as</text>
+	</string>
+	<string id="st_itm_mapkit_descr">
+		<text>Un documento sin t&#237;tulo que contiene algunas hojas de papel escritas a mano, fotos personales y algunos p&#225;rrafos gastados. Nada realmente especial, excepto un gran mapa impreso con algunas localizaciones marcadas. Aparentemente el due&#241;o era un cazador de artefactos.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] pertenencias personales\n %c[d_green] • %c[ui_gray_2] informativo\n
+		</text>
+	</string>
+	<string id="st_itm_mapkit_1">
+		<text>Mapa de anomal&#237;as (Almacenes del Ej&#233;rcito)</text>
+	</string>
+	<string id="st_itm_mapkit_2">
+		<text>Mapa de anomal&#237;as (Yantar)</text>
+	</string>
+	<string id="st_itm_mapkit_3">
+		<text>Mapa de anomal&#237;as (Bosque Rojo)</text>
+	</string>
+	<string id="st_itm_mapkit_4">
+		<text>Mapa de anomal&#237;as (Ciudad Muerta)</text>
+	</string>
+	<string id="st_itm_mapkit_5">
+		<text>Mapa de anomal&#237;as (Cementerio de Camiones)</text>
+	</string>
+	<string id="st_itm_mapkit_6">
+		<text>Mapa de anomal&#237;as (Jupiter)</text>
+	</string>
+	<string id="st_itm_mapkit_7">
+		<text>Mapa de anomal&#237;as (Zaton)</text>
+	</string>
+	<string id="st_itm_mapkit_8">
+		<text>Mapa de anomal&#237;as (Vertedero)</text>
+	</string>
+	<string id="st_itm_mapkit_9">
+		<text>Mapa de anomal&#237;as (Agroprom)</text>
+	</string>
+	
+	<string id="st_ammo_box">
+		<text>Una caja de munici&#243;n</text>
+	</string>
+	<string id="st_ammo_box_descr">
+		<text>Todo stalker es consciente de la importancia de tener armas fiables. Esa es la raz&#243;n por la que un examen diario y completo de su arma es vital para su supervivencia. Los stalkers a menudo cuentan sus municiones y las limpian para minimizar el riesgo de que el arma se atasque en el fragor de la batalla.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso cotidiano\n
+		</text>
+	</string>
+	
+	<string id="st_itm_sleepbag_desc">
+		<text>Un saco de dormir port&#225;til dise&#241;ado para mantener al usuario caliente y oculto por la noche.\n \n%c[255,255,255,0]Haga doble clic para colocarla en el suelo.\n</text>
+	</string>
+	
+	<string id="st_itm_gunsmith_toolkit">
+		<text>Kit de Armero</text>
+	</string>
+	<string id="st_itm_gunsmith_toolkit_descr">
+		<text>Un kit que contiene aceites y herramientas utilizadas para el mantenimiento b&#225;sico de las armas de fuego. &#218;til para la exploraci&#243;n, pero tambi&#233;n bastante pesado.\n \n%c[255,255,255,0]Arr&#225;stralo hasta el objeto que deseas reparar.\n</text>
+	</string>
+	
+	<string id="st_itm_outfit_toolkit">
+		<text>Kit de costura</text>
+	</string>
+	<string id="st_itm_outfit_toolkit_descr">
+		<text>Un equipo de costura improvisado y materiales de repuesto para el mantenimiento del equipo. &#218;til para reparar agujeros y desgarros en los trajes.\n \n%c[255,255,255,0]Arr&#225;stralo hasta el objeto que deseas reparar.\n</text>
+	</string>
+	
+	<string id="st_itm_tent_desc">
+		<text>Cubierta militar, hecha para soportar el clima severo. Para colocar la carpa, lev&#225;ntela en un espacio abierto.\n</text>
+	</string>
+	
+	<string id="st_itm_lantern_name">
+		<text>Linterna LED</text>
+	</string>
+	<string id="st_itm_lantern_desc">
+		<text>Una voluminosa, duradera y poderosa l&#225;mpara que funciona con bater&#237;as de iones de litio.Para uso estacionario, debe ser colocada sobre el suelo.\n</text>
+	</string>
+	
+	<string id="st_itm_artefact_container_name">
+		<text>Contenedores de artefacto</text>
+	</string>
+</string_table>

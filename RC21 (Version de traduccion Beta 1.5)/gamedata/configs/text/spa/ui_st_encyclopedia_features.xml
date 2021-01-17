@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	
+	<string id="encyclopedia_features">
+		<text>Caracter&#237;sticas</text>
+	</string>
+	
+	<string id="encyclopedia_features_azazel_mode">
+		<text>Modo Azazel</text>
+	</string>
+	<string id="encyclopedia_features_azazel_mode_text">
+		<text>
+			El pda_white]modo Azazel%c[ui_gray_1] te permite seguir jugando como otro personaje despu&#233;s de la muerte.\n \n%c[pda_green]Informaci&#243;%c[ui_gray_1] \nEn el modo Azazel la muerte no es el final - al morir tu personaje poseer&#225;s el cuerpo de un stalker al azar que antes estaba controlado por la IA.\n \nSi tienes compa&#241;eros en el momento de tu muerte, se les dar&#225; prioridad y seguir&#225;s jugando como uno de ellos.\n \nEste modo s&#243;lo puede ser activado desde la pantalla de creaci&#243;n de personajes.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_ironman_mode">
+		<text>Modo Ironman</text>
+	</string>
+	<string id="encyclopedia_features_ironman_mode_text">
+		<text>
+			El %c[pda_white]modo Ironman%c[ui_gray_1] a&#241;ade un nivel indirecto de dificultad al juego, por el cual todos los juegos guardados para un personaje se eliminan al morir.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nPuedes personalizar la partida de Ironman con una nueva configuraci&#243;n de juego, como por ejemplo el n&#250;mero m&#225;ximo de muertes antes de que se eliminen las partidas guardadas. \nLa funci&#243;n de concesi&#243;n de vida tiene un efecto opuesto: cada ciclo revertir&#225; un conteo de muertes, para que el jugador tenga la oportunidad de sobrevivir m&#225;s muertes con el tiempo. \nSi se activa el modo Azazel al mismo tiempo, se te permitir&#225; seguir jugando como quien hayas cambiado, pero las partidas guardadas como tu personaje fallecido se borrar&#225;n como de costumbre.\n \nCuando juegues con este modo activado, todas las partidas guardadas se etiquetar&#225;n como Ironman, ya que es imposible que las partidas guardadas que no est&#233;n relacionadas se borren por error.\n \nEste modo s&#243;lo se puede activar desde la pantalla de creaci&#243;n de personajes.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_story_mode">
+		<text>Modo historia</text>
+	</string>
+	<string id="encyclopedia_features_story_mode_text">
+		<text>
+			El %c[pda_white]modo historia%c[ui_gray_1] introduce al jugador en las historias de "Lost of the Zone", adem&#225;s de las historias de las facciones que pueden ser completadas por separado.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nHabla con el l&#237;der de tu facci&#243;n sobre los &#250;ltimos acontecimientos en la Zona, y &#233;l deber&#237;a darte informaci&#243;n y pistas.\n \nEste modo s&#243;lo se puede activar desde la pantalla de creaci&#243;n de personajes.\n \n%c[pda_blue]Disponibilidad%c[ui_gray_1] \n• Cielo Despejado\n• Deber\n• Ecologistas\n• Libertad\n• Solitarios\n• Mercenarios\n \n%c[pda_blue]Notas%c[ui_gray_1] \nLas preguntas de las facciones pueden hacerse para todas las facciones, siempre que el modo Historia est&#233; activo. \nLos jugadores de las facciones adicionales pueden completar esas questlines hablando con el l&#237;der de una facci&#243;n amiga, si lo encuentra.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_warfare">
+		<text>Warfare</text>
+	</string>
+	<string id="encyclopedia_features_warfare_text">
+		<text>
+			%c[pda_white]Warfare%c[ui_gray_1] simula una guerra din&#225;mica mientras cada facci&#243;n lucha por dominar la Zona. \n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nWarfare permite al jugador asumir el control de su facci&#243;n. Esto se hace en tiempo real, y el jugador puede elegir entre el sistema de expansi&#243;n din&#225;mica o el sistema de expansi&#243;n manual. El sistema de expansi&#243;n din&#225;mica se adaptar&#225; a las bases que hayas capturado en el modo de expansi&#243;n manual cuando vuelvas.\nCon el simulador de combate offline, los escuadrones pueden interceptar otros escuadrones arbitrariamente, as&#237; que la Zona ser&#225; mucho m&#225;s din&#225;mica y la guerra a gran escala se librar&#225; en los rincones m&#225;s alejados del mapa. \nUn sistema de expansi&#243;n din&#225;mica se adapta a los cambios del simulador y asegura que ning&#250;n juego ser&#225; completamente igual. \n \n%c[pda_yellow]Trivia%c[ui_gray_1] \nEl modo fue creado originalmente por "werejew" para "Call of Chernobyl".
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_survival_mode">
+		<text>Modo supervivencia</text>
+	</string>
+	<string id="encyclopedia_features_survival_mode_text">
+		<text>
+			El %c[pda_white]modo supervivencia%c[ui_gray_1] convierte la Zona en un terreno de caza, donde t&#250; eres la presa.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nCon este modo activado, todos los spawns (apariciones) son reemplazados por stalkers zombificados y mutantes, que se acercar&#225;n lentamente a tu ubicaci&#243;n intentando matarte.\n \nCon un papel m&#225;s prominente son los propios zombis, la &#250;ltima devoluci&#243;n de los stalkers zombificados que han perdido la capacidad de manejar dispositivos mec&#225;nicos como las armas de fuego.\n \nS&#243;lo se pueden encontrar unos pocos comerciantes y escuadrones de stalkers, lo que significa que tendr&#225;s que sobrevivir con lo que puedas buscar en el mundo.\n \nEste modo s&#243;lo se puede activar desde la pantalla de creaci&#243;n de personajes.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_campfire_mode">
+		<text>Modo Fogata</text>
+	</string>
+	<string id="encyclopedia_features_campfire_mode_text">
+		<text>
+			El %c[pda_white]modo guardado en fogatas%c[ui_gray_1] impide que guardes tu progreso a menos que est&#233;s cerca de una fogata.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nPara guardar tu progreso en el modo fogata, ac&#233;rcate a una fogata cercana y guarda tu juego como siempre. \n \nEl modo fogata se desactiva autom&#225;ticamente en los niveles subterr&#225;neos debido a su naturaleza.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_agony_mode">
+		<text>Modo Agonia</text>
+	</string>
+	<string id="encyclopedia_features_agony_mode_text">
+		<text>
+			El %c[pda_white]modo agonia%c[ui_gray_1] a&#241;ade otro nivel de dificultad al impedirle guardar su progreso basado en ciertos criterios.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nNo puedes guardar tu progreso en modo de agon&#237;a si est&#225;s: \n%c[200,200,200,50]• %c[0,150,150,150]Herido\n%c[200,200,200,50]• %c[0,150,150,150]Sangrando\n%c[200,200,200,50]• %c[0,150,150,150]Irradiado\n%c[200,200,200,50]• %c[0,150,150,150]En combate con enemigos \n%c[200,200,200,50]• %c[0,150,150,150]En circunstancias de una emisi&#243;n o tormenta psi
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_timer_mode">
+		<text>Modo Temporizador</text>
+	</string>
+	<string id="encyclopedia_features_timer_mode_text">
+		<text>
+			%c[pda_white]En modo Temporizador%c[ui_gray_1], puedes guardar tu progreso cada cantidad espec&#237;fica de tiempo. \nUna vez que lo guardas, no puedes volver a hacerlo hasta que el temporizador se acabe.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_companions">
+		<text>Compa&#241;eros</text>
+	</string>
+	<string id="encyclopedia_features_companions_text">
+		<text>
+			Los %c[pda_white]Compa&#241;eros%c[ui_gray_1] son stalkers que pueden ser reclutados por ti, similares a los seguidores y familiares en otros juegos.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nSiendo la Zona tan peligrosa como es, la mayor&#237;a de los stalkers pueden encontrarse explorando en grupos peque&#241;os, usualmente en tama&#241;o de alrededor de 3 a 4 individuos. \n \nEsta caracter&#237;stica te permite hacer lo mismo, ya que al hablar con el l&#237;der de uno de estos grupos puedes convencerlo de que explore la Zona contigo. Los &#250;nicos requisitos son que el l&#237;der del grupo tenga relaciones amistosas contigo, que su rango no est&#233; m&#225;s de un nivel por encima del tuyo y que no tengas demasiados stalkers que ya te sigan.\n \nEn casos muy especiales, algunos personajes pueden ser utilizados como compa&#241;eros para ayudar a completar ciertas tareas, teniendo su propio conjunto &#250;nico de requisitos, y sin contar para el l&#237;mite de tu escuadr&#243;n.\n \nLa informaci&#243;n sobre tus compa&#241;eros se puede ver en la pesta&#241;a Relaciones de la PDA, donde tambi&#233;n puedes darles &#243;rdenes en grupo o individualmente, as&#237; como cambiar su comportamiento.\n \nHay una opci&#243;n disponible para mostrar la informaci&#243;n de los compa&#241;eros en el HUD.\n \nEsto tambi&#233;n se puede hacer a trav&#233;s de los enlaces de teclas, que se pueden configurar a trav&#233;s del men&#250; de opciones de los controles.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_guide">
+		<text>Gu&#237;a</text>
+	</string>
+	<string id="encyclopedia_features_guide_text">
+		<text>
+			La %c[pda_white]Gu&#237;a%c[ui_gray_1] es un recurso para ayudar a ense&#241;arte sobre el juego y su contenido.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nEsta caracter&#237;stica fue a&#241;adida a petici&#243;n de los jugadores como ayuda para explicar las caracter&#237;sticas y la mec&#225;nica de juego, as&#237; como para a&#241;adir una representaci&#243;n m&#225;s visual de su progreso.\n \nLos art&#237;culos est&#225;n ordenados por categor&#237;as, y todo el contenido importante y de tipo instructivo se desbloquea desde la creaci&#243;n de tu propio personaje.\n \nCuando desbloqueas un art&#237;culo, su nombre y categor&#237;a aparecen en el mensaje, lo que te permite encontrar el contenido con relativa facilidad.\n \n%c[pda_yellow]Aviso%c[ui_gray_1] \nPor primera vez desde S.T.A.L.K.E.R.: Shadow of Chernobyl se est&#225; intentando seriamente reintroducir una gu&#237;a completa de usuario en el juego con todo el contenido disponible.\n \nAunque esta caracter&#237;stica est&#225; en su mayor parte completa en cuanto a su funcionamiento, todav&#237;a se encuentra en una etapa temprana de trabajo en proceso, y por lo tanto s&#243;lo se ha escrito un peque&#241;o porcentaje de los art&#237;culos.\n \nDebido a la magnitud de esa tarea, todav&#237;a queda mucho por a&#241;adir, ya que faltan muchas categor&#237;as y est&#225;n incompletas, y el sistema de desbloqueo interactivo todav&#237;a no est&#225; plenamente integrado.\n \nIntroduciendo nuevos art&#237;culos con m&#225;s actualizaciones y parches, la gu&#237;a se completar&#225; finalmente, pero llevar&#225; bastante tiempo.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_hud">
+		<text>HUD</text>
+	</string>
+	<string id="encyclopedia_features_hud_text">
+		<text>
+			El %c[pda_white]HUD%c[ui_gray_1] muestra varios indicadores sobre el estado de su salud y el equipo.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLos %c[pda_white]Estados%c[ui_gray_1] son indicadores que muestran el estado actual de su salud y equipamiento. Un indicador gris muestra si el estado es ligeramente malo, mientras que el amarillo indica una causa de preocupaci&#243;n. Naranja y rojo denotan estados cr&#237;ticos. \n Las %c[pda_white]Advertencias%c[ui_gray_1] son indicadores que se muestran cuando se entra en una zona peligrosa, lo que tiene un efecto directo sobre la salud o el equipo. Cuanto m&#225;s cr&#237;tico sea el color, m&#225;s severo ser&#225; el desgaste de la salud que experimentar&#225;s. \nLos %c[pda_white]Potenciadores%c[ui_gray_1] se muestran siempre y cuando estes bajo el efecto positivo de un consumible. T&#237;picamente, estos efectos ser&#225;n alguna forma de curaci&#243;n, protecci&#243;n o regeneraci&#243;n. Todos los indicadores desaparecen cuando el efecto relacionado acaba.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_map_spots">
+		<text>Puntos del mapa</text>
+	</string>
+	<string id="encyclopedia_features_map_spots_text">
+		<text>
+			Los %c[pda_white]Puntos del mapa%c[ui_gray_1] son iconos que aparecen en el mapa para resaltar puntos de inter&#233;s particular.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nMuchos lugares y entidades tienen puntos de mapa asociados a ellos, lo que facilita la lectura del mapa de un vistazo sin tener que preocuparse por recordar toneladas de informaci&#243;n.\n \n%c[pda_blue]Alternarse%c[ui_gray_1] \nLas &#225;reas an&#243;malas, las personas y objetos importantes (comerciantes, t&#233;cnicos, camas, etc.), los alijos y los puntos de ruta de las tareas se pueden alternar dentro del PDA presionando los botones adecuadamente nombrados en la parte superior de la pesta&#241;a del mapa.\n \nIndependientemente de estos ajustes, los que se atribuyen a los stalkers y otros objetos en movimiento est&#225;n siempre visibles en su minimapa, ya que no hay garant&#237;a de que permanezcan estacionarios y en un solo lugar.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_rank">
+		<text>Rango</text>
+	</string>
+	<string id="encyclopedia_features_rank_text">
+		<text>
+			El %c[pda_white]Rango%c[ui_gray_1] es un sistema de puntuaci&#243;n basado en lo que un stalkers ha logrado en la Zona.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLas acciones que realiza a lo largo de su recorrido se registran y cada una de ellas otorga un n&#250;mero variable de puntos en funci&#243;n de la acci&#243;n en cuesti&#243;n. A medida que acumula m&#225;s y m&#225;s puntos, su rango cambiar&#225; gradualmente a medida que pase por cada hito, y cada uno requerir&#225; 1.000 puntos adicionales adem&#225;s de los requisitos de su predecesor.\n \nLa mayor&#237;a de estas acciones se registran en la pesta&#241;a de estad&#237;sticas de la PDA, que tambi&#233;n contiene una tabla de clasificaci&#243;n dentro del juego que lleva un registro de los 100 stalkers m&#225;s destacados del momento.\n \nCuanto m&#225;s alto sea tu rango, m&#225;s importancia tendr&#225;s entre los stalkers comunes. Mientras que esto significa que puedes reclutar compa&#241;eros m&#225;s h&#225;biles, tambi&#233;n significa que aquellos que se oponen a ti comenzar&#225;n a enviarte otros para asegurarse de que... te cuiden.\n \n%c[pda_blue]Rangos%c[ui_gray_1] \n• Novat: 0\n• Aprendiz: 2,000\n• Experimentado: 4,000\n• Profesional: 7,000\n• Veterano: 10,000\n• Experto: 15,000\n• Master: 21,000\n• Leyenda: 28,000
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_reputation">
+		<text>Reputaci&#243;n</text>
+	</string>
+	<string id="encyclopedia_features_reputation_text">
+		<text>
+			La %c[pda_white]Reputaci&#243;n%c[ui_gray_1] es una representaci&#243;n de c&#243;mo un stalker interact&#250;a con otros\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLa reputaci&#243;n es similar al rango, pero difiere en que no es tan lineal - pudiendo tanto aumentar como disminuir - y que se basa en sus interacciones con otros stalkers m&#225;s que en el entorno. \n \nLas formas m&#225;s sencillas de aumentar la reputaci&#243;n son completar las tareas, proporcionar primeros auxilios y matar a los enemigos de tu facci&#243;n, mientras que, a la inversa, las formas m&#225;s sencillas de perderla son cancelar o suspender las tareas y matar a los stalkers neutrales o amistosos. \n \nCabe se&#241;alar que, aunque es utilizada por algunas caracter&#237;sticas, la reputaci&#243;n se centra en gran medida en la inmersi&#243;n y no debe confundirse con la buena voluntad. \n \nCuanto m&#225;s baja sea tu reputaci&#243;n, m&#225;s te odiar&#225;n los otros miembros de tu facci&#243;n y sus amigos. En casos extremos, podr&#237;an incluso empezar a tramar tu muerte.\n \n%c[pda_blue]Reputaciones%c[ui_gray_1] \n• Terrible: -2,000\n• Sombrio: -1,500\n• Horrible: -1,000\n• Malo: -500\n• Neutral: 0\n• Bueno: 500\n• Genial: 1,000\n• Brillante: 1,500\n• Excelente: 2,000
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_stashes">
+		<text>Alijos</text>
+	</string>
+	<string id="encyclopedia_features_stashes_text">
+		<text>
+			Los %c[pda_white]Alijos%c[ui_gray_1] son art&#237;culos almacenados por los stalkers en lugares a menudo bien escondidos.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLa mayor&#237;a de los stalkers de la Zona guardan municiones, comida y medicinas de repuesto en contenedores, mochilas y otros objetos ocultos con la intenci&#243;n de recuperarlos m&#225;s tarde. \n \nCon frecuencia la informaci&#243;n sobre su paradero muere con el stalker que los escondi&#243;, lo que da lugar a numerosos escondites llenos de objetos sin usar que esparcen el paisaje esperando ser descubiertos en cualquier momento. \n \nLos intermediarios y comerciantes de informaci&#243;n suelen dar coordenadas a los alijos como pago adicional para aquellos que han hecho un buen trabajo para ellos, mientras que los que est&#225;n en apuros pueden intentar utilizar sus propios alijos personales para hacer un trueque por su supervivencia. \n \nPuedes crear tus propios alijos haciendo clic con el bot&#243;n derecho del rat&#243;n y seleccionando la opci&#243;n apropiada en cualquier mochila de tu inventario. \n \nLos alijos que crees nunca ser&#225;n saqueados por otros stalkers, as&#237; que tus objetos siempre estar&#225;n a salvo.\n \nEl tipo y/o estado de un alijo puede determinarse f&#225;cilmente mirando su icono en el mapa o pasando el cursor del rat&#243;n sobre &#233;l.\n \n• Verde: Nunca tocado\n• P&#250;rpura: &#218;nico\n• Rojo: Emergencia\n• Amarillo: Del jugador
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_workshop">
+		<text>Taller</text>
+	</string>
+	<string id="encyclopedia_features_workshop_text">
+		<text>
+			El %c[pda_white]Banco de Trabajo%c[ui_gray_1] le permite al jugador reparar/actualizar y fabricar equipo por su cuenta. \n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nTodos los mec&#225;nicos de la Zona utilizan su taller/banco de trabajo para la reparaci&#243;n adecuada y los servicios de actualizaci&#243;n. Algunos stalkers xperimentados prefieren hacer ese trabajo por su cuenta. Por lo tanto, muchos alquilan temporalmente un taller de su due&#241;o para ajustar su propio equipo. Y t&#250; no eres la excepci&#243;n. \nCon un taller desocupado y las herramientas adecuadas, puedes hacer lo siguiente: \n%c[pda_white]• Reparar(reemplazo de partes): %c[ui_gray_1]Todas las armas o equipos hechos de partes y componentes espec&#237;ficos. Cuando se da&#241;an, puedes usar las partes correspondientes para reemplazar las viejas y da&#241;adas y mejorar el estado de tu equipo. \n%c[pda_white]• Actualizaci&#243;nes: %c[ui_gray_1]las herramientas correctas, puede instalar actualizaciones para tu equipo y mejorar sus estados. \n%c[pda_white]• Fabricaci&#243;n: %c[ui_gray_1]con los componentes/partes correctos y suficiente conocimiento, es posible crear una variedad de art&#237;culos. \n \nCuando se utiliza un taller, se muestra una lista de las principales herramientas junto con su disponibilidad (en tu posesi&#243;n, o de los mec&#225;nicos). Estas herramientas son necesarias para la fabricaci&#243;n y actualizaci&#243;n. \nUna barra de informaci&#243;n se muestra en la parte inferior para ayudar al jugador con los pasos necesarios para trabajar en el taller.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_workshop_repair">
+		<text>Taller (Reparaci&#243;n / Partes)</text>
+	</string>
+	<string id="encyclopedia_features_workshop_repair_text">
+		<text>
+			El %c[pda_white]Banco de Trabajo%c[ui_gray_1] se puede utilizar para reparar un arma o equipo da&#241;ado sustituyendo las partes da&#241;adas por otras en mejor estado. \n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nCada arma o equipo est&#225; hecho de un conjunto de componentes/partes. La condici&#243;n total de un equipo se suma a la condici&#243;n de sus partes individuales. \nLas partes en general tienen 4 estados de condici&#243;n: \n• El estado de las partes del arma va de peor a mejor: %c[d_red]Deformado%c[ui_gray_1], %c[d_orange]Da&#241;ado%c[ui_gray_1], %c[0,250,250,0]Rayado%c[ui_gray_1], %c[d_green]Funcional%c[ui_gray_1] \n• Las partes de la ropa van de peor a mejor: %c[d_red]Rasgado%c[ui_gray_1], %c[d_orange]Da&#241;ado%c[ui_gray_1], %c[0,250,250,0]Rayado%c[ui_gray_1], %c[d_green]Limpio%c[ui_gray_1] \n\nPara reparar un equipo, necesita que los siguientes art&#237;culos est&#233;n en tu posesi&#243;n: \n %c[pda_white]• Juegos de herramientas de reparaci&#243;n adecuados%c[ui_gray_1] (depende del arma/equipo que est&#233;s tratando de reparar): tales juegos de herramientas son vendidos por los mec&#225;nicos directamente. \n %c[pda_white]• Piezas de repuesto id&#233;nticas con mejores condiciones%c[ui_gray_1] que las que tiene tu equipo. Pueden adquirirse desmontando las armas y los trajes. \n \n%c[pda_blue]Procedimientos de reparaci&#243;n%c[ui_gray_1] \n1• Comprueba primero los requisitos para reparar tu equipo. Cuando tenga las herramientas y al menos una mejor pieza de repuesto, los botones de las piezas estar&#225;n activos. \n2• Haga clic en una de las partes resaltadas. La lista de piezas ser&#225; actualizada con las piezas de repuesto que tienes en tu inventario. \n3• Dentro de la lista de piezas a recoger, haz clic en una de las piezas con mejor estado. La parte principal ser&#225; reemplazada y actualizada con la nueva junto con la condici&#243;n, y se reflejar&#225; en la condici&#243;n total de su equipo. \n4• Repita el proceso siempre y cuando tenga m&#225;s piezas que reemplazar, y suficientes kits de herramientas. \n5• Cuando finalmente hayas terminado, presiona el bot&#243;n "Reparar". \n \n%c[pda_yellow]Notas:%c[ui_gray_1] \n• Las partes grises indican que no hay piezas de repuesto en mejores condiciones en su inventario, por lo que no se puede interactuar con ellas. \n• Si tienes piezas de repuesto para reemplazar las de tu equipo, pero su condici&#243;n no es suficiente, puedes usar juegos de herramientas espec&#237;ficos para reparar estas piezas primero antes de usar el taller, como por ejemplo: %c[pda_white]Multiherramienta, Lima, Baqueta, Hilo de coser b&#225;sico, Kit de armadura de campo con hilo de kevlar%c[ui_gray_1] \n• Cada reemplazo de una pieza requiere un uso del kit de reparaci&#243;n adecuado.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_workshop_upgrade">
+		<text>Banco de trabajo (Actualizar)</text>
+	</string>
+	<string id="encyclopedia_features_workshop_upgrade_text">
+		<text>
+			El %c[pda_white]Banco de trabajo%c[ui_gray_1] se puede utilizar para mejorar tus armas o tu equipo teniendo las herramientas adecuadas para el trabajo, en lugar de gastar dinero para que los mec&#225;nicos hagan el trabajo. \n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLa forma de actualizar su equipo es similar a la de cualquier sistema de actualizaci&#243;n de un mec&#225;nico, pero con el requisito de herramientas adicionales. \n\nPara actualizar un art&#237;culo, necesitas que los siguientes art&#237;culos est&#233;n en tu posesi&#243;n: \n %c[pda_white]• Herramientas de reparaci&#243;n adecuadas%c[ui_gray_1] (depende del arma/equipo que est&#233;s tratando de reparar): tales juegos de herramientas son vendidos por los mec&#225;nicos directamente. \n %c[pda_white]• Juegos de herramientas de actualizaci&#243;n%c[ui_gray_1] (depende de la actualizaci&#243;n que quieras instalar y su nivel): estas herramientas pueden encontrarse en posesi&#243;n de otros stalkers que las han buscado para sus propias necesidades. \n %c[pda_white]• Herramientas principales%c[ui_gray_1] (dependen del nivel de actualizaci&#243;n): tales juegos de herramientas son poco frecuentes, ya que los mec&#225;nicos siempre las necesitan para instalar actualizaciones. Lo mismo ocurre en este caso. Podr&#237;an ser encontradas por ah&#237; si est&#225;s dispuesto a buscarlas. \n \n%c[pda_blue]Procedimientos de reparaci&#243;n%c[ui_gray_1] \n1• Comprueba primero los requisitos para actualizar tu equipo. Cuando tengas el equipo de reparaci&#243;n correcto puedes proceder. \n2• Haz clic en un elemento que desees actualizar, el &#225;rbol de actualizaci&#243;n aparecer&#225; junto con las actualizaciones instaladas que ya tenga. \n3• Cada actualizaci&#243;n requiere un kit de herramientas de actualizaci&#243;n espec&#237;fico, como se muestra a continuaci&#243;n la propia actualizaci&#243;n. Tambi&#233;n se necesita un kit de herramientas principales para la actualizaci&#243;n (depende) \n4• Si hay una actualizaci&#243;n disponible para instalar, haga clic en ella. Repita el mismo procedimiento si lo desea. \n5• Cuando haya terminado, presione el bot&#243;n " Actualizar" para instalar todas las actualizaciones que eligi&#243;. \n \n%c[pda_yellow]Notes:%c[ui_gray_1] \n• Se requiere que las herramientas principales est&#233;n disponibles para el trabajo, no se consumir&#225;n en el proceso. \n•Lista de herramientas principales utilizables: %c[pda_white]Herramientas b&#225;sicas, Herramientas avanzadas, Herramientas expertas.%c[ui_gray_1] \n• Pase el cursor sobre una actualizaci&#243;n para ver todos los detalles de sus propiedades. Tambi&#233;n mostrar&#225; los requisitos adicionales si la actualizaci&#243;n no est&#225; disponible. \n•Cada actualizaci&#243;n requiere un uso del kit de reparaci&#243;n adecuado.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_workshop_craft">
+		<text>Banco de trabajo (Fabricar)</text>
+	</string>
+	<string id="encyclopedia_features_workshop_craft_text">
+		<text>
+			%c[ui_gray_1]Con los componentes/partes correctos y suficiente conocimiento, el %c[pda_white]Banco de trabajo%c[ui_gray_1] puede ser usado para fabricar una variedad de art&#237;culos. \n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nA veces es dif&#237;cil conseguir alg&#250;n equipo en la Zona por diferentes razones. Por lo tanto, los diferentes materiales de alrededor pueden ser &#250;tiles para fabricar equipos &#250;tiles. \n \nPara crear un equipo, necesitas los siguientes art&#237;culos en tu posesi&#243;n (depende del art&#237;culo que est&#233;s tratando de crear): \n %c[pda_white]• Herramientas principales:%c[ui_gray_1] tales juegos de herramientas son raros de conseguir, ya que los mec&#225;nicos siempre necesitan tales herramientas para mejoras adicionales. Podr&#237;an ser encontradas por ah&#237; si est&#225;s dispuesto a buscar. \n %c[pda_white]• Gu&#237;as y recetas:%c[ui_gray_1] la correcta fabricaci&#243;n viene con el conocimiento. Muchos stalkers pueden tener recetas o gu&#237;as &#250;tiles para todo tipo de cosas. \n %c[pda_white]• Componentes:%c[ui_gray_1] Cada art&#237;culo est&#225; hecho de diferentes materiales y componentes. Estos materiales pueden adquirirse desarmando todo tipo de art&#237;culos de alrededor. \n \n%c[pda_blue]Procedimientos de reparaci&#243;n%c[ui_gray_1] \n1• Elije una opci&#243;n de fabricacion. Las entradas est&#225;n listadas por tipo de art&#237;culo, cada una mostrar&#225; una lista de art&#237;culos relacionados para elegir. \n2• Si el art&#237;culo que quieres hacer est&#225; resaltado, significa que conoces las recetas. Haz clic en &#233;l para continuar. \n3• Se mostrar&#225; una lista de componentes junto con el juego de herramientas requerido. La cantidad m&#237;nima de componente se muestra bajo el icono de componente. \n4•Si te falta el juego de herramientas principal, o alg&#250;n componente no cumple con la cantidad m&#237;nima, no se puede hacer la artesan&#237;a. \n5•Si no, haz clic en el bot&#243;n "Crear" para crear el art&#237;culo que est&#225;s buscando. \n \n%c[pda_yellow]Notas:%c[ui_gray_1] \n• Se requiere que las herramientas principales est&#233;n disponibles para el trabajo, no se consumir&#225;n en el proceso.\n• Lista de herramientas principales utilizables: %c[pda_white]Herramientas b&#225;sicas, Herramientas avanzadas, Herramientas expertas, Kit de fabricaci&#243;n de drogas, Herramientas de armer&#237;a.%c[ui_gray_1] \n• Si has llevado antes los juegos de herramientas a un mec&#225;nico, estar&#225;n disponibles en el taller para usarlos de inmediato. \n•El desmontaje puede hacerse con herramientas espec&#237;ficas, ver el art&#237;culo relacionado. \n•Todas las recetas se mostrar&#225;n en la esquina. S&#243;lo las recetas conocidas ser&#225;n resaltadas.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_disassembly">
+		<text>Desarme de art&#237;culos</text>
+	</string>
+	<string id="encyclopedia_features_disassembly_text">
+		<text>
+			Puedes %c[pda_white]desarmar%c[ui_gray_1] varios tipos de art&#237;culos para adquirir partes b&#225;sicas de ellos. \n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nEl desmontaje ayuda a reciclar los art&#237;culos no deseados para adquirir piezas que pueden utilizarse para otros fines &#250;tiles, como la reparaci&#243;n o la elaboraci&#243;n de otros art&#237;culos en el taller. \nSe puede hacer usando una de esas tres herramientas: \n• %c[pda_white]Najava suiza%c[ui_gray_1] (excepto armas) \n• %c[pda_white]Kit de limpieza%c[ui_gray_1] (excepto armas) \n• %c[pda_white]Multiherramienta%c[ui_gray_1] \n \n%c[pda_blue]Procedimiento%c[ui_gray_1] \nLos art&#237;culos que pueden ser desarmados mostrar&#225;n la opci&#243;n (desarmar[!]) cuando hagas clic en ellos en tu inventario. \nPara desarmar un &#237;tem, aseg&#250;rate de tener una herramienta de desarmado adecuada, luego mant&#233;n presionado el bot&#243;n ALT izquierdo y haz clic en tu &#237;tem y elige (desarmar[!]) \n \n%c[pda_yellow]Nota%c[ui_gray_1] \nEl bot&#243;n izquierdo de ALT act&#250;a como medida de seguridad para evitar un desensamblaje accidental. Se puede desactivar en los ajustes.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_battery">
+		<text>Dispositivos y bater&#237;as</text>
+	</string>
+	<string id="encyclopedia_features_battery_text">
+		<text>
+			Cada dispositivo tiene su propia bater&#237;a, y no funcionar&#225;n sin ellas. \n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLa energ&#237;a del dispositivo est&#225; representada por una peque&#241;a barra azul bajo su icono. Cuando se utiliza un dispositivo, este consume energ&#237;a constantemente. Una vez que las bater&#237;as se agoten por completo, el dispositivo ya no funcionar&#225;. \nPuedes poner y quitar las bater&#237;as de los dispositivos. Si tienes un dispositivo importante que tiene poca bater&#237;a, siempre puedes quitar las pilas de otros dispositivos sin uso y hacer un buen uso de ellas. \nEl consumo de energ&#237;a var&#237;a seg&#250;n los dispositivos, los dispositivos de alta gama tienden a agotar la energ&#237;a m&#225;s r&#225;pido que los de menor nivel. \nSiempre vigila los dispositivos en tu inventario, se aconseja tener pilas de repuesto en tu bolso. Nunca se sabe cu&#225;ndo se necesitar&#225;n realmente. \n \n%c[pda_blue]Procedimiento%c[ui_gray_1] \n• Para poner un paquete de pilas en un dispositivo, simplemente arrastra y deja caer las pilas en el dispositivo \n• Para quitar las pilas de los dispositivos, haz clic con el bot&#243;n derecho del rat&#243;n en el dispositivo en tu inventario y luego elige la opci&#243;n %c[pda_white]sacar pilas%c[ui_gray_1] \n \n%c[pda_yellow]Nota%c[ui_gray_1] \nEl bot&#243;n izquierdo de ALT act&#250;a como medida de seguridad para evitar un desensamblaje accidental. Se puede desactivar en los ajustes.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_economy_difficulty">
+		<text>Dificultad de Progresi&#243;n</text>
+	</string>
+	<string id="encyclopedia_features_economy_difficulty_text">
+		<text>
+			La %c[pda_white]Dificultad de progresi&#243;n%c[ui_gray_1] establece cu&#225;n dura es la econom&#237;a de la Zona e influye directamente en el progreso de tu partida.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLa dificultad de la progresi&#243;n tiene un gran impacto en la econom&#237;a, lo que afecta a la progresi&#243;n del jugador durante su viaje en la Zona. \nLos aspectos afectados por esto van desde precios de venta/compra de los comerciantes, precios de reparaci&#243;n/actualizaci&#243;n de los mec&#225;nicos, rareza de los botines, dinero y buena voluntad ganada al completar las tareas y m&#225;s.\n \n%c[pda_blue]Detalles%c[ui_gray_1] \nAnomaly permite personalizar todos los aspectos de la dificultad de progresi&#243;n, aqu&#237; hay una lista de todas las opciones disponibles: \n%c[200,200,50,50]• %c[pda_white]Factor de buena voluntad ganado: %c[ui_gray_1]multiplicador para la cantidad de buena voluntad ganada al completar las tareas. \n%c[200,200,50,50]• %c[pda_white]Factor de recompensa del dinero: %c[ui_gray_1]multiplicador para la cantidad de dinero que se gana al completar las tareas. \n%c[200,200,50,50]• %c[pda_white]Coeficiente de costos de reparaci&#243;n: %c[ui_gray_1]multiplicador del costo de los servicios de reparaci&#243;n ofrecidos por los mec&#225;nicos. \n%c[200,200,50,50]• %c[pda_white]Factor de costos de actualizaci&#243;n: %c[ui_gray_1]multiplicador del costo de los servicios de actualizaci&#243;n ofrecidos por los mec&#225;nicos. \n%c[200,200,50,50]• %c[pda_white]Factor de precios comerciales (Compra): %c[ui_gray_1]multiplicador de los precios de los art&#237;culos que los comerciantes te venden. \n%c[200,200,50,50]• %c[pda_white]Factor de precios comerciales (Venta): %c[ui_gray_1]multiplicador de los precios de los art&#237;culos que los comerciantes te compran. \n%c[200,200,50,50]• %c[pda_white]Factor de oportunidad de Loots (art&#237;culos): %c[ui_gray_1]multiplicador de la posibilidad de encontrar objetos en los cad&#225;veres. \n%c[200,200,50,50]• %c[pda_white]Factor de Loots (dinero): %c[ui_gray_1]multiplicador por la cantidad de dinero encontrado en los cad&#225;veres. \n%c[200,200,50,50]• %c[pda_white]Sistema de porcentaje completo para las piezas: %c[ui_gray_1]cuando se habilita, las partes desmontadas de las armas/equipos tendr&#225;n condici&#243;n num&#233;rica. Por lo tanto, haciendo el sistema m&#225;s complicado. \n%c[200,200,50,50]• %c[pda_white]La posibilidad de descubrir los escondites: %c[ui_gray_1]controla la posibilidad de encontrar ubicaciones de alijos en los PDAs. \n%c[200,200,50,50]• %c[pda_white]Factor de degradacion del arma: %c[ui_gray_1]multiplicador de la tasa de degradaci&#243;n de tus armas. \n%c[200,200,50,50]• %c[pda_white]Factor de consumo de la bater&#237;a: %c[ui_gray_1]multiplicador de la cantidad de energ&#237;a consumida de los dispositivos en uso. \n%c[200,200,50,50]• %c[pda_white]Habilitar una cantidad limitada de tornillos: %c[ui_gray_1]como su nombre indica, el n&#250;mero de tornillos almacenados es limitado. \n%c[200,200,50,50]• %c[pda_white]Permitir la degradaci&#243;n de los artefactos: %c[ui_gray_1]Los artefactos pueden degradarse cuando protegen a sus usuarios del da&#241;o an&#243;malo relativo. La degradaci&#243;n afecta al precio de los artefactos. \n%c[200,200,50,50]• %c[pda_white]Probabilidad de reaparici&#243;n de artefacto: %c[ui_gray_1]la posibilidad de que los artefactos aparezcan en campos an&#243;malos. \n%c[200,200,50,50]• %c[pda_white]Ciclo de reposici&#243;n de los comerciantes (horas): %c[ui_gray_1]Horas hasta que los comerciantes se reabastezcan de nuevo. \n \n \n%c[200,200,50,50]ATENCI&#211;N%c[ui_gray_1] \n• Los factores de econom&#237;a se configuran seg&#250;n el recorrido actual. \n• Los factores de progresi&#243;n s&#243;lo son accesibles a trav&#233;s de las partidas que han sido guardadas. Puedes ajustarlos dentro del men&#250; de ajustes.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_gameplay_difficulty">
+		<text>Dificultad de Juego</text>
+	</string>
+	<string id="encyclopedia_features_gameplay_difficulty_text">
+		<text>
+			La %c[pda_white]Dificultad de juego%c[ui_gray_1] establece lo f&#225;cil o dif&#237;cil que deber&#237;a ser el juego.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLa dificultad de juego afecta a aspectos relacionados con el jugador como la protecci&#243;n contra las fuentes de da&#241;o, la p&#233;rdida de resistencia y el peso. Adem&#225;s de aspectos adicionales como el agua y la privaci&#243;n del sue&#241;o.\n \n%c[pda_blue]Detalles%c[ui_gray_1] \nAnomal&#237;a permite personalizar todos los aspectos de la dificultad del juego, aqu&#237; hay una lista de todas las opciones disponibles: \n%c[200,200,50,50]• %c[pda_white]Protecci&#243;n del jugador: %c[ui_gray_1]Una lista de cuatro opciones que determinan la protecci&#243;n de la base del jugador contra las fuentes de da&#241;o. \n%c[200,200,50,50]• %c[pda_white]Factor de potencia de bala: %c[ui_gray_1]Multiplicador para la cantidad de da&#241;o que causan las balas de todas las armas. Valores m&#225;s altos significan mayor da&#241;o, y muertes m&#225;s r&#225;pidas. \n%c[200,200,50,50]• %c[pda_white]Factor de p&#233;rdida de resistencia: %c[ui_gray_1]multiplicador de la cantidad de resistencia perdida por el transporte/peso de la carga \n%c[200,200,50,50]• %c[pda_white]Peso m&#225;ximo de carga: %c[ui_gray_1]controla la cantidad m&#225;xima de peso que puedes llevar. \n%c[200,200,50,50]• %c[pda_white]Permitir la privaci&#243;n de agua: %c[ui_gray_1]activa la simulaci&#243;n de la sed, lo que significa que tu personaje tiene que beber de vez en cuando. \n%c[200,200,50,50]• %c[pda_white]Permitir la privaci&#243;n del sue&#241;o: %c[ui_gray_1]permite que el paso del tiempo y el uso de consumibles agoten gradualmente a tu personaje. \n%c[200,200,50,50]• %c[pda_white]Habilitar la radiaci&#243;n durante el d&#237;a: %c[ui_gray_1]Salir al exterior durante el d&#237;a expondr&#225; a tu personaje a altas y constantes dosis de radiaci&#243;n. Un traje y m&#225;scara adecuados pueden proporcionarte suficiente protecci&#243;n contra las part&#237;culas radiactivas, siempre que se les d&#233; el mantenimiento adecuado. \n%c[200,200,50,50]• %c[pda_white]Reproducir s&#243;lo los clics de radiaci&#243;n del Geiger: %c[ui_gray_1]Cuando est&#225; activado, los clics de radiaci&#243;n se pueden o&#237;r s&#243;lo si posees un contador Geiger en tu inventario con suficiente bater&#237;a. \n%c[200,200,50,50]• %c[pda_white]Habilitar el detector de anomal&#237;as: %c[ui_gray_1]El pitido predeterminado que suena cuando el jugador se acerca a los campos an&#243;malos.\n \n%c[200,200,50,50]ATENCI&#211;N%c[ui_gray_1] \n• Los factores de dificultad del juego se configuran seg&#250;n el juego actual. \n•Los factores de dificultad del juego s&#243;lo son accesibles a trav&#233;s de las partidas guardadas. Puedes modificarlos dentro del men&#250; de ajustes.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_disguise">
+		<text>Sistema de disfraz</text>
+	</string>
+	<string id="encyclopedia_features_disguise_text">
+		<text>
+			Puedes %c[pda_white]disfrazarte%c[ui_gray_1] como un stalker de otra facci&#243;n para mantener tu verdadera identidad oculta para una variedad de prop&#243;sitos.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nPara disfrazarte de miembro de una facci&#243;n espec&#237;fica, necesitas llevar un traje apropiado. \nMientras est&#233;s disfrazado, puedes caminar entre los miembros de la facci&#243;n y actuar como uno de ellos, incluso si son hostiles en circunstancias normales. \nMientras que en su presencia, te observar&#225;n a ti y a tu comportamiento. Un medidor de "Sospecha" aparecer&#225; en el HUD para indicar cu&#225;n sospechoso eres, en tiempo real. \nMuchos factores juegan un papel en la eficacia de su disfraz, y afectan a la sospecha que rodea a su personaje. \nPresta atenci&#243;n al equipo que usas y a su condici&#243;n. Act&#250;a normalmente y no hagas ning&#250;n movimiento brusco para asegurarte de no llamar la atenci&#243;n. \nNo puedes disfrazarte de miembro del Monolito, ya que se identifican por medios desconocidos. \n \n%c[pda_blue]Opciones%c[ui_gray_1] \n• Puedes ajustar los factores de disfraz a trav&#233;s de una variedad de opciones dentro del men&#250; de ajustes.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_fast_travel">
+		<text>Viaje r&#225;pido</text>
+	</string>
+	<string id="encyclopedia_features_fast_travel_text">
+		<text>
+			Los %c[pda_white]Viajes r&#225;pidos y Mochila de viaje%c[ui_gray_1] te permite viajar a lugares que has descubierto previamente usando el mapa de tu PDA.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nMuchos lugares son descubiertos a medida que viajas, poniendo as&#237; un marcador en el mapa que te permite hacer clic en &#233;l y viajar r&#225;pidamente a dicho lugar m&#225;s tarde. \n"Mochila de viaje" hace lo mismo, pero depende de los alijos que hayas creado. \nNo puedes viajar r&#225;pido si est&#225;s en combate, cargado, gravemente herido, o durante las emisiones. \n \n%c[pda_blue]Opciones%c[ui_gray_1] \n• Puedes controlar el viaje r&#225;pido y de mochila a trav&#233;s de una variedad de opciones dentro del men&#250; de ajustes.
+		</text>
+	</string>
+</string_table>

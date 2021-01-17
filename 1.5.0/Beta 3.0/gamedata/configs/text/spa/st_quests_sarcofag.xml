@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="sar_monolith">
+		<text>La Llamada del Norte</text>
+	</string>
+	<string id="sar_monolith_0">
+		<text>Habla con 'El Genio'.</text>
+	</string>
+	<string id="sar_monolith_1">
+		<text>Una voz del norte te ha llamado. Deberias intentar encontrar de donde proviene.</text>
+	</string>
+	<string id="sar_monolith_2">
+		<text>La voz que te llama debe ser del Genio. Deberias poder encontrarlo en algun lugar del sarcofago.</text>
+	</string>
+	<string id="sar_monolith_destroy">
+		<text>Una tumba de hormigon</text>
+	</string>
+	<string id="sar_monolith_destroy_0">
+		<text>Encuentra la base oculta del monolito mencionada en el manuscrito y descubre que esconde.</text>
+	</string>
+	<string id="sar_monolith_destroy_1">
+		<text>Destruye el Genio: derrota las 10 oleadas de proyecciones conjuradas por el Genio.</text>
+	</string>
+	<string id="sar_monolith_destroy_2">
+		<text>Deshabilite los generadores de suministro de energia de las capsulas de la Conciencia-C.</text>
+	</string>
+	<string id="sar_monolith_destroy_3">
+		<text>Deshabilita los Generadores.</text>
+	</string>
+</string_table> 

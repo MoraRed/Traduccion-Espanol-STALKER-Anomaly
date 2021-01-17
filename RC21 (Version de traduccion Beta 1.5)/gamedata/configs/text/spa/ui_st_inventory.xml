@@ -1,0 +1,1207 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- Sorter -->
+	<string id="ui_st_tab_all">
+		<text>Todos los Articulos (1)</text>
+	</string>
+	<string id="ui_st_tab_weapons">
+		<text>Armas y Acoplables (2)</text>
+	</string>
+	<string id="ui_st_tab_armor">
+		<text>Armaduras, Cascos y Mochilas (3)</text>
+	</string>
+	<string id="ui_st_tab_ammo">
+		<text>Munici&#243;n y Granadas (4)</text>
+	</string>
+	<string id="ui_st_tab_artefact">
+		<text>Artefactos y Partes Mutantes (5)</text>
+	</string>
+	<string id="ui_st_tab_tools">
+		<text>Dispositivos, Herramientas and Reparar Articulos (6)</text>
+	</string>
+	<string id="ui_st_tab_consumables">
+		<text>Medicina y Consumibles (7)</text>
+	</string>
+	<string id="ui_st_tab_misc">
+		<text>Art&#237;culos varios (8)</text>
+	</string>
+	
+	<!-- Loot mode -->
+	<string id="ui_st_put_all">
+		<text>Mover todo</text>
+	</string>
+	<string id="ui_st_put_all_hint">
+		<text>Mover todos los art&#237;culos (SHIFT + P)</text>
+	</string>
+	<string id="ui_st_take_all">
+		<text>Coger todo</text>
+	</string>
+	<string id="ui_st_take_all_hint">
+		<text>Mover todos los art&#237;culos a tu mochilla (SHIFT + T)</text>
+	</string>
+	
+	<!-- Trade mode -->
+	<string id="ui_total_price">
+		<text>Total</text>
+	</string>
+	<string id="ui_st_buy">
+		<text>Comprar</text>
+	</string>
+	<string id="ui_st_sell">
+		<text>Vender</text>
+	</string>
+	<string id="ui_st_sell_hint">
+		<text>Vender art&#237;culos seleccionados</text>
+	</string>
+	<string id="ui_st_buy_hint">
+		<text>Comprar art&#237;culos seleccionados</text>
+	</string>
+	<string id="not_enough_money_actor">
+		<text>Dinero insuficiente</text>
+	</string>
+	<string id="not_enough_money_partner">
+		<text>El personaje no tiene suficiente dinero</text>
+	</string>
+	<string id="st_no_trade_tip_1">
+		<text>Al comerciante no le interesa este tipo de art&#237;culos.</text>
+	</string>
+	<string id="st_no_trade_tip_2">
+		<text>El articulo esta demasiado da&#241;ado para ser intercambiado.</text>
+	</string>
+
+	<!-- Upgrade mode -->
+	<string id="ui_st_inv_repair">
+		<text>Reparaci&#243;n</text>
+	</string>
+	<string id="ui_repair_button_hint">
+		<text>Reparar elemento seleccionado</text>
+	</string>
+	
+	<!-- Quick use items -->
+	<string id="quick_use_str_1">
+		<text>$$ACTION_QUICK_USE_1$$</text>
+	</string>
+	<string id="quick_use_str_2">
+		<text>$$ACTION_QUICK_USE_2$$</text>
+	</string>
+	<string id="quick_use_str_3">
+		<text>$$ACTION_QUICK_USE_3$$</text>
+	</string>
+	<string id="quick_use_str_4">
+		<text>$$ACTION_QUICK_USE_4$$</text>
+	</string>
+	
+	<!-- Item Properties -->
+	<string id="st_activate_artefact">
+		<text>Activar artefacto</text>
+	</string>
+	<string id="st_attach_gl_to_rifle">
+		<text>Acoplar lanzagranadas a</text>
+	</string>
+	<string id="st_attach_scope_to_pistol">
+		<text>Acoplar mira a</text>
+	</string>
+	<string id="st_attach_silencer_to_pistol">
+		<text>Acoplar silenciador a</text>
+	</string>
+	<string id="st_base_cost">
+		<text>Precio</text>
+	</string>
+	<string id="st_community">
+		<text>Grupo:</text>
+	</string>
+	<string id="st_condition">
+		<text>Condici&#243;n</text>
+	</string>
+	<string id="st_detach_gl">
+		<text>Desmontar lanzagranadas</text>
+	</string>
+	<string id="st_detach_scope">
+		<text>Separar mira</text>
+	</string>
+	<string id="st_detach_silencer">
+		<text>Separar silenciador</text>
+	</string>
+	<string id="st_drop">
+		<text>Soltar</text>
+	</string>
+	<string id="st_drop_all">
+		<text>Soltar todo</text>
+	</string>
+	<string id="st_eat">
+		<text>Comer</text>
+	</string>
+	<string id="st_donate">
+		<text>Donar</text>
+	</string>
+	<string id="st_move_on_belt">
+		<text>Sujetar al cintur&#243;n</text>
+	</string>
+	<string id="st_move_to_bag">
+		<text>Mover a mochila</text>
+	</string>
+	<string id="st_move_to">
+		<text>Mover</text>
+	</string>
+	<string id="st_move_all">
+		<text>mover todo</text>
+	</string>
+	<string id="st_unequip">
+		<text>Retirar</text>
+	</string>
+	<string id="st_move_to_slot">
+		<text>Mover a ranura</text>
+	</string>
+	<string id="st_play">
+		<text>Play</text>
+	</string>
+	<string id="st_sell_item">
+		<text>Vender art&#237;culo</text>
+	</string>
+	<string id="st_item_use">
+		<text>Usar</text>
+	</string>
+	<string id="st_item_sort">
+		<text>Ordenar</text>
+	</string>
+	<string id="st_item_unpack">
+		<text>Abrir</text>
+	</string>
+	<string id="st_item_play">
+		<text>Tocar</text>
+	</string>
+	<string id="st_item_open">
+		<text>Abrir</text>
+	</string>
+	<string id="st_item_reveal">
+		<text>Revelar</text>
+	</string>
+	<string id="st_item_read">
+		<text>Leer</text>
+	</string>
+	<string id="st_item_separate">
+		<text>Separar</text>
+	</string>
+	<string id="st_item_disassemble">
+		<text>Desarmar</text>
+	</string>
+	<string id="st_item_charge">
+		<text>Cargar UPD</text>
+	</string>
+	<string id="st_item_money">
+		<text>Sacar %s RU</text>
+	</string>
+	<string id="st_item_details">
+		<text>Detalles</text>
+	</string>
+	<string id="st_item_unpack_battery">
+		<text>Sacar pilas</text>
+	</string>
+	<string id="st_item_tear_patch">
+		<text>Quitar parche</text>
+	</string>
+	<string id="st_item_attach_patch">
+		<text>Poner parche</text>
+	</string>
+	<string id="st_awr_r_detail">
+		<text>Restaurar parte [!]</text>
+	</string>
+	<string id="st_awr_disassembly_weapon">
+		<text>Desarmar arma [!]</text>
+	</string>
+	<string id="st_awr_disassembly_outfit">
+		<text>Desmantelar traje [!]</text>
+	</string>
+	<string id="st_awr_disassembly_helmet">
+		<text>Desmantelar m&#225;scara/casco [!]</text>
+	</string>
+	<string id="st_awr_disassembly_cloth">
+		<text>Desarmar[!]</text>
+	</string>
+	<string id="st_drink">
+		<text>Beber</text>
+	</string>
+	<string id="st_unload_magazine">
+		<text>Descargar</text>
+	</string>
+	<string id="st_use">
+		<text>Usar</text>
+	</string>
+	<string id="st_dress_outfit">
+		<text>Equipar traje</text>
+	</string>
+	<string id="st_dress_helmet">
+		<text>Equipar mascara</text>
+	</string>
+	<string id="st_equip_backpack">
+		<text>Usar mochila</text>
+	</string>
+	<string id="st_undress_outfit">
+		<text>Quitar traje</text>
+	</string>
+	<string id="st_undress_helmet">
+		<text>Quitar mascara</text>
+	</string>
+	<string id="st_unequip_backpack">
+		<text>Quitar mochila</text>
+	</string>
+
+	<string id="st_plant_explosive_prox">
+		<text>Plantar con sensor de proximidad</text>
+	</string>
+	<string id="st_plant_explosive_timer_10">
+		<text>Platar con temporalizador 10 de segundos</text>
+	</string>
+	<string id="st_plant_explosive_timer_30">
+		<text>Platar con temporalizador 30 de segundos</text>
+	</string>
+
+	<!-- Units -->
+	<string id="st_perc">
+		<text>%</text>
+	</string>
+	<string id="st_kg">
+		<text>kg</text>
+	</string>
+	<string id="st_g">
+		<text>g</text>
+	</string>
+	<string id="st_kcal">
+		<text>kcal eq.</text>
+	</string>
+	<string id="st_kcal_sec">
+		<text>kcal/seg eq.</text>
+	</string>
+	<string id="st_msv">
+		<text>mSv</text>
+	</string>
+	<string id="st_msv_sec">
+		<text>mSv/seg</text>
+	</string>
+	<string id="st_microg">
+		<text>µg de adren.</text>
+	</string>
+	<string id="st_microg_sec">
+		<text>µg de adren./seg</text>
+	</string>
+	<string id="st_ml_min">
+		<text>ml / min</text>
+	</string>
+	<string id="st_kw_m2">
+		<text>kW/m2</text>
+	</string>
+	<string id="st_kv">
+		<text>kV</text>
+	</string>
+	<string id="st_mt">
+		<text>mT</text>
+	</string>
+	<string id="st_ppm">
+		<text>C1 ppm eq.</text>
+	</string>
+	<string id="st_j">
+		<text>H/mm2</text>
+	</string>
+	<string id="st_ah_sec">
+		<text>Ah/Seg</text>
+	</string>
+	<string id="st_mah_sec">
+		<text>mAh/Seg</text>
+	</string>
+	<string id="st_uah_sec">
+		<text>uAh/Seg</text>
+	</string>
+	<string id="st_pah_sec">
+		<text>pAh/Seg</text>
+	</string>
+	<string id="st_hz">
+		<text>Hz</text>
+	</string>
+	<string id="st_khz">
+		<text>KHz</text>
+	</string>
+	<string id="st_mhz">
+		<text>MHz</text>
+	</string>
+	<string id="st_ghz">
+		<text>GHz</text>
+	</string>
+	<string id="ui_inv_seconds_short">
+		<text>seg</text>
+	</string>
+	<string id="ui_inv_seconds">
+		<text>segundos</text>
+	</string>
+	
+	<!-- Player states -->
+	<string id="st_ui_main_sensor">
+		<text>TOOLTIP UNAVAILABLE! Ionising radiation poisoning\n \n%c[ui_gray_1]Exposure to ionising radiation poses an extreme, perhaps even fatal, risk. For this reason, the ability to adequately measure radiation levels is a vital skill. The basic unit in the scale of ionising radiation is millisievert %c[ui_gray_3](mSv)%c[ui_gray_1]. Levels of approximately %c[ui_gray_3]8000 mSv %c[ui_gray_1]are usually lethal without a chance of recovery. Radiation levels above the threshold of 1000 mSv (see below) can be briefly endured, but are highly problematic if left untreated. In case of exposure, it is thus strongly advised to administer anti-radiation drugs of appropriate potency as soon as possible. Table 3.2 presents radiation levels with typical symptoms:\n \n%c[0,102,255,0]250 - 1500 mSv: %c[ui_gray_2]Symptoms are unnoticeable. Long term consequences are negligible.\n \n%c[0,255,255,0]1500 - 3000 mSv: %c[ui_gray_2]Noticeable moderate to strong sickness, light-headedness, skin stains. Long-term symptoms are mild. Full recovery is possible if treated promptly.\n \n%c[0,255,122,0]3000 - 4500 mSv: %c[ui_gray_2]Very strong sickness, confusion and dizziness leading to premature death if not treated in relatively short time. Complete cease of hunger and thirst, taint, diarrhoea, peeling of skin and hair loss. High risk of permanent loss of reproduction ability. Restoration of bodily functions is feasible with extensive use of cleansing agents.\n \n%c[d_red]4500 - 6000 mSv: %c[ui_gray_2]Intensification of the above symptoms. Additionally, permanent damage to central nervous system. Death highly probable.\n \n%c[d_red]6000 mSv and above: %c[ui_gray_2]Imminent death. Often after rapid loss of consciousness.\n \n%c[d_cyan] • %c[ui_gray_2] unit: %c[ui_gray_1]mSv (milisivert)\n%c[d_cyan] • %c[ui_gray_2] imminent lethal radiation: %c[ui_gray_1]~6000+ mSv\n%c[d_cyan] • %c[ui_gray_2] av. outside rad. hot-spots potency: %c[ui_gray_1]~900 mSv / min\n \n \n</text>
+	</string>
+	<string id="ui_inv_burn_protection">
+		<text>Resistencia a Quemaduras\n \n%c[ui_gray_1]La resistencia a las quemaduras es principalmente una medida de su capacidad para soportar anomal&#237;as t&#233;rmicas, as&#237; como para sobrevivir a encuentros con mutantes pirocin&#233;ticos. Las anomal&#237;as t&#233;rmicas vienen en varias formas: pueden manifestarse como un hemisferio de radiaci&#243;n t&#233;rmica, cocinando lentamente cualquier cosa que se introduzca en ellas. Se pueden manifestar como ondas de aire brillante que estallan en poderosos chorros de llama, e incluso se pueden manifestar como cometas m&#243;viles. No es inusual que dos o m&#225;s de estas variantes se manifiesten juntas: por ejemplo, el t&#250;nel del puente que lleva a Yantar desde Territorio Salvaje consiste en ambas variantes de cometa y erupci&#243;n. \n \nLa variante de erupci&#243;n, conocida coloquialmente como "Quemador", tiene varios cientos de grados cent&#237;grados, y algunas formas son lo suficientemente potentes como para asar instant&#225;neamente a sus desafortunadas v&#237;ctimas, independientemente de su protecci&#243;n. En el norte de la Zona, una variante del Quemador conocida como la "Caldera" funciona con los mismos principios, pero utiliza chorros de vapor sobrecalentado en lugar de la llama. \n \nSe rumorea que las anomal&#237;as t&#233;rmicas dan origen a algunos de los artefactos m&#225;s poderosos de la Zona, pero los peligros son tan grandes, incluso con la protecci&#243;n adecuada, que la mayor&#237;a elige alejarse de ellos.\n \n%c[d_orange]&#191;Cuanta Protecci&#243;n Necesitas?\n%c[ui_gray_1]Importante: Los valores porcentuales que se sugieren a continuaci&#243;n se refieren &#250;nicamente al grado de llenado de la barra de resistencia a las quemaduras, que est&#225; determinado predominantemente por el blindaje. No debe confundirse con los porcentajes que aparecen en los art&#237;culos de cintur&#243;n o consumibles, que no se acumulan adicionalmente.\n \n%c[d_cyan] •%c[ui_gray_1] Debido a la rareza de los mutantes pirocin&#233;ticos, as&#237; como a la predisposici&#243;n de la mayor&#237;a de los stalkers a no ser asados vivos, el stalker promedio no se molesta mucho por la resistencia a las quemaduras, optando por mantenerse alejado de las anomal&#237;as t&#233;rmicas completamente, y podr&#237;a casualmente llegar a obtener un 15% de resistencia a las quemaduras cuando pueda permitirse su primer traje decente. \n%c[d_cyan] •%c[ui_gray_1] Los stalkers militares comisionados, que necesitan ser capaces de operar en las condiciones m&#225;s duras, suelen tener al menos un 40% de resistencia a las quemaduras, lo que les ha permitido flanquear a m&#225;s de unos pocos enemigos sorprendidos acerc&#225;ndose a ellos a trav&#233;s de anomal&#237;as t&#233;rmicas.\n%c[d_cyan] •%c[ui_gray_1] Los cazadores de artefactos e investigadores de campo independientes y a tiempo completo luchan por pagar el mantenimiento de los trajes para el tipo de da&#241;o que las anomal&#237;as t&#233;rmicas pueden hacer, y como tal los evitan de la misma manera que la mayor&#237;a de los stalkers, a menos que cumplan un contrato especial.\n%c[d_cyan] •%c[ui_gray_1] Sin embargo, los cient&#237;ficos del gobierno consumado no necesitan preocuparse mucho por el costo, y eligen usar trajes con 75% de resistencia a las quemaduras para poder operar con relativa seguridad.\n \n \n</text>
+	</string>
+	<string id="ui_inv_chemical_burn_protection">
+		<text>Resistencia Qu&#237;mica\n \n%c[ui_gray_1]La resistencia qu&#237;mica es una medida de la capacidad de tu armadura para soportar materiales t&#243;xicos, &#225;cidos o corrosivos. En la Zona, estos materiales se encuentran m&#225;s a menudo en forma de anomal&#237;as qu&#237;micas, siendo la m&#225;s com&#250;n la infame "Pelusa quemada", una entidad parecida al musgo o a una vid que libera miles de esporas afiladas y t&#243;xicas al desafortunado stalker que se topa con ella. Otras formas de anomal&#237;as qu&#237;micas incluyen nubes de gas que cubren &#225;reas enteras, charcos de limo que pudren cualquier paso que se d&#233; en ellos, o incluso bancos de niebla &#225;cida en miniatura que reaccionan explosivamente al metal o a la materia org&#225;nica.\n \nTodas ellas destacan por comer la piel expuesta o devorar los sistemas respiratorios expuestos. Sin embargo, estas anomal&#237;as est&#225;n entre las primeras que un joven cazador de artefactos investigar&#225;, ya que es relativamente barato adquirir una armadura decente y medicaci&#243;n para resistir sus efectos.\n \n%c[d_orange]&#191;Cuanta Protecci&#243;n Necesitas?\n%c[ui_gray_1]Importante: Los valores porcentuales que se sugieren a continuaci&#243;n se refieren &#250;nicamente al grado de llenado de la barra de resistencia qu&#237;mica, que est&#225; determinado predominantemente por el blindaje. No debe confundirse con los porcentajes que aparecen en los art&#237;culos de cintur&#243;n o consumibles, que no se acumulan adicionalmente.\n \n%c[d_cyan] •%c[ui_gray_1] El stalker promedio alcanzar&#225; f&#225;cilmente al menos un 30% de resistencia qu&#237;mica tan pronto como pueda permitirse su primera m&#225;scara de gas y su traje stalker, y muchos encuentran que esto es m&#225;s que suficiente. Si planean cazar artefactos, normalmente complementar&#225;n esta protecci&#243;n con la medicaci&#243;n adecuada.\n%c[d_cyan] •%c[ui_gray_1] Los stalkers militares comisionados, que necesitan poder operar en las condiciones m&#225;s duras, suelen tener al menos un 45% de resistencia qu&#237;mica, lo que les permite esconderse en las nubes de gas durante un tiempo limitado si es necesario.\n%c[d_cyan] •%c[ui_gray_1] Los cazadores de artefactos independientes y los investigadores de campo est&#225;n de acuerdo en que el 45% de resistencia qu&#237;mica es suficiente para la mayor&#237;a de los casos.\n%c[d_cyan] •%c[ui_gray_1] Sin embargo, los cient&#237;ficos del gobierno no escatiman en gastos y normalmente optan por un 55% de resistencia qu&#237;mica durante sus experimentos e investigaciones de campo.\n \n \n</text>
+	</string>
+	<string id="ui_inv_fire_wound_protection">
+		<text>Resistencia Balistica\n \n%c[ui_gray_1]La resistencia bal&#237;stica, como se podr&#237;a esperar, indica las propiedades antibal&#237;sticas de tu chaleco. Es una medida de la capacidad de tu armadura para absorber con seguridad la energ&#237;a cin&#233;tica de peque&#241;os objetos de alta velocidad como balas o metralla. Idealmente, esto significar&#237;a que la bala no atraviesa tu armadura en absoluto, pero tristemente este no es un mundo perfecto, y las balas particularmente pesadas pueden causar hemorragias incluso si no logran penetrar completamente. Instalar m&#250;ltiples placas de kevlar, titanio o acero puede mejorar significativamente la resistencia bal&#237;stica, casi sin importar lo que lleves puesto.\n \n%c[d_orange]&#191;Cu&#225;nta protecci&#243;n necesitas?\n%c[ui_gray_1]Importante: Los valores porcentuales que se sugieren a continuaci&#243;n se refieren &#250;nicamente al grado de llenado de la barra de resistencia bal&#237;stica, que est&#225; determinado predominantemente por el blindaje. No debe confundirse con los porcentajes que aparecen en los art&#237;culos de cintur&#243;n o consumibles, que no se acumulan de forma adicional.\n \n%c[d_cyan] •%c[ui_gray_1] El stalker promedio sabe que no debe buscar pelea, y como tal puede arregl&#225;rselas con un 10% de resistencia bal&#237;stica.\n%c[d_cyan] •%c[ui_gray_1] Los mercenarios profesionales, exploradores o sicarios querr&#225;n un 15% de resistencia bal&#237;stica como m&#237;nimo, y apuntar&#225;n mejor tan pronto como puedan permit&#237;rselo.\n%c[d_cyan] •%c[ui_gray_1] Los operadores de la Spetsnaz, de los que a menudo se espera que dispersen peque&#241;os campamentos de stalkers y lleven a cabo ataques quir&#250;rgicos contra posiciones atrincheradas, aceptar&#225;n no menos del 40% de resistencia bal&#237;stica.\n%c[d_cyan] •%c[ui_gray_1] Los stalkers militares comisionados, de los que se espera que revienten las moledoras de carne y cambien el curso de los m&#225;s crueles combates, entran en batalla con un m&#237;nimo de 60% de resistencia bal&#237;stica.\n \n \n</text>
+	</string>
+	<string id="ui_inv_radiation_protection">
+		<text>Resistencia a la Radiaci&#243;n\n \n%c[ui_gray_1]La mayor parte de la radiaci&#243;n en la Zona viaja a trav&#233;s de part&#237;culas alfa s&#243;lidas, com&#250;nmente inhaladas a trav&#233;s del polvo o la humedad. El grado en el que es irradiado por estas part&#237;culas se mide en milisieverts, o mSv. Puedes comprobar tus niveles de mSv en cualquier momento, siempre que tengas un contador Geiger.\n \nLa resistencia a la radiaci&#243;n mide la capacidad de su traje o m&#225;scara para filtrar el aire a su alrededor, reduciendo la tasa a la que adquiere mSv de las &#225;reas irradiadas. Sin embargo, la Resistencia a la Radiaci&#243;n es preventiva, no reductora: no reduce el da&#241;o causado por la radiaci&#243;n ya acumulada. Si decides correr desnudo por la Central Nuclear y adquirir 3000 mSv como resultado, ponerte una m&#225;scara de gas no har&#225; mucho para salvarte en ese punto. La Resistencia a la radiaci&#243;n tampoco reduce la radiaci&#243;n acumulada por la ingesti&#243;n de carnes de la Zona, ni bloquea la radiaci&#243;n emitida por los artefactos.\n \n%c[ui_gray_1]En estos casos, necesitaras confiar en la medicina u otros consumibles para limpiar tu sistema. En la Zona, tu sistema descarga naturalmente 1 mSv cada 4-6 segundos.\n \n%c[0,250,250,250,0]Grados de Irradiaci&#243;n\n \n%c[0,250,250,250,0] •%c[ui_gray_1] A los 20 mSv, puede comenzar a experimentar dolores de cabeza, pero por lo dem&#225;s deber&#237;a estar bien.\n%c[0,250,250,250,0] •%c[ui_gray_1] A 100-900 mSv, su salud comenzar&#225; a deteriorarse a una tasa de menos del 1,5% de su m&#225;ximo cada 4-6 segundos. Dependiendo de la gravedad, esto podr&#237;a significar que estar&#225;s bien sin importar lo que pase, o podr&#237;a significar que tienes horas para vivir sin tratamiento.\n%c[0,250,250,0,0] •%c[ui_gray_1] Aproximadamente a 950-1900 mSv, experimentar&#225; visi&#243;n borrosa, destellos de calor y un deterioro de la salud de menos del 5% cada 4-6 segundos. Sin ning&#250;n medio de limpiar su sistema m&#225;s r&#225;pido, esto podr&#237;a significar que tiene minutos de vida.\n%c[d_orange] •%c[ui_gray_1] A 1950 mSv, el deterioro se vuelve m&#225;s serio. \n%c[d_red] •%c[ui_gray_1] A 2900 mSv, su condici&#243;n ser&#225; cr&#237;tica, y perder&#225; la salud a un ritmo del 7% o m&#225;s cada 4-6 segundos. Esto significa menos de un minuto y medio de vida, en el mejor de los casos.\n \n%c[d_orange]&#191;Cuanta Protecci&#243;n Necesitas?\n \n%c[d_cyan] •%c[ui_gray_1] El stalker promedio apuntar&#225; a un 40% de resistencia a la radiaci&#243;n tan pronto como pueda permit&#237;rselo.\n%c[d_cyan] •%c[ui_gray_1] Los stalkers militares comisionados apuntan a un 65% de resistencia a la radiaci&#243;n, de modo que aunque sus m&#225;scaras est&#233;n da&#241;adas pueden seguir disfrutando de la seguridad de las part&#237;culas radiactivas.\n%c[d_cyan] •%c[ui_gray_1] Los cazadores de artefactos independientes y los investigadores de campo encuentran que el 58% de la resistencia a la radiaci&#243;n es suficiente para la mayor&#237;a de los prop&#243;sitos cient&#237;ficos pr&#225;cticos.\n%c[d_cyan] •%c[ui_gray_1] Sin embargo, los cient&#237;ficos del gobierno se equivocan en cuanto a la precauci&#243;n con el 65% de resistencia a la radiaci&#243;n. \n \n \n</text>
+	</string>
+	<string id="ui_inv_shock_protection">
+		<text>Resistencia El&#233;ctrica\n \n%c[ui_gray_1]Mientras que la gran comunidad cient&#237;fica ve las anomal&#237;as el&#233;ctricas como una fuente potencial de energ&#237;a renovable, para ustedes estas manifestaciones el&#233;ctricas son oscilaciones inestables y mortales de energ&#237;a que deben ser manejadas con cuidado.\n \n%c[ui_gray_1]Para ello, la Resistencia El&#233;ctrica mide lo bien que tu armadura te a&#237;sla de las descargas el&#233;ctricas. Las anomal&#237;as el&#233;ctricas pueden manifestarse como "piscinas" de electricidad en el suelo, o como cometas "Tesla" flotando de forma r&#237;tmica.\n \n%c[d_orange]&#191;Cuanta Protecci&#243;n Necesitas?\n%c[ui_gray_1]Importante: Los valores porcentuales que se sugieren a continuaci&#243;n se refieren &#250;nicamente al grado de llenado de la barra de resistencia el&#233;ctrica, que est&#225; determinado predominantemente por el blindaje. No debe confundirse con los porcentajes que aparecen en los art&#237;culos de cintur&#243;n o consumibles, que no se acumulan adicionalmente\n \n%c[d_cyan] •%c[ui_gray_1] Las anomal&#237;as el&#233;ctricas var&#237;an en fuerza, pero el stalker promedio encuentra que un 20% de resistencia el&#233;ctrica es suficiente para ayudarles a sobrevivir el ocasional accidente.\n%c[d_cyan] •%c[ui_gray_1] Los stalkers militares comisionados, que deben estar razonablemente preparados para absolutamente cualquier cosa, prefieren tener al menos un 40% de resistencia el&#233;ctrica, ya que saben lo fuertes que pueden ser tales anomal&#237;as en las partes m&#225;s peligrosas de la Zona..\n%c[d_cyan] •%c[ui_gray_1] Los cazadores de artefactos independientes y los investigadores de campo est&#225;n de acuerdo en que un 40-45% de resistencia el&#233;ctrica es suficiente protecci&#243;n en la mayor&#237;a de los casos.\n%c[d_cyan] •%c[ui_gray_1] Los cient&#237;ficos del gobierno, sin embargo, recurrir&#225;n al menos a un 70% de resistencia el&#233;ctrica siempre que puedan.\n \n \n</text>
+	</string>
+	<string id="ui_inv_telepatic_protection">
+		<text>Resistencia Ps&#237;quica\n \n%c[ui_gray_1]La Zona es un laberinto complejo, lleno de trampas mortales e inusuales, y en ning&#250;n lugar est&#225; mejor ilustrado esto que en el interior de la mortal psicoanomal&#237;a. Las fuentes m&#225;s infames de fen&#243;menos ps&#237;quicos incluyendo el Cauterizador Cerebral, el Genio, las emisiones y las Tormentas Ps&#237;quicas, que son demasiado poderosas para resistirse sin el equipo m&#225;s esot&#233;rico o especializado.\n \nPor lo tanto, la Resistencia Ps&#237;quica es mayormente una medida de cu&#225;n bien puedes resistir los asaltos telep&#225;ticos de los psicomutantes, o cu&#225;nto tiempo puedes permanecer en psicoanomal&#237;as menores.\n \nEl da&#241;o ps&#237;quico es inusual en el sentido de que no te da&#241;a f&#237;sicamente, sino que mina tu autocontrol o tus ganas de vivir (si buscas tus ganas de vivir, est&#225; justo encima de la barra de la salud). La sobreexposici&#243;n a las ondas ps&#237;quicas conduce inevitablemente a la p&#233;rdida de memoria, al suicidio o incluso a la zombificaci&#243;n, y la recuperaci&#243;n de las ondas ps&#237;quicas requiere medicamentos o artefactos especializados: los medkits regulares no hacen nada para curar una mente fracturada, pero los medkits cient&#237;ficos tienen mucho m&#225;s &#233;xito.\n \nLos campos ps&#237;quicos generalmente son esf&#233;ricos o hemisf&#233;ricos, y son m&#225;s potentes cuanto m&#225;s te acercas a su centro.\n \n%c[d_orange]&#191;Cuanta Proteccion Necesitas?\n%c[ui_gray_1]Importante: Los valores porcentuales que se sugieren a continuaci&#243;n se refieren &#250;nicamente al grado de llenado de la barra de resistencia ps&#237;quica, que est&#225; determinado predominantemente por la armadura. No debe confundirse con los porcentajes que aparecen en los art&#237;culos de cintur&#243;n o consumibles, que no se acumulan adicionalmente.\n \n%c[d_cyan] •%c[ui_gray_1] El stalker promedio rara vez se encuentra con psicomutantes, o incluso puede creer que no existen. La mayor&#237;a no busca m&#225;s del 5% de resistencia ps&#237;quica, aunque los stalkers m&#225;s sabios seguramente llevan pildoras de bloqueo ps&#237;quico, alprazolam o marihuana para emergencias.\n%c[d_cyan] •%c[ui_gray_1] Los stalkers militares contratados, que deben estar preparados para cualquier cosa, tendr&#225;n como objetivo al menos un 30% de resistencia ps&#237;quica. Algunos de ellos est&#225;n muy familiarizados con lo que puede pasar si un Controlador consigue un acceso sin restricciones a su mente. \n%c[d_cyan] •%c[ui_gray_1] Los cazadores de artefactos o investigadores de campo independientes a tiempo completo buscar&#225;n al menos un 50% de resistencia ps&#237;quica, lo que les permitir&#225; pasar tiempo en psicoanomal&#237;as m&#225;s potentes.\n%c[d_cyan] •%c[ui_gray_1] Los cient&#237;ficos del gobierno ir&#225;n m&#225;s all&#225; y buscar&#225;n un 55% de resistencia ps&#237;quica para poder empujar un poco m&#225;s profundo.\n \n \n</text>
+	</string>
+	<string id="ui_inv_wound_protection">
+		<text>Resistencia a la Ruptura\n \n%c[ui_gray_1]La resistencia a la ruptura representa la capacidad de su armadura para absorber y desviar el da&#241;o causado por todo tipo de golpes e impactos f&#237;sicos. Estos incluyen - pero no se limitan a - golpes, patadas, pu&#241;aladas, cortes, mordeduras y basura lanzada telequin&#233;ticamente.\n \n%c[ui_gray_1]Este aspecto de su armadura no s&#243;lo reduce el da&#241;o inicial causado por tales ataques, sino que tambi&#233;n reduce el grado de sangrado que un solo golpe puede darle.\n \nLa resistencia a la ruptura tambi&#233;n se sinergiza con tu resistencia bal&#237;stica. Esto se debe a que incluso las balas que no penetran en su blindaje bal&#237;stico pueden causar un traumatismo contundente, que la resistencia a la ruptura reduce.\n \n%c[d_orange]&#191;Cuanta Protecci&#243;n Necesitas?\n%c[ui_gray_1]Importante: Los valores porcentuales que se sugieren a continuaci&#243;n se refieren &#250;nicamente al grado de llenado de la barra de resistencia a la ruptura, que est&#225; determinado predominantemente por el blindaje. No debe confundirse con los porcentajes que aparecen en los art&#237;culos de cintur&#243;n o consumibles, que no se apilan adicionalmente.\n \n%c[d_cyan] •%c[ui_gray_1] Sabiendo que no se puede razonar con los mutantes, el stalker promedio apuntar&#225; a un m&#237;nimo de 15% de Resistencia a la Ruptura tan pronto como pueda permit&#237;rselo.\n%c[d_cyan] •%c[ui_gray_1] Un mercenario profesional tambi&#233;n aspirar&#225; a un 15% de resistencia a la ruptura como m&#237;nimo, y obtendr&#225; mejor cuando su presupuesto se lo permita.\n%c[d_cyan] •%c[ui_gray_1] Los operadores de Spetsnaz, de los que se espera que despejen las guaridas de los mutantes o que ayuden en las redadas de laboratorio, no se conforman con menos del 40% de Resistencia a las Rupturas.\n%c[d_cyan] •%c[ui_gray_1] Los stalkers militares comisionados, de los que se espera que sobrevivan solos durante largos per&#237;odos en las partes m&#225;s peligrosas de la Zona, sorprendentemente se conforman con tan s&#243;lo un 25% de resistencia a la ruptura, pero superar&#225;n a sus hermanos Spetsnaz cuando la misi&#243;n lo requiera.\n \n \n</text>
+	</string>
+	<string id="ui_inv_power_restore">
+		<text>Recuperaci&#243;n de la resistencia\n \n%c[ui_gray_1]Primero, vamos a cubrir algunos fundamentos:\n \n%c[d_cyan] •%c[ui_gray_1] No eres una mula de carga, y hacer las paces con esta simple verdad es la clave para manejar tu energ&#237;a.\n%c[d_cyan] •%c[ui_gray_1] La recuperaci&#243;n r&#225;pida de la resistencia facilita el correr grandes distancias, escapar de las anomal&#237;as gravitatorias, saltar obst&#225;culo tras obst&#225;culo, e incluso resistir algunos fen&#243;menos paranormales, como la telequinesia.\n%c[d_cyan] •%c[ui_gray_1] Una mala recuperaci&#243;n de la resistencia puede hacer que incluso una caminata ligera sea un ejercicio agotador. Cuando las reservas de energ&#237;a bajan demasiado, se hace imposible iniciar una carrera corta. Cuando se vac&#237;an, se hace imposible caminar. Una mejor recuperaci&#243;n de la resistencia significa que vaciar&#225; sus reservas m&#225;s lentamente y las llenar&#225; m&#225;s r&#225;pido.\n \n%c[ui_gray_1]Como no quieres estar sin resistencia cuando una granada activa se ponga a tu lado, o una jaur&#237;a de perros decida perseguirte, es importante que mantengas alta tu recuperaci&#243;n de resistencia.\n \n%c[d_cyan] •%c[ui_gray_1] La forma m&#225;s b&#225;sica de hacerlo es asegurarse siempre de que est&#225; bien alimentado, descansado e hidratado. Estas tres cosas ya pueden significar la diferencia entre la vida y la muerte.\n%c[d_cyan] •%c[ui_gray_1] A continuaci&#243;n, ten en cuenta tu peso de carga. Si llevas m&#225;s del 50% de tu capacidad de peso total, puedes notar que tu recuperaci&#243;n es un poco lenta. Este efecto se hace m&#225;s notorio a medida que se acerca a la capacidad m&#225;xima. Si llevas m&#225;s de tu capacidad m&#225;xima, todas las acciones que agotan la resistencia, incluyendo el caminar, comenzar&#225;n a agotarla mucho m&#225;s r&#225;pido.\n%c[d_cyan] •%c[ui_gray_1] Equiparse con mochilas de mayor calidad, o llevar armaduras que concedan m&#225;s capacidad de carga de la que ocupan, para permitirse llevar m&#225;s equipo sin que ello afecte a la recuperaci&#243;n de la resistencia.\n%c[d_cyan] •%c[ui_gray_1] A menos que se modifique de forma especial, la mayor&#237;a de las m&#225;scaras de gas hacen que respirar sea un asunto caluroso y sudoroso. Cuando no necesites las cualidades protectoras de tu m&#225;scara, qu&#237;tatela para tener un peque&#241;o impulso de recuperaci&#243;n de la resistencia.\n%c[d_cyan] •%c[ui_gray_1] Muchos artefactos y art&#237;culos de cintur&#243;n pueden aumentar a&#250;n m&#225;s los &#237;ndices de recuperaci&#243;n.\n%c[d_cyan] •%c[ui_gray_1] Los consumibles que aumentan el peso o la recuperaci&#243;n, como El H&#233;rcules o las bebidas energ&#233;ticas, pueden ser muy valiosos para escapar de las emergencias.\n \n \n</text>
+	</string>
+	<string id="st_ui_bleeding_sensor">
+		<text>TOOLTIP UNAVAILABLE! Bleeding\n \n%c[ui_gray_1]Bleeding can rapidly drain your health if not treated promptly. Bleeding is most often caused by piercing or slashing attacks that manage to get through your armour and puncture your skin, although excessive blunt trauma can cause bleeding through even the sturdiest suits.\n \n%c[ui_gray_1]Bandages, army medkits or tourniquets can effectively stop the bleeding, while coagulating agents such as vinca can be used to reduce the overall rate of bleeding. Note that it is generally faster and cheaper to stop your bleeding outright than it is to try regenerate your health through it. Finally, be aware that bleeding is cumulative: multiple small wounds can lead to just as much blood loss as a single severe one.\n \n%c[d_cyan] • %c[0,255,255,255]Mild bleeding can be quickly stopped with bandages, or may even stop on its own given time.\n%c[d_cyan] • %c[0,250,250,0]Moderate bleeding can deal a great amount of damage over time if left unattended, but is usually stopped quickly with proper medical attention. Some injuries heal on their own, but others simply lead to a slow death over the course of minutes.\n%c[d_cyan] • %c[d_orange] Serious blood loss can lead to death in less than a minute if it isn't treated immediately. Without imminent medical attention, there is little chance of survival.\n%c[d_cyan] • %c[d_red] Severe blood loss can kill in seconds, even if you're in peak physical condition. May require extensive medical supplies to treat while in the field.\n \n \n</text>
+	</string>
+	<string id="st_ui_health_sensor_inv">
+		<text>Salud\n \n%c[ui_gray_1]Tu salud representa la capacidad de tu cuerpo para soportar enfermedades y traumas f&#237;sicos. Una barra llena significa que est&#225;s en plena forma, mientras que una casi vac&#237;a significa que est&#225;s a punto de entrar en shock. A partir de ah&#237;, est&#225;s como muerto, as&#237; que ten cuidado. \n \n%c[ui_gray_1]La armadura, as&#237; como algunos medicamentos, pueden protegerte de diferentes tipos de dolor, haci&#233;ndolo m&#225;s f&#225;cil de soportar. Algunos art&#237;culos, como los botiquines o las vendas, alivian el dolor por completo, tratando tus lesiones y restaurando tu salud.\n \n%c[ui_gray_1]Sin embargo, incluso la mejor protecci&#243;n sigue siendo peor que evitar el da&#241;o directamente, lo que se puede hacer empleando compa&#241;eros, cobertura, disfraces, oscuridad y prestando atenci&#243;n a su entorno. En la Zona, la ruta m&#225;s directa no siempre es la m&#225;s segura.\n \n%c[ui_gray_1]Otro factor importante para su supervivencia es que se mantenga hidratado, bien alimentado y descansado: en otras palabras, cu&#237;dese. Un cuerpo bien cuidado tendr&#225; m&#225;s facilidad para sobrellevar el dolor que uno desnutrido, desecado o que se desmaya por agotamiento. Dicho esto, la vida en la Zona nunca est&#225; exenta de peligro, y puede resumirse as&#237;: &#161;volver al mundo exterior con un tesoro es grandioso! &#161;Hacerlo sin cicatrices es a&#250;n mejor! &#191;Pero no volver en absoluto? Eso es s&#243;lo el destino.\n \n%c[0,255,255,255]Sangrado\n \n%c[ui_gray_1]La hemorragia se produce cuando los ataques de perforaci&#243;n o corte logran perforar la piel, aunque un traumatismo excesivo y contundente puede causar hemorragias incluso en los trajes m&#225;s resistentes.\n \n%c[d_cyan] • %c[0,255,255,255]El sangrado leve puede ser detenido r&#225;pidamente con vendas, o incluso puede detenerse por s&#237; mismo en un momento dado, especialmente si est&#225;s bajo los efectos de un coagulante como el Vinca.\n%c[d_cyan] • %c[0,250,250,0]El sangrado moderado puede causar una gran cantidad de da&#241;o con el tiempo si se deja sin atenci&#243;n, pero generalmente se detiene r&#225;pidamente con la atenci&#243;n m&#233;dica adecuada, como un torniquete. Algunas hemorragias moderadas se detienen por s&#237; solas, especialmente con Vinca, pero otras simplemente llevan a una muerte lenta en el transcurso de minutos.\n%c[d_cyan] • %c[d_orange] Una p&#233;rdida grave de sangre puede llevar a la muerte en menos de un minuto. Sin una atenci&#243;n m&#233;dica inminente, idealmente de un ej&#233;rcito o un equipo m&#233;dico cient&#237;fico, hay pocas posibilidades de supervivencia.\n%c[d_cyan] • %c[d_red] La p&#233;rdida severa de sangre puede matar en segundos, incluso si est&#225;s en plena forma f&#237;sica. Puede requerir extensos suministros m&#233;dicos para tratarla mientras est&#225; en el campo.\n \n \n</text>
+	</string>
+	
+	<!-- Item description-->
+	<string id="st_cap_old">
+		<text>Viejo</text>
+	</string>
+	<string id="st_cap_verybad">
+		<text>Malo</text>
+	</string>
+	
+	<string id="st_cap_upgr_1">
+		<text>(B&#225;sico)</text>
+	</string>
+	<string id="st_cap_upgr_2">
+		<text>(Avanzado)</text>
+	</string>
+	<string id="st_cap_upgr_3">
+		<text>(Perfeccionado)</text>
+	</string>
+	
+	<string id="st_cap_meal_1">
+		<text>(Producido en la Zona)</text>
+	</string>
+	<string id="st_cap_meal_2">
+		<text>(Cocido)</text>
+	</string>
+	<string id="st_cap_meal_3">
+		<text>(Purificado)</text>
+	</string>
+	
+	<string id="st_cap_con_25_o">
+		<text>Rasgado</text>
+	</string>
+	<string id="st_cap_con_50_o">
+		<text>Da&#241;ado</text>
+	</string>
+	<string id="st_cap_con_75_o">
+		<text>Rayado</text>
+	</string>
+	<string id="st_cap_con_100_o">
+		<text>Limpio</text>
+	</string>
+	<string id="st_cap_con_25_w">
+		<text>Deformado</text>
+	</string>
+	<string id="st_cap_con_50_w">
+		<text>Da&#241;ado</text>
+	</string>
+	<string id="st_cap_con_75_w">
+		<text>Rayado</text>
+	</string>
+	<string id="st_cap_con_100_w">
+		<text>Funcional</text>
+	</string>
+
+	<string id="st_ui_armor_static">
+		<text>Condici&#243;n de armadura</text>
+	</string>
+	<string id="st_weight">
+		<text>Peso.</text>
+	</string>
+	<string id="st_weight_full">
+		<text>Peso</text>
+	</string>
+	<string id="ui_ammo_count">
+		<text>Tama&#241;o carg.</text>
+	</string>
+	<string id="ui_inv_accuracy">
+		<text>Precisi&#243;n</text>
+	</string>
+	<string id="ui_inv_damage">
+		<text>Da&#241;o</text>
+	</string>
+	<string id="ui_inv_handling">
+		<text>Manejo</text>
+	</string>
+	
+	<string id="ui_inv_health">
+		<text>Restauraci&#243;n de salud</text>
+	</string>
+	<string id="ui_inv_power">
+		<text>Recuperacion de Resistencia</text>
+	</string>
+	
+	<string id="ui_inv_outfit_additional_weight">
+		<text>Peso cargado</text>
+	</string>
+	<string id="ui_inv_outfit_artefact_count">
+		<text>Espacios del cinturon</text>
+	</string>
+	<string id="ui_inv_outfit_burn_protection">
+		<text>Res. Quemadura</text>
+	</string>
+	<string id="ui_inv_outfit_chemical_burn_protection">
+		<text>Res. Qu&#237;mica</text>
+	</string>
+	<string id="ui_inv_outfit_fire_wound_protection">
+		<text>Res. Balistica</text>
+	</string>
+	<string id="ui_inv_outfit_radiation_protection">
+		<text>Res. Radiaci&#243;n</text>
+	</string>
+	<string id="ui_inv_outfit_shock_protection">
+		<text>Res. Electrica</text>
+	</string>
+	<string id="ui_inv_outfit_telepatic_protection">
+		<text>Res. Ps&#237;quica</text>
+	</string>
+	<string id="ui_inv_outfit_wound_protection">
+		<text>Res. Ruptura</text>
+	</string>
+	<string id="ui_inv_outfit_explosion_protection">
+		<text>Res. Explosiva</text>
+	</string>
+	<string id="ui_inv_outfit_strike_protection">
+		<text>Res. Impacto</text>
+	</string>
+	<string id="ui_inv_outfit_hit_fraction_actor">
+		<text>Fuerza</text>
+	</string>
+	
+	<string id="ui_inv_satiety">
+		<text>Nivel de saciedad</text>
+	</string>
+	<string id="ui_inv_outfit_power_restore">
+		<text>Recuperacion de Resistencia</text>
+	</string>
+	<string id="ui_inv_weight">
+		<text>Conv. carga de peso</text>
+	</string>
+	<string id="ui_inv_af_condition">
+		<text>Eficiencia</text>
+	</string>
+	<string id="ui_total_weight">
+		<text>Peso:</text>
+	</string>
+	<string id="st_ui_health_sensor">
+		<text>Salud</text>
+	</string>
+	<string id="ui_ammo_types">
+		<text>Munici&#243;n</text>
+	</string>
+	<string id="ui_inv_effect_time">
+		<text>Duraci&#243;n</text>
+	</string>
+	
+	<string id="st_itm_desc_properties">
+		<text>PROPIEDADES</text>
+	</string>
+	<string id="st_itm_desc_details">
+		<text>DETALLES</text>
+	</string>
+	<string id="st_itm_desc_warning">
+		<text>ADVERTENCIA</text>
+	</string>
+	
+	<string id="st_itm_desc_state_possible">
+		<text>posible</text>
+	</string>
+	<string id="st_itm_desc_state_not_possible">
+		<text>no es posible</text>
+	</string>
+	<string id="st_itm_desc_state_avail">
+		<text>incluido</text>
+	</string>
+	<string id="st_itm_desc_state_avail_workshop">
+		<text>disponible (por el mecanico)</text>
+	</string>
+	<string id="st_itm_desc_state_not_avail">
+		<text>no disponible</text>
+	</string>
+	<string id="st_itm_desc_state_not_included">
+		<text>no incluido</text>
+	</string>
+	<string id="st_itm_desc_state_low">
+		<text>bajo</text>
+	</string>
+	<string id="st_itm_desc_state_average">
+		<text>promedio</text>
+	</string>
+	<string id="st_itm_desc_state_high">
+		<text>alto</text>
+	</string>
+	<string id="st_itm_desc_state_slight">
+		<text>leve</text>
+	</string>
+	<string id="st_itm_desc_state_moderate">
+		<text>moderado</text>
+	</string>
+	<string id="st_itm_desc_state_significant">
+		<text>significable</text>
+	</string>
+	<string id="st_itm_desc_state_increase">
+		<text>incremento</text>
+	</string>
+	<string id="st_itm_desc_state_decrease">
+		<text>reducci&#243;n</text>
+	</string>
+	
+	<string id="st_itm_desc_arty_cont">
+		<text>artefacto contenido</text>
+	</string>
+	<string id="st_itm_desc_arty_cont_rad">
+		<text>nivel de radiacion permisible</text>
+	</string>
+	
+	<string id="st_itm_desc_eat_sleepiness">
+		<text>%s somnolencia %s</text>
+	</string>
+	<string id="st_itm_desc_eat_thirst">
+		<text>%s sed %s</text>
+	</string>
+	<string id="st_itm_desc_eat_radiation">
+		<text>envenenamiento por radiacion</text>
+	</string>
+	<string id="st_itm_desc_eat_health">
+		<text>insalubre</text>
+	</string>
+	
+	<string id="st_itm_desc_outfit_upgradable">
+		<text>actualizable</text>
+	</string>
+	<string id="st_itm_desc_outfit_heardgear">
+		<text>para la cabeza</text>
+	</string>
+	<string id="st_itm_desc_outfit_num_of_slots">
+		<text>accesorios para ranuras adicionales</text>
+	</string>
+	<string id="st_itm_desc_outfit_carry_weight">
+		<text>incremento de peso cargado</text>
+	</string>
+	<string id="st_itm_desc_outfit_run">
+		<text>para correr</text>
+	</string>
+	<string id="st_itm_desc_outfit_patch_torn">
+		<text>El %s en este atuendo fue arrancado</text>
+	</string>
+	<string id="st_itm_desc_outfit_faction">
+		<text>facci&#243;n</text>
+	</string>
+	
+	<string id="st_itm_desc_outfit_repair_bonus">
+		<text>bono de reparaci&#243;n</text>
+	</string>
+	<string id="st_itm_desc_outfit_required_tool">
+		<text>herramienta requerida</text>
+	</string>
+	
+	<string id="st_itm_desc_workshop_tool">
+		<text>utilizable en el taller de mec&#225;nica para el reemplazo de piezas y actualizaciones</text>
+	</string>
+	<string id="st_itm_desc_repair_min_con">
+		<text>no utilizable por debajo del nivel de condicion</text>
+	</string>
+	<string id="st_itm_desc_repair_base_con">
+		<text>ganancia de condicion base</text>
+	</string>
+	<string id="st_itm_desc_repair_match">
+		<text>puede reparar materiales usando sus contrapartes</text>
+	</string>
+	
+	<string id="st_itm_desc_part_usable">
+		<text>utilizable en talleres para reemplazo de piezas</text>
+	</string>
+	<string id="st_itm_desc_part_i">
+		<text>componente base</text>
+	</string>
+	<string id="st_itm_desc_part_w">
+		<text>pieza de arma</text>
+	</string>
+	<string id="st_itm_desc_part_o">
+		<text>pieza de traje</text>
+	</string>
+	
+	<string id="st_itm_desc_upgr_w">
+		<text>kit de actualizacion de armas</text>
+	</string>
+	<string id="st_itm_desc_upgr_o">
+		<text>kit de actualizacion de traje</text>
+	</string>
+	<string id="st_itm_desc_upgr_usable">
+		<text>utilizable en talleres para instalar actualizaciones adecuadas</text>
+	</string>
+
+<!-- Others -->
+	<string id="ui_inv_ammo_pistol">
+		<text>Comprar munici&#243;n b&#225;sica para pistola (Q)</text>
+	</string>
+	<string id="ui_inv_ammo_rifle">
+		<text>Comprar munici&#243;n de rifle (W)</text>
+	</string>
+	<string id="ui_inv_bleeding">
+		<text>Control de sangrado</text>
+	</string>
+	<string id="ui_inv_cancel">
+		<text>Cancelar</text>
+	</string>
+	<string id="ui_inv_cant_buy_item">
+		<text>No puedes comprar arma</text>
+	</string>
+	<string id="ui_inv_count_restr">
+		<text>Cantidad de restricciones</text>
+	</string>
+	<string id="ui_inv_default(F5)">
+		<text>Predeterminado (F5)</text>
+	</string>
+	<string id="ui_inv_exit">
+		<text>Atr&#225;s</text>
+	</string>
+	<string id="ui_inv_granadelauncher_rifle">
+		<text>Comprar lanzagranadas acoplado al ca&#241;&#243;n para rifle (D)</text>
+	</string>
+	<string id="ui_inv_granades_rifle">
+		<text>Comprar granadas para lanzagranadas acopaldo al ca&#241;&#243;n (E)</text>
+	</string>
+	<string id="ui_inv_has">
+		<text>Ahora</text>
+	</string>
+	<string id="ui_inv_heavy_weapons">
+		<text>Pesado</text>
+	</string>
+	<string id="ui_inv_last_buy">
+		<text>Compre la &#250;ltima carga comprada</text>
+	</string>
+	<string id="ui_inv_last_buy(F4)">
+		<text>Anterior (F4)</text>
+	</string>
+	<string id="ui_inv_money">
+		<text>Dinero</text>
+	</string>
+	<string id="ui_inv_need">
+		<text>Requerido</text>
+	</string>
+	<string id="ui_inv_needs">
+		<text>Necesario</text>
+	</string>
+	<string id="ui_inv_not_enought_money">
+		<text>Dinero insuficiente</text>
+	</string>
+	<string id="ui_inv_ok">
+		<text>OK</text>
+	</string>
+	<string id="ui_inv_preset1(F1)">
+		<text>Carga 1 (F1)</text>
+	</string>
+	<string id="ui_inv_preset2(F2)">
+		<text>Carga 2 (F2)</text>
+	</string>
+	<string id="ui_inv_preset3(F3)">
+		<text>Carga 3 (F3)</text>
+	</string>
+	<string id="ui_inv_radiation">
+		<text>Radiaci&#243;n</text>
+	</string>
+	<string id="ui_inv_rank_restr">
+		<text>Restricci&#243;n de rango</text>
+	</string>
+	<string id="ui_inv_rate_of_fire">
+		<text>Cadencia</text>
+	</string>
+	<string id="ui_inv_reset_items(C)">
+		<text>Limpiar (C)</text>
+	</string>
+	<string id="ui_inv_rifles">
+		<text>Rifles de asalto</text>
+	</string>
+	<string id="ui_inv_scope_rifle">
+		<text>Comprar mira optica para rifle (S)</text>
+	</string>
+	<string id="ui_inv_sell_items(X)">
+		<text>Vender todos los art&#237;culos en la mochila (X)</text>
+	</string>
+	<string id="ui_inv_shotguns">
+		<text>Rifles</text>
+	</string>
+	<string id="ui_inv_silencer_pistol">
+		<text>Comprar silenciador para pistola (A)</text>
+	</string>
+	<string id="ui_inv_silencer_rifle">
+		<text>Comprar silenciador para rifle (F)</text>
+	</string>
+	<string id="ui_inv_sniper_rifles">
+		<text>Francotirador</text>
+	</string>
+	<string id="ui_inv_time">
+		<text>Hora</text>
+	</string>
+	<string id="ui_inv_you_already_have">
+		<text>Ya tengo uno</text>
+	</string>
+	<string id="ui_st_err_gs_not_available">
+		<text>Los servicios Online S.T.A.L.K.E.R. no son accesibles.</text>
+	</string>
+	<string id="ui_st_err_sb_master_server_conn_fail">
+		<text>No se puede conectar al servidor principal.</text>
+	</string>
+	<string id="ui_st_outfit_protect">
+		<text>Protecci&#243;n:</text>
+	</string>
+	<string id="ui_st_preset_def">
+		<text>Predeterminado</text>
+	</string>
+	<string id="ui_st_preset_stored_to">
+		<text>Cargar comprada guardada como</text>
+	</string>
+	<string id="ui_inv_survive_surge">
+		<text>Permite sobrevivir a una emision</text>
+	</string>
+	<string id="st_ui_containers">
+		<text>Contenedores</text>
+	</string>
+	<string id="st_ui_artifacts">
+		<text>Artefactos</text>
+	</string>
+	<string id="st_ui_itm_repair_base">
+		<text>Art&#237;culos da&#241;ados</text>
+	</string>
+	<string id="st_ui_itm_repair_support">
+		<text>Materiales de apoyo</text>
+	</string>
+	<string id="st_ui_itm_cook_fuel">
+		<text>Combustible</text>
+	</string>
+	<string id="st_ui_itm_cook_food">
+		<text>Recetas</text>
+	</string>
+	<string id="st_ui_repair">
+		<text>Reparaci&#243;n</text>
+	</string>
+	<string id="st_ui_craft">
+		<text>Fabricaci&#243;n</text>
+	</string>
+	<string id="st_ui_cancel">
+		<text>Cancelar</text>
+	</string>
+	<string id="st_ui_total">
+		<text>Total</text>
+	</string>
+	<string id="st_ui_bonus">
+		<text>Bono</text>
+	</string>
+	<string id="st_ui_base">
+		<text>Base</text>
+	</string>
+	<string id="st_ui_oldcon">
+		<text>Viejo</text>
+	</string>
+	
+	<!-- Messages -->
+	<string id="st_news_dis_items">
+		<text>%c[d_red]Se requiere una herramienta de desmontaje adecuada.</text>
+	</string>
+	<string id="st_ui_need_charger">
+		<text>Se requiere %s para conducir la electricidad</text>
+	</string>
+	<string id="st_new_anomaly_map">
+		<text>Nuevo mapa de anomalias descubierto</text>
+	</string>
+	<string id="ui_st_create_stash">
+		<text>Crear alijo</text>
+	</string>
+	<string id="ui_st_geiger_mode_1">
+		<text>Modo 1: mientras esta activo</text>
+	</string>
+	<string id="ui_st_geiger_mode_2">
+		<text>Modo 2: siempre</text>
+	</string>
+	<string id="ui_st_geiger_mode_3">
+		<text>Mode 3: al hacer click</text>
+	</string>
+	<string id="ui_st_npc_pda_unkown">
+		<text>PDA no funciona</text>
+	</string>
+	<string id="ui_st_npc_pda_low_power">
+		<text>BATER&#205;A BAJA</text>
+	</string>
+	<string id="ui_st_npc_pda_access_denied">
+		<text>ACCESO DENEGADO</text>
+	</string>
+	<string id="ui_st_npc_pda_strelok">
+		<text>ASESINAR A STRELOK</text>
+	</string>
+	<string id="ui_st_battery_more_power">
+		<text>El dispositivo tiene m&#225;s energ&#237;a</text>
+	</string>
+	<string id="st_lamp_disconnected">
+		<text>Lampara desconectada</text>
+	</string>
+	<string id="st_lamp_equipped">
+		<text>Lampara equipada</text>
+	</string>
+	<string id="st_lamp_power_left">
+		<text>Le queda %s% de energ&#237;a a la Lampara</text>
+	</string>
+	<string id="st_lamp_no_power_left">
+		<text>La lampara no tiene energia restante</text>
+	</string>
+	<string id="st_upd_disconnected">
+		<text>No tienes un Dispositivo de Poder Universal (UPD)</text>
+	</string>
+	<string id="st_upd_low">
+		<text>Bater&#237;a baja</text>
+	</string>
+	<string id="st_pda_no_power">
+		<text>PDA no tiene bateria</text>
+	</string>
+	<string id="st_pda_no_active">
+		<text>Sin PDA activo</text>
+	</string>
+	
+	<string id="st_ui_scopes">
+		<text>Miras</text>
+	</string>
+	<string id="st_ui_silencer">
+		<text>Silenciador</text>
+	</string>
+	<string id="st_ui_grenade_launcher">
+		<text>Lanzagranada</text>
+	</string>
+	<string id="st_ui_awr_parts_list">
+		<text>Piezas de repuesto</text>
+	</string>
+	<string id="st_ui_repair_kit_list">
+		<text>Kits de Reparacion Compatibles</text>
+	</string>
+	<string id="st_ui_workshop_kit_list">
+		<text>Kit de Taller Compatibles</text>
+	</string>
+	<string id="st_ui_disassemly_list">
+		<text>Componentes</text>
+	</string>
+	<string id="st_ui_upgrade_list">
+		<text>Actualizaciones</text>
+	</string>
+	<string id="st_ui_arty_rank">
+		<text>rango de artefacto</text>
+	</string>
+	<string id="st_ui_artefact">
+		<text>artefacto</text>
+	</string>
+	<string id="st_ui_repair_add_condition">
+		<text>Ganancia de condicion base</text>
+	</string>
+	<string id="st_ui_repair_min_condition">
+		<text>No utilizable por debajo del nivel de condici&#243;n</text>
+	</string>
+	<string id="st_ui_repair_bonus">
+		<text>bono de reparaci&#243;n</text>
+	</string>
+	<string id="st_ui_power_loss">
+		<text>perdida de energ&#237;a</text>
+	</string>
+	<string id="st_ui_number_of_uses">
+		<text>Usos</text>
+	</string>
+	<string id="st_ui_repair_parts_include">
+		<text>Materiales Utilizables</text>
+	</string>
+	<string id="st_ui_power">
+		<text>Energ&#237;a</text>
+	</string>
+	<string id="st_ui_amount">
+		<text>Cantidad</text>
+	</string>
+	<string id="st_ui_power_consumption">
+		<text>Consumo de energia</text>
+	</string>
+	<string id="st_ui_info">
+		<text>Info</text>
+	</string>
+	<string id="st_ui_inventory_unpack">
+		<text>Abrir</text>
+	</string>
+	<string id="st_ui_inventory_attach">
+		<text>Adjuntar</text>
+	</string>
+	<string id="st_ui_inventory_view">
+		<text>Ver</text>
+	</string>
+	<string id="st_ui_container_remove">
+		<text>Retirar del contenedor</text>
+	</string>
+	<string id="st_ui_container_place">
+		<text>Poner en contenedor</text>
+	</string>
+	<string id="st_imm_swiss_open">
+		<text>Abrir lata</text>
+	</string>
+	<string id="st_item_place">
+		<text>Colocar</text>
+	</string>
+	<string id="st_cap_companion_inv">
+		<text>Intercambiar art&#237;culos</text>
+	</string>
+	<string id="st_ui_cook_fuel_usable">
+		<text>Combustible utilizable</text>
+	</string>
+	
+
+	<!-- Workshop-->
+	<string id="st_tab_state">
+		<text>ESTADO</text>
+	</string>
+	<string id="st_tab_repair">
+		<text>REPARAR</text>
+	</string>
+	<string id="st_tab_upgrade">
+		<text>ACTUALIZACIONES</text>
+	</string>
+	<string id="st_tab_craft">
+		<text>FABRICAR</text>
+	</string>
+	<string id="st_cap_inventory">
+		<text>Inventario</text>
+	</string>
+	<string id="st_cap_menu">
+		<text>Menu de fabricacion</text>
+	</string>
+	<string id="st_cap_recipes">
+		<text>Recetas conocidas y guias</text>
+	</string>
+	<string id="st_cap_craftables">
+		<text>Lista de art&#237;culos fabricables</text>
+	</string>
+	<string id="st_cap_components">
+		<text>Componentes</text>
+	</string>
+	<string id="st_cap_result">
+		<text>Resultado</text>
+	</string>
+	<string id="st_cap_replace_parts">
+		<text>Piezas de repuesto</text>
+	</string>
+	<string id="st_cap_upgrades">
+		<text>Actualizaci&#243;n</text>
+	</string>
+	<string id="st_cap_req_toolkit">
+		<text>Kit de herramientas requerido</text>
+	</string>
+	<string id="st_ui_craft_device">
+		<text>Dispositivos</text>
+	</string>
+	<string id="st_ui_craft_equipment">
+		<text>Equipo</text>
+	</string>
+	<string id="st_ui_craft_repair">
+		<text>Kits de reparaci&#243;n</text>
+	</string>
+	<string id="st_ui_craft_upgrades">
+		<text>Actualizar piezas</text>
+	</string>
+	<string id="st_ui_craft_medical">
+		<text>M&#233;dico</text>
+	</string>
+	<string id="st_ui_craft_ammo">
+		<text>Munici&#243;n</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_state_intro">
+		<text>El taller te permite reparar, actualizar y fabricar art&#237;culos tu mismo con la ayuda de los kits de herramientas adecuados. \nLas herramientas que se muestran arriba representan los kits de herramientas principales disponibles en este taller, que permiten ajustes adicionales para sus art&#237;culos. \nSelecciona una de las pestanas para continuar.
+		</text>
+	</string>
+	<string id="st_ui_workshop_owner">
+		<text>Este taller pertenece a %s.</text>
+	</string>
+	<string id="st_ui_workshop_owner_nobody">
+		<text>nadie</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_repair_intro">
+		<text>Puedes reemplazar las partes da&#241;adas de tu arma o equipo usando piezas de repuesto y el juego de herramientas adecuado. \nElige el articulo que desea reparar de tu inventario.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_tip_1">
+		<text>Cada articulo tiene su propio conjunto de piezas y materiales \nLas partes en gris indican la falta de reemplazos identicos para ellas en tu inventario. \nSi tienes la parte de reemplazo y una utilizable "%s", haz clic en la parte que deseas reemplazar.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_warning_1">
+		<text>No tienes piezas de repuesto en tu inventario para este equipo.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_solution_1">
+		<text>Las piezas de repuesto se pueden obtener principalmente mediante el desmontaje de trajes y armas.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_warning_2">
+		<text>No puedes reemplazar partes de este equipo sin "%s"</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_solution_2">
+		<text>La mayoria de los mecanicos venden tales herramientas. Tambien puede obtenerlos de otras formas.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_tip_3">
+		<text>Puedes elegir piezas de repuesto identicas "%s" desde tu inventario. \nSolo las partes con mayor condicion pueden usarse para mejorar su articulo. \nLas partes en gris significan que tienen peores condiciones que la parte de tu articulo. No son adecuados para un reemplazo adecuado.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_warning_3">
+		<text>La pieza de repuesto "%s" de su inventario est&#225; en peores condiciones que la utilizada por su equipo. No puede ser usado.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_solution_3">
+		<text>Muchas herramientas pueden reparar estas piezas utilizando contrapartes. La mayoria de los mecanicos venden tales herramientas. Tambien puede obtenerlos de otras formas.</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_tip_4">
+		<text>Las piezas de repuesto estan listas para ser instaladas, haz clic en el boton "Reparar" para instalar los reemplazos seleccionados.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_upgrade_intro">
+		<text>Con los kits de herramientas correctos en su poder, puede instalar actualizaciones para sus armas y atuendos. \nElija el articulo que desea actualizar de su inventario.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_tip_1">
+		<text>Cada actualizacion requiere un conjunto de herramientas especifico del mismo tipo, adem&#225;s de "%s" utilizables para completar el proceso. \nDeben cumplirse condiciones adicionales para que la actualizacion se instale correctamente. \nHaga clic en la actualizacion que desea instalar en su elemento seleccionado. \nSi la actualizacion esta deshabilitada, desplace el raton para ver todos los requisitos faltantes.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_warning_1">
+		<text>No puede instalar actualizaciones en este equipo sin "%s"</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_solution_1">
+		<text>La mayoria de los mecanicos venden tales herramientas. Tambien puede obtenerlos de otras formas.</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_warning_2">
+		<text>No hay actualizaciones disponibles para instalar.</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_solution_2">
+		<text>Pasa el raton sobre una actualizacion para ver los requisitos faltantes.</text>
+	</string>
+	<string id="st_ui_workshop_info_upgrade_tip_3">
+		<text>La actualizacion esta lista para instalar. Si ha terminado, haga clic en el boton "Actualizar" para instalar las actualizaciones seleccionadas.</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_craft_intro">
+		<text>Se pueden usar muchos materiales para fabricar varios tipos de art&#237;culos. \nLas recetas y guias que ha adquirido durante su viaje pueden proporcionarle m&#225;s informaci&#243;n para crear m&#225;s art&#237;culos. \nSeleccione una entrada del menu de fabricacion para ver los art&#237;culos que se pueden fabricar.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_tip_1">
+		<text>Selecciona el articulo que deseas fabricar.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_warning_2">
+		<text>Todavia no has aprendido a fabricar "%s".</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_solution_2">
+		<text>Las guias y recetas tienen suficiente informaci&#243;n sobre los art&#237;culos, seran utiles para aprender m&#225;s sobre esos art&#237;culos.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_warning_3">
+		<text>Se requiere "%s" para fabricar este articulo usando estos componentes (solo disponible, por el jugador o el mecanico)</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_solution_3">
+		<text>Por lo general, tales herramientas son raras, vigile estos conjuntos durante sus viajes.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_warning_4">
+		<text>Tu inventario carece de algunos componentes necesarios para fabricar este articulo.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_solution_4">
+		<text>Los componentes se pueden obtener de diferentes art&#237;culos y materiales de tu alrededor. Se aconseja que desmontes los elementos innecesarios para adquirir componentes &#250;tiles.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_tip_5">
+		<text>Tienes todos los componentes necesarios para fabricar "%s", selecciona el boton "Fabricar" si deseas continuar.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_state_1">
+		<text>El taller te permite reparar, actualizar y fabricar art&#237;culos tu mismo con la ayuda de los kits de herramientas adecuados. Las herramientas que se muestran arriba representan los kits de herramientas principales disponibles en este taller, que permiten ajustes adicionales para sus art&#237;culos. \nSelecciona una de las pestanas para continuar.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_repair_1">
+		<text>Puedes reemplazar las partes danadas de tu arma o equipo usando piezas de repuesto y el juego de herramientas adecuado. \nElige el articulo que desea reparar de tu inventario.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_2">
+		<text>Cada articulo tiene su propio conjunto de piezas y materiales \nLas partes en gris indican la falta de reemplazos identicos para ellas en tu inventario. \nSi tienes la parte de reemplazo y una utilizable "%s", haz clic en la parte que deseas reemplazar.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_3">
+		<text>Puedes elegir piezas de repuesto identicas de tu inventario. \nSolo las partes con mayor condicion pueden usarse para mejorar su articulo. \nLas partes en gris significan que tienen peores condiciones que la parte de tu articulo. No son adecuados para un reemplazo adecuado.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_repair_4">
+		<text>Las piezas de repuesto estan listas para ser instaladas, haz clic en el boton "Reparar" para instalar los reemplazos seleccionados.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_upgr_1">
+		<text>Con los kits de herramientas correctos en su poder, puede instalar actualizaciones para sus armas y atuendos. \nElija el articulo que desea actualizar de su inventario.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgr_2">
+		<text>Cada actualizacion requiere un conjunto de herramientas especifico del mismo tipo, adem&#225;s de "%s" utilizables para completar el proceso. \nDeben cumplirse condiciones adicionales para que la actualizacion se instale correctamente. \nHaga clic en la actualizacion que desea instalar en su elemento seleccionado. \nSi la actualizacion esta deshabilitada, desplace el raton para ver todos los requisitos faltantes.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_upgr_3">
+		<text>La actualizacion esta lista para instalar. Si ha terminado, haga clic en el boton "Actualizar" para instalar las actualizaciones seleccionadas.</text>
+	</string>
+	
+	<string id="st_ui_workshop_info_craft_1">
+		<text>Se pueden usar muchos materiales para fabricar varios tipos de art&#237;culos. \nLas recetas y guias que ha adquirido durante su viaje pueden proporcionarle m&#225;s informaci&#243;n para crear m&#225;s art&#237;culos. \nSeleccione una entrada del menu de fabricacion para ver los art&#237;culos que se pueden fabricar.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_2">
+		<text>Selecciona el articulo que deseas fabricar.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_3">
+		<text>Para crear este articulo, se requiere un conjunto de componentes especificos. \nCuando no tenga la cantidad minima de algun componente, se mostrara en rojo. Previniendo as&#237; el procedimiento artesanal.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_4">
+		<text>Tiene todos los componentes necesarios para crear este articulo, seleccione el boton "Fabricar" si desea continuar.
+		</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_5">
+		<text>No sabes como fabricar este articulo.</text>
+	</string>
+	<string id="st_ui_workshop_info_craft_6">
+		<text>Es necesario "%s" en este taller para que puedas crearlo.
+		</text>
+	</string>
+	
+	<string id="st_ui_workshop_no_upgr_1">
+		<text>"%s" es necesario para instalar esta actualizaci&#243;n.</text>
+	</string>
+	<string id="st_ui_workshop_no_upgr_2">
+		<text>"%s" es necesario para instalar esta actualizaci&#243;n.</text>
+	</string>
+	<!--string id="st_ui_workshop_no_upgr_3">
+		<text>The condition of this item is critical for this upgrade to be installed.</text>
+	</string-->
+	<string id="st_ui_workshop_no_upgr_3">
+		<text>En este taller faltan las herramientas necesarias para instalar esta actualizaci&#243;n.</text>
+	</string>
+	<string id="st_ui_workshop_no_upgr_4">
+		<text>Ya hay una actualizaci&#243;n alternativa instalada en esta ranura.</text>
+	</string>
+	<string id="st_ui_workshop_no_upgr_5">
+		<text>No es posible instalar esta actualizaci&#243;n sin instalar las actualizaci&#243;nes anteriores.</text>
+	</string>
+	
+	<string id="st_ui_upgr_required_con">
+		<text>Condicion minima requerida</text>
+	</string>
+
+</string_table>

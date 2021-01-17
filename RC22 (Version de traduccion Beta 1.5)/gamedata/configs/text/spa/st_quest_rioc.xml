@@ -1,0 +1,202 @@
+﻿<string_table>
+	<string id="st_rioc_sid_desc">
+		<text>Un contenedor sellado que encontraste en un stalker muerto, debe ser el envío del que hablaba Sidorovich.</text>
+	</string>
+
+	<string id="st_rioc_sid">
+		<text>Los suministros de Sidorovich</text>
+	</string>
+
+	<string id="st_rioc_duty_desc">
+		<text>Esta PDA confirma que el soldado desaparecido de Petrenko está muerto al fin y al cabo. Parece que dio lo mejor que pudo.</text>
+	</string>
+
+	<string id="st_rioc_duty">
+		<text>PDA de un miembro de Deber muerto</text>
+	</string>
+
+	<string id="st_rioc_ecolog_desc">
+		<text>Una computadora encerrada en un contenedor reforzado, según los científicos se trata de un prototipo de detector totalmente nuevo destinado a cambiar el mundo de la caza de artefactos. Desafortunadamente ninguno de los gráficos y números tienen sentido para ti.</text>
+	</string>
+
+	<string id="st_rioc_ecolog">
+		<text>Prototipo detector</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_d">
+		<text>Se suponía que un stalker me traería algunos suministros especiales de otro comerciante pero no he sabido nada de él durante algunos días, al principio pensé que sólo se había escapado con las cosas pero no ha ocultado su ubicación y tampoco se ha movido durante un tiempo. Tal vez sólo perdió su PDA o incluso se murió, de todos modos necesito que alguien vaya allí y compruebe lo que pasó. Si murió y por casualidad todavía tiene las cosas, tráelas de vuelta.</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_t">
+		<text>Recupera el envío de Sidorovich</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_t">
+		<text>Recupera el prototipo del detector</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_d">
+		<text>Tenemos un pequeño problema ahora mismo, uno de nuestros equipos salió a realizar algunos escaneos anómalos pero aún no ha regresado. Hemos intentado contactar con ellos pero no hemos obtenido ninguna respuesta. Cuando hablamos de esto con el Servicio de Seguridad del Estado, dijeron que no pueden prescindir de los recursos o la mano de obra para ir a buscar a nuestro equipo ahora mismo. Actualmente es algo vital para nuestra investigación. Uno de los miembros del equipo estaba equipado con un prototipo de detector, algo que raramente sacamos de la base para utilizarlo. Si pudieras ir a su última ubicación conocida y encontrar el prototipo o el equipo, te pagaremos por tus servicios. Marcaré la posición en tu PDA cuando perdimos el contacto.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_end">
+		<text>Gracias a Dios, no sabes lo agradecido que estoy de ver este dispositivo de nuevo en nuestras manos! Perder al equipo fue triste, pero este dispositivo retrasaría nuestra investigación por casi un año. Gracias por tu ayuda, aquí tienes un pago por tus servicios.</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_t">
+		<text>Encuentra al Soldado Deber desaparecido</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_d">
+		<text>Hoy temprano, una patrulla Deber ligera respondió a una llamada de auxilio de los neutrales. Llegaron a tiempo para evacuar a algunos stalkers y científicos que habían sido atacados por mutantes, pero uno de los Debers tuvo que quedarse atrás para asegurar el escape. El resto de su escuadrón ahora lo lista como 'desaparecido en acción'. Me gustaría que investigaras el lugar del ataque y confirmaras su estado. Si está vivo, cúralo lo mejor que puedas y luego tráelo de vuelta. Si no puedes salvarlo, trae su PDA; los registros de un mártir deben ser guardados para la posteridad.</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_end">
+		<text>¿Está muerto, entonces? Era un buen hombre, pero la Zona puede ser implacable en su odio hacia esa gente. Déjame ver su PDA... mmm, interesante. En nombre de Deber, tienes nuestra gratitud. Toma, te has ganado con creces este pago.</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_agroprom_0">
+		<text>Encuentra el envío de Sidorovich</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_pol_0">
+		<text>Encuentra el envío de Sidorovich</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_garbage_0">
+		<text>Encuentra el envío de Sidorovich</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_wt_0">
+		<text>Encuentra el envío de Sidorovich</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_aw_0">
+		<text>Encuentra el envío de Sidorovich</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_trucc_0">
+		<text>Encuentra el envío de Sidorovich</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_agroprom_1">
+		<text>Devuelve la caja a Sidorovich</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_pol_1">
+		<text>Devuelve la caja a Sidorovich</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_garbage_1">
+		<text>Devuelve la caja a Sidorovich</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_wt_1">
+		<text>Devuelve la caja a Sidorovich</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_aw_1">
+		<text>Devuelve la caja a Sidorovich</text>
+	</string>
+
+	<string id="esc_m_trader_task_recover_item_on_corpse_trucc_1">
+		<text>Devuelve la caja a Sidorovich</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_agroprom_0">
+		<text>Encuentra el prototipo del detector</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_pol_0">
+		<text>Encuentra el prototipo del detector</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_garbage_0">
+		<text>Encuentra el prototipo del detector</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_wt_0">
+		<text>Encuentra el prototipo del detector</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_aw_0">
+		<text>Encuentra el prototipo del detector</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_trucc_0">
+		<text>Encuentra el prototipo del detector</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_agroprom_1">
+		<text>Devuelve el detector a los científicos</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_pol_1">
+		<text>Devuelve el detector a los científicos</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_garbage_1">
+		<text>Devuelve el detector a los científicos</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_wt_1">
+		<text>Devuelve el detector a los científicos</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_aw_1">
+		<text>Devuelve el detector a los científicos</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_task_rioc_trucc_1">
+		<text>Devuelve el detector a los científicos</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_agroprom_0">
+		<text>Encuentra al Soldado Deber desaparecido</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_pol_0">
+		<text>Encuentra al Soldado Deber desaparecido</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_garbage_0">
+		<text>Encuentra al Soldado Deber desaparecido</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_wt_0">
+		<text>Encuentra al Soldado Deber desaparecido</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_aw_0">
+		<text>Encuentra al Soldado Deber desaparecido</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_trucc_0">
+		<text>Encuentra al Soldado Deber desaparecido</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_agroprom_1">
+		<text>Devuelve el PDA a Petrenko</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_pol_1">
+		<text>Devuelve el PDA a Petrenko</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_garbage_1">
+		<text>Devuelve el PDA a Petrenko</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_wt_1">
+		<text>Devuelve el PDA a Petrenko</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_aw_1">
+		<text>Devuelve el PDA a Petrenko</text>
+	</string>
+
+	<string id="bar_dolg_general_petrenko_stalker_task_rioc_trucc_1">
+		<text>Devuelve el PDA a Petrenko</text>
+	</string>
+
+</string_table>

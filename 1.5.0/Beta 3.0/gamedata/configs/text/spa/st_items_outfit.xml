@@ -1,0 +1,1594 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Miscellaneous gear -->
+	<string id="st_psy_helmet_name">
+		<text>Psico-casco cient&#237;fico (calibrado)</text>
+	</string>
+	<string id="st_psy_helmet_desc">
+		<text>Una versi&#243;n personalizada del casco psiquico, desarrollado bajo la direcci&#243;n de Sakharov en la estaci&#243;n de investigaci&#243;n cerca de Yantar. La disposici&#243;n &#250;nica del casco, que consiste en artefactos el&#233;ctricos junto con las antenas montadas del dispositivo funcionan seg&#250;n el principio del escudo. Cuando se activa, el casco proyecta una c&#250;pula invisible cerca del portador, actuando sobre las part&#237;culas energizadas liberadas por el artefacto, gracias a la cual se extingue la mayor parte de la radiaci&#243;n, entonces los restos son reflejados por el sistema de protecci&#243;n incorporado directamente en el cuerpo del casco. La singularidad de este casco ps&#237;quico reside en la capacidad de soportar te&#243;ricamente, cualquier radiaci&#243;n ps&#237;quica, ahora conocida en el territorio de la Zona de Exclusi&#243;n de Chernobyl.</text>
+	</string>
+	
+	<string id="st_bad_psy_helmet_name">
+		<text>Psico-casco cient&#237;fico (descalibrado)</text>
+	</string>
+	<string id="st_bad_psy_helmet_desc">
+		<text>Una versi&#243;n personalizada del casco psiquico, desarrollado bajo la direcci&#243;n de Sakharov en la estaci&#243;n de investigaci&#243;n cerca de Yantar. La disposici&#243;n &#250;nica del casco, que consiste en artefactos el&#233;ctricos junto con las antenas montadas del dispositivo funcionan seg&#250;n el principio del escudo. Cuando se activa, el casco proyecta una c&#250;pula invisible cerca del portador, actuando sobre las part&#237;culas energizadas liberadas por el artefacto, gracias a la cual se extingue la mayor parte de la radiaci&#243;n, entonces los restos son reflejados por el sistema de protecci&#243;n incorporado directamente en el cuerpo del casco. La singularidad de este casco ps&#237;quico reside en la capacidad de soportar te&#243;ricamente, cualquier radiaci&#243;n ps&#237;quica, ahora conocida en el territorio de la Zona de Exclusi&#243;n de Chernobyl.</text>
+	</string>
+	
+
+<!-- Headgear -->
+	<string id="st_helm_exo_name">
+		<text>Exocasco</text>
+	</string>
+	<string id="st_helm_exo_descr">
+		<text>%c[ui_gray_1]Este casco se parece al de un exoesqueleto ordinario, pero difiere visualmente de su hom&#243;logo est&#225;ndar y tiene diferentes caracter&#237;sticas de protecci&#243;n. La buena protecci&#243;n contra los disparos y las balas de alto calibre, junto con la protecci&#243;n contra las anomal&#237;as, hacen de este casco uno de los mejores de su categor&#237;a.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_battle">
+		<text>Casco Sphere M12</text>
+	</string>
+	<string id="st_helm_battle_dolg">
+		<text>Casco Sphere M12 'Deber'</text>
+	</string>
+	<string id="st_helm_battle_freedom">
+		<text>Casco Sphere M12 'Libertad'</text>
+	</string>
+	<string id="st_helm_battle_descr">
+		<text>%c[ui_gray_1]Un casco de titanio con camuflaje de tela. Viene con bolsillos que pueden ser llenados con armadura adicional. Dise&#241;o personalizado, presumiblemente nunca entr&#243; en producci&#243;n masiva. Sporta la instalaci&#243;n de un visor nocturno 1PN93-1. El M12 es el casco de combate m&#225;s pesado disponible en la Zona, donde normalmente se utiliza como parte de un conjunto que incluye tambi&#233;n la armadura Spetsnaz de la serie PSZ. El prop&#243;sito de este casco es claro: proporcionar la m&#225;xima protecci&#243;n a la cabeza a costa de un mayor peso.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_hardhat">
+		<text>Casco de acero M40</text>
+	</string>
+	<string id="st_helm_hardhat_descr">
+		<text>%c[ui_gray_1]Un casco de acero desesperadamente anticuado del ej&#233;rcito sin ning&#250;n tipo de a&#241;adidos. No ofrece protecci&#243;n contra las anomal&#237;as o la radiaci&#243;n, pero puede desviar las balas. Este casco nunca fue particularmente popular en la Zona, excepto para su uso en breves conflictos armados entre facciones.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_protective">
+		<text>Casco pantalla SSP-99</text>
+	</string>
+	<string id="st_helm_protective_descr">
+		<text>%c[ui_gray_1]Un casco SSP-99 'Ecologista', separado de su traje original. Tiene un dise&#241;o herm&#233;tico, dise&#241;ado para un completo aislamiento de las condiciones en un ambiente an&#243;malo. Puede utilizarse en combinaci&#243;n con chalecos antibalas militares, para aumentar su eficacia en los campos de anomal&#237;as.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_respirator">
+		<text>M&#225;scara de gas EO-20 PBF</text>
+	</string>
+	<string id="st_helm_respirator_freedom">
+		<text>M&#225;scara de gas EO-20 PBF 'Libertad'</text>
+	</string>
+	<string id="st_helm_respirator_dolg">
+		<text>M&#225;scara de gas EO-20 PBF 'Deber'</text>
+	</string>
+	<string id="st_helm_respirator_descr">
+		<text>%c[ui_gray_1]Una versi&#243;n modernizada y mucho m&#225;s compacta de la cl&#225;sica m&#225;scara de gas EO-19 PBF. Los filtros de part&#237;culas de EO-20 actualizados se sometieron a una importante miniaturizaci&#243;n, pero sus propiedades protectoras aumentaron de todos modos. El blindaje contra la radiaci&#243;n tambi&#233;n se ha mejorado gracias a la aplicaci&#243;n de elementos de plomo en el aparato. Cabe se&#241;alar, sin embargo, que si bien cumple bien su prop&#243;sito en zonas de niveles de radiactividad elevados, la m&#225;scara adolece de una alta tasa de fallos en entornos t&#243;xicos y tambi&#233;n es propensa a sufrir da&#241;os irreversibles si se la somete a un impacto directo.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_resp">
+		<text>Respirador</text>
+	</string>
+	<string id="st_helm_resp_descr">
+		<text>%c[ui_gray_1]Un respirador normal de pl&#225;stico y goma, utilizado para proteger al usuario de la inhalaci&#243;n de polvos, humos, vapores o gases nocivos. Ampliamente utilizado por novatos y veteranos de todas las facciones debido a su funcionalidad universal. No proporciona ninguna protecci&#243;n f&#237;sica.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_respirator_gp5">
+		<text>M&#225;scara de gas GP-5</text>
+	</string>
+	<string id="st_helm_respirator_gp5_descr">
+		<text>%c[ui_gray_1]La m&#225;scara de gas GP-5 ten&#237;a como objetivo proteger a la poblaci&#243;n civil de la Uni&#243;n Sovi&#233;tica de una posible lluvia radioactiva, y fue fabricada durante la Guerra Fr&#237;a de 1962 a 1989. Es un casco-m&#225;scara de goma blanca y negra, con las lentes sujetas por un borde de engarce. La parte inferior de la m&#225;scara es de metal, hay v&#225;lvulas y fijaci&#243;n de filtros. El GP-5 es ampliamente utilizado por solitarios y bandidos debido a su disponibilidad y precio barato.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_bandana">
+		<text>Bandana</text>
+	</string>
+	<string id="st_helm_bandana_descr">
+		<text>%c[ui_gray_1]Banda de fabricaci&#243;n ordinaria. Usada por los soldados militares. Se recomienda llevarla aunque no haya ninguna se&#241;al del contador Geiger, ya que el aire puede estar contaminado en cierta medida. Sin embargo, con un uso prolongado, puede acumular toxinas, por lo que siempre es deseable tener un repuesto para un reemplazo r&#225;pido.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_rp_bala">
+		<text>Pasamonta&#241;a</text>
+	</string>
+	<string id="st_helm_rp_bala_descr">
+		<text>%c[ui_gray_1]Pasamonta&#241;as de tela negra normal. A menudo es utilizado por los stalkers para ser m&#225;s sigilosos, o para ocultar su cara de los dem&#225;s. No es peor que las vendas de gasa de los stalkers. Se recomienda llevarla puesta aunque no haya ninguna se&#241;al del contador Geiger, ya que el aire puede estar contaminado en cierta medida. Sin embargo, con un uso prolongado, puede acumular toxinas, por lo que siempre es deseable tener un repuesto para un reemplazo r&#225;pido.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_cloth_mask">
+		<text>M&#225;scara de tela</text>
+	</string>
+	<string id="st_helm_cloth_mask_descr">
+		<text>%c[ui_gray_1]Un simple trozo de tela, doblado en forma de m&#225;scara. Los stalkers suelen utilizarla para evitar que las part&#237;culas peligrosas entren en el cuerpo, como medida de precauci&#243;n. Se recomienda llevarla puesta aunque no haya ninguna se&#241;al del contador Geiger, ya que el aire puede estar contaminado en cierta medida. Sin embargo, con un uso prolongado, puede acumular toxinas, por lo que siempre es deseable tener un repuesto para un reemplazo r&#225;pido.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_m40">
+		<text>M&#225;scara de gas M40</text>
+	</string>
+	<string id="st_helm_m40_descr">
+		<text>%c[ui_gray_1]Este M40 est&#225; equipado con un filtro respiratorio de 40 mil&#237;metros de varias capas colocado a la izquierda. Esta m&#225;scara proporciona una respetable protecci&#243;n contra la radiaci&#243;n y los productos qu&#237;micos durante largos per&#237;odos, incluso despu&#233;s de sufrir da&#241;os. Esta m&#225;scara de gas se produce en masa para las Fuerzas Armadas de EE.UU., y encuentra un gran uso entre los mercenarios..\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_metro">
+		<text>Casco Apocal&#237;psis</text>
+	</string>
+	<string id="st_helm_metro_descr">
+		<text>%c[ui_gray_1]Se cree que fue creado por una facci&#243;n conocida como "D&#237;a Final", este casco se asemeja a una m&#225;scara de gas checa M10 con modificaciones de blindaje pesado. Aunque es inc&#243;modamente pesada para la mayor&#237;a, a&#250;n tiene buenas caracter&#237;sticas de protecci&#243;n contra amenazas qu&#237;micas, radioactivas y f&#237;sicas. Cuando los l&#237;deres de "D&#237;a Final" fueron asesinados y la facci&#243;n fue disuelta por un stalker llamado Ghost, estos cascos entraron gradualmente en circulaci&#243;n entre los stalkers bien intencionados, particularmente aquellos que pretend&#237;an asaltar los innumerables laboratorios subterr&#225;neos de la Zona.\n \n
+		</text>
+	</string>
+
+	<string id="st_helm_tactic">
+		<text>Casco Sphere-08</text>
+	</string>
+	<string id="st_helm_tactic_descr">
+		<text>%c[ui_gray_1]Un casco moderno y de alta calidad con un sistema de filtraci&#243;n de aire incorporado, con caracter&#237;sticas basadas en modelos occidentales. El dise&#241;o consiste en varias capas de Kevlar para proteger al usuario de da&#241;os f&#237;sicos severos. El casco tambi&#233;n est&#225; hecho de materiales diel&#233;ctricos compuestos, lo que garantiza al usuario un mayor aislamiento de los golpes que la mayor&#237;a de los modelos similares. Es el m&#225;s utilizado por los operadores Spetsnaz de la Zona, especialmente en conjunci&#243;n con la serie de chalecos antibalas PS5.\n \n
+		</text>
+	</string>
+
+	<string id="helm_spartan">
+		<text>Casco bal&#237;stico "Spartan" Cz-M10</text>
+	</string>
+	<string id="helm_spartan_descr">
+		<text>%c[ui_gray_1]Un casco encargado por stalkers muy influyentes, basado en los dise&#241;os de cascos del Apocalipsis que se usaban antes en "Dia Final". Sin embargo, comparado con el Apocalipsis, este casco no s&#243;lo es m&#225;s ligero, sino m&#225;s protector en general. Se compara muy favorablemente con los cascos de combate modernos como la serie "Sphere", adem&#225;s de que ofrece una protecci&#243;n sorprendente contra las anomal&#237;as. Una elecci&#243;n popular entre los stalkers que pueden conseguirlo.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_dolg_battle">
+		<text>Sphere M12 'Deber'</text>
+	</string>
+	<string id="helm_dolg_battle_descr">
+		<text>%c[ui_gray_1] REMOVIDO DEL JUEGO. Una de las dos versiones de la Sphere M12 utilizados por Deber. Este se utiliza m&#225;s com&#250;nmente y mejora el M12 original en t&#233;rminos de protecci&#243;n f&#237;sica y ps&#237;quica, a costa de un ligero aumento de peso y una peor resistencia a los elementos. Se supone que se usa con el traje blindado PSZ-9d, igual que el M12 original se usa con el Bulat.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_dolg_battle_redline">
+		<text>Sphere M12 "L&#237;nea roja" 'Deber'</text>
+	</string>
+	<string id="helm_dolg_battle_redline_descr">
+		<text>%c[ui_gray_1] REMOVIDO DEL JUEGO. De las dos versiones de la Esfera M12 de Deber, esta es la m&#225;s avanzada tecnol&#243;gicamente, y por lo tanto m&#225;s protectora y ligera. Al igual que el PSZ-9d "L&#237;nea Roja", este conjunto t&#225;ctico s&#243;lo se da a la mayor&#237;a de los soldados de servicio conocidos, que lograron grandes cosas para su facci&#243;n. Este casco no s&#243;lo es una obra maestra del dise&#241;o de combate, sino tambi&#233;n un signo de gran honor y alta posici&#243;n dentro de las filas Deber.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_dolg_vintage">
+		<text>Casco de combate PSM-4</text>
+	</string>
+	<string id="helm_dolg_vintage_descr">
+		<text>%c[ui_gray_1] REMOVIDO DEL JUEGO. El PSM-4  es un pesado y voluminoso, pero muy duradero casco de combate. Tiene una resistente m&#225;scara antig&#225;s integrada, reforzada con varias partes met&#225;licas y apta para los populares filtros EO-19. Tambi&#233;n tiene un visor antibal&#237;stico de clase IIIA. El casco es muy pesado debido a su construcci&#243;n mayormente met&#225;lica y al uso muy ligero de materiales sint&#233;ticos modernos. Es muy inc&#243;modo, pero gracias a su grosor no s&#243;lo es muy resistente f&#237;sicamente, sino que tambi&#233;n es capaz de proteger al portador de una considerable cantidad de influencia ps&#237;quica externa. Debe notarse que este grosor, sumado con una construcci&#243;n mayormente metalica, hace que el interior del casco se caliente muy r&#225;pidamente, posiblemente representando una amenaza para el portador. Por lo tanto, es muy aconsejable quitarse el casco cuando se est&#225; cerca de anomal&#237;as t&#233;rmicas. Aunque el PSM-4 no puede contarse entre los cascos m&#225;s &#243;ptimos, sigue siendo utilizado por algunos soldados de servicio que requieren una protecci&#243;n s&#243;lida, pero que no tienen dinero para comprar equipo de alta gama. Tambi&#233;n hay algunos viejos entusiastas del equipo militar, que usan el PSM-4 s&#243;lo por su aspecto caracter&#237;stico y vintage.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_ach7">
+		<text>Casco Compuesto ACH-7</text>
+	</string>
+	<string id="helm_ach7_descr">
+		<text>%c[ui_gray_1]es una versi&#243;n m&#225;s moderna del casco de acero sobrante. Es marginalmente mejor para detener la metralla. Su principal atractivo, sin embargo, es su sorprendente resistencia a los ataques ps&#237;quicos, junto con su inesperado bajo costo. Dicho esto, la falta de un dispositivo respiratorio lo hace una elecci&#243;n extremadamente pobre para las condiciones de la Zona en general, y es t&#237;picamente s&#243;lo comprado por novatos lo suficientemente valientes para investigar las anomal&#237;as ps&#237;quicas tan pronto en sus carreras de stalker.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_ach7ex">
+		<text>Casco Compuesto ACH-7EX</text>
+	</string>
+	<string id="helm_ach7ex_descr">
+		<text>%c[ui_gray_1]El ACH-7EX es una versi&#243;n "extendida" del casco original ACH-7. La inclusi&#243;n de un sistema respiratorio por s&#237; solo hace de este modelo una gran mejora respecto a su predecesor. Con una protecci&#243;n qu&#237;mica y radiol&#243;gica que se encuentra entre la de un GP-5 y un kit de PBF, junto con una respetable protecci&#243;n f&#237;sica, hace que este casco sea una opci&#243;n atractiva para muchos stalkers que buscan un buen pero econ&#243;mico equilibrio entre la protecci&#243;n an&#243;mala y la de combate..\n \n
+		</text>
+	</string>
+	
+	<string id="helm_eo21">
+		<text>EO-21 M&#225;scara de gas PBFM</text>
+	</string>
+	<string id="helm_eo21_descr">
+		<text>%c[ui_gray_1] REMOVIDO DEL JUEGO. Una versi&#243;n a&#250;n m&#225;s modernizada de la m&#225;scara de gas EO-20 PBF, dise&#241;ada por los artesanos de Stalker. Es a la vez m&#225;s protector y resistente, y utiliza filtros que son ligeramente m&#225;s ligeros y garantizan una protecci&#243;n un poco mejor de las part&#237;culas irradiadas y las toxinas. Su visor es m&#225;s amplio y m&#225;s resistente a los impactos; el aparato tambi&#233;n se hizo menos susceptible a cualquier fuente de da&#241;o f&#237;sico.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_dolg_eo21_red">
+		<text>EO-21 PBFM Krasnyy</text>
+	</string>
+	<string id="helm_dolg_eo21_red_descr">
+		<text>%c[ui_gray_1] REMOVIDO DEL JUEGO. M&#225;scara de gas EO-21 PBFM modificada por Deber para mejorar la protecci&#243;n f&#237;sica. Est&#225; en el punto m&#225;s alto, m&#225;s &#243;ptimo y m&#225;s econ&#243;mico de la relaci&#243;n defensa/peso. Este es el modelo de la serie Krasnyy, dise&#241;ado para ser usado con la PS5-2M modificada; la versi&#243;n regular de esta m&#225;scara usada por Deber es simplemente un EO-21 original con filtros rojos.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_eo21sawnoff">
+		<text>M&#225;scara de gas EO-21 PBFL</text>
+	</string>
+	<string id="helm_eo21sawnoff_descr">
+		<text>...RETIRADO DEL JUEGO. La m&#225;scara de gas m&#225;s compacta y ligera de la Zona. Se conoce com&#250;nmente como "EO-21 aserrada", ya que parece que alguien tom&#243; la m&#225;scara original y le cort&#243; la mitad superior. En realidad, esta m&#225;scara fue dise&#241;ada de esta manera y est&#225; destinada a ser usada en &#225;reas menos contaminadas. Su principal objetivo, aparte de la protecci&#243;n, por supuesto, es hacer que su uso sea lo m&#225;s c&#243;modo posible. Puede ser utilizada tanto por s&#237; misma como con un tanque de ox&#237;geno, que puede ser conectado por un tubo a un enchufe presente en el lado izquierdo de la m&#225;scara, justo encima de uno de sus filtros. Utiliza exactamente el mismo tipo de filtro que el EO-21 de tama&#241;o completo.
+		</text>
+	</string>
+	
+	<string id="helm_dolg_eo21sawnoff">
+		<text>EO-21 PBFL 'Deber'</text>
+	</string>
+	<string id="helm_dolg_eo21sawnoff_descr">
+		<text>...RETIRADO DEL JUEGO. Versi&#243;n compacta de la m&#225;scara antig&#225;s EO-21 usada por los miembros de bajo rango del servicio en las &#225;reas menos contaminadas de la Zona. Comparada con su versi&#243;n original, la m&#225;scara se hizo ligeramente m&#225;s resistente, optimiz&#225;ndola para el rendimiento en combate para minimizar el riesgo de cualquier da&#241;o grave. Aunque todav&#237;a no tiene muchas posibilidades contra las balas de las pistolas, no se agrieta despu&#233;s de recibir un fuerte golpe, y tambi&#233;n salvar&#225; los dientes del portador.
+		</text>
+	</string>
+	
+	<string id="helm_gp5">
+		<text>M&#225;scara de gas GP-5</text>
+	</string>
+	<string id="helm_gp5_descr">
+		<text>DUPLICAR. RETIRADO DEL JUEGO. Fabricada originalmente de 1962 a 1989, la m&#225;scara de gas GP-5 fue construida con la intenci&#243;n de proteger al pueblo sovi&#233;tico de la lluvia radioactiva. Es una m&#225;scara-casco hecha de goma blanca y negra, con las lentes sujetas por un borde de engarce. Los filtros, sin embargo, han sido restaurados o reemplazados con mucho cuidado. En comparaci&#243;n con los kits de m&#225;scaras de gas de precio y disponibilidad similares, como el PBF, este dispositivo respiratorio reacondicionado ofrece una mayor protecci&#243;n contra la radiaci&#243;n, pero una tasa de fallo a&#250;n mayor en entornos t&#243;xicos.
+		</text>
+	</string>
+	
+	<string id="helm_ppm88">
+		<text>M&#225;scara de gas PPM-88</text>
+	</string>
+	<string id="helm_ppm88_descr">
+		<text>%c[ui_gray_1]Una m&#225;scara de gas rusa muy adecuada para los riesgos biol&#243;gicos del CBRN. En la Zona, puede considerarse un sucesor funcional y espiritual del GP-5, que posee caracter&#237;sticas generales comparables junto con mejoras significativas en la protecci&#243;n frente a las amenazas qu&#237;micas y radioactivas. Una buena opci&#243;n que la mayor&#237;a de los stalkers pueden usar a lo largo de sus carreras, siempre y cuando no vean demasiado combate o hagan algo igualmente tonto.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_m50">
+		<text>M&#225;scara de gas M50z</text>
+	</string>
+	<string id="helm_m50_descr">
+		<text>%c[ui_gray_1]Una m&#225;scara de gas M50 ajustada para una mejor funcionalidad en la Zona. Aunque algunas de sus caracter&#237;sticas protectoras son en realidad ligeramente peores como resultado, compensa esto en un muy necesario impulso a la protecci&#243;n de los fen&#243;menos ps&#237;quicos y radiactivos. En general, esta m&#225;scara se considera una mejora con respecto a la M40. A diferencia de la M40, sin embargo, esta m&#225;scara es comprada directamente por compa&#241;&#237;as militares privadas con el prop&#243;sito expreso de proveer a los Mercenarios de la Zona. \n \n
+		</text>
+	</string>
+	
+	<string id="helm_ranger">
+		<text>M&#225;scara de gas GP-10z "Ranger"</text>
+	</string>
+	<string id="helm_ranger_descr">
+		<text>%c[ui_gray_1]Usando la GP-10 como modelo, esta m&#225;scara de gas fue dise&#241;ada principalmente para proteger al portador de los controladores y poltergeists. El &#237;ndice de &#233;xito es algo mixto, pero este modelo sigue siendo una excelente opci&#243;n para aquellos que necesitan protecci&#243;n contra ataques ps&#237;quicos, t&#233;rmicos y de metralla.\n \n
+		</text>
+	</string>
+	
+	<string id="helm_dolg_tactic_red">
+		<text>Sphere-08 Krasnyy 'Deber'</text>
+	</string>
+	<string id="helm_dolg_tactic_red_descr">
+		<text>...RETIRADO DEL JUEGO. Juego de gorras Esfera 08 modificadas y usadas por Deber, usualmente emparejadas con su versi&#243;n de traje blindado Berill. Al igual que el resto de los equipos de la serie Krasnyy de Deber, se supone que este casco sirve como equipo de combate que protege tanto de la amenaza humana como de la mutante; por lo tanto, es a&#250;n m&#225;s vulnerable a las amenazas ambientales que el original, pero a su vez proporciona m&#225;s protecci&#243;n f&#237;sica y ps&#237;quica.
+		</text>
+	</string>
+
+
+<!-- Novice outfits -->
+	<string id="novice_outfit_name">
+		<text>Chaqueta de cuero</text>
+	</string>
+	<string id="novice_outfit_description">
+		<text>%c[ui_gray_1]Un c&#225;lido abrigo de cuero usado sobre un acogedor su&#233;ter de cuello de tortuga, metido en robustos vaqueros y botas de senderismo. La ropa elegida entre los stalkers ingenuos o inexpertos, los veteranos la consideran apenas un paso por encima de caminar por la Zona en ropa interior.\n \n
+		</text>
+	</string>
+
+	<string id="novice_outfit_camo_name">
+		<text>Chaqueta de aficionado a las armas</text>
+	</string>
+	<string id="novice_outfit_camo_description">
+		<text>%c[ui_gray_1]Un c&#225;lido abrigo de cuero usado sobre un acogedor su&#233;ter de cuello de tortuga, metido en robustos vaqueros y botas de senderismo. Antiguamente propiedad de un t&#237;pico entusiasta de las armas de fuego, tiene varias ventajas sobre una chaqueta ordinaria, a saber, un patr&#243;n de camuflaje y una elecci&#243;n de materiales de mayor calidad junto con un sistema de distribuci&#243;n de peso m&#225;s educado. A&#250;n as&#237; es totalmente inadecuado para las duras condiciones de la Zona.\n \n
+		</text>
+	</string>
+
+	<string id="novice_outfit_tourist_name">
+		<text>Chaqueta de turista</text>
+	</string>
+	<string id="novice_outfit_tourist_description">
+		<text>%c[ui_gray_1]Un c&#225;lido anorak de cuero con una mochila integrada, usado sobre un acogedor su&#233;ter de cuello de tortuga, metido en robustos jeans y botas de excursi&#243;n. Parece que el anterior propietario era un verdadero amante de las caminatas. La educada elecci&#243;n de los materiales y el sistema de control de peso lo hace m&#225;s &#250;til que la mayor&#237;a de las chaquetas de cuero, pero sigue siendo inadecuado para algo m&#225;s que paseos tranquilos a lo largo de los l&#237;mites de la Zona.\n \n
+		</text>
+	</string>
+
+	<string id="csky_novice_outfit_name">
+		<text>Chaqueta de cuero de 'Cielo Despejado'</text>
+	</string>
+	<string id="csky_novice_outfit_description">
+		<text>%c[ui_gray_1]Un su&#233;ter de cuello de tortuga con un anorak de cuero azul suave, metido en unos robustos vaqueros y botas de senderismo. Estos simples trajes son ensamblados en grandes cantidades por los sastres de Cielo Despejado para su uso dentro de la facci&#243;n. No se recomienda su uso fuera de las partes m&#225;s meridionales de la Zona.\n \n
+		</text>
+	</string>
+
+	<string id="dolg_novice_outfit_name">
+		<text>Chaqueta de cuero 'Deber'</text>
+	</string>
+	<string id="dolg_novice_outfit_description">
+		<text>%c[ui_gray_1]Un anorak de cuero oscuro usado sobre un acogedor su&#233;ter de cuello de tortuga, metido en robustos jeans y botas de combate. Anteriormente usados s&#243;lo como ropa c&#243;moda para los que estaban fuera de servicio, estos simples trajes nunca fueron pensados para ser usados por los que estaban en servicio activo. Sin embargo, los tiempos desesperados requieren ocasionalmente medidas desesperadas.\n \n
+		</text>
+	</string>
+
+	<string id="bandit_novice_outfit_name">
+		<text>Chaqueta de cuero negra</text>
+	</string>
+	<string id="bandit_novice_outfit_description">
+		<text>%c[ui_gray_1]Una chaqueta de cuero negro com&#250;nmente utilizada por los bandidos y ladrones de la Zona. Usada para intimidar a los novatos de otras facciones, proporciona muy poca protecci&#243;n contra algo m&#225;s que una brisa fuerte o una botella de vodka que vuele de vez en cuando.\n \n
+		</text>
+	</string>
+
+	<string id="bandit_novice_alt_outfit_name">
+		<text>Chaqueta de cuero negro (blindada)</text>
+	</string>
+	<string id="bandit_novice_alt_outfit_description">
+		<text>%c[ui_gray_1]Chaquetas como esta entraron en circulaci&#243;n entre los bandidos gracias al Intendente Morgan, un proveedor corrupto que antes pertenec&#237;a a la facci&#243;n de Deber. Ofrece una protecci&#243;n comparable a la de un equipo de servicio militar est&#225;ndar. No es una gran protecci&#243;n en la Zona, especialmente cuando se lucha contra Debers enfurecidos o vengativos.\n \n
+		</text>
+	</string>
+	
+	<string id="redline_novice_outfit_name">
+		<text>Chaqueta de cuero rojo</text>
+	</string>
+	<string id="redline_novice_outfit_description">
+		<text>%c[ui_gray_1]Un elegante abrigo de cuero rojo brillante usado sobre un acogedor su&#233;ter de cuello de tortuga, metido en unos robustos jeans y botas de senderismo. El color por s&#237; solo deber&#237;a ser raz&#243;n suficiente para evitar su uso en la Zona.\n \n
+		</text>
+	</string>
+
+	<string id="svoboda_novice_outfit_name">
+		<text>Chaqueta de cuero de 'Libertad'</text>
+	</string>
+	<string id="svoboda_novice_outfit_description">
+		<text>%c[ui_gray_1]Un abrigo de cuero camuflado usado sobre un acogedor su&#233;ter de cuello de tortuga, metido en robustos jeans y botas de combate. Tal atuendo es t&#237;picamente usado por miembros de Libertad cuando se sienten absolutamente seguros - en otras palabras, casi nunca.\n \n
+		</text>
+	</string>
+
+
+<!-- Overcoats -->
+	<string id="monolith_trenchcoat_outfit_name">
+		<text>Abrigo Monolito</text>
+	</string>
+	<string id="trenchcoat_freedom_brown_outfit_name">
+		<text>Abrigo Grueso 'Libertad'</text>
+	</string>
+	<string id="trenchcoat_dolg_brown_outfit_name">
+		<text>Abrigo Grueso 'Deber'</text>
+	</string>
+	
+	<string id="trenchcoat_outfit_name">
+		<text>Abrigo</text>
+	</string>
+	<string id="trenchcoat_outfit_description">
+		<text>%c[ui_gray_1]Un abrigo largo y grueso. La protecci&#243;n que ofrece esta prenda puede variar enormemente dependiendo del sastre, pero como regla general es s&#243;lo ligeramente menos in&#250;til que la chaqueta de cuero. A&#250;n as&#237;, muchos nuevos stalkers confiar&#225;n en ella simplemente porque se ve muy bien.\n \n
+		</text>
+	</string>
+
+	<string id="trenchcoat_brown_outfit_name">
+		<text>Abrigo grueso marr&#243;n</text>
+	</string>
+	<string id="trenchcoat_brown_outfit_description">
+		<text>%c[ui_gray_1]Un largo y grueso abrigo usado sobre un traje de cient&#237;fico asesinado. Aunque el sistema de ciclo cerrado y varias otras caracter&#237;sticas parecen haber sido removidas por cualquier raz&#243;n, el resultado final todav&#237;a se puede comparar favorablemente en comparaci&#243;n con muchos trajes b&#225;sicos de stalker.\n \n
+		</text>
+	</string>
+	
+	<string id="trenchcoat_green_outfit_name">
+		<text>Abrigo grueso verde</text>
+	</string>
+	<string id="trenchcoat_green_outfit_description">
+		<text>%c[ui_gray_1]Un largo y grueso abrigo usado sobre un traje de cient&#237;fico asesinado. Aunque el sistema de ciclo cerrado y varias otras caracter&#237;sticas parecen haber sido removidas por cualquier raz&#243;n, el resultado final todav&#237;a se puede comparar favorablemente en comparaci&#243;n con muchos trajes b&#225;sicos de stalker.\n \n
+		</text>
+	</string>
+	
+	<string id="greh_trenchcoat_outfit_name">
+		<text>Abrigo grueso de 'Pecador'</text>
+	</string>
+	<string id="greh_trenchcoat_outfit_description">
+		<text>%c[ui_gray_1]Un largo y grueso abrigo usado sobre un traje de cient&#237;fico asesinado. Aunque el sistema de ciclo cerrado y varias otras caracter&#237;sticas parecen haber sido removidas por cualquier raz&#243;n, el resultado final todav&#237;a se puede comparar favorablemente en comparaci&#243;n con muchos trajes b&#225;sicos de stalker.\n \n
+		</text>
+	</string>
+	
+
+<!-- Exploration -->
+	<string id="travel_outfit_name">
+		<text>Traje stalker "Viajero"</text>
+	</string>
+	<string id="travel_outfit_description">
+		<text>%c[ui_gray_1]Un traje confeccionado en la zona y hecho a mano por artesanos locales para sobrevivir. Este traje en particular es de alta calidad y est&#225; destinado a largas exploraciones - cuenta con un sistema de distribuci&#243;n de peso sorprendentemente sofisticado junto con una protecci&#243;n m&#225;s que amplia contra los factores ambientales de la Zona, en particular las amenazas radioactivas y qu&#237;micas. El traje elegido por muchos cazadores de artefactos e incluso por algunos cazadores de mutantes, su desventaja m&#225;s notable - aparte de su alto precio comparado con otros trajes de stalker - es su absoluta inutilidad en un tiroteo. Es poco probable que su anterior propietario lo haya abandonado deliberadamente. \n \n
+		</text>
+	</string>
+	
+	<string id="nomad_outfit_name">
+		<text>Traje stalker "Nomada"</text>
+	</string>
+	<string id="nomad_outfit_description">
+		<text>%c[ui_gray_1]Un traje confeccionado en la zona que ha sido hecho a mano por artesanos locales para sobrevivir. Este traje en particular es de alta calidad y se siente excepcionalmente ligero y c&#243;modo de llevar, a pesar de ser mucho m&#225;s protector en general cuando se compara con otros trajes de stalker. Est&#225; claro que quien haya montado esta armadura estaba muy familiarizado con la naturaleza de la Zona, y evidentemente puso mucho empe&#241;o y orgullo en su trabajo, algo que podr&#237;a no haber sido el caso de su anterior propietario. De cualquier manera, su calidad s&#243;lo se compara con su precio.\n \n
+		</text>
+	</string>
+	
+	<string id="antirad_outfit_name">
+		<text>Traje Antirad GP-5MvC</text>
+	</string>
+	<string id="antirad_outfit_description">
+		<text>%c[ui_gray_1]El traje GP-5 Antirad fue dise&#241;ado incluso antes del descubrimiento del "Cauterizador", y fue usado por los mismos Stalkers que primero trajeron noticias sobre las inusuales olas ps&#237;quicas al norte de los Almacenes del Ej&#233;rcito. El traje fue desarrollado por algunos visitantes frecuentes del 100 Rads y el propio Tabernero, que apoyaron financieramente el proyecto, y m&#225;s tarde ganaron mucho dinero vendiendo los conjuntos del traje. Desde entonces, el traje fue mejorado varias veces, pero el dise&#241;o base (basado en el traje Sunrise) permaneci&#243; igual. En su actual versi&#243;n modernizada (GP-5M) sus principales componentes son el traje Sunrise con telas especialmente tratadas y partes m&#225;s engomadas, as&#237; como con un mayor n&#250;mero de bolsillos. Una com&#250;n y vieja pero a&#250;n fiable m&#225;scara de gas GP-5 est&#225; integrada con ligeros tanques de ox&#237;geno llevados en la espalda. El objetivo principal de este equipo era proporcionar mucha m&#225;s protecci&#243;n contra la radiaci&#243;n que el 'Sunrise' normal, haciendo que los viajes al norte no fueran tan peligrosos. Aunque a menudo se le llama traje SEVA econ&#243;mico, ni siquiera se acerca a su nivel de protecci&#243;n an&#243;mala. El traje est&#225; destinado a ser usado en &#225;reas altamente irradiadas, pero no tiene muchas posibilidades contra los campos de anomal&#237;as m&#225;s fuertes. La versi&#243;n C del traje lleva adem&#225;s un patr&#243;n de camuflaje de diferentes tonos de verde, lo que permite al portador esconderse f&#225;cilmente en el denso follaje.\n \n
+		</text>
+	</string>
+	
+	<string id="hybrid_outfit_name">
+		<text>Traje blindado H&#237;brido</text>
+	</string>
+	<string id="hybrid_outfit_description">
+		<text>%c[ui_gray_1]Este equipo fue creado por uno de los institutos de investigaci&#243;n de defensa de Kiev con el fin de proteger a los investigadores de la Zona. Sin embargo, est&#225; claro que el traje fue creado con un presupuesto reducido, ya que la armadura bal&#237;stica tejida en el traje lo hace simult&#225;neamente m&#225;s d&#233;bil contra fen&#243;menos an&#243;malos, y al mismo tiempo proporciona menos protecci&#243;n en un tiroteo que un chaleco de berilio. Por ello, ninguno de estos trajes fue nunca encargado oficialmente por el gobierno ucraniano, aunque unos pocos consiguieron sin embargo entrar en la Zona por medios turbios. Una elecci&#243;n popular para los stalkers que quieren una protecci&#243;n general decente, pero no pueden buscar algo mejor.\n \n
+		</text>
+	</string>
+	
+	<string id="wastelander_outfit_name">
+		<text>Traje stalker "Merodeadores"</text>
+	</string>
+	<string id="wastelander_outfit_description">
+		<text>%c[ui_gray_1]Un traje confeccionado en la zona que ha sido hecho a mano por artesanos locales por razones de supervivencia. Este traje en particular es de alta calidad, y viene con una m&#225;scara de gas checa-M10 integrada. Se compara favorablemente con muchos otros trajes de fabricaci&#243;n local, pero a menudo se ve limitado por su incompatibilidad con otros cascos, un rasgo que reduce la utilidad o la adaptabilidad del traje. \n \n
+		</text>
+	</string>
+
+<!-- CS outfits -->
+	<string id="csky_light_novice_outfit_name">
+		<text>Chaleco antibalas CS-1</text>
+	</string>
+	<string id="csky_light_novice_outfit_description">
+		<text>%c[ui_gray_1]Un traje ligero usado por los investigadores novatos de Cielo Despejado. Proporciona una protecci&#243;n m&#225;s que adecuada contra los fen&#243;menos an&#243;malos de los pantanos, pero hace poco para proteger de las amenazas f&#237;sicas o los fen&#243;menos radiol&#243;gicos.\n \n
+		</text>
+	</string>
+	
+	<string id="csky_light_outfit_name">
+		<text>Chaleco antibalas CS-2a</text>
+	</string>
+	<string id="csky_light_outfit_description">
+		<text>%c[ui_gray_1]Un atuendo de cuerpo entero azul destinado a realizar operaciones de b&#250;squeda r&#225;pida en zonas de bajo riesgo, an&#243;malas o no. No est&#225; destinado a batallas campales ni a intensos combates de fuego, aunque es probable que le vaya mejor que al CS-1 en tales escenarios.\n \n
+		</text>
+	</string>
+
+	<string id="csky_medium_outfit_name">
+		<text>Chaleco antibalas CS-3a</text>
+	</string>
+	<string id="csky_medium_outfit_description">
+		<text>%c[ui_gray_1]Un traje m&#225;s pesado pero a&#250;n c&#243;modo usado por los miembros de Cielo Despejado que proporciona una protecci&#243;n general m&#225;s que adecuada, especialmente en combate. Sin embargo, la armadura tambi&#233;n es altamente conductora y susceptible a la corrosi&#243;n.\n \n
+		</text>
+	</string>
+
+	<string id="csky_heavy_outfit_name">
+		<text>Chaleco antibalas CS-3b</text>
+	</string>
+	<string id="csky_heavy_outfit_description">
+		<text>%c[ui_gray_1]Anteriormente el equipo est&#225;ndar de los escuadrones de asalto de Cielo Despejado, despu&#233;s del infame fracaso de la facci&#243;n contra la NPP en 2011, esta armadura sirve como un recordatorio de que incluso un excelente traje de protecci&#243;n no puede garantizar la seguridad en el lado equivocado del per&#237;metro. La armadura es capaz de detener una bala de pistola, mientras que el portador tambi&#233;n est&#225; razonablemente protegido de las anomal&#237;as.\n \n
+		</text>
+	</string>
+	
+
+<!-- NBC outfits -->
+	<string id="nbc_outfit_name">
+		<text>Traje NBC</text>
+	</string>
+	<string id="nbc_outfit_description">
+		<text>%c[ui_gray_1]Un traje CBRN econ&#243;mico con un chaleco de kevlar. Trajes como estos son producidos en masa en f&#225;bricas fuera de la Zona para su uso en operaciones militares prolongadas y limpiezas de desastres en todo el mundo. Viene de serie con una m&#225;scara de gas GP-5 con una manguera que conduce a un filtro moderno. Aunque claramente no est&#225; hecho teniendo en cuenta las condiciones espec&#237;ficas de la Zona, es sin embargo una elecci&#243;n popular entre aquellos que aprecian los sistemas de distribuci&#243;n de peso eficientes, y la protecci&#243;n general sigue siendo comparable a un traje de stalker promedio.\n \n
+		</text>
+	</string>
+	
+	<string id="monolith_nbc_outfit_name">
+		<text>Traje Chernobil NBC </text>
+	</string>
+	<string id="monolith_nbc_outfit_description">
+		<text>%c[ui_gray_1]Un viejo traje CBRN con un chaleco de kevlar, m&#225;s com&#250;nmente asociado con los fan&#225;ticos fan&#225;ticos que defienden el centro de la Zona de otros stalkers. Estos trajes fueron usados por primera vez por el personal militar despu&#233;s del accidente de 1986 para ayudar en el proceso de limpieza. Muestra signos evidentes de una gran antig&#252;edad y un desgaste irreparable. El c&#243;mo tantos de estos trajes fueron dejados atr&#225;s, y c&#243;mo eventualmente encontraron su camino a las manos del Monolito, es un misterio. Viene con una m&#225;scara de gas GP-5 integrada y restaurada.\n \n
+		</text>
+	</string>
+
+	<string id="cs_nbc_outfit_name">
+		<text>Chaleco antibalas CS-3 NBC</text>
+	</string>
+	<string id="cs_nbc_outfit_description">
+		<text>%c[ui_gray_1]Un traje CBRN con un chaleco de kevlar, recientemente renovado y modificado por Cielo Despejado. Trajes como estos son producidos en masa en f&#225;bricas fuera de la Zona para su uso en operaciones militares prolongadas y limpiezas de desastres en todo el mundo. Viene de serie con una m&#225;scara de gas GP-5 con una manguera que conduce a un filtro moderno. Cada traje NBC que llega a Cielo Despejado es verificado por Novikov para asegurar que es adecuado para las duras condiciones de la Zona.\n \n
+		</text>
+	</string>
+
+	<string id="nbc_merc_outfit_name">
+		<text>Traje NBC 'Mercenario'</text>
+	</string>
+	<string id="nbc_merc_outfit_description">
+		<text>%c[ui_gray_1]Un traje CBRN econ&#243;mico con un chaleco de kevlar, utilizado principalmente por los mercenarios con presupuesto. Trajes como estos son producidos en masa en f&#225;bricas fuera de la Zona para su uso en operaciones militares prolongadas y limpiezas de desastres en todo el mundo. Viene de serie con una m&#225;scara de gas GP-5 con una manguera que conduce a un filtro moderno. Aunque claramente no est&#225; hecho teniendo en cuenta las condiciones espec&#237;ficas de la Zona, es sin embargo una elecci&#243;n popular entre aquellos que aprecian los sistemas de distribucion, aunque este modelo tiene una protecci&#243;n ambiental inferior a la de la mayor&#237;a de los trajes locales.\n \n
+		</text>
+	</string>
+
+	<string id="nbc_freedom_outfit_name">
+		<text>Guardian de Libertad</text>
+	</string>
+	<string id="nbc_freedom_outfit_description">
+		<text>%c[ui_gray_1]Basado en los dise&#241;os de trajes de la NBC usados por stalkers neutrales, este traje es una variante hecha por los fabricantes de Libertad. Aunque no est&#225; a la par con el est&#225;ndar NBC en algunas &#225;reas, la facci&#243;n logr&#243; sin embargo hacer un gran avance en un &#225;rea: la protecci&#243;n qu&#237;mica. Este traje es uno de los favoritos de los miembros de Libertad que quieren explorar las innumerables ruinas de la Zona sin miedo a las amenazas qu&#237;micas o radioactivas, especialmente cuando se tiene en cuenta su sistema de distribuci&#243;n de peso altamente eficiente. Viene con una m&#225;scara de gas GP-5 integrada como est&#225;ndar.\n \n
+		</text>
+	</string>
+
+	<string id="nbc_dolg_outfit_name">
+		<text>Traje PS5-Md NBC</text>
+	</string>
+	<string id="nbc_dolg_outfit_description">
+		<text>%c[ui_gray_1]Los cazadores de artefactos de la facci&#243;n Deber son escasos, pero este traje, basado en los dise&#241;os est&#225;ndar de la NBC, existe para facilitar sus vidas y cumplir con sus obligaciones de ayudar a la facci&#243;n Ecologista. Comparado con el traje est&#225;ndar PS5-M, este traje cuenta con una m&#225;scara de gas GP-5 integrada, as&#237; como ranuras de cintur&#243;n para los AAM y un sistema de distribuci&#243;n de peso altamente eficiente para ayudar a llevar todo el equipo necesario. No es el mejor traje de su clase, tiende a ser reemplazado al momento en que el Deber en cuesti&#243;n tiene el rango requerido para algo mejor.\n \n
+		</text>
+	</string>
+
+	<string id="bandit_nbc_outfit_name">
+		<text>Traje NBC saqueado</text>
+	</string>
+	<string id="bandit_nbc_outfit_description">
+		<text>%c[ui_gray_1]Un traje de CBRN bien aislado, pero mal hecho, con un chaleco de kevlar. Antes de empezar su servicio entre los bandidos, probablemente fue reconstruido a partir de los restos destrozados de alg&#250;n stalker brutalmente asesinado. Viene de serie con una m&#225;scara antig&#225;s GP-5 con una manguera que conduce a un filtro moderno. Aunque claramente no fue restaurado con mucho cuidado para las condiciones espec&#237;ficas de la Zona, es sin embargo una elecci&#243;n popular entre los ladrones que aprecian los sistemas eficientes de distribuci&#243;n de peso.\n \n
+		</text>
+	</string>
+	
+	
+<!-- Assault vest -->
+	<string id="light_loner_outfit_name">
+		<text>Armadura Interceptor</text>
+	</string>
+	<string id="light_loner_outfit_description">
+		<text>%c[ui_gray_1]Un viejo traje IBA importado del Oeste y modificado para las condiciones de la Zona. Es un poco pesado, pero proporciona una protecci&#243;n ajustada contra las anomal&#237;as junto con buenas caracter&#237;sticas antibal&#237;sticas. A veces usado por stalkers contratados como auxiliares para ayudar a luchar en guerras entre facciones, este traje mejora significativamente las posibilidades de sobrevivir a una escaramuza en comparaci&#243;n con el equipo de un stalker com&#250;n\n \n
+		</text>
+	</string>
+	
+	<string id="light_freedom_outfit_name">
+		<text>Defensor de Libertad</text>
+	</string>
+	<string id="light_freedom_outfit_description">
+		<text>%c[ui_gray_1]Se rumorea que se suministra a la facci&#243;n de Libertad directamente desde una fuente desconocida, este traje est&#225; basado en el sistema algo anticuado IBA, pero modificado para mayor comodidad cuando se opera en las condiciones de la Zona. Un respetable traje con chaleco antibalas, su uso en la Zona es espec&#237;fico para proteger adecuadamente a fuerzas de asalto a posiciones enemigas ligeramente atrincheradas.\n \n
+		</text>
+	</string>
+
+	<string id="light_voen_outfit_name">
+		<text>Traje militar stalker IBAz</text>
+	</string>
+	<string id="light_voen_outfit_description">
+		<text>%c[ui_gray_1]Un "Sistema de Blindaje Corporal Interceptor An&#243;malo" que sol&#237;a pertenecer a un stalker militar. Comparado con el modelo est&#225;ndar, este traje es m&#225;s c&#243;modo de llevar y cuenta con una protecci&#243;n superior contra las anomal&#237;as. No se suele entregar a los reclutas ni a los operadores de Spetsnaz, los Militares Stalkers que desean utilizar este traje generalmente tienen que solicitarlo personalmente.\n \n
+		</text>
+	</string>
+
+	<string id="light_monolit_outfit_name">
+		<text>Traje de Asalto Monolito IBAz</text>
+	</string>
+	<string id="light_monolit_outfit_description">
+		<text>%c[ui_gray_1]Un "Sistema de Blindaje Corporal Interceptor An&#243;malo" que de alguna manera termin&#243; en las manos del Monolito. Comparado con el modelo est&#225;ndar, este traje es ligeramente m&#225;s ergon&#243;mico y cuenta con una mayor protecci&#243;n contra ondas ps&#237;quicas. Estos chalecos suelen llegar a la facci&#243;n gracias a desafortunados stalkers que quedan atascados tratando de cruzar la Barrera. La mayor&#237;a de las veces son vistos en la Zona en general, luego de la &#250;ltima invasi&#243;n del Monolito a los Almacenes.\n \n
+		</text>
+	</string>
+
+	<string id="light_dolg_outfit_name">
+		<text>Protecci&#243;n Universal IBAz</text>
+	</string>
+	<string id="light_dolg_outfit_description">
+		<text>%c[ui_gray_1]Un viejo traje IBA importado del Oeste y modificado para las condiciones de la Zona. Inc&#243;modamente pesado tanto para usar como para llevar, la variante Deber parece haber recibido amplias mejoras para la protecci&#243;n contra las amenazas qu&#237;micas. Sin embargo, es poco probable que Deber traiga estos trajes desde el mundo exterior. M&#225;s bien, simplemente se cree que son renovados y restaurados despu&#233;s de ser recogidos de los cuerpos de los "anarquistas".\n \n
+		</text>
+	</string>
+
+	<string id="light_merc_outfit_name">
+		<text>Traje Mercenario IBAz</text>
+	</string>
+	<string id="light_merc_outfit_description">
+		<text>%c[ui_gray_1]Un "Sistema de Blindaje Corporal Interceptor An&#243;malo" bien cuidado, vendido directamente a los Mercenarios procedente varias fuentes occidentales. Este traje, aunque un poco inc&#243;modo, es en general mejor que el modelo est&#225;ndar que circula por la Zona. Est&#225; pensado para permitir a los Mercenarios cumplir con los contratos que piden asaltos ligeros a las posiciones enemigas fortificadas dentro de la Zona.\n \n
+		</text>
+	</string>
+	
+	<string id="light_isg_outfit_name">
+		<text>Traje IBAz UNISG</text>
+	</string>
+	<string id="light_isg_outfit_description">
+		<text>%c[ui_gray_1]Un fuerte pero algo anticuado traje de combate modificado para brindar adem&#225;s una adecuada protecci&#243;n an&#243;mala al portador. Este traje es lo m&#237;nimo que uno debe usar en situaciones en las que el conflicto con las fuerzas armadas de la SSU parece inevitable. Tampoco es una mala elecci&#243;n para los exploradores de la ONU que pretenden realizar incursiones ligeras en los innumerables laboratorios de la Zona.\n \n
+		</text>
+	</string>
+
+
+<!-- Sunrise suits -->
+	<string id="stalker_outfit_name">
+		<text>Traje stalker "Sunrise"</text>
+	</string>
+	<string id="stalker_outfit_description">
+		<text>%c[ui_gray_1]Un traje fabricado en la zona; hecho a mano por artesanos locales por cuesti&#243;n de supervivencia. Esta hecho de tela engomada de doble capa con forro de plexigl&#225;s y un chaleco antibalas integrado, el "Sunrise" es uno de los trajes stalker m&#225;s antiguos que existen. Tambi&#233;n se considera la protecci&#243;n m&#237;nima que un stalker debe tener para viajes serios a la Zona. A pesar de esto, goza de una inmensa popularidad entre los stalkers novatos y veteranos por igual gracias bajo coste y a su gran potencial de modificaci&#243;n.
+		</text>
+	</string>
+	
+	<string id="stalker_outfit_camo_name">
+		<text>"Chameleon" stalker suit</text>
+	</string>
+	<string id="stalker_outfit_camo_description">
+		<text>%c[ui_gray_1]NOT IN GAME. Camouflaged during assembly, this DIY stalker bodysuit is a combination of twin-layered rubberised cloth with Plexiglas lining and built-in body armour. Despite the fact that the body armour is often strained by anything beyond even pistol bullets, the suit enjoys great popularity due to its low cost and modification potential.\n \n
+		</text>
+	</string>
+
+	<string id="stalker_outfit_alt_name">
+		<text>"Hipster" stalker suit</text>
+	</string>
+	<string id="stalker_outfit_alt_description">
+		<text>%c[ui_gray_1]NOT IN GAME. This DIY stalker bodysuit is a combination of twin-layered rubberised cloth with Plexiglas lining and built-in body armour. Despite the fact that the body armour is often strained by anything beyond even pistol bullets, the suit enjoys great popularity due to its low cost and modification potential.\n \n
+		</text>
+	</string>
+	
+	<string id="stalker_drought_outfit_name">
+		<text>Traje stalker "Drought"</text>
+	</string>
+	<string id="stalker_drought_outfit_description">
+		<text>%c[ui_gray_1]Un traje fabricado en la zona; hecho a mano por artesanos locales por cuesti&#243;n de supervivencia. Para un traje de stalker, el "Drought" posee una protecci&#243;n bal&#237;stica marginalmente mejor que la media, pero tambi&#233;n es considerablemente menos c&#243;modo de llevar. En la parte positiva: viene con varios espacios en el cintur&#243;n. Aunque est&#225;n destinados a los artefactos, estos espacios se llenan m&#225;s a menudo con camelbacks para compensar el peso extra del traje, por eso se gan&#243; el ir&#243;nico apodo de "Drought" (Sequ&#237;a). As&#237; como el Sunrise, es enormemente popular por su costo relativamente bajo y su gran potencial de modificaci&#243;n.\n \n
+		</text>
+	</string>
+	
+	<string id="stalker_predator_outfit_name">
+		<text>Traje stalker "Depredador"</text>
+	</string>
+	<string id="stalker_predator_outfit_description">
+		<text>%c[ui_gray_1]Un traje fabricado en la zona; hecho a mano por artesanos locales por cuesti&#243;n de supervivencia. Una mejora general por encima del traje "Drought", el "Depredador" ofrece una protecci&#243;n similar en un tiroteo y tambi&#233;n es significativamente m&#225;s c&#243;modo de llevar. Por esta raz&#243;n, puede ser una opci&#243;n preferida por cualquier stalker que necesite de un poco m&#225;s de protecci&#243;n y mucha m&#225;s movilidad de la que puede permitirse el traje de stalker regular. Como la mayor&#237;a de los trajes de stalker, goza de popularidad entre los novatos y los expertos por igual gracias a sus bajos costos de mantenimiento y su gran potencial de modificaci&#243;n.\n \n
+		</text>
+	</string>
+	
+	<string id="stalker_autumn_outfit_name">
+		<text>Traje de stalker "Oto&#241;o"</text>
+	</string>
+	<string id="stalker_autumn_outfit_description">
+		<text>%c[ui_gray_1]Un traje fabricado en la zona; hecho a mano por artesanos locales por cuesti&#243;n de supervivencia. Este traje es el favorito de los nuevos cazadores de artefactos y sicarios, ya que permite atravesar - o esconderse dentro - de los campos de anomal&#237;as qu&#237;micas con mucha m&#225;s facilidad de lo que normalmente permitir&#237;a un traje stalker. Tambi&#233;n es ligeramente m&#225;s c&#243;modo de llevar que el traje de stalker promedio, a pesar de que cuenta con una mayor protecci&#243;n bal&#237;stica. Como es s&#243;lo ligeramente m&#225;s caro que el traje Sunrise, es una buena elecci&#243;n para los stalkers que quieran ir un poco m&#225;s lejos con sus rublos.\n \n
+		</text>
+	</string>
+	
+	<string id="stalker_vineleaf_outfit_name">
+		<text>Traje stalker "Vineleaf"</text>
+	</string>
+	<string id="stalker_vineleaf_outfit_description">
+		<text>%c[ui_gray_1]NOT IN GAME. A higher quality version of the regular Sunrise bodysuit, made of more resistant and expensive materials. The main build of the suit is pretty much the same as that of basic Sunrise, but the use of higher quality materials lead to increased protective qualities without a significant increase in weight. The suit is also more durable and has a potential for more advanced modifications. The "Vineleaf" version is mainly focused of increasing the wearer's mobility and comfort without reducing its protective qualities. It achieves this goal by the use of a more flexible, thermoactive fabric; the outfit slightly shrinks when exposed to a high heat. Stalkers who just bought the outfit make their way to the nearest thermal anomaly and stand next to it for a while - the outfit then shrinks and fits their body perfectly as a result. Even though it sounds dangeorus, nobody ever reported the suit disturbing their blood flow. This fabric also seems to be a bit more difficult to cut, therefore making the suit grant more protection from attacks of weaker mutants. One last quality of this suit is that its inner layer is treated with a compound which slighlty cools the body, increasing comfort. As its name suggests, "Vineleaf" bears a camouflage in colors similar to that of a vine or ivy leaves. The pattern comprises of large, irregularly shaped spots of lighter and darker shades of the color.\n \n
+		</text>
+	</string>
+	
+	<string id="stalker_bear_outfit_name">
+		<text>Traje stalker "Oso"</text>
+	</string>
+	<string id="stalker_bear_outfit_description">
+		<text>%c[ui_gray_1]Un traje fabricado en la zona; hecho a mano por artesanos locales por cuesti&#243;n de supervivencia. Ligeramente m&#225;s pesado que otros trajes stalker, algunos todav&#237;a lo llevan debido a su mejor protecci&#243;n contra la bal&#237;stica y su potente aislamiento contra las amenazas t&#233;rmicas. Tristemente este aislamiento no se logra a trav&#233;s de telas convencionales, sino m&#225;s bien a trav&#233;s de un compuesto an&#243;malo casero sin nombre creado por ensayo y error. El efecto secundario de esto es que el cuerpo del portador es mucho m&#225;s probable que se sobrecargue por las descargas el&#233;ctricas. Usado m&#225;s a menudo por los stalkers que trabajan en las anomal&#237;as Quemador cerca de Yantar.\n \n
+		</text>
+	</string>
+	
+	<string id="stalker_salamander_outfit_name">
+		<text>Traje stalker "Salamandra"</text>
+	</string>
+	<string id="stalker_salamander_outfit_description">
+		<text>%c[ui_gray_1]Un traje fabricado en la zona; hecho a mano por artesanos locales por cuesti&#243;n de supervivencia. Este traje fue dise&#241;ado para los stalkers que dan valor a la observaci&#243;n y la exploraci&#243;n - tiene una protecci&#243;n media para un traje de stalker combatiente (tipos de combate que puedan evitarse) o contra las anomal&#237;as (que puedan ser detectadas), pero concede una defensa excepcional contra la radiaci&#243;n. Una buena elecci&#243;n para aquellos que son muy conscientes de su entorno y simplemente necesitan algo para evitar al Asesino Invisible. Ir&#243;nicamente, para ser algo llamado "Salamandra", demuestra una pobre habilidad para canalizar el calor de forma segura. Sin embargo, como todos los trajes stalker, es una opci&#243;n econ&#243;mica con un gran potencial de mejora.\n \n
+		</text>
+	</string>
+	
+	<string id="stalker_graphite_outfit_name">
+		<text>Traje stalker "Grafito"</text>
+	</string>
+	<string id="stalker_graphite_outfit_description">
+		<text>%c[ui_gray_1]Un traje fabricado en la zona; hecho a mano por artesanos locales por cuesti&#243;n de supervivencia. Fue dise&#241;ado independientemente por unos pocos stalkers optimistas que esperaban tomar medidas en contra de las tormentas ps&#237;quicas al aire libre. Naturalmente, este esfuerzo fracas&#243;, pero sus dise&#241;os fueron recuperados m&#225;s tarde y utilizados para producir este traje stalker, capaz de resguardar el sistema nervioso del portador. Algo propenso al sobrecalentamiento y no muy bueno contra los derrames qu&#237;micos. Una broma entre los stalker muy poco conocida y algo anticuada consiste en tirar el traje al suelo y luego fingir que no est&#225; ah&#237;.\n \n
+		</text>
+	</string>
+	
+	<string id="stalker_tigerstripe_outfit_name">
+		<text>Traje stalker "Rayas de tigre"</text>
+	</string>
+	<string id="stalker_tigerstripe_outfit_description">
+		<text>%c[ui_gray_1]Un traje fabricado en la zona; hecho a mano por artesanos locales por cuesti&#243;n de supervivencia. Uno de los trajes stalker m&#225;s pesados disponibles, este fue dise&#241;ado para aquellos que prefieren invertir su dinero como asesinos a sueldo o luchadores en lugar de saquear artefactos o despellejar mutantes. Comparado con el traje stalker promedio, proporciona una protecci&#243;n marginalmente mejor contra la bal&#237;stica y una genuina mejora en la defensa contra la metralla, los cortes y los impactos contundentes. Sin embargo, en comparaci&#243;n con muchos otros trajes de combate, la principal atracci&#243;n de este radica simplemente en lo barato que es de mantener.\n \n
+		</text>
+	</string>
+
+	<string id="ecologist_guard_outfit_name">
+		<text>Traje guardia ISRIT</text>
+	</string>
+	<string id="ecologist_guard_outfit_description">
+		<text>%c[ui_gray_1]Un traje b&#225;sico originalmente destinado como equipo de repuesto para el "Equipo de Investigaci&#243;n Cient&#237;fica e Investigaci&#243;n de Iskra" del Profesor Hermann, se ha convertido desde entonces en un traje de protecci&#243;n relativamente barato para los guardias ecologistas que trabajan en toda la Zona. Presume de una protecci&#243;n an&#243;mala m&#225;s que adecuada por su precio, pero en general nada resistente contra una bala de pistola. La mayor&#237;a de los guardias se lanzan a por un SEVA o SSP-99M cuando pueden. Aquellos que esperan participar en acciones de combate serias, preferir&#225;n usar los trajes de combate militares m&#225;s adecuados.\n \n
+		</text>
+	</string>
+
+	<string id="cs_stalker_outfit_name">
+		<text>Chaleco antibalas CS-2b</text>
+	</string>
+	<string id="cs_stalker_outfit_description">
+		<text>%c[ui_gray_1]A diferencia de otros trajes de las series CS-1, 2 y 3, este chaleco antibalas s&#243;lo se cre&#243; despu&#233;s de las grandes p&#233;rdidas de la facci&#243;n en la central nuclear de Chern&#243;bil. Se considera como el primer sucesor adecuado del traje CS-1, ya que se centra en mantener al portador a salvo de entornos an&#243;malos, en lugar de blindarlo para la batalla. Proporciona una protecci&#243;n f&#237;sica adecuada y una buena resistencia a los elementos ambientales.\n \n
+		</text>
+	</string>
+
+
+<!-- STS (Special Tactical Suits) -->
+	<string id="svoboda_light_outfit_name">
+		<text>Viento de Libertad</text>
+	</string>
+	<string id="svoboda_light_outfit_description">
+		<text>%c[ui_gray_1]Este c&#243;modo traje stalker est&#225; hecho por artesanos de Libertad. La tela est&#225; tratada con Horizon, un compuesto especial desarrollado por la facci&#243;n a puro ensayo y error, que sirve para aumentar la resistencia a las anomal&#237;as qu&#237;micas. Quien sabe cu&#225;les podr&#237;an ser los efectos secundarios.\n \n
+		</text>
+	</string>
+
+	<string id="monolith_outfit_name">
+		<text>Traje X-18 'Monolito'</text>
+	</string>
+	<string id="monolith_outfit_description">
+		<text>%c[ui_gray_1]Un misterioso equipo asociado con la facci&#243;n del Monolito. Consiste en un traje ambiental que proporciona una protecci&#243;n qu&#237;mica y radiol&#243;gica m&#225;s que adecuada, debajo de un chaleco bal&#237;stico capaz de detener los d&#233;biles disparos de una pistola. Su protecci&#243;n contra las anomal&#237;as, sin embargo, es insuficiente. Anteriormente de origen desconocido, decenas de estos trajes fueron encontrados en contenedores y armarios debajo de la instalaci&#243;n X18 en Valle Oscuro. Aunque los stalkers que encontraron este alijo han desaparecido misteriosamente desde entonces; aun as&#237; este descubrimiento ha impulsado miles de teor&#237;as conspirativas entre stalkers de otras facciones. La premisa de muchos afirman es que estos trajes son anteriores a la creaci&#243;n de la propia Zona.\n \n
+		</text>
+	</string>
+
+	<string id="bandit_sun_outfit_name">
+		<text>Traje t&#225;ctico "Sunset"</text>
+	</string>
+	<string id="bandit_sun_outfit_description">
+		<text>%c[ui_gray_1]Un traje fabricado en la zona; hecho a mano por artesanos locales por cuestiones de supervivencia. Su dise&#241;o parece copiaren  al de un traje t&#225;ctico especial, pero tiene un parecido especialmente inquietante con un traje del Monolito X-18 al que se le han quitado las caracter&#237;sticas convencionales del NBC en favor de un mayor aislamiento de las amenazas t&#233;rmicas y el&#233;ctricas. Utilizado principalmente por los bandidos en Valle Oscuro para cazar los poltergeists que ocasionalmente escapan del laboratorio local.\n \n
+		</text>
+	</string>
+
+	<string id="merc_sun_outfit_name">
+		<text>Traje t&#225;ctico "Crep&#250;sculo"</text>
+	</string>
+	<string id="merc_sun_outfit_description">
+		<text>%c[ui_gray_1]Un traje fabricado en la zona; hecho a mano por artesanos locales por cuestiones de supervivencia. Claramente, los mercenarios residentes lo copiaron de alguna hoja del libro de los Stalkers Libres, y comenzaron a producir localmente algunos de sus propios trajes. Tiene aires de inspiraci&#243;n del traje Monolito X-18, un traje que los mercenarios sin duda han saqueado de sus costosas escaramuzas en Limansk. En general es de buena calidad, la mayor&#237;a de los mercenarios lo encuentran m&#225;s que adecuado para operaciones de nivel medio al sur del Radar.\n \n
+		</text>
+	</string>
+
+	<string id="merc_nighthunter_outfit_name">
+		<text>Chaleco mercenario STS-N</text>
+	</string>
+	<string id="merc_nighthunter_outfit_description">
+		<text>%c[ui_gray_1]A veces apodado el "Cazador Nocturno"; este traje es un chaleco t&#225;ctico especial ligeramente pesado, usado por los Mercenarios en escenarios de combate tanto nocturnos como urbanos. En t&#233;rminos de dise&#241;o y rendimiento, logra un buen equilibrio entre la t&#237;pica armadura Spetsnaz y un traje de stalker com&#250;n. Posee una protecci&#243;n m&#225;s que adecuada para las escaramuzas, pero generalmente es considerado mediocre por quienes prefieren m&#225;s los contratos de caza de artefactos.
+		</text>
+	</string>
+
+	<string id="merc_wolven_outfit_name">
+		<text>Chaleco mercenario STS-N</text>
+	</string>
+	<string id="merc_wolven_outfit_description">
+		<text>%c[ui_gray_1]A veces apodado el "Lobo", este traje es un c&#243;modo traje t&#225;ctico especial, utilizado por los mercenarios tanto en expediciones de exploraci&#243;n como en operaciones de sigilo. Posee una buena protecci&#243;n an&#243;mala para su clase, permitiendo al portador moverse a trav&#233;s de - o esconderse en - campos an&#243;malos peligrosos en relativa seguridad. Naturalmente &#250;til para la caza de artefactos, esta protecci&#243;n tambi&#233;n permite a grandes equipos de mercenarios tender emboscadas en lugares inesperados, permiti&#233;ndoles derribar objetivos considerados demasiado duros para los m&#233;todos m&#225;s ortodoxos.\n \n
+		</text>
+	</string>
+
+	<string id="isg_outfit_name">
+		<text>Chaleco t&#225;ctico UNISG Mk 1</text>
+	</string>
+	<string id="isg_outfit_description">
+		<text>%c[ui_gray_1]Basado en un dise&#241;o de traje bastante est&#225;ndar usado por las fuerzas especiales occidentales, trajes como este son comunes a muchos militares en todo el mundo. Este es el m&#237;nimo con el que un operativo de UNISG puede esperar ser equipado. Comparado incluso con un traje b&#225;sico de Mercenario LC, esta armadura corporal es tanto m&#225;s pesada como menos protectora y como tal puede ser considerada apenas adecuada para las condiciones de la Zona. A&#250;n as&#237;, es un gran avance con respecto a los uniformes del ej&#233;rcito que llevan los reclutas ucranianos.\n \n
+		</text>
+	</string>
+	
+	<string id="isg_merc_outfit_name">
+		<text>Chaleco t&#225;ctico UNISG Mk 2</text>
+	</string>
+	<string id="isg_merc_outfit_description">
+		<text>%c[ui_gray_1]Una mejora sobre el dise&#241;o original de Mk-1, este traje es mucho m&#225;s adecuado para las condiciones de la Zona. Su protecci&#243;n general contra las anomal&#237;as es m&#225;s que adecuada, y ofrece una gran protecci&#243;n contra los peligros qu&#237;micos, t&#243;xicos o t&#233;rmicos. Estas mejoras fueron realizadas por el UNISG bas&#225;ndose en los limitados datos que pod&#237;an recuperarse de sus menos afortunados predecesores. A&#250;n as&#237;, se anima a los usuarios a evitar el combate con stalkers locales tanto como sea posible.\n \n
+		</text>
+	</string>
+	
+	
+<!-- LCS (Light Combat Suit) -->
+	<string id="merc_outfit_name">
+		<text>Traje LC Mercenario</text>
+	</string>
+	<string id="merc_outfit_description">
+		<text>%c[ui_gray_1]El "Traje de Combate Ligero" es uno de los trajes m&#225;s comunes usados por los Mercenarios de la Zona. Su dise&#241;o se basa en el traje usado por las fuerzas especiales de los ej&#233;rcitos occidentales. Debido a un tratamiento especial del tejido, la armadura tiene estabilidad reforzada durante el movimiento f&#237;sico de sus placas. Adecuado para las operaciones b&#225;sicas, pero de muy mala calidad en comparaci&#243;n con el equipo est&#225;ndar de Spetsnaz, y obviamente no fue dise&#241;ado teniendo en cuenta la existencia de anomal&#237;as.\n \n
+		</text>
+	</string>
+	
+	<string id="merc_fighter_outfit_name">
+		<text>Traje LC-F Mercenario</text>
+	</string>
+	<string id="merc_fighter_outfit_description">
+		<text>%c[ui_gray_1]A veces llamado sarcastaticamente "el Luchador", este traje es una variaci&#243;n del traje est&#225;ndar de LC que ha sacrificado mucha protecci&#243;n para una mayor movilidad, mejor protecci&#243;n t&#233;rmica y una ranura de cintur&#243;n para los artefactos. Puede funcionar sorprendentemente bien en operaciones donde el sigilo y la velocidad son imperativos, y por lo tanto encuentra un uso limitado entre los exploradores y sicarios Mercenarios que operan en las partes menos irradiadas de la Zona.\n \n
+		</text>
+	</string>
+
+	<string id="banditmerc_outfit_name">
+		<text>Traje Fenced LC</text>
+	</string>
+	<string id="banditmerc_outfit_description">
+		<text>%c[ui_gray_1]Un traje de combate ligero obtenido de forma dudosa y usado para ayudar a blindar a bandidos locales. Su dise&#241;o se basa en el traje usado por las fuerzas especiales de los ej&#233;rcitos occidentales. Sin embargo, ironicamente parece que quien suministr&#243; estos trajes estaba estafando a sus clientes. La protecci&#243;n general es extremadamente pobre para las condiciones de la Zona y es significativamente peor que los trajes de Combate Ligero usados por los Mercenarios. A&#250;n as&#237;, es por lo menos c&#243;modo de llevar, y posiblemente mejor que lo que reciben los reclutas de Ucrania. Podr&#237;a decirse que s&#237;.\n \n
+		</text>
+	</string>
+	
+	<string id="renegademerc_outfit_name">
+		<text>Traje LC 'Renegado'</text>
+	</string>
+	<string id="renegademerc_outfit_description">
+		<text>%c[ui_gray_1]Un traje de combate ligero obtenido de forma dudosa y usado para ayudar a blindar a Renegados. Su dise&#241;o se basa en el traje usado por las fuerzas especiales de los ej&#233;rcitos occidentales. Sorprendentemente agradable de llevar, este traje proporciona una protecci&#243;n m&#225;s que adecuada contra armas peque&#241;as, laceraciones y metralla. Sin embargo, no est&#225; realmente destinado a ser usado en &#225;reas de alta actividad radioactiva o an&#243;mala, y como tal pocos usuarios se encontrar&#225;n en lo profundo de la Zona llevandolos.\n \n
+		</text>
+	</string>
+	
+	<string id="merc_sunset_outfit_name">
+		<text>Traje LCz Mercenario</text>
+	</string>
+	<string id="merc_sunset_outfit_description">
+		<text>%c[ui_gray_1]Un traje de combate ligero mercenario modificado para un mejor uso en la Zona. Posee mejoras generales sobre el traje LC est&#225;ndar, se considera generalmente m&#225;s que adecuado para combates ligeros, pero un poco inc&#243;modo de usar en &#225;reas an&#243;malas. A&#250;n as&#237;, este traje es una mejora genuina para la mayor&#237;a de los nuevos Mercenarios, y - para uso general - no es una mala alternativa a los trajes t&#225;cticos especiales de la facci&#243;n.\n \n
+		</text>
+	</string>
+
+	<string id="merc_scout_outfit_name">
+		<text>Traje LC-S Mercenario</text>
+	</string>
+	<string id="merc_scout_outfit_description">
+		<text>%c[ui_gray_1]Apodado el "Explorador", este traje es, esencialmente, un traje LC-F modificado para usarse en fines m&#225;s especializados. Aunque es un poco m&#225;s pesado y menos protector en combate que un LC-F, sigue siendo un traje muy c&#243;modo. Una fuente barata de protecci&#243;n ambiental. Las modificaciones de este traje lo hacen una buena elecci&#243;n para los Mercenarios que quieren explorar las anomal&#237;as de la Zona con un presupuesto ajustado.\n \n
+		</text>
+	</string>
+	
+	<string id="merc_jackal_outfit_name">
+		<text>Traje LTS-J Mercenario</text>
+	</string>
+	<string id="merc_jackal_outfit_description">
+		<text>%c[ui_gray_1]Un traje t&#225;ctico ligero, apodado "Chacal" en honor al l&#237;der de los Mercenarios, ahora muerto, que fue usado para abrir un laboratorio llamado X-8 hace m&#225;s de seis a&#241;os. Este traje proporciona una protecci&#243;n m&#225;s o menos adecuada de los peligros de la Zona, pero lo que lo diferencia es lo maravillosamente c&#243;modo que es, adem&#225;s de poseer un sistema de distribuci&#243;n de peso bastante sofisticado. Esto, adem&#225;s de un precio relativamente asequible, lo convierte en el favorito de los mercenarios algo m&#225;s experimentados.\n \n
+		</text>
+	</string>
+	
+	<string id="merc_coyote_outfit_name">
+		<text>Traje MTS-C Mercenario</text>
+	</string>
+	<string id="merc_coyote_outfit_description">
+		<text>%c[ui_gray_1]Un traje t&#225;ctico medio, apodado el "Coyote". Ampliamente considerado como el sucesor del traje corporal LTS-J, este traje cuenta con una mejor protecci&#243;n f&#237;sica adem&#225;s de un sistema de distribuci&#243;n del peso a&#250;n mejor. Naturalmente, su precio es m&#225;s alto que el de su predecesor, pero esto no detendr&#225; a la mayor&#237;a de los mercenarios de correr a por &#233;l cuando puedan.\n \n
+		</text>
+	</string>
+
+	<string id="greh_armored_outfit_name">
+		<text>Armadura Irik flak</text>
+	</string>
+	<string id="greh_armored_outfit_description">
+		<text>%c[ui_gray_1]Un c&#243;modo y ergon&#243;mico traje de armar usado para equipar a los seguidores de Pecado. Consiste en un chaleco bal&#237;stico sobre un traje ambiental. Proporcionando una protecci&#243;n pasable contra las anomal&#237;as y una buena protecci&#243;n contra los disparos, estos trajes hacen un buen trabajo fortaleciendo a los ya duraderos guerreros de Pecado.\n \n
+		</text>
+	</string>
+	
+	<string id="greh_armored_camo_outfit_name">
+		<text>Armadura flak Vyriy</text>
+	</string>
+	<string id="greh_armored_camo_outfit_description">
+		<text>%c[ui_gray_1]Una variante m&#225;s avanzada del blindaje antia&#233;reo regular de Pecado, t&#237;picamente regalado a los miembros m&#225;s leales y devotos de la facci&#243;n. En comparaci&#243;n con su hom&#243;logo m&#225;s est&#225;ndar, este traje proporciona una mayor protecci&#243;n contra las anomal&#237;as, adem&#225;s de fortificar la fuerza del portador m&#225;s all&#225; de sus l&#237;mites, a menudo ya considerables.\n \n
+		</text>
+	</string>
+
+	<string id="dolg_voin_outfit_name">
+		<text>Traje de guerrero PS6-V</text>
+	</string>
+	<string id="dolg_voin_outfit_description">
+		<text>%c[ui_gray_1]Una variante moderna y actualizada del traje de protecci&#243;n universal original PS5-M. Es m&#225;s que adecuado para todas las condiciones de la Zona, adem&#225;s de ser marcadamente c&#243;modo para un traje de servicio. Originalmente destinado a reemplazar a su predecesor por completo, su mayor costo de producci&#243;n puso este objetivo en suspenso frente a la multitud de p&#233;rdidas recientes de Deber.\n \n
+		</text>
+	</string>
+	
+	<string id="isg_lcs_outfit_name">
+		<text>Traje LC 'UNISG'</text>
+	</string>
+	<string id="isg_lcs_outfit_description">
+		<text>%c[ui_gray_1]Un modelo de "Traje de Combate Ligero" adaptado para su uso por las tropas de UNISG. Su dise&#241;o se basa en el utilizado por las fuerzas especiales de los ej&#233;rcitos occidentales. Comparado con la variante mercenaria, tiene mejor protecci&#243;n contra las anomal&#237;as y peor protecci&#243;n de combate. Viene con chalecos antibalas y m&#243;dulos de fijaci&#243;n de chalecos, pero es mediocre en general fuera de las operaciones m&#225;s b&#225;sicas dentro de la Zona.\n \n
+		</text>
+	</string>
+	
+	<string id="isg_lcs_camo_outfit_name">
+		<text>Traje LC-C 'UNISG'</text>
+	</string>
+	<string id="isg_lcs_camo_outfit_description">
+		<text>%c[ui_gray_1]Un modelo modificado de "Traje de Combate Ligero" adaptado para su uso en la Zona por las tropas de UNISG. Su dise&#241;o se basa en el traje usado por las fuerzas especiales de los ej&#233;rcitos occidentales. A pesar de su peso ligero y su comodidad general, este traje demuestra una protecci&#243;n m&#225;s que adecuada contra las anomal&#237;as y durante los combates contra oponentes ligeramente armados. Lamentablemente, no es de mucha ayuda contra la metralla, los golpes o las pu&#241;aladas.\n \n
+		</text>
+	</string>
+	
+	<string id="isg_lcs_urban_outfit_name">
+		<text>Traje LC-UC 'UNISG'</text>
+	</string>
+	<string id="isg_lcs_urban_outfit_description">
+		<text>%c[ui_gray_1]Un modelo modificado de "Traje de Combate Ligero" adaptado para su uso en la batalla por las tropas de UNISG. Su dise&#241;o se basa en el traje usado por las fuerzas especiales de los ej&#233;rcitos occidentales. Se compara favorablemente en el combate con muchos otros trajes de su clase, pero a&#250;n as&#237; se queda corto con respecto a lo que llevar&#237;a un operador de Spetsnaz. No se recomienda su uso en zonas de gran actividad an&#243;mala o radiol&#243;gica.\n \n
+		</text>
+	</string>
+
+
+<!-- Berill-5M Armoured Suits -->
+	<string id="army_outfit_name">
+		<text>Traje de servicio militar</text>
+	</string>
+	<string id="army_outfit_description">
+		<text>Un pobre equipo de protecci&#243;n contratado por bur&#243;cratas del gobierno que subcontratan al mejor postor. T&#237;picamente entregado a pilotos de helic&#243;pteros, conductores de tanques, personal de retaguardia, conscriptos y soldados alistados. Proporciona una protecci&#243;n adecuada contra los peque&#241;os mutantes. Aunque su protecci&#243;n general de combate es mejor que las chaquetas de cuero que se encuentran com&#250;nmente en los novatos de otras facciones, eso realmente no dice mucho.
+		</text>
+	</string>
+
+	<string id="specops_outfit_name">
+		<text>Traje blindado Berill-5M</text>
+	</string>
+	<string id="specops_outfit_description">
+		<text>%c[ui_gray_1]Este art&#237;culo comprende un chaleco antibalas militar de la serie PS5 con chisporroteo de berilio modificado para su uso en la Zona. Dise&#241;ado para operaciones de asalto de inserci&#243;n r&#225;pida e intensa, este equipo es est&#225;ndar para la mayor&#237;a de los operadores de Spetsnaz en la Zona, pero requiere un respirador de alta calidad para contrarrestar sus debilidades contra la radiaci&#243;n y las anomal&#237;as. Ocasionalmente, este traje ser&#225; vendido a stalkers ordinarios a cambio de varios "favores".\n \n
+		</text>
+	</string>
+	
+	<string id="specops_dolg_outfit_name">
+		<text>Armadura de batalla PS5-B</text>
+	</string>
+	<string id="specops_dolg_outfit_description">
+		<text>%c[ui_gray_1]Este art&#237;culo comprende un chaleco antibalas militar de la serie PS5 con chisporroteo de berilio modificado para su uso en la Zona. Comparado con un traje de protecci&#243;n universal est&#225;ndar PS5-M, este traje es m&#225;s ergon&#243;mico y protector en general, pero est&#225; ligeramente menos aislado y proporciona mucha menos defensa contra impactos fuertes, como el ataque telequin&#233;tico de un poltergeist.\n \n
+		</text>
+	</string>
+	
+	<string id="specops_merc_outfit_name">
+		<text>Traje blindado B-5M Mercenario</text>
+	</string>
+	<string id="specops_merc_outfit_description">
+		<text>%c[ui_gray_1]El chaleco antibalas de Spetsnaz "adquirido" y reutilizado por los mercenarios de la Zona. Proporciona una buena protecci&#243;n f&#237;sica a la vez que es notablemente c&#243;modo de llevar, aunque su debilidad frente a los peligros ambientales exige que se utilice junto con una m&#225;scara antig&#225;s y un casco de alta calidad. A menudo usado por los Mercenarios que sol&#237;an trabajar para la SSU.\n \n
+		</text>
+	</string>
+	
+	<string id="specops_bandit_outfit_name">
+		<text>Traje blindado B-5M cercado</text>
+	</string>
+	<string id="specops_bandit_outfit_description">
+		<text>%c[ui_gray_1]Un conjunto de chalecos antibalas de la serie PS5 con chisporroteo de berilio, adquiridos por los bandidos de la Zona. Aunque el traje muestra signos visibles de desgaste irreparable, sigue siendo una excelente opci&#243;n para la batalla cuando se necesita tanto protecci&#243;n como movilidad. Sin embargo, no se recomienda su uso cerca de las anomal&#237;as.\n \n
+		</text>
+	</string>
+
+	<string id="svoboda_heavy_outfit_name">
+		<text>Guardi&#225;n de la Libertad</text>
+	</string>
+	<string id="svoboda_heavy_outfit_description">
+		<text>%c[ui_gray_1]Un conjunto de chalecos antibalas de Spetsnaz que ha sido "liberado" para su uso en la facci&#243;n de Libertad. Este traje ha sido tratado con "Sovereign", un compuesto an&#243;malo inventado por la facci&#243;n a trav&#233;s del ensayo y error. Como tal, proporciona una protecci&#243;n razonable contra los peligros de la Zona adem&#225;s de ser un buen traje de combate. Cualquiera de Libertad que se espere que ayude a defender la Barrera har&#225; todo lo posible por tener en sus manos este traje, o al menos algo parecido.\n \n
+		</text>
+	</string>
+
+	<string id="dolg_specops_red_outfit_name">
+		<text>Traje de batalla veterano PS5-B2</text>
+	</string>
+	<string id="dolg_specops_red_outfit_description">
+		<text>%c[ui_gray_1]Este traje es un conjunto de la antigua armadura de Spetsnaz, reforzada con una protecci&#243;n m&#225;s sustancial para los &#243;rganos vitales de uno. Es un excelente traje de combate, aunque tiene una infame tasa de fallos en &#225;reas de actividad an&#243;mala extrema. A pesar de esto, los veteranos de Deber no evitan este traje, afirmando que no se necesita mucha protecci&#243;n contra las anomal&#237;as una vez que se sabe c&#243;mo detectarlas.\n \n
+		</text>
+	</string>
+
+
+<!-- PS5-M Universal protection suit -->
+	<string id="dolg_outfit_name">
+		<text>Protecci&#243;n Universal PS5-M</text>
+	</string>
+	<string id="dolg_outfit_description">
+		<text>%c[ui_gray_1]Esta versi&#243;n antigua del traje corporal Deber es m&#225;s adecuada para los reclutas que prefieren la familiaridad de los trajes de stalker a la armadura de batalla de primera l&#237;nea. A diferencia de la serie PSZ, el traje proporciona una protecci&#243;n razonable contra las anomal&#237;as y tambi&#233;n es capaz de detener una bala de pistola.\n \n
+		</text>
+	</string>
+	
+	<string id="dolg_scout_outfit_name">
+		<text>Chaleco de explorador PS5-R</text>
+	</string>
+	<string id="dolg_scout_outfit_description">
+		<text>%c[ui_gray_1]Un viejo traje de Deber que fue desarrollado junto con el traje de protecci&#243;n universal PS5-M. Esta armadura estaba destinada a proteger a los exploradores de Deber en los primeros d&#237;as de la existencia de la Zona. Sin embargo, hoy en d&#237;a, las &#250;nicas partes de la Zona que quedan por explorar son demasiado peligrosas para un traje ligero como este. Como tal, estos trajes est&#225;n casi retirados ahora, mantenidos en reserva s&#243;lo para equipar a los reclutas de Deber en circunstancias desesperadas.\n \n
+		</text>
+	</string>
+
+	<string id="dolg_red_outfit_name">
+		<text>Traje de cazador PS5-M</text>
+	</string>
+	<string id="dolg_red_outfit_description">
+		<text>%c[ui_gray_1]Una variante algo m&#225;s pesada del traje de protecci&#243;n universal PS5-M, dise&#241;ado espec&#237;ficamente para los Debers que tienen la intenci&#243;n de cazar mutantes. Se sacrifica una peque&#241;a cantidad de protecci&#243;n bal&#237;stica en favor de una protecci&#243;n mucho mejor contra los ataques comunes de los mutantes, junto con una mayor protecci&#243;n contra los entornos en los que es probable que se encuentren dichos mutantes. Se compara bien incluso con los trajes modernos de Deber.\n \n
+		</text>
+	</string>
+
+	<string id="svoboda_heavy_outfit_2_name">
+		<text>Centinela de Libertad</text>
+	</string>
+	<string id="svoboda_heavy_outfit_2_description">
+		<text>%c[ui_gray_1]Un viejo y ligeramente m&#225;s pesado traje de stalker hecho hace mucho tiempo por los artesanos de Libertad. Aunque el traje obviamente ha adquirido cierto desgaste en algunos lugares, est&#225; m&#225;s o menos a la par con la mayor&#237;a de los trajes b&#225;sicos de stalker incluso hoy en d&#237;a. Se encuentra regularmente en los veteranos de Liberdad. Dicho esto, los j&#243;venes de Libertad pagar&#225;n lo que sea para adquirir uno de estos trajes, simplemente por las incre&#237;bles historias que estos venerables trajes han adquirido a lo largo de los a&#241;os.\n \n
+		</text>
+	</string>
+	
+	<string id="bandit_ps5_outfit_name">
+		<text>Protecci&#243;n Universal Cerrado PS5-M</text>
+	</string>
+	<string id="bandit_ps5_outfit_description">
+		<text>%c[ui_gray_1]Armaduras como esta entraron en circulaci&#243;n entre los bandidos gracias al Intendente Morgan, un proveedor corrupto que antes pertenec&#237;a a la facci&#243;n de Deber. Renuncia a parte de su protecci&#243;n f&#237;sica para mayor comodidad y defensa contra las anomal&#237;as. Estos trajes son un punto importante para la facci&#243;n de Deber, y sacarlos de las manos de anarquistas, criminales y asesinos es una prioridad t&#225;cita.\n \n
+		</text>
+	</string>
+	
+	<string id="greh_ps5_outfit_name">
+		<text>Blindaje Flak Volos</text>
+	</string>
+	<string id="greh_ps5_outfit_description">
+		<text>%c[ui_gray_1]El dise&#241;o de este traje est&#225; basado en el traje de protecci&#243;n universal PS5-M. Se desconoce c&#243;mo esta armadura ha llegado a la posesi&#243;n de Pecado. Sin embargo, Deber no estar&#237;a feliz de saber que sus dise&#241;os de armadura est&#225;n siendo usados por los fan&#225;ticos del culto a la Zona, y probablemente har&#237;a de la recuperaci&#243;n de estos trajes una prioridad t&#225;cita. El traje en s&#237; es de buena calidad, y m&#225;s que adecuado para las condiciones de la Zona.\n \n
+		</text>
+	</string>
+	
+	
+<!-- Skat-9 Military Armoured Suits -->
+	<string id="military_outfit_name">
+		<text>Traje blindado Skat-9</text>
+	</string>
+	<string id="military_merc_outfit_name">
+		<text>Traje blindado Mercenario Skat-9</text>
+	</string>
+	<string id="military_monolit_outfit_name">
+		<text>Traje blindado Monolito Skat-9</text>
+	</string>
+	<string id="military_freedom_outfit_name">
+		<text>Traje blindado Libertad Skat-9</text>
+	</string>
+	<string id="military_sky_outfit_name">
+		<text>Traje blindado CS-4b</text>
+	</string>
+	<string id="military_bandit_outfit_name">
+		<text>Traje blindado Skat-9 saqueado</text>
+	</string>
+	
+	<string id="military_outfit_description">
+		<text>%c[ui_gray_1]Un excelente traje protector para la Zona. Esta pesada armadura de grado militar est&#225; dise&#241;ada para grandes operaciones de batalla en &#225;reas an&#243;malas. Comprende un traje blindado militar pesado PSZ-12p, un traje de compensaci&#243;n incorporado y un traje de protecci&#243;n an&#243;mala. El blindaje proporciona una excelente protecci&#243;n contra los da&#241;os causados por las balas y la metralla, sin reducir en gran medida la movilidad del portador. Aunque originalmente estaba destinada al uso exclusivo de stalkers militares y operadores experimentados de Spetsnaz, esta armadura ocasionalmente se introdujo en facciones fuera de las Fuerzas Armadas por medios desconocidos.\n \n
+		</text>
+	</string>
+	
+	<string id="dolg_heavy_outfit_name">
+		<text>Chaleco antibalas PSZ-9d</text>
+	</string>
+	<string id="dolg_heavy_outfit_description">
+		<text>%c[ui_gray_1]Desarrollado por los institutos de investigaci&#243;n de defensa en Kiev, la primera iteraci&#243;n de este traje corporal Deber comenz&#243; como un simple y viejo juego de chaleco antibalas Spetsnaz PSZ-9, modificado para la Zona. Desde entonces su dise&#241;o ha sido mejorado continuamente a lo largo de los a&#241;os, pero curiosamente nunca tom&#243; una nueva designaci&#243;n. Hoy en d&#237;a, el &#250;ltimo dise&#241;o de esta armadura es capaz de detener una bala de rifle, y cuenta con una gran protecci&#243;n contra la gran cantidad de horrores de la Zona en general. Los principales inconvenientes son, naturalmente, tanto su volumen como su precio. Es poco com&#250;n que una armadura tan preciada como esta se asigne a cualquier Deber que no se haya probado de manera significativa.\n \n
+		</text>
+	</string>
+	
+	<string id="dolg_pantsir_outfit_name">
+		<text>Armadura antiproyectil PSZ-7p</text>
+	</string>
+	<string id="dolg_pantsir_outfit_description">
+		<text>%c[ui_gray_1]Un traje "intermedio" que proteje m&#225;s que el traje de protecci&#243;n universal PS5 normal de Deber, pero m&#225;s barato y f&#225;cil de producir que un conjunto adecuado de chaleco antibalas PSZ-9d. Ideal para escaramuzas, conserva la protecci&#243;n bal&#237;stica y t&#233;rmica de un traje PSZ completo, pero por lo dem&#225;s es inferior en la mayor&#237;a de las dem&#225;s circunstancias. A&#250;n as&#237;, su relativa facilidad de mantenimiento y reparaci&#243;n es una gran ayuda para los que est&#225;n lejos de un territorio amigo, como los investigadores que se aventuran en Yanov o m&#225;s all&#225;. Un gran traje en general, aunque ha mostrado una alta tasa de fallos contra accidentes el&#233;ctricos, tormentas el&#233;ctricas y ataques de poltergeist.\n \n
+		</text>
+	</string>
+	
+	<string id="dolg_heavy_redline_outfit_name">
+		<text>Armadura comando PSZ-9kl</text>
+	</string>
+	<string id="dolg_heavy_redline_outfit_description">
+		<text>%c[ui_gray_1]Una variante de la serie de blindajes PSZ que sacrifica cierta protecci&#243;n contra las anomal&#237;as para aumentar en gran medida la seguridad contra las explosiones y los impactos extremos. Este traje era uno de los favoritos del difunto teniente coronel Shulga, que rara vez se aventuraba fuera de su base de operaciones en Yanov, pero que constantemente tem&#237;a ser asesinado a manos de Liberdad. Por lo tanto, una protecci&#243;n pesada como esta encajaba perfectamente con sus necesidades. El destino quiso que m&#225;s tarde se le diera por muerto despu&#233;s de liderar un asalto masivo a Pripyat con su contingente de tropas, para no ser visto nunca m&#225;s. No es raro que los simpatizantes de Deber reclamen que su sacrificio compr&#243; a la Zona un tiempo precioso al frenar el repentino resurgimiento del Monolito, y los veteranos de Deber ocasionalmente llevar&#225;n trajes como este para luchar en su honor.\n \n
+		</text>
+	</string>
+
+
+<!-- Scientific outfits -->
+	<string id="scientific_outfit_name">
+		<text>Traje corporal SEVA</text>
+	</string>
+	<string id="scientific_outfit_description">
+		<text>%c[ui_gray_1]Este traje fue producido por uno de los institutos de investigaci&#243;n de defensa de Kiev y representa una excelente alternativa a los trajes de stalker hechos a mano. Combina un sistema de respiraci&#243;n de ciclo cerrado y un sistema integrado de supresi&#243;n de campos an&#243;malos con un m&#225;s que adecuado chaleco bal&#237;stico. Debido a los materiales perfectos, este traje es una buena elecci&#243;n. A&#250;n as&#237;, es caro, y a aquellos que prefieren la batalla campal a la cuidadosa investigaci&#243;n de anomal&#237;as se les aconseja que busquen otra cosa.\n \n
+		</text>
+	</string>
+
+	<string id="dolg_scientific_outfit_name">
+		<text>Aparato de ciclo cerrado PS5-9Md</text>
+	</string>
+	<string id="dolg_scientific_outfit_description">
+		<text>%c[ui_gray_1]. NO ESTA EN EL JUEGO. Un maravilloso traje protector para la Zona, muy apreciado porque combina una excelente protecci&#243;n contra las anomal&#237;as con cualidades m&#225;s que adecuadas de protecci&#243;n contra las balas. Incluye el traje PS5-M, un sistema de respiraci&#243;n de ciclo cerrado y un sistema integrado de supresi&#243;n de campos an&#243;malos. Proporciona un mayor aislamiento y protecci&#243;n contra el traumatismo que un traje est&#225;ndar de SEVA, con un resultado insignificante.\n \n
+		</text>
+	</string>
+
+	<string id="svoboda_scientific_outfit_name">
+		<text>Vigilante de Libertad</text>
+	</string>
+	<string id="svoboda_scientific_outfit_description">
+		<text>%c[ui_gray_1]Producido por artesanos de Libertad especialmente para observar fen&#243;menos an&#243;malos en la Zona. El sistema cerrado de respiraci&#243;n y los materiales especiales proporcionan una excelente protecci&#243;n contra la radiaci&#243;n y los efectos an&#243;malos. Sin embargo, la armadura corporal incorporada "Sentinela" no es muy buena y puede romperse con cierta facilidad, por lo que no es adecuada para las hostilidades activas.\n \n
+		</text>
+	</string>
+
+	<string id="merc_scientific_outfit_name">
+		<text>Traje SEVA Mercenario</text>
+	</string>
+	<string id="merc_scientific_outfit_description">
+		<text>%c[ui_gray_1]NO EN EL JUEGO. Traje para mercenarios que a menudo trabajan en o cerca de &#225;reas an&#243;malas. Sistemas de protecci&#243;n con un ciclo cerrado, campos an&#243;malos de acci&#243;n de supresi&#243;n incorporados. Proporciona una buena protecci&#243;n contra los impactos de bala y metralla, pero no es suficiente para las hostilidades a gran escala.\n \n
+		</text>
+	</string>
+
+	<string id="monolith_scientific_outfit_name">
+		<text>Traje cient&#237;fico Monolito</text>
+	</string>
+	<string id="monolith_scientific_outfit_description">
+		<text>%c[ui_gray_1]El traje cient&#237;fico del Monolito incluye un chaleco antibalas de origen desconocido y tambi&#233;n presenta modificaciones &#250;nicas para una mayor resistencia a la radiaci&#243;n a costa de ser m&#225;s vulnerable a los psicocampos. El sistema de protecci&#243;n contra las anomal&#237;as coincide con el traje corporal del SEVA. Curiosamente, de acuerdo con algunas leyendas, estos trajes son usados m&#225;s a menudo por los soldados que defienden al Cauterizador Cerebral del Radar, aunque nadie fuera de la facci&#243;n del Monolito puede confirmarlo f&#225;cilmente.\n \n
+		</text>
+	</string>
+
+	<string id="cs_scientific_outfit_name">
+		<text>Traje CS-4a SEVA</text>
+	</string>
+	<string id="cs_scientific_outfit_description">
+		<text>%c[ui_gray_1]Una versi&#243;n no oficial del traje cient&#237;fico SEVA, reci&#233;n salido de la ruta de contrabando. T&#237;picamente es usado por grupos de exploraci&#243;n de la facci&#243;n de Cielo Despejado. Ofrece buena protecci&#243;n contra la radiaci&#243;n, pero es de calidad mediocre para ser un traje SEVA.\n \n
+		</text>
+	</string>
+
+	<string id="cs_scientific_outfit_good_name">
+		<text>Pathfinder CS-4a </text>
+	</string>
+	<string id="cs_scientific_outfit_good_description">
+		<text>%c[ui_gray_1]Una versi&#243;n no oficial del traje cient&#237;fico SEVA que ha sido ampliamente mejorado por Novikov, el t&#233;cnico residente de Cielo Despejado. Aunque es un poco m&#225;s inflamable que el t&#237;pico SEVA, y por lo tanto una mala elecci&#243;n para las anomal&#237;as t&#233;rmicas, proporciona una excelente protecci&#243;n contra las anomal&#237;as en todos los dem&#225;s casos, adem&#225;s de ser extremadamente c&#243;modo para moverse, y como tal tiene una gran demanda entre los investigadores m&#225;s serios de Cielo Despejado.\n \n
+		</text>
+	</string>
+
+	<string id="bandit_scientific_outfit_name">
+		<text>Traje de SEVA saqueado</text>
+	</string>
+	<string id="bandit_scientific_outfit_description">
+		<text>%c[ui_gray_1]Los bandidos nunca han estado terriblemente interesados en la ciencia y la investigaci&#243;n de los campos an&#243;malos, pero, sin embargo, utilizan trajes protectores como estos para organizar emboscadas y ataques a los stalkers donde no se espera en absoluto: en los campos an&#243;malos y en los campos radioactivos. El traje tiene un sistema de respiraci&#243;n cerrado y una capa de aislamiento externo, que proporciona una buena protecci&#243;n contra todo tipo de efectos an&#243;malos. Debido a la falta de protecci&#243;n contra los impactos f&#237;sicos, el traje proporciona una protecci&#243;n muy baja contra las balas o la metralla.\n \n
+		</text>
+	</string>
+
+	<string id="isg_scientific_outfit_name">
+		<text>Traje de SEVA 'UNISG'</text>
+	</string>
+	<string id="isg_scientific_outfit_description">
+		<text>%c[ui_gray_1]Encargado por UNISG de uno de los institutos de investigaci&#243;n de defensa de Kiev especialmente para la investigaci&#243;n en la Zona. El sistema cerrado de respiraci&#243;n y los materiales de tratamiento especial proporcionan una excelente protecci&#243;n contra la radiaci&#243;n nociva y los efectos an&#243;malos, incluso en comparaci&#243;n con otros trajes SEVA. Sin embargo, la armadura corporal incorporada no es la mejor y puede romperse con cierta facilidad, por lo que no es adecuada para las hostilidades activas.\n \n
+		</text>
+	</string>
+
+	<string id="merc_scientific_outfit_name">
+		<text>Traje SEVA Mercenario</text>
+	</string>
+	<string id="merc_scientific_outfit_description">
+		<text>%c[ui_gray_1]Una variante del traje corporal SEVA que fue encargado por los Mercenarios. Se sacrific&#243; una cantidad razonable de protecci&#243;n f&#237;sica en aras de una mayor movilidad. Utilizado por los veteranos Mercenarios cazando artefactos cerca del centro de la Zona, a menudo acompa&#241;ados por un grupo de guardias de confianza que est&#225;n m&#225;s preparados para el combate que el portador. Tiene una excelente protecci&#243;n contra las anomal&#237;as en general, incluso para un SEVA, pero sufre un poco en las anomal&#237;as t&#233;rmicas y ps&#237;quicas.\n \n
+		</text>
+	</string>
+	
+	<string id="merc_combat_scientific_outfit_name">
+		<text>Pathfinder mercenario</text>
+	</string>
+	<string id="merc_combat_scientific_outfit_description">
+		<text>%c[ui_gray_1]Como muestra de buena voluntad (y para ayudar a cubrir sus costos de investigaci&#243;n), Cielo Despejado ocasionalmente hace codiciados trajes "pathfinder" a encargo para su uso entre los Mercenarios de la Zona. Comparado con el traje promedio SEVA, este modelo es superior en todos los aspectos. Comparado con el pathfinder CS-4a, este traje tiene una protecci&#243;n m&#225;s pobre contra la radiaci&#243;n, los campos psicol&#243;gicos y el traumatismo, pero es m&#225;s ligero y, en general, tiene mejor protecci&#243;n en general.\n \n
+		</text>
+	</string>
+	
+	<string id="dolg_scientific_outfit_name">
+		<text>Traje cient&#237;fico universal PS5-9Md </text>
+	</string>
+	<string id="dolg_scientific_outfit_description">
+		<text>%c[ui_gray_1]Un maravilloso traje protector para la Zona, muy apreciado porque combina una excelente protecci&#243;n contra las anomal&#237;as con cualidades m&#225;s que adecuadas de protecci&#243;n contra las balas. Incluye el traje PS5-M, un sistema de respiraci&#243;n de ciclo cerrado y un sistema integrado de supresi&#243;n de campos an&#243;malos. Proporciona un mayor aislamiento y protecci&#243;n contra el traumatismo que un traje SEVA est&#225;ndar, con un resultado insignificante.
+		</text>
+	</string>
+	
+	<string id="dolg_scientific_red_outfit_name">
+		<text>Traje de guardia cient&#237;fico PS5-9Md</text>
+	</string>
+	<string id="dolg_scientific_red_outfit_description">
+		<text>%c[ui_gray_1]Una variante del traje cient&#237;fico Deber que se ha orientado m&#225;s a la caza de mutantes que al estudio de anomal&#237;as. Su peso ligero ayuda a quien lo lleva a no sentirse sobrecargado, una gran ayuda contra los mutantes Quemadores. La protecci&#243;n decente contra el traumatismo y el fuego es naturalmente &#250;til contra los poltergeists. El aumento de la resistencia ps&#237;quica es una necesidad para muchas de las criaturas m&#225;s insidiosas de la Zona. Sin embargo, su protecci&#243;n antibal&#237;stica y contra las laceraciones es m&#225;s o menos lo que se espera de un SEVA, y como tal no es la mejor opci&#243;n para luchar contra chupasangres, quimeras o pseudogigantes.\n \n
+		</text>
+	</string>
+	
+	<string id="dolg_scientific_wood_outfit_name">
+		<text>Pathfinder PS5-9Md</text>
+	</string>
+	<string id="dolg_scientific_wood_outfit_description">
+		<text>%c[ui_gray_1]Como muestra de buena voluntad (y para ayudar a cubrir sus costos de investigaci&#243;n), Cielo Despejado ocasionalmente hace codiciados trajes de "pathfinder" por encargo para su uso entre la facci&#243;n Deber. Alterado de acuerdo a las necesidades de Deber, este traje tiene algunas diferencias en comparaci&#243;n con el CS-4a pathfinder. A saber, la protecci&#243;n radiol&#243;gica se atrofia por un enfoque en la defensa contra las armas qu&#237;micas, el aislamiento el&#233;ctrico se descuida por el retardo t&#233;rmico, y la protecci&#243;n contra los traumas contundentes se reduce en favor de una mayor seguridad contra las laceraciones. En general, un excelente y c&#243;modo conjunto para los miembros m&#225;s curiosos de Deber.\n \n
+		</text>
+	</string>
+	
+	<string id="bandit_scientific_dark_outfit_name">
+		<text>Aparato de ciclo cerrado (Hecho de retazos)</text>
+	</string>
+	<string id="bandit_scientific_dark_outfit_description">
+		<text>%c[ui_gray_1]Un traje tipo SEVA hecho virtualmente desde cero por uno de los talentosos artesanos de los bandidos. Comparado con los SEVA saqueados que se traen y se restauran, este traje de retazos cuenta con una excelente protecci&#243;n contra las amenazas t&#233;rmicas, qu&#237;micas, radiol&#243;gicas y ps&#237;quicas, pero por lo dem&#225;s es bastante pobre para un traje de su clase. A&#250;n as&#237;, es elegante y c&#243;modo como el infierno, permitiendo que se convierta en un &#233;xito entre los suaves criminales que pueden permit&#237;rselo.\n \n
+		</text>
+	</string>
+	
+	<string id="renegade_scientific_outfit_name">
+		<text>Traje SEVA 'Renegado'</text>
+	</string>
+	<string id="renegade_scientific_outfit_description">
+		<text>%c[ui_gray_1]Este c&#243;modo traje corporal, originalmente destinado a la investigaci&#243;n en la Zona, es una gran alternativa a los diversos trajes de Combate Ligero o hechos a mano a los que uno podr&#237;a tener acceso. Proporciona una protecci&#243;n realmente excelente contra los peligros t&#233;rmicos y qu&#237;micos, junto con una buena protecci&#243;n contra el traumatismo. A&#250;n as&#237;, para ser un traje SEVA, esta armadura es bastante mediocre en general.\n \n
+		</text>
+	</string>
+	
+	<string id="merc_scientific_armored_outfit_name">
+		<text>Chaleco antibalas SEVA Mercenario</text>
+	</string>
+	<string id="merc_scientific_armored_outfit_description">
+		<text>%c[ui_gray_1]Una variante del traje corporal SEVA que fue encargado por los Mercenarios. Algunos de sus sistemas de protecci&#243;n ambiental fueron desmontados para hacer espacio para placas blindadas que no impidieran la movilidad. Utilizado por los veteranos mercenarios que se espera que gu&#237;en a los investigadores y cazadores de artefactos en las partes m&#225;s peligrosas de la Zona. Tiene una buena protecci&#243;n f&#237;sica, t&#233;rmica y qu&#237;mica para un SEVA, pero definitivamente hay mejores opciones cuando se bucea en otros tipos de anomal&#237;as.\n \n
+		</text>
+	</string>
+
+	<string id="monolith_scientific_light_outfit_name">
+		<text>Traje cient&#237;fico Monolito (Hecho de retazos)</text>
+	</string>
+	<string id="monolith_scientific_light_outfit_description">
+		<text>%c[ui_gray_1]Un traje tipo SEVA hecho virtualmente desde cero por un artesano desconocido. Comparado con un traje cient&#237;fico ordinario de Monolito, este traje es m&#225;s ligero y proporciona una mejor protecci&#243;n contra las quemaduras t&#233;rmicas y qu&#237;micas. Aparte de eso, sin embargo, es totalmente peor. No se sabe qu&#233; papel desempe&#241;a este traje en la facci&#243;n del Monolito en su conjunto, aunque se ha especulado que su prop&#243;sito es mayormente ceremonial.\n \n
+		</text>
+	</string>
+
+	<string id="ace_outfit_name">
+		<text>Traje cient&#237;fico ACE Mercenario</text>
+	</string>
+	<string id="ace_outfit_description">
+		<text>%c[ui_gray_1]Uno de los trajes m&#225;s avanzados tecnol&#243;gicamente de la Zona, si no el m&#225;s avanzado. El ACE es una obra maestra del dise&#241;o de trajes de la Zona; no s&#243;lo protege de las balas de los rifles, sino que tambi&#233;n proporciona una gran protecci&#243;n medioambiental. El traje tambi&#233;n est&#225; construido de forma que permite un gran n&#250;mero de mejoras de alta tecnolog&#237;a que aumentan a&#250;n m&#225;s las posibilidades de supervivencia del usuario, adem&#225;s de permitir un confort extremo gracias a los materiales inteligentes y selectivamente permeables. El traje es utilizado por mercenarios muy experimentados y ricos con contratos de alto riesgo, particularmente en &#225;reas como el Bosque Rojo, donde tendr&#237;an que estar preparados para cualquier cosa.\n \n
+		</text>
+	</string>
+
+
+<!-- SSP-99 -->
+	<string id="st_ecologist_outfit_orange_name">
+		<text>SSP-99 Ecologista</text>
+	</string>
+	<string id="st_ecologist_outfit_orange_description">
+		<text>%c[ui_gray_1]Un traje de protecci&#243;n qu&#237;mica SSP-99 especialmente dise&#241;ado para las condiciones de la Zona. Es usado por expediciones cient&#237;ficas y por los ecologistas que cooperan con ellas. Tiene un sistema integrado de filtrado de aire y aire acondicionado. Es resistente al calor y a la electricidad, proporciona una buena protecci&#243;n contra la radiaci&#243;n y las anomal&#237;as biol&#243;gicas. Es resistente a los ambientes qu&#237;micamente agresivos. No est&#225; dise&#241;ado para el combate, por lo que no proporciona ni protecci&#243;n contra las balas ni contra las astillas.\n \n
+		</text>
+	</string>
+
+	<string id="st_ecologist_outfit_grn_name">
+		<text>Traje SSP-99M</text>
+	</string>
+	<string id="st_ecologist_outfit_grn_description">
+		<text>%c[ui_gray_1]Traje SSP-99 modificado de alta calidad. Proporciona una mayor protecci&#243;n del cuerpo contra los da&#241;os de las balas y la metralla. Est&#225; dise&#241;ado para los guardias que trabajan en expediciones cient&#237;ficas. Proporciona una buena protecci&#243;n contra la radiaci&#243;n y las anomal&#237;as biol&#243;gicas. Es resistente a ambientes qu&#237;micamente agresivos y a otros efectos peligrosos para el cuerpo.\n \n
+		</text>
+	</string>
+
+	<string id="st_ecologist_outfit_white_name">
+		<text>SSP-99 Diamante</text>
+	</string>
+	<string id="st_ecologist_outfit_white_description">
+		<text>%c[ui_gray_1]Un traje de protecci&#243;n qu&#237;mica SSP-99 especialmente dise&#241;ado para las duras condiciones de la Zona. Es usado por expediciones cient&#237;ficas y por los ecologistas que cooperan con ellas. Tiene un sistema integrado de filtrado de aire y aire acondicionado, proporcionando as&#237; una excelente protecci&#243;n contra la radiaci&#243;n. La variante Diamante ofrece una protecci&#243;n superior contra la electricidad. Tambi&#233;n tiene un sistema integrado de supresi&#243;n de la actividad de las anomal&#237;as, que proporciona una protecci&#243;n media contra los productos qu&#237;micos y las altas temperaturas. No est&#225; dise&#241;ado para llevar a cabo operaciones militares, por lo que no proporciona ninguna protecci&#243;n contra las balas o la metralla.\n \n
+		</text>
+	</string>
+
+	<string id="st_ecologist_outfit_blue_name">
+		<text>SSP-99M Zafiro</text>
+	</string>
+	<string id="st_ecologist_outfit_blue_description">
+		<text>%c[ui_gray_1]Traje SSP-99 modificado de alta calidad. Proporciona una mayor protecci&#243;n del cuerpo contra los da&#241;os de las balas y la metralla. Est&#225; dise&#241;ado para los guardias que trabajan en expediciones cient&#237;ficas. El modelo Zafiro proporciona una excelente protecci&#243;n contra la exposici&#243;n a la radiaci&#243;n ultravioleta. Aporta una buena protecci&#243;n contra la radiaci&#243;n y las anomal&#237;as biol&#243;gicas. Es resistente a ambientes qu&#237;micamente agresivos y a otros efectos peligrosos para el cuerpo.\n \n
+		</text>
+	</string>
+
+	<string id="st_ecologist_outfit_red_name">
+		<text>SSP-99М Rub&#237;</text>
+	</string>
+	<string id="st_ecologist_outfit_red_description">
+		<text>%c[ui_gray_1]Traje SSP-99 modificado de alta calidad. Proporciona una mayor protecci&#243;n del cuerpo contra los da&#241;os de las balas y la metralla. Est&#225; dise&#241;ado para los guardias que trabajan en expediciones cient&#237;ficas. El modelo 'Rub&#237;' ofrece una excelente protecci&#243;n contra los ataques de los mutantes, as&#237; como un sistema de curaci&#243;n de heridas integrado en el traje. Proporciona una buena protecci&#243;n contra la radiaci&#243;n y las anomal&#237;as biol&#243;gicas. Es resistente a ambientes qu&#237;micamente agresivos y a otros efectos peligrosos para el cuerpo.\n \n
+		</text>
+	</string>
+
+	<string id="st_ecologist_outfit_yello_name">
+		<text>SSP-99 Topacio</text>
+	</string>
+	<string id="st_ecologist_outfit_yello_description">
+		<text>%c[ui_gray_1]Un traje de protecci&#243;n qu&#237;mica SSP-99 especialmente dise&#241;ado para las condiciones de la Zona. Es usado por expediciones cient&#237;ficas y por los ecologistas que cooperan con ellas. El modelo Topacio proporciona una excelente protecci&#243;n contra la radiaci&#243;n. Tiene un sistema integrado de filtrado de aire y de aire acondicionado. Es resistente al calor y a la electricidad, proporciona una buena protecci&#243;n contra la radiaci&#243;n y las anomal&#237;as biol&#243;gicas. Es resistente a los ambientes qu&#237;micamente agresivos. No est&#225; dise&#241;ado para el combate, por lo que no proporciona protecci&#243;n contra las balas ni la metralla.\n \n
+		</text>
+	</string>
+
+
+<!-- Heavy combat suits -->
+	<string id="exolight_outfit_name">
+		<text>Exotraje</text>
+	</string>
+	<string id="exolight_outfit_description">
+		<text>La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. Consiste en un casco t&#225;ctico integrado, un pesado chaleco blindado y un mono ambiental reforzado.\n \n
+		</text>
+	</string>
+
+	<string id="dolg_exolight_outfit_name">
+		<text>Traje de batalla PSZ-10d</text>
+	</string>
+	<string id="dolg_exolight_outfit_description">
+		<text>La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. Este traje se encuentra t&#237;picamente en las manos de los guerreros de &#233;lite de Deber, especialmente los asignados a la guardia de VIPs o a lanzar incursiones extremadamente peligrosas.\n \n
+		</text>
+	</string>
+
+	<string id="svoboda_exolight_outfit_name">
+		<text>Guerrero de Libertad</text>
+	</string>
+	<string id="svoboda_exolight_outfit_description">
+		<text>La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. S&#243;lo los miembros m&#225;s respetados de Libertad se encontrar&#225;n usando un traje como &#233;ste, e incluso entonces s&#243;lo en la m&#225;s extrema de las necesidades.\n \n
+		</text>
+	</string>
+
+	<string id="merc_exolight_outfit_name">
+		<text>Exotraje mercenario</text>
+	</string>
+	<string id="merc_exolight_outfit_description">
+		<text>La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. Un traje elegido por los capitanes y guardaespaldas de las compa&#241;&#237;as mercenarias cuando trabajan activamente en el campo.\n \n
+		</text>
+	</string>
+
+	<string id="bandit_exolight_outfit_name">
+		<text>Exotraje saqueado</text>
+	</string>
+	<string id="bandit_exolight_outfit_description">
+		<text>La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. De aspecto imponente y altamente intimidante, este traje es el favorito de los forajidos m&#225;s poderosos y despiadados de la Zona.\n \n
+		</text>
+	</string>
+
+	<string id="monolith_exolight_outfit_name">
+		<text>Exotraje monolito</text>
+	</string>
+	<string id="monolith_exolight_outfit_description">
+		<text>La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. Uno de los favoritos entre los predicadores de batalla del Monolito y los maestros t&#225;cticos, que afirman que los confines del traje son tan reconfortantes como el propio Sarc&#243;fago.\n \n
+		</text>
+	</string>
+
+	<string id="military_exolight_outfit_name">
+		<text>Exotraje de stalker militar</text>
+	</string>
+	<string id="military_exolight_outfit_description">
+		<text>La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. Considerados altamente experimentales por el gobierno ucraniano, estos trajes nunca se entregan a ninguna unidad o individuo. Por lo tanto, los soldados - la mayor&#237;a de las veces stalkers militares y los ocasionales veteranos de edad - que desean utilizar tal armadura deben siempre encontrarla y pagarla por sus propios medios.\n \n
+		</text>
+	</string>
+
+	<string id="cs_exolight_outfit_name">
+		<text>Exotraje CS-5</text>
+	</string>
+	<string id="cs_exolight_outfit_description">
+		<text>La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. Estos trajes se introducen de contrabando desde las f&#225;bricas ucranianas antes de ser renovados por el t&#233;cnico jefe de la facci&#243;n.\n \n
+		</text>
+	</string>
+
+	<string id="isg_exolight_outfit_name">
+		<text>Exotraje UNISG</text>
+	</string>
+	<string id="isg_exolight_outfit_description">
+		<text>La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. La ONU reserva estos trajes s&#243;lo para sus agentes m&#225;s exitosos y comandantes talentosos.\n \n
+		</text>
+	</string>
+	
+	<string id="exo_wood_outfit_name">
+		<text>Exotraje del bosque</text>
+	</string>
+	<string id="exo_wood_outfit_description">
+		<text>La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. Comparado con un exoesqueleto est&#225;ndar, renuncia a algunas resistencias de combate para una mayor protecci&#243;n del medio ambiente.\n \n
+		</text>
+	</string>
+	
+	<string id="bandit_exo_earth_outfit_name">
+		<text>Exotraje cercado</text>
+	</string>
+	<string id="bandit_exo_earth_outfit_description">
+		<text>NO EN EL JUEGO. La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. Consiste en un casco t&#225;ctico integrado, un pesado chaleco blindado y un mono ambiental reforzado.
+		</text>
+	</string>
+	
+	<string id="freedom_exo_vineleaf_outfit_name">
+		<text>H&#233;roe de Libertad</text>
+	</string>
+	<string id="freedom_exo_vineleaf_outfit_description">
+		<text>La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. Bastante ligero y c&#243;modo para un traje de su clase, tambi&#233;n es notablemente menos protector contra la metralla o las armas qu&#237;micas.\n \n
+		</text>
+	</string>
+	
+	<string id="exo_dolg_outfit_name">
+		<text>Traje de batalla PSZ-10d</text>
+	</string>
+	<string id="exo_dolg_outfit_description">
+		<text>La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. Este traje se encuentra t&#237;picamente en las manos de los guerreros de &#233;lite de Deber, especialmente los asignados a la guardia de VIPs o a lanzar incursiones extremadamente peligrosas.\n \n
+		</text>
+	</string>
+	
+	<string id="exo_dolg_red_outfit_name">
+		<text>PSZ-10d traje de batalla venator</text>
+	</string>
+	<string id="exo_dolg_red_outfit_description">
+		<text>La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. Este traje se encuentra t&#237;picamente en las manos de los cazadores de &#233;lite de Deber, que renuncian a una protecci&#243;n an&#243;mala a cambio de una mayor defensa contra el juego m&#225;s peligroso.\n \n
+		</text>
+	</string>
+	
+	<string id="exo_dolg_wood_outfit_name">
+		<text>PSZ-10l traje de batalla forestal</text>
+	</string>
+	<string id="exo_dolg_wood_outfit_description">
+		<text>La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. Este traje se encuentra t&#237;picamente en las manos de miembros de &#233;lite de Deber, particularmente aquellos que realizan operaciones en &#225;reas an&#243;malas peligrosas como el Bosque Rojo.\n \n
+		</text>
+	</string>
+	
+	<string id="exo_dolg_urban_outfit_name">
+		<text>PSZ-10g traje de batalla urbano</text>
+	</string>
+	<string id="exo_dolg_urban_outfit_description">
+		<text>La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. Viejo y pesado, es posible que trajes como este fueran usados por la facci&#243;n Deber para asaltar Pripyat y chocar con Liberdad en 2012.\n \n
+		</text>
+	</string>
+	
+	<string id="exo_merc_outfit_name">
+		<text>Armadura pesada TB-1 Mercenario</text>
+	</string>
+	<string id="exo_merc_outfit_description">
+		<text>NO EN EL JUEGO. Este pesado traje blindado, conocido como el TB-1, posee una alta protecci&#243;n f&#237;sica en comparaci&#243;n con las armaduras pesadas originales. Para todos los dem&#225;s par&#225;metros es id&#233;ntico al exoesqueleto, excepto por una protecci&#243;n ligeramente menos bal&#237;stica y de ruptura. Est&#225; compuesto por tres elementos: un casco t&#225;ctico, un chaleco blindado pesado y un mono reforzado. Utilizado por expertos mercenarios en misiones en el norte, para derribar escuadrones de &#233;lite del Monolito. Lleva un patr&#243;n est&#225;ndar de camuflaje azul oscuro de mercurio, adecuado para operaciones en entornos urbanos (o en cualquier otro lugar, pero s&#243;lo por la noche).
+		</text>
+	</string>
+	
+	<string id="exo_merc_urban_outfit_name">
+		<text>Exotraje Urbano 'Mercenario'</text>
+	</string>
+	<string id="exo_merc_urban_outfit_description">
+		<text>La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. Un traje elegido por los capitanes y guardaespaldas de las compa&#241;&#237;as mercenarias que operan en zonas como Limansk o Pripyat.\n \n
+		</text>
+	</string>
+	
+	<string id="exo_merc_wood_outfit_name">
+		<text>Exotraje Woodland 'Mercenario'</text>
+	</string>
+	<string id="exo_merc_wood_outfit_description">
+		<text>La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. Un traje de elecci&#243;n para los capitanes y guardaespaldas de las compa&#241;&#237;as mercenarias que operan en zonas de combate de actividad t&#233;rmica altamente an&#243;mala.\n \n
+		</text>
+	</string>
+	
+	<string id="exo_merc_grass_outfit_name">
+		<text>Exotraje Grassland 'Mercenario'</text>
+	</string>
+	<string id="exo_merc_grass_outfit_description">
+		<text>La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. Un traje de elecci&#243;n para los capitanes y guardaespaldas de las compa&#241;&#237;as mercenarias cuando trabajan activamente en el campo, particularmente en &#225;reas de alta energ&#237;a t&#233;rmica.\n \n
+		</text>
+	</string>
+	
+	<string id="exolight_outfit_description">
+		<text>La "ropa interior" de un exoesqueleto, a veces err&#243;neamente conocido como "Radsuit". Este traje proporciona casi toda la protecci&#243;n que uno puede esperar de un exoesqueleto completo, pero al ser despojado de sus servos y bater&#237;as, no proporciona ninguna de las mejoras de fuerza. En el lado positivo, esto significa que el traje es ahora m&#225;s f&#225;cil de mantener y, a diferencia de un exoesqueleto completo, no impide que el usuario corra. Consiste en un casco t&#225;ctico integrado, un pesado chaleco blindado y un mono ambiental reforzado.\n \n
+		</text>
+	</string>
+
+
+<!-- Proptotype Exoskeleton -->
+	<string id="stalker_proto_exo_outfit_name">
+		<text>Proto-exoesqueleto "Sunrise"</text>
+	</string>
+	<string id="stalker_proto_exo_outfit_description">
+		<text>%c[ui_gray_1]Un traje de stalker, especialmente dise&#241;ado para ser equipado con los servos y las bater&#237;as de un exoesqueleto, permitiendo al portador llevar mucho m&#225;s equipo del que podr&#237;a llevar en cualquier otra circunstancia, pero sin la armadura de un exoesqueleto adecuado. En comparaci&#243;n con un exoesqueleto completo, proporciona menos protecci&#243;n y tiene servos menos eficientes, pero tambi&#233;n es considerablemente m&#225;s barato de mantener.\n \n
+		</text>
+	</string>
+
+	<string id="svoboda_light_proto_exo_outfit_name">
+		<text>Proto-exoesqueleto 'Libertad'</text>
+	</string>
+	<string id="svoboda_light_proto_exo_outfit_description">
+		<text>%c[ui_gray_1]Un traje "Viento de Libertad" que ha sido especialmente modificado para adaptarse a los servos y bater&#237;as de un exoesqueleto, permitiendo al portador llevar mucho m&#225;s equipo del que podr&#237;a llevar en cualquier otra circunstancia, pero sin la armadura de un exoesqueleto adecuado. En comparaci&#243;n con un exoesqueleto completo, proporciona menos protecci&#243;n y tiene servos menos eficientes, pero tambi&#233;n es considerablemente m&#225;s barato de mantener.\n \n
+		</text>
+	</string>
+
+	<string id="dolg_proto_exo_outfit_name">
+		<text>Protoesqueleto PS5-M</text>
+	</string>
+	<string id="dolg_proto_exo_outfit_description">
+		<text>%c[ui_gray_1]Un traje de protecci&#243;n universal PS5-M que ha sido especialmente modificado para adaptarse a los servos y bater&#237;as de un exoesqueleto, lo que permite al portador llevar mucho m&#225;s equipo del que podr&#237;a llevar en cualquier otra circunstancia, pero sin la armadura de un exoesqueleto adecuado. En comparaci&#243;n con un exoesqueleto completo, proporciona menos protecci&#243;n y tiene servos menos eficientes, pero tambi&#233;n es considerablemente m&#225;s barato de mantener.\n \n
+		</text>
+	</string>
+	
+	<string id="dolg_heavy_proto_exo_outfit_name">
+		<text>Proto-exoesqueleto PSZ-9d</text>
+	</string>
+	<string id="dolg_heavy_proto_exo_outfit_description">
+		<text>%c[ui_gray_1]Un traje blindado PSZ-9d que ha sido especialmente modificado para adaptarse a los servos y bater&#237;as de un exoesqueleto, lo que permite al portador llevar mucho m&#225;s equipo del que podr&#237;a llevar en cualquier otra circunstancia. En comparaci&#243;n con un exoesqueleto completo, es similar, si no m&#225;s, protector, adem&#225;s de ser significativamente m&#225;s vers&#225;til debido a que puede cambiar su casco. Dicho esto, sus servos son de una marca m&#225;s antigua, y por lo tanto son notablemente menos eficientes.\n \n
+		</text>
+	</string>
+
+	<string id="military_proto_exo_outfit_name">
+		<text>Proto-exoesqueleto SKAT-9</text>
+	</string>
+	<string id="military_proto_exo_outfit_description">
+		<text>%c[ui_gray_1]Un traje blindado Skat-9 que ha sido especialmente modificado para adaptarse a los servos y bater&#237;as de un exoesqueleto, lo que permite al portador llevar mucho m&#225;s equipo del que podr&#237;a llevar en cualquier otra circunstancia. En comparaci&#243;n con un exoesqueleto completo, es similar, si no m&#225;s, protector, adem&#225;s de ser significativamente m&#225;s vers&#225;til debido a que puede cambiar su casco. Dicho esto, sus servos son de una marca m&#225;s antigua, y por lo tanto son notablemente menos eficientes.\n \n
+		</text>
+	</string>
+
+	<string id="monolith_proto_exo_outfit_name">
+		<text>Proto-exoesqueleto X-18</text>
+	</string>
+	<string id="monolith_proto_exo_outfit_description">
+		<text>%c[ui_gray_1]Una armadura hecha por los monolitos o por un fabricante desconocido. Ha sido especialmente modificada para adaptarse a los servos y bater&#237;as de un exoesqueleto, permitiendo al portador llevar mucho m&#225;s equipo del que podr&#237;a llevar en cualquier otra circunstancia, pero sin la armadura de un exoesqueleto adecuado. En comparaci&#243;n con un exoesqueleto completo, proporciona menos protecci&#243;n y tiene servos menos eficientes, pero tambi&#233;n es considerablemente m&#225;s barato de mantener.\n \n
+		</text>
+	</string>
+
+	<string id="cs_stalker_proto_exo_outfit_name">
+		<text>Proto-exoesqueleto CS-2b</text>
+	</string>
+	<string id="cs_stalker_proto_exo_outfit_description">
+		<text>\n \nUn conjunto de chaleco antibalas CS-2b que ha sido especialmente modificado para adaptarse a los servos y bater&#237;as de un exoesqueleto, lo que permite al portador llevar mucho m&#225;s equipo del que podr&#237;a llevar en cualquier otra circunstancia, pero sin el chaleco antibalas de un exoesqueleto adecuado. En comparaci&#243;n con un exoesqueleto completo, proporciona menos protecci&#243;n y tiene servos menos eficientes, pero tambi&#233;n es considerablemente m&#225;s barato de mantener.\n \n
+		</text>
+	</string>
+	
+	<string id="ecolog_proto_exo_outfit_name">
+		<text>Proto-exoesqueleto de guardia 'Ecologista'</text>
+	</string>
+	<string id="ecolog_proto_exo_outfit_description">
+		<text>%c[ui_gray_1]Un traje blindado Ecologista, dise&#241;ado para operaciones de asalto y apoyo en zonas an&#243;malas. A pesar de que la armadura corporal no puede proporcionar la protecci&#243;n necesaria que ofrece un exoesqueleto completo, el traje ha optimizado el rendimiento en combate. Los exoesqueletos son capaces de proporcionar apoyo mec&#225;nico para el transporte de cargas pesadas, como grandes cantidades de LLMC, AAM y otros suministros cient&#237;ficos, lo que lo convierte en una gran opci&#243;n para ayudar a los investigadores durante los viajes de investigaci&#243;n dentro de la Zona.\n \n
+		</text>
+	</string>
+	
+	<string id="isg_proto_exo_outfit_name">
+		<text>Proto-exoesqueleto t&#225;ctico UNISG</text>
+	</string>
+	<string id="isg_proto_exo_outfit_description">
+		<text>%c[ui_gray_1]Un traje t&#225;ctico especial de la ONU que ha sido especialmente modificado para que se adapte a los servos y bater&#237;as de un exoesqueleto, lo que permite al portador llevar mucho m&#225;s equipo del que podr&#237;a llevar en cualquier otra circunstancia, pero sin la armadura de un exoesqueleto adecuado. En comparaci&#243;n con un exoesqueleto completo, proporciona menos protecci&#243;n y tiene servos menos eficientes, pero tambi&#233;n es considerablemente m&#225;s barato de mantener.\n \n
+		</text>
+	</string>
+
+	
+<!-- Exoskeletons -->
+	<string id="exo_outfit_name">
+		<text>Exoesqueleto</text>
+	</string>
+	<string id="exo_outfit_description">
+		<text>%c[ui_gray_1]Una muestra experimental de un exoesqueleto militar. Nunca se produjo en masa debido a su extraordinario coste y a algunos defectos de dise&#241;o. A pesar de ello, tiene demanda debido a su capacidad para asumir el peso de todo el equipo transportado, por lo que se fabrican peque&#241;os lotes en instalaciones subterr&#225;neas fuera de Ucrania. Consiste en un exotraje de tres partes (casco t&#225;ctico, chaleco t&#225;ctico y un mono ambiental de kevlar) equipado con modernos servomotores.\n \n
+		</text>
+	</string>
+
+	<string id="dolg_exo_outfit_name">
+		<text>Exoesqueleto PSZ-10d</text>
+	</string>
+	<string id="dolg_exo_outfit_description">
+		<text>%c[ui_gray_1]Excelente armadura de alta tecnolog&#237;a. Desarrollada en el pa&#237;s por uno de los institutos de investigaci&#243;n, espec&#237;ficamente para la facci&#243;n Deber. Dicho esto, esta armadura se est&#225; retirando lentamente en favor de trajes m&#225;s baratos y m&#225;s pr&#225;cticos, y los pocos ex&#243;ticos en servicio activo tienden a estar en manos de los veteranos m&#225;s antiguos de Deber. Consiste en un exotraje de tres partes (casco t&#225;ctico, chaleco t&#225;ctico y un mono ambiental de kevlar) equipado con modernos servos el&#233;ctricos.\n \n
+		</text>
+	</string>
+
+	<string id="svoboda_exo_outfit_name">
+		<text>Parangn de Libertad</text>
+	</string>
+	<string id="svoboda_exo_outfit_description">
+		<text>%c[ui_gray_1]Producido por los mejores artesanos de Liberdad. Experimentando con diferentes modificaciones, despu&#233;s de numerosos intentos lograron crear un dise&#241;o realmente exitoso. Aunque no siempre es el traje m&#225;s pr&#225;ctico para mantener, es innegablemente poderoso, y como tal se conf&#237;a s&#243;lo a los mejores guerreros y guardias de Liberdad. Consiste en un exotraje de tres partes (casco t&#225;ctico, chaleco t&#225;ctico y un mono ambiental de kevlar) equipado con modernos servos el&#233;ctricos.\n \n
+		</text>
+	</string>
+
+	<string id="merc_exo_outfit_name">
+		<text>Exoesqueleto 'Mercenario'</text>
+	</string>
+	<string id="merc_exo_outfit_description">
+		<text>%c[ui_gray_1]Una muestra experimental de un exoesqueleto militar de producci&#243;n occidental para equipar a mercenarios y otros grupos armados. Aunque no siempre es el traje m&#225;s pr&#225;ctico para mantener en la Zona, permite al mismo tiempo que el portador est&#233; fuertemente armado y extremadamente bien blindado, con suficiente fuerza para llevar suministros para semanas. La mayor&#237;a de las veces se usa como un refuerzo de la moral y un traje utilitario de alta protecci&#243;n por los capitanes veteranos de los Mercenarios que se espera que gu&#237;en a sus hombres a trav&#233;s de condiciones infernales. Consiste en un exotraje de tres partes (casco t&#225;ctico, chaleco t&#225;ctico y un mono ambiental de kevlar) equipado con modernos servomotores.\n \n
+		</text>
+	</string>
+
+	<string id="monolith_exo_outfit_name">
+		<text>Exoesqueleto 'Monolito'</text>
+	</string>
+	<string id="monolith_exo_outfit_description">
+		<text>%c[ui_gray_1]Armadura de alta tecnolog&#237;a, hecha en base a un exoesqueleto militar. Sin embargo, las muestras de estudio han revelado que sus servos est&#225;n hechos de aleaciones y materiales desconocidos para cualquier campo de la ciencia en cualquier otra parte del mundo. Consiste en un exotraje de tres partes (casco t&#225;ctico, chaleco t&#225;ctico y un mono ambiental antibal&#237;stico) equipado con servos modernos, aunque algo extra&#241;os. Llevar este traje se siente como estar enterrado bajo el hormig&#243;n del propio Sarc&#243;fago - aterradoramente claustrof&#243;bico para la mayor&#237;a de los stalkers, pero inquietantemente reconfortante para los verdaderos servidores del Monolito.\n \n
+		</text>
+	</string>
+
+	<string id="bandit_exo_outfit_name">
+		<text>Exoesqueleto robado</text>
+	</string>
+	<string id="bandit_exo_outfit_description">
+		<text>%c[ui_gray_1]Un exoesqueleto militar robado, personalizado por los forajidos para atacar instalaciones bien vigiladas y saquear a los stalkers bien armados. Los aspirantes a Se&#241;ores Bandidos con mayor inclinaci&#243;n marcial tienden a favorecer esta armadura, us&#225;ndola como un s&#237;mbolo claro e incuestionable de su fuerza y autoridad sobre los criminales menores. Despu&#233;s de todo, para que uno siga llevando ese codiciado traje entre asesinos y ladrones, debe poseer necesariamente una gran fuerza y astucia.\n \n
+		</text>
+	</string>
+
+	<string id="military_exo_outfit_name">
+		<text>Exoesqueleto de stalker militar</text>
+	</string>
+	<string id="military_exo_outfit_description">
+		<text>%c[ui_gray_1]La versi&#243;n oficial de un exoesqueleto militar. Liberado en cantidades limitadas por orden especial a los militares stalkers, que deben pagarlo ellos mismos. Dise&#241;ado para llevar armas pesadas como lanzagranadas y ametralladoras, junto con suficiente munici&#243;n, comida y medicinas para mantener la unidad abastecida durante largos per&#237;odos de tiempo. Ocasionalmente se utiliza en lugar de los veh&#237;culos ligeros.\n \n
+		</text>
+	</string>
+
+	<string id="cs_exo_outfit_name">
+		<text>Exoesqueleto CS-5</text>
+	</string>
+	<string id="cs_exo_outfit_description">
+		<text>%c[ui_gray_1]Una versi&#243;n experimental del exoesqueleto del ej&#233;rcito introducido en la Zona desde f&#225;bricas ucranianas antes de ser restaurado por los t&#233;cnicos de Cielo Despejado. Generalmente, los trajes como estos se mantienen en reserva, para ser desplegados s&#243;lo en tiempos de verdadera crisis. Dicho esto, especialmente los camaradas de confianza y los asociados de la facci&#243;n pueden eventualmente recibir permiso para adquirir tal traje para sus propios usos personales, aunque no sin un gran costo.\n \n
+		</text>
+	</string>
+
+	<string id="ecolog_exo_outfit_name">
+		<text>Exoesqueleto cient&#237;fico</text>
+	</string>
+	<string id="ecolog_exo_outfit_description">
+		<text>%c[ui_gray_1]Una versi&#243;n oficial del exoesqueleto militar, destinada a ser usada por los guardias de los ecologistas. El traje se siente casi impermeable a las armas peque&#241;as, y sus avanzados servomotores lo convierten en una excelente opci&#243;n para aquellos en posiciones defensivas atrincheradas, ya que ayuda mucho en el uso de armamento defensivo pesado. Cuando est&#225;n en el campo, los usuarios de este traje est&#225;n m&#225;s acostumbrados a llevar la rid&#237;cula cantidad de bater&#237;as, LLMCs, AAMs y otros suministros que un cient&#237;fico acompa&#241;ante puede necesitar cuando explora la Zona.\n \n
+		</text>
+	</string>
+
+	<string id="renegade_exo_outfit_name">
+		<text>Exoesqueleto 'Renegado'</text>
+	</string>
+	<string id="renegade_exo_outfit_description">
+		<text>%c[ui_gray_1]Uno de los pocos exoesqueletos ensamblados por los Renegados en el 2011 para ayudar a asegurar su empuj&#243;n final en la base de Cielo Despejado. Desafortunadamente, fueron virtualmente eliminados antes de que su victoria final llegara, gracias a la interferencia de un Mercenario con una gabardina y un rifle de francotirador. Los renegados modernos que llevan esta armadura siempre van a la batalla como un hombre pose&#237;do, deseosos de vengarse de sus enemigos m&#225;s odiados. Es decir, casi todos los dem&#225;s.\n \n
+		</text>
+	</string>
+
+	<string id="isg_exo_outfit_name">
+		<text>Exoesqueleto 'UNISG'</text>
+	</string>
+	<string id="isg_exo_outfit_description">
+		<text>%c[ui_gray_1]La versi&#243;n oficial del exoesqueleto de UNISG. Liberado en cantidades limitadas por orden especial de las Naciones Unidas. Aunque todav&#237;a posee muchos de los defectos de dise&#241;o de otros exoesqueletos, se considera una gran alternativa a los veh&#237;culos ligeros, de mando y de exploraci&#243;n, que tendr&#237;an grandes problemas para navegar por la Zona de todos modos, y por lo tanto se despliega en su lugar.\n \n
+		</text>
+	</string>
+	
+	<string id="greh_exo_outfit_name">
+		<text>Armadura power Vyraj</text>
+	</string>
+	<string id="greh_exo_outfit_description">
+		<text>%c[ui_gray_1]Blindaje de alta tecnolog&#237;a, basado en los dise&#241;os militares experimentales originales. Sin embargo, por lo que cualquiera puede ver, sus servos est&#225;n hechos de aleaciones y materiales desconocidos para cualquier campo de la ciencia en cualquier otra parte del mundo. Consiste en un exotraje de tres partes (casco t&#225;ctico, chaleco t&#225;ctico y un mono ambiental antibal&#237;stico) equipado con servos modernos, aunque algo extra&#241;os. Llevar este traje crea una sensaci&#243;n antinatural de felicidad y calma en quien lo lleva, aunque a&#250;n est&#225; por ver si esta sensaci&#243;n de seguridad es genuina o no.\n \n
+		</text>
+	</string>
+
+
+<!-- Nosorog exskeletal armour -->
+	<string id="dolg_nosorog_outfit_name">
+		<text>Nosorog PSZ-10d</text>
+	</string>
+	<string id="merc_nosorog_outfit_name">
+		<text>Nosorog Mercenario</text>
+	</string>
+	<string id="army_nosorog_outfit_name">
+		<text>Nosorog de stalker militar</text>
+	</string>
+	<string id="monolith_nosorog_outfit_name">
+		<text>Nosorog Monolito</text>
+	</string>
+	<string id="isg_nosorog_outfit_name">
+		<text>Nosorog UNISG</text>
+	</string>
+	
+	<string id="nosorog_outfit_description">
+		<text>%c[ui_gray_1]Un exoesqueleto de nueva generaci&#243;n, consistente en un exotraje doblemente reforzado y una m&#225;scara antig&#225;s blindada Czech-M10. Se rumorea que este traje fue idea de un stalker ya fallecido llamado "Fang", cuyos dise&#241;os fueron reclamados m&#225;s tarde por todo tipo de facciones poderosas de la Zona. Si los exoesqueletos regulares permiten a los stalkers sentirse como un veh&#237;culo ligero, el Nosorog casi les hace creer que son un tanque de batalla principal, capaz de soportar un incre&#237;ble castigo mientras llevan una tremenda artiller&#237;a. Normalmente s&#243;lo est&#225; disponible para los miembros m&#225;s valiosos de una facci&#243;n, e incluso entonces s&#243;lo durante misiones excepcionalmente peligrosas.\n \n
+		</text>
+	</string>
+	
+	<string id="freedom_nosorog_outfit_name">
+		<text>Campe&#243;n de Libertad</text>
+	</string>
+	<string id="freedom_nosorog_outfit_desc">
+		<text>%c[ui_gray_1]Un exoesqueleto de la pr&#243;xima generaci&#243;n, consistente en un exotraje doblemente reforzado y una m&#225;scara antig&#225;s blindada Czech-M10. Se rumorea que este traje fue idea de un stalker ya fallecido llamado "Fang", cuyos dise&#241;os fueron reclamados m&#225;s tarde por todo tipo de facciones poderosas de la Zona. Si los exoesqueletos regulares permiten a los stalkers sentirse como un veh&#237;culo ligero, el Juggernaut casi les hace creer que son un tanque de batalla principal, capaz de soportar un incre&#237;ble castigo mientras llevan una tremenda artiller&#237;a. Normalmente s&#243;lo est&#225; disponible para los miembros m&#225;s valiosos de una facci&#243;n, e incluso entonces s&#243;lo durante misiones excepcionalmente peligrosas.\n \n
+		</text>
+	</string>
+
+
+<!-- No group -->	
+	<string id="ghillie_outfit_name">
+		<text>Traje Ghillie</text>
+	</string>
+	<string id="ghillie_outfit_description">
+		<text>%c[ui_gray_1]Este traje est&#225; dise&#241;ado para simular un "mont&#243;n de follaje". Normalmente este tipo de traje es usado por francotiradores y cazadores para mezclarse con el entorno y esconderse de los enemigos. Los trajes Ghillie se producen comercialmente, pero normalmente tanto el personal militar como los civiles los personalizan y mejoran para adaptarse a sus necesidades. A pesar de su alta eficiencia, puede ser muy poco pr&#225;ctico: incluso en un clima templado, se calienta con el tiempo y es muy pesado.\n \n
+		</text>
+	</string>
+
+</string_table>

@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Lukash (Freedom Leader) -->
+	<string id="about_freedom_lider_miklyha_0">
+		<text>&#191;Tu eres el stalker que se abri&#243; paso al Cauterizador y vivi&#243; all&#237; durante medio a&#241;o?</text>
+	</string>
+	<string id="about_freedom_lider_miklyha_1">
+		<text>Bueno, uno de ellos. Y no fue en medio a&#241;o, fue un poco m&#225;s de un mes. Pero s&#237;, me llamo Lukash. Encantado de conocerte.</text>
+	</string>
+	<string id="about_freedom_lider_miklyha_2">
+		<text>&#191;Como fue?</text>
+	</string>
+	<string id="about_freedom_lider_miklyha_3">
+		<text>Mira amigo. S&#233; que ese lugar es interesante y todo eso, pero prefiero no empezar a recordar. Lo que m&#225;s importa es que sal&#237; sano y salvo.</text>
+	</string>
+	<string id="about_freedom_lider_miklyha_4">
+		<text>Entiendo. Gracias de todas maneras.</text>
+	</string>
+	
+	<string id="monolith_eidolon_start_0">
+		<text>Alabado sea el Monolito, hermano.</text>
+	</string>
+	
+	<string id="find_blackbox_mlr_reward_freedom_0">
+		<text>Encontr&#233; una caja negra.</text>
+	</string>
+	<string id="find_blackbox_mlr_reward_freedom_1">
+		<text>Oh, &#191;en serio? Tr&#225;ela aqu&#237;. Veamos qu&#233; est&#225;n planeando estos payasos.</text>
+	</string>
+
+
+	<string id="look_for_cs_history_part_3_1_0">
+		<text>Estoy buscando a Leshiy, &#191;est&#225; contigo?</text>
+	</string>
+	<string id="look_for_cs_history_part_3_1_1">
+		<text>Seguro que s&#237;. Baja al primer piso, est&#225; al final.</text>
+	</string>
+	<string id="look_for_cs_history_part_3_1_2">
+		<text>Gracias.</text>
+	</string>
+	
+	<string id="devushka_5_help_0">
+		<text>Hey Lukash, una amiga m&#237;a quer&#237;a venir a verte. Creo que la conoces.</text>
+	</string>
+	<string id="devushka_5_help_1">
+		<text>Ah, s&#237;. &#161;Entra! S&#237;rvete un poco de hierba, puede que la necesites para el viaje que tienes por delante. Eligieron bien al venir aqu&#237;, ustedes dos. El trabajo de Loki se volvi&#243; mucho m&#225;s dif&#237;cil despu&#233;s de que el Monolito tomara un segundo aire. La medicina que le llevar&#225;s ayudar&#225; a salvar a mucha gente decente.</text>
+	</string>
+	
+	<string id="devushka_help1_0">
+		<text>Aparentemente Hip nunca ha pasado antes la barrera. &#191;Cierto?</text>
+	</string>
+	<string id="devushka_help1_1">
+		<text>S&#237;. No puedo culparla. Despu&#233;s de ver a algunos de tus amigos zombificarse ante tus ojos, tiene sentido que quieras alejarte del lugar donde pas&#243;. Entre eso, y tener que luchar contra Deber... eh. Pero ahora parece decidida a hacer el viaje. Los dos ir&#225;n a la estaci&#243;n de Yanov en J&#250;piter. Dejen estas medicinas con Loki una vez que lleguen.</text>
+	</string>
+	<string id="devushka_help1_2">
+		<text>Est&#225; bien. Cuanto antes nos vayamos, mejor.</text>
+	</string>
+	<string id="devushka_help1_3">
+		<text>Espera Lukash. Necesito un minuto para reunir todo.</text>
+	</string>
+
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_ask">
+		<text>&#161;Eh, Lukash! &#191;Te gustar&#237;a hablar un poco sobre la vida en Libertad?</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_1">
+		<text>&#161;Claro! Has o&#237;do hablar de Bob Marley, &#191;verdad? Su cumplea&#241;os es un evento celebrado por aqu&#237;... *suspira* muy mal que los chicos nunca parecen recordar cuando es. Es el 6 de febrero, en caso de que te importe, aunque buena suerte para meter eso en las cabezas de nuestros desali&#241;ados reci&#233;n llegados.\n \nNo te equivoques, las celebraciones tienden a ser bastante memorables - m&#225;s jam&#243;n del que cabe en una paleta, y suficiente vodka para golpear a un seudogigante en el culo.\n \nJajaja... s&#237;, buenos tiempos. A&#250;n as&#237;, a veces me arrepiento de haber hecho que los chicos se instalen en este lugar conmigo. No todo el mundo tiene la fuerza de voluntad para acampar al lado del Radar durante a&#241;os, y se nota que est&#225; pasando factura.\n \nNo te equivoques, mis chicos son unos cabrones. Firmes y duros hasta la m&#233;dula.\n \nPero veo lo que comparten entre ellos alrededor de las fogatas. Me recuerda a nuestros d&#237;as bajo Ch&#233;jov, vergonzosos. &#191;Pero qu&#233; otra cosa se supone que hagan los chicos, usar esos espeluznantes cascos ps&#237;quicos que los cient&#237;ficos del gobierno conjuran en sus b&#250;nkeres? No. S&#233; que algunos de nuestros chicos m&#225;s estirados de por aqu&#237; lo hacen, pero &#191;c&#243;mo saben que esos cascos est&#225;n ah&#237; para proteger su conciencia? &#191;C&#243;mo saben que no los convertir&#225; en un tipo diferente de zombie cuando el estado decida hacer su movimiento final?</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_2">
+		<text>Hace un tiempo, el gobierno desarroll&#243; un chaleco antibalas especialmente modificado. Integraba fragmentos de artefactos cuidadosamente tratados que pod&#237;an curar las heridas del portador ante sus propios ojos. Naturalmente, s&#243;lo los militares pod&#237;an usarlos, as&#237; que nos adelantamos y cambiamos eso, jeje.\n \nUna vez que obtuvimos algunos modelos, intentamos aplicar la ingenier&#237;a inversa a nuestra ropa. Al principio no nos sirvi&#243; de nada, pero por suerte uno de mis chicos, eh, se top&#243; con algunas notas de investigaci&#243;n. Los datos se pusieron a disposici&#243;n del p&#250;blico inmediatamente. As&#237;, Libertad asegur&#243; que el monopolio del gobierno sobre los sistemas de soporte vital de combate personal se rompiera para siempre.\n \nEsto es parte de lo que se trata Libertad. Nos aseguramos de que los ratones y las ratas de este mundo no sean jodidos por todos los peces gordos que se sientan en la cima.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_3">
+		<text>S&#237;, tengo un minuto.\n \n&#191;Sabes qu&#233; mierda realmente me cansa a veces? La idea de que Freedom no es m&#225;s que un mont&#243;n de desviados sexuales y drogadictos en busca de su pr&#243;ximo golpe, su pr&#243;xima dosis.\n \nHe o&#237;do muchos rumores enfermizos de nuestros detractores a lo largo de los a&#241;os... pero ninguno de ellos me molesta m&#225;s que sus historias fetichistas sobre nosotros tratando de meter nuestros penes en chupasangres. Todo comenz&#243; como un rumor perverso de Deber hace unos a&#241;os. &#191;C&#243;mo surgi&#243; este rumor, te preguntar&#225;s? Te advierto que no es para los d&#233;biles de coraz&#243;n.\n \nLo que pas&#243; fue que un par de nuestros valientes novatos -unos seis, en realidad- estaban cazando artefactos en la Villa de los Chupasangres. Estaba bastante orgulloso de ellos, la mayor&#237;a de la gente tiene demasiado miedo de acercarse a ese lugar. Fue una emboscada. Un escuadr&#243;n de veteranos estaba acampando en esa aldea, esper&#225;ndolos. En ese momento pensamos que esos novatos simplemente fueron asesinados, pero no...\n \nLo que pas&#243; es que Deber se sobrepas&#243; y secuestr&#243; a nuestros j&#243;venes novatos facilmente. Les quitaron la armadura, los llevaron de vuelta a esa sucia arena en Rostok, y organizaron una pelea sin reglas. \n \nPrometieron a mis chicos que los dejar&#237;an ir si pod&#237;an luchar contra un chupasangre con las manos desnudas y... Estoy seguro de que puedes adivinar lo que se esperaba que hicieran a continuaci&#243;n. Me enferma contar esto, pero tienes que saber la historia completa.\n \nSe enfrentaron a dos chupasangres, uno por cada tres de mis muchachos que hab&#237;an capturado. Se vieron obligados a inmovilizar a las bestias, y luego... No, no puedo decirlo. S&#243;lo que los enfermos bastardos de Deber lo estaban filmando todo. Fiel a su palabra, Deber dej&#243; ir a los sobrevivientes. Si es que puedes llamarlos sobrevivientes. Despu&#233;s de su liberacion, la mayor&#237;a se neg&#243; a comer o beber. Unos pocos se las arreglaron para conseguir una cuerda gruesa... o se metieron un arma en la boca y... \n \n...otros, bueno, murieron a causa de la inanici&#243;n. Nuestros soldados encontraron m&#225;s tarde rastros de metanfetaminas, coca&#237;na y Adderal en su sangre. No les damos a nuestros muchachos esas cosas, as&#237; que s&#243;lo podemos asumir que Deber los oblig&#243; a hacerlo.\n \n&#191;Y qu&#233; obtuvo Deber? Consiguieron nuevas im&#225;genes excitantes para respaldar sus campa&#241;as de propaganda. Luego consegu&#237; algunos de los nombres de los bastardos que lo hicieron. Los atrapamos y los dejamos morirse como cerdos, sangrando hasta la muerte. Pero a&#250;n no he terminado.\n \nSomos guerreros de Libertad, y Deber a&#250;n tiene que pagar por todos los cr&#237;menes que ha cometido contra la libertad.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_4">
+		<text>Est&#225; bien. Hoy puede ser un cuento con moraleja. Hace muchos, muchos a&#241;os tuvimos un chico entre nuestras filas... Pavlik, se llamaba. Muy querido, no era un mal tipo. Parec&#237;a abierto y relajado, como muchos de nuestros nuevos reclutas lo son primero. Bueno, r&#225;pidamente hizo nuevos amigos, y los muchachos de la base le confiaron todo tipo de hechos interesantes, secretos, historias personales... Un d&#237;a, descubr&#237; que estaba vendiendo estos secretos a los mercenarios.\n \nPavlik no es el &#250;nico que ha hecho algo as&#237;. Libertad tiene una triste historia de lidiar con mierda como esta cada a&#241;o o as&#237;. Estas historias siempre comienzan de manera diferente, pero todas resultan de la misma manera - con el maldito sopl&#243;n tosiendo la sangre de sus pulmones, lamentando profundamente sus pobres elecciones de vida.\n \nHay mucho amor en nuestra comunidad. Mucha confianza. No me gustar&#237;a ser el tipo que lo traiciona. &#191;Y t&#250;? </text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_5">
+		<text>S&#237;, el estado de la Zona ha estado en mi mente mucho tiempo. No estar&#237;a mal que alguien m&#225;s se quedara y escuchara lo que estoy pensando.\n \nTengo que ser honesto, la vida no es f&#225;cil aqu&#237;. S&#243;lo los fuertes, los flexibles o los inteligentes pueden esperar sobrevivir mucho tiempo. Los que se vuelven demasiado tercos, demasiado descuidados, demasiado complacientes... mueren r&#225;pido. La Zona tiene una forma de matar a aquellos que tratan de amenazarla o abusar de ella, mientras que levanta a aquellos que la respetan, aquellos que recuerdan que est&#225;n aqu&#237; porque no tienen otro lugar a donde ir. Aquellos que no lo dan por sentado.\n \nEs por eso que Libertad debe hacer todo lo posible para preservar la Zona. A pesar de sus peligros, es un lugar maravilloso para otros. Para los que no tienen nada, los que han perdido la esperanza, pueden venir aqu&#237; y encontrar un nuevo prop&#243;sito. Incluso los inventores o artistas que han perdido su inspiraci&#243;n, o que no saben c&#243;mo hacer su pr&#243;ximo avance, pueden venir aqu&#237; e irse con todo lo que necesitan.\n \nPor eso luchamos contra el gobierno, que encadenar&#237;a este milagro con burocracia, jaulas y divisiones. Es por eso que luchamos contra Deber, que con gusto bombardear&#237;a este lugar de nuevo si significara el fin de los mutantes y las anomal&#237;as aqu&#237;. Quiero que la Zona est&#233; cerca cuando los hijos e hijas de mis sobrinos crezcan. Quiero que vayan y vengan de este lugar como quieran, sin que ning&#250;n oficial de la mala hierba ni organizaciones babosas les digan que no pueden.\n \nEste lugar estaba destinado a toda la humanidad. Ni un solo humano. Ni siquiera un grupo de ellos. Y por esta raz&#243;n, debemos poner fin a los tiranos.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_6">
+		<text>Claro. Supongo que tendr&#225;s preguntas sobre nuestras relaciones con algunos de los otros grupos.\n \nEn primer lugar, como regla general los stalkers neutrales est&#225;n fuera de los l&#237;mites. Representan al hombre corriente y son la sangre vital de lo que significa Libertad. Por supuesto, eso no significa que deba confiar ciegamente en ellos, ni que deba nunca contradecirlos teniendo una buena causa - muchos de ellos tienen puntos de vista pro-Deber o incluso pro-gobierno. Pero a menos que est&#233;n causando problemas, vive y deja vivir.\n \nEn segundo lugar, los bandidos. &#191;Qui&#233;n los llam&#243; primero "bandidos", de todas maneras? Ahora, algunos de ellos son realmente unos bastardos enfermos. La mayor&#237;a son stalkers neutrales a los que Deber ha apuntado y segregado con sus campa&#241;as de propaganda. Como resultado, est&#225;n mucho m&#225;s desesperados que la mayor&#237;a de los stalkers, pero s&#243;lo intentan sobrevivir aqu&#237; como cualquier otro.\n \n&#191;Los mercenarios de Dushman? Entre t&#250; y yo, la mayor&#237;a de ellos son bastardos asquerosos, pero confiables cuando est&#225;n bajo contrato. Lo &#250;nico que les importa es el dinero, y ahora mismo s dinero les dice que deben subvertir el gobierno local, como nosotros. Nos llevamos bien a distancia, y eso es todo lo que tengo que decir de ellos.\n \n&#191;Ecologistas? Si fuera por m&#237;, le habr&#237;a dado a la mayor&#237;a de sus asnos financiados por el estado un aviso de desalojo hace a&#241;os. Pero Taca&#241;o sigue quej&#225;ndose de que necesitamos provisiones de sus b&#250;nkeres, y Loki es demasiado blando para apoyarme en esto, a pesar de ser un buen l&#237;der. En general, Libertad respeta suus puntos de vista lo suficiente como para dejar en paz a los cient&#237;ficos. Incluso si personalmente creo que sus estudios son demasiado duros e invasivos para la vida salvaje local.\n \nNo me hagas empezar a hablar de Deber o de las fuerzas armadas, o me har&#225;s despotricar durante horas.\n \nLos monolitos se centran demasiado en su preciosa roca, en vez de en la Zona en conjunto. Sin mencionar que son realmente horribles cuando se trata de compartir. No trates de razonar con ellos, prefieren explotarte en la cara que sentarse a charlar, y preferir&#237;an matarte antes que dejarte dar un paso m&#225;s all&#225; de la Barrera\n \n&#191;Y otros grupos? Bueno, est&#225;n por ah&#237;, pero Libertad no los encuentra lo suficiente en el d&#237;a a d&#237;a para que yo piense mucho en ellos. De todas formas, ya me cans&#233;. No puedo pasar todo el d&#237;a hablando de eso.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_7">
+		<text>Eh, la vida es demasiado pesada en este momento. Todo el mundo est&#225; sentado en sus puestos, con un aspecto sombr&#237;o. Es rid&#237;culo.\n \nD&#233;jame compartir un par de chistes contigo: Un reportero de noticias patrocinado por el estado organiza con &#233;xito una entrevista con un miembro de Libertad... S&#237;, lo s&#233;, parece una locura. Se pone a&#250;n mejor.\n \n"Entonces, &#191;qu&#233; piensas de las fuerzas militares que tenemos apostadas aqu&#237;?" pregunta el reportero.\n \n"Son unos cerdos. Son la cruel, est&#250;pida y ciega escoria de la tierra!" respone el de Libertad, como el buen muchacho que es. \nEl reportero se detiene un momento, y luego hace su siguiente pregunta.\n"Est&#225; bien. Entonces, &#191;qu&#233; piensas de Deber?"\nEl de Libertad se calla, como si pensara profundamente, antes de decir finalmente...\n"En realidad, los militares no son tan malos cuando lo planteas as&#237;...".</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_8">
+		<text>No importa lo que oigas sobre Libertad, recuerda esto: aceptamos con gusto a cualquiera que reconozca que la Zona es un lugar donde no se aplican las reglas de estado. Es un lugar donde puedes vivir bien y libremente bajo tu propia moral y sentido com&#250;n... siempre y cuando est&#233;s dispuesto a vivir tambi&#233;n con las consecuencias. De esto se trata Libertad, de tomar la vida en nuestros propios t&#233;rminos. Al unirnos, nos aseguramos de que este ideal nunca sea suprimido.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_9">
+		<text>S&#237;, d&#233;jame decirte algo sobre nuestro peor enemigo.\n \nEntonces, un Deber experimentado y un Deber novato van caminando por la Zona, cuando de repente el mayor se para en seco y le susurra a su subordinado.\n"&#161;Shh! Mu&#233;vete hacia ese &#225;rbol.\nEl m&#225;s joven comienza a sudar y empieza a moverse con cuidado, muy cuidadosamente, hacia el &#225;rbol. Hace peque&#241;os zig-zags, incluso gira en c&#237;rculos r&#225;pidos para ver cu&#225;l es el peligro.\nEventualmente, llega al &#225;rbol. De repente, el veterano Deber grita.\n"&#161;LO SAB&#205;A! &#161;SAB&#205;A QUE ESTABAN MINTIENDO CUANDO DIJERON QUE HAB&#205;A ANOMAL&#205;AS ALL&#205;!"\n \nJeje. Cl&#225;sico chiste de fogata. &#191;Qu&#233;? &#191;Esperabas algo serio? Las cosas ya est&#225;n bastante tensas en el campamento. A menos que tengamos alg&#250;n asunto real que discutir, te agradecer&#237;a que me dieras un poco de espacio por ahora. Necesito concentrarme en mantener esta base a flote.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_end">
+		<text>&#191;Tal vez en otro momento, hombre? Ahora mismo, necesito concentrarme en mantener a los chicos coordinados, y s&#233; que algunos de ellos querr&#225;n verme en privado pronto. </text>
+	</string>
+	
+<!-- (Freedom guide) -->
+	<string id="mil_freedom_guid_meet_0">
+		<text>Hey, hombre. &#191;Qu&#233; pasa?</text>
+	</string>
+	<string id="mil_freedom_guid_meet_1">
+		<text>No mucho. Soy Leshiy, mucho gusto. Soy el gu&#237;a y explorador local.</text>
+	</string>
+	<string id="mil_freedom_guid_meet_2">
+		<text>&#191;Y c&#243;mo est&#225;n los chismes locales? Supongo que ha visitado muchos lugares.</text>
+	</string>
+	<string id="mil_freedom_guid_meet_3">
+		<text>Si, es cierto. Incluso he estado en una anomal&#237;a. Eso fue cuando todav&#237;a era mercenario... entr&#233; en una burbuja espacial con mi escuadr&#243;n. Es una larga historia. De todas formas, ofrezco gu&#237;a al Cord&#243;n, Yantar y la estaci&#243;n de Yanov en J&#250;piter. cuatro mil quinientos, cinco mil y seis mil rublos respectivamente.</text>
+	</string>
+	<string id="mil_freedom_guid_meet_4">
+		<text>Lo tendr&#233; en mente.</text>
+	</string>
+
+	<string id="mil_freedom_guid_go_0">
+		<text>Llevame a un sitio.</text>
+	</string>
+	<string id="mil_freedom_guid_go_1">
+		<text>Claro hombre. &#191;A d&#243;nde?</text>
+	</string>
+		<string id="mil_freedom_guid_go_2">
+			<text>A Yanov. %c[d_orange][6000 RU]</text>
+		</string>
+		<string id="mil_freedom_guid_go_5">
+			<text>Necesito el dinero primero.</text>
+		</string>
+		<string id="mil_freedom_guid_go_8">
+			<text>Toma, todo tuyo.</text>
+		</string>
+		<string id="mil_freedom_guid_go_3">
+			<text>Al Cordon. %c[d_orange][4500 RU] </text>
+		</string>
+		<string id="mil_freedom_guid_go_6">
+			<text>&#191;Y el dinero?</text>
+		</string>
+		<string id="mil_freedom_guid_go_9">
+			<text>Toma, aqu&#237; est&#225;.</text>
+		</string>
+		<string id="mil_freedom_guid_go_4">
+			<text>A Yantar. %c[d_orange][5000 RU]</text>
+		</string>
+		<string id="mil_freedom_guid_go_7">
+			<text>&#191;Trajiste el dinero?</text>
+		</string>
+		<string id="mil_freedom_guid_go_10">
+			<text>Por supuesto. Aqu&#237; tienes.</text>
+		</string>
+	<string id="mil_freedom_guid_go_11">
+		<text>Lo olvid&#233;.</text>
+	</string>
+	<string id="mil_freedom_guid_go_12">
+		<text>He cambiado de opinion.</text>
+	</string>
+
+</string_table>

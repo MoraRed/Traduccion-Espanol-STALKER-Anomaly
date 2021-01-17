@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Butcher -->
+	<string id="hunter_gar_trader_task_1_name">
+		<text>Cacer&#237;a de Patos</text>
+	</string>
+	<string id="hunter_gar_trader_task_1_text">
+		<text>Carnicero localiz&#243; una guarida de mutantes que necesita ser limpiada. He accedido a hacer el trabajo sucio de limpieza.</text>
+	</string>
+	<string id="hunter_gar_trader_task_1_about">
+		<text>Hmm. He descubierto una madriguera de mutantes a la que le vendr&#237;a bien una limpieza. Est&#225; empezando a dar problemas a los stalkers de la zona, pero un cazador bien preparado no deber&#237;a tener problemas para limpiarla. Entonces, &#191;te apetece cazar hoy? Te pagar&#233; por tu habilidad, y puedes venderme cualquier carne o trofeo que hayas recolectado cuando vuelvas.</text>
+	</string>
+	<string id="hunter_gar_trader_task_1_finish">
+		<text>Una vez m&#225;s el ecosistema local est&#225; en equilibrio... jeje. Aqu&#237; est&#225; tu recompensa por el buen trabajo.</text>
+	</string>
+
+	<string id="hunter_gar_trader_task_2_name">
+		<text>Encontrar %s para Carnicero.</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_text">
+		<text>El Carnicero necesita %s y me ha pedido que le traiga algunos.</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_about">
+		<text>Algunas personas pagan un dineral por carne mutante.</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_fetch_about">
+		<text>En ocasiones, curo carnes mutantes y las env&#237;o a Barman y otros comerciantes para ayudarles a complementar su comida importada. Ahora mismo, estoy buscando preparar %s para enviar al por mayor. Si puedes traerme la mercanc&#237;a cruda para esto, tendr&#225;s un buen dinero en tu bolsillo.</text>
+	</string>
+	<string id="hunter_gar_trader_task_2_fetch_finish">
+		<text>&#161;Ah, brillante! Estas carnes pueden parecer asquerosas ahora, pero espera a que est&#233;n preparadas. &#161;Ser&#225;n deliciosas!</text>
+	</string>
+
+	
+<!-- Flea Market -->
+	<string id="baraholka_trader_night_task_1_name">
+		<text>Encuentra el artefacto "%s"</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_text">
+		<text>El comerciante en el mercado de pulgas quiere que encuentre un %s.</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_about">
+		<text>&#191;Quieres ganar un botin buscando los artefactos menos comunes? Puedo ofrecerte buen equipamiento.</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_fetch_about">
+		<text>&#191;Tienes ganas de obtener un botin mientras buscas artefactos raros? Por un "%s", puedo ofrecerte mas cosas.</text>
+	</string>
+	<string id="baraholka_trader_night_task_1_fetch_finish">
+		<text>Ah, buen trabajo, stalker. Toma, aqui tienes.</text>
+	</string>
+
+
+</string_table>

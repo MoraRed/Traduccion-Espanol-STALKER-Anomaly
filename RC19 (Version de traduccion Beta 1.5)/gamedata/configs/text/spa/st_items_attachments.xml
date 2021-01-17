@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_af_surge_up_name">
+		<text>Regenerador de sobretensi&#243;n mejorado</text>
+	</string>
+	<string id="st_af_surge_up_descr">
+		<text>Un aparato &#250;nico que absorbe energ&#237;a el&#233;ctrica de su alrededor, la transforma y la introduce parcialmente en el cuerpo incrementando as&#237; la resistencia. El exceso de energ&#237;a se convierte en regeneraci&#243;n de tejido da&#241;ado. Sirve principalmente como protecci&#243;n de sobretensi&#243;n para choques el&#233;ctricos, lo que reduce la cantidad de electricidad que entra en contacto con el cuerpo llevandola a tierra. Lo conforma un circuito electronico bastante complejo de componentes electronicos. Como resultado de todo esto, el cuerpo soporta un voltaje mas alto lo que hace posible resistir descargas de electricidad que anteriormente eran mortales. Es por eso, que es importante tener un regenerador de sobretensi&#243;n mejorado cuando es necesario acercarse a anomal&#237;as el&#233;ctricas o cualquier otra fuente de electricidad. Como cualquier otro objeto electronico puede ser usado para reparaciones si se tiene la destreza y las herramientas apropiadas.\n \n%c[d_red]\n\n%c[d_red]ADVERTENCIA:%c[ui_gray_2]\n \n%c[default]Cabe se&#241;alar que dicho m&#243;dulo no funcionar&#225; correctamente ni proporcionar&#225; protecci&#243;n suficiente si tu traje no cumple con los requisitos m&#237;nimos de protecci&#243;n en un campo an&#243;malo.\n \n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Art&#237;culo tecnol&#243;gico\n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_af_frames_up_name">
+		<text>Armaz&#243;n de aluminio mejorado</text>
+	</string>
+	<string id="st_af_frames_up_descr">
+		<text>En lugar de llevar una mochila asegurada por un par de correas, puedes acoplarla a tu armadura por medio de los armazones de aluminio mejorados que optimizan la capacidad de carga. Estos estan fabricados en aluminio que es el material preferido por su bajo peso, algunos de los elementos externos estan fabricados en pl&#225;stico para lograr la flexibilidad necesaria a la hora de correr. Todo el conjunto esta equipado con un sistema de correas para proporcionar un alto grado de ajuste. Este dise&#241;o de calidad perimite ajustar las correas hacia arriba o hacia abajo para que llevar una mochila sea comodo sin importar el tama&#241;o del torso. Un solo armaz&#243;n reemplaza el marco principal de tu mochila pero es posible usar m&#225;s de uno para mejorar la capacidad de carga. Aunque este sistema esta fabricado en aluminio de bajo peso algunas partes a&#250;n pueden ser &#250;tiles para peque&#241;as reparaciones de armaduras.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Art&#237;culo de uso diario\n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_af_grid_up_name">
+		<text>Armaz&#243;n de titanio mejorado</text>
+	</string>
+	<string id="st_af_grid_up_descr">
+		<text>En lugar de llevar una mochila asegurada por un par de correas, puedes asegurarla a tu armadura por medio de armazones de titanio mejorados que optimizan la capacidad de carga. Estos estan fabricados en titanio que es el material preferido por su bajo peso y su alta duracion, algunos de los elementos externos estan fabricados en pl&#225;stico para lograr la flexibilidad necesaria a la hora de correr. Todo el conjunto esta equipado con un sistema de correas para proporcionar un alto grado de ajuste. Este dise&#241;o de calidad perimite ajustar las correas hacia arriba o hacia abajo para que llevar una mochila sea comodo sin importar el tama&#241;o del torso. Un solo armaz&#243;n reemplaza el marco principal de tu mochila pero es posible usar m&#225;s de uno para mejorar la capacidad de carga. El amaz&#243;n esta fabricado de titanio de alta calidad, este puede ser desarmado pueden ser usado como un efectivo complemente en la reparaci&#243;n armaduras de combate o cascos.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Art&#237;culo de uso diario\n %c[d_cyan] • %c[ui_gray_2] Alta calidad\n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_af_freon_up_name">
+		<text>Modulo de emisi&#243;n de freon mejorado</text>
+	</string>
+	<string id="st_af_freon_up_descr">
+		<text>El m&#243;dulo de emisi&#243;n de freon mejorado esta dise&#241;ado para mantener la temperatura alrededor del cuerpo a unos 20 grados celcius. Es extremadamente &#250;til para minimizar los efectos del calor extremo en situaciones que requieren protecci&#243;n extra. Emite una gruesa capa de particulas de freon frias que producen un peque&#241;o vac&#237;o absorbiendo el exceso de calor y disminuyendo ligeramente la temperatura alrededor del usuario. Otra caracteristica de este m&#243;dulo es su capacidad de resistir corrientes el&#233;ctricas hasta cierto punto.\n \n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Art&#237;culo tecnol&#243;gico\n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n</text>
+	</string>
+	
+	<string id="st_af_cooler_up_name">
+		<text>Refrigerador corporal mejorado</text>
+	</string>
+	<string id="st_af_cooler_up_descr">
+		<text>El refrigerador corporal mejorado es un m&#243;dulo dise&#241;ado para mantener la temperatura alrededor del cuerpo a unos 14 grados celcius. Es extremadamente &#250;til para minimizar los efectos del calor extremo en situaciones que requieren protecci&#243;n extra. Emite impulsos el&#233;ctricos rapidos que producen un peque&#241;o vac&#237;o absorbiendo el exceso de calor y disminuyendo ligeramente la temperatura alrededor del usuario. No requiere de agua para funcionar. Otra caracteristica de este m&#243;dulo es su capacidad de resistir corrientes el&#233;ctricas hasta cierto punto. En caso de ser desarmado con un kit de herramientas, la carcasa de metal puede ser usada como material para reparaci&#243;n de armaduras.\n \n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Art&#237;culo tecnol&#243;gico\n %c[d_cyan] • %c[ui_gray_2] Alta calidad\n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_af_kevlar_up_name">
+		<text>Placas y accesorios de kevlar mejorados</text>
+	</string>
+	<string id="st_af_kevlar_up_descr">
+		<text>Las placas de kevlar son ampliamente conocidas por sus capacidades de protecci&#243;n y son altamente valoradas debido a esta caracteristica. Cumplen con una variedad de funciones, la m&#225;s importante de ellas es absorber el impacto de proyectiles tanto en el frente como detras del torso. Constituyen una alternativa de bajo peso comparada con las pesadas placas de hierro. Adicionalmente, cualquier tipo de placa de protecci&#243;n ayuda a mantener los trajes en buena condicion, previniendo la degradacion por desgaste. Usado por muchas unidades militares alrededor del mundo.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Art&#237;culo militar\n %c[d_cyan] • %c[ui_gray_2] 30 placas de kevlar\n %c[d_cyan] • %c[ui_gray_2] Capa &#250;nica de armadura de grado III\n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_af_plates_up_name">
+		<text>Placas de acero al carbono mejoradas</text>
+	</string>
+	<string id="st_af_plates_up_descr">
+		<text>Estas placas de acero estan especialmente hechas a mano, tratadas termicamente y conformadas para desafiar las propiedades balisticas, adecuadas para una amplia aplicacion protectora. Estan dise&#241;adas para resistir peque&#241;os impactos tanto en en le frente como detras del torso. Sin embargo, esta protecci&#243;n tiene un precio ya que las gruesas placas de acero son muy pesadas limitando la capacidad de movimiento. Adicionalmente, cualquier tipo de placa de protecci&#243;n ayuda a mantener los trajes en buena condici&#243;n, previniendo la degradacion por desgaste. Usado mayormente por las fuerzas Spetsnaz.\n \n%c[d_red]\n\n%c[d_red]ADVERTENCIA:%c[ui_gray_2]\n \n%c[default]El acero es un conductor y su proximidad a la piel hace que el cuerpo sea mas vulnerable a la electricidad. Por esta raz&#243;n, se sugiere proceder con precauci&#243;n cuando se encuentre cerca de anomal&#237;as el&#233;ctricas u otras fuentes de electricidad.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Art&#237;culo militar\n %c[d_cyan] • %c[ui_gray_2] &#218;nica chapa de acero \n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_af_camelbak_up_name">
+		<text>Camelback mejorado</text>
+	</string>
+	<string id="st_af_camelbak_up_descr">
+		<text>Tomando el nombre de que los camellos almacenan agua en sus jorobas, el camelbak es un paquete que se lleva en la espalda o alrededor de la cintura del usuario. Contiene una vejiga que se llena con agua para mantener al usuario hidratado. Dentro lleva un tubo flexible con una boquilla que facilita su uso en cualquier situacion. Este modelo es camuflado y esta integrado al traje para proteger el sistema de cualquier da&#241;o, ya sea en combate o en alguna anomal&#237;a. \nDebido a que su contenedor esta fabricado con un textil de alta calidad, algunas veces stalkers experimentados usan camelbacks desechados para remendar sus trajes.\n \n%c[d_red]\n\n%c[d_red]ADVERTENCIA:%c[ui_gray_2]\n \n%c[default]Aunque el agua tiene baja conductividad el&#233;ctrica, su proximidad al cuerpo puede hacerle m&#225;s vulnerable a las corrientes el&#233;ctricas. Por esta raz&#243;n, se recomienda prestar especial atenci&#243;n al entorno cuando est&#233; en posesi&#243;n de un camelbak.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Art&#237;culo militar \n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_af_surge_name">
+		<text>Supresor de corriente</text>
+	</string>
+	<string id="st_af_surge_descr">
+		<text>Un peque&#241;o pero avanzado aparato que absorbe energ&#237;a el&#233;ctrica de sus alrededores. Sirve como protecci&#243;n ya que limita la cantidad de electricidad que entra en contacto con el cuerpo bloqueandola o poniendola a tierra. Debido a que es un circuito muy sofisticado, el supresor de corriente incrementa en gran medida la resistencia del cuerpo a la electricidad. El resultado de esto es que el usuario puede ser golpeado con una considerable cantidad de corriente que antes se consideraba con ser fatal. Por esta raz&#243;n es de vital importancia tener el supresor de corriente en tu cinturon si estas pr&#243;ximo a una anomal&#237;a el&#233;ctrica o cualquier otra fuente de electricidad en la Zona. Como cualquier otro objeto de metal, puede ser usado como fuente de materiales para reparar trajes si se tienen las herramientas y las habilidades necesarias.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Art&#237;culo militar\n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_af_frames_name">
+		<text>Armazon de aluminio</text>
+	</string>
+	<string id="st_af_frames_descr">
+		<text>En lugar de llevar una mochila asegurada por un par de correas, puedes asegurarla a tu armadura por medio de los armazones de aluminio que optimizan la capacidad de carga. Estos estan fabricados en aluminio que es el material preferido por su bajo peso. Algunos de los elementos externos estan fabricados en pl&#225;stico para lograr la flexibilidad necesaria a la hora de correr. Todo el sistema esta equipado con un sistema de correas para proporcionar un alto grado de ajuste. Este dise&#241;o de calidad perimite ajustar las correas hacia arriba o hacia abajo para que llevar una mochila sea comodo sin importar el tama&#241;o del torso. Un solo conjunto de estos armazones reemplaza el marco principal de tu mochila pero es posible usar m&#225;s de uno para mejorar la capacidad de carga. Aunque este sistema esta fabricado en aluminio de bajo peso algunas partes a&#250;n pueden ser &#250;tiles en peque&#241;as reparaciones de armaduras.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Art&#237;culo de uso diario \n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_af_grid_name">
+		<text>Rejilla de titanio</text>
+	</string>
+	<string id="st_af_grid_descr">
+		<text>En lugar de llevar una mochila asegurada por un par de correas, puedes asegurarla a tu armadura por medio de los armazones de titanio que optimiza la capacidad de carga. Estas rejillas estan fabricadas en titanio que es el material preferido por su bajo peso y su alta duracion. Algunos de los elementos externos estan fabricados en pl&#225;stico para lograr la flexibilidad necesaria a la hora de correr. Todo el sistema esta equipado con un sistema de correas para proporcionar un alto grado de ajuste. Este dise&#241;o de calidad permite ajustar las correas hacia arriba o hacia abajo para que llevar una mochila sea comodo sin importar el tamano del torso. Un solo conjunto de marcos reemplaza el marco principal de tu mochila pero es posible usar m&#225;s para mejorar la capacidad de carga. Las rejillas estan fabricadas en titanio de alta calidad. Pueden ser desarmadas para ser usadas como un efectivo suplemento de reparaci&#243;n de armaduras o cascos.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Art&#237;culo de uso diario \n %c[d_cyan] • %c[ui_gray_2] Alta calidad \n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_af_freon_name">
+		<text>M&#243;dulo de emisi&#243;n de freon</text>
+	</string>
+	<string id="st_af_freon_descr">
+		<text>El m&#243;dulo de emisi&#243;n de freon esta dise&#241;ado para mantener una temperatura alrededor del cuerpo a unos 24 grados celcius. Es extremadamente &#250;til para minimizar los efectos del calor extremo en situaciones que requieran protecci&#243;n extra. Emite una gruesa capa de particulas de freon frias que producen un peque&#241;o vac&#237;o absorbiendo el exceso de calor y disminuyendo ligeramente la temperatura alrededor del usuario. Otra caracteristica de este m&#243;dulo es su capacidad de resistir corrientes el&#233;ctricas hasta cierto punto.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Art&#237;culo tecnol&#243;gico \n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n</text>
+	</string>
+	
+	<string id="st_af_cooler_name">
+		<text>Refrigerador corporal</text>
+	</string>
+	<string id="st_af_cooler_descr">
+		<text>El refrigerador corporal es un m&#243;dulo dise&#241;ado para mantener una temperatura alrededor del cuerpo a unos 18 grados celcius. Es extremadamente &#250;til para minimizar los efectos del calor extremo en situaciones que requieran protecci&#243;n extra. Emite impulsos el&#233;ctricos rapidos que producen un peque&#241;o vac&#237;o absorbiendo el exceso de calor y disminuyendo ligeramente la temperatura alrededor del usuario. No requiere de agua para funcionar. Otra caracteristica de este m&#243;dulo es su capacidad de resistir corrientes el&#233;ctricas hasta cierto punto. En caso de ser desarmado con un kit de herramientas, la carcasa de metal puede ser usada como material para reparaci&#243;n de armaduras.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Art&#237;culo tecnol&#243;gico \n %c[d_cyan] • %c[ui_gray_2] Alta calidad \n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_af_kevlar_name">
+		<text>Placas y accesorios kevlar</text>
+	</string>
+	<string id="st_af_kevlar_descr">
+		<text>Las placas de kevlar son ampliamente conocidas por sus capacidades de protecci&#243;n y son altamente valoradas debido a esta caracteristica. Cumplen con una variedad de funciones, la m&#225;s importante de ellas es absorber el impacto de proyectiles tanto en el frente como detras del torso. Constituyen una alternativa de bajo peso comparada con las pesadas placas de hierro. Adicionalmente, cualquier tipo de placa de protecci&#243;n ayuda a mantener los trajes en buena condicion, previniendo la degradacion por desgaste. Usado por unidades militares alrededor del mundo.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Art&#237;culo militar \n %c[d_cyan] • %c[ui_gray_2] 22 placas de kevlar\n %c[d_cyan] • %c[ui_gray_2] Capa de armadura de grado individual IIA\n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_af_plates_name">
+		<text>Placas de acero con carbono</text>
+	</string>
+	<string id="st_af_plates_descr">
+		<text>Estas placas de acero estan especialmente hechas a mano, tratadas termicamente y pensadas para desafiar las propiedades balisticas. Adecuadas para una amplia aplicaci&#243;n protectora. Estan dise&#241;adas para resistir peque&#241;os impactos tanto en en le frente como detras del torso. Sin embargo, esta protecci&#243;n tiene un precio ya que las gruesas placas de acero son muy pesadas limitando la capacidad de movimiento. Adicionalmente, cualquier tipo de placa de protecci&#243;n ayuda a mantener los trajes en buena condicion, previniendo la degradacion por desgaste. Usado mayormente por las fuerzas Spetsnaz.\n \n%c[d_red]\n\n%c[d_red]ADVERTENCIA:%c[ui_gray_2]\n \n%c[default]El acero es un conductor y su proximidad a la piel hace que el cuerpo sea m&#225;s vulnerable a la electricidad. Por esta raz&#243;n, se sugiere proceder con precauci&#243;n cuando se encuentre cerca de anomal&#237;as el&#233;ctricas u otras fuentes de electricidad.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Art&#237;culo militar \n %c[d_cyan] • %c[ui_gray_2] Capa &#250;nica de chapa de acero \n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_af_camelbak_name">
+		<text>Camelbak</text>
+	</string>
+	<string id="st_af_camelbak_descr">
+		<text>Tomando el nombre de que los camellos almacenan agua en sus jorobas, el camelbak es un paquete que se lleva en la espalda o alrededor de la cintura del usuario. Contiene una vejiga que se llena con agua para mantener al usuario hidratado. Dentro lleva un tubo flexible con una boquilla que facilita su uso en cualquier situacion. Este modelo es camuflado y esta integrado al traje para proteger el sistema de cualquier da&#241;o, ya sea en combate o en alguna anomal&#237;a. \nDebido a que su contenedor esta fabricado con un textil de alta calidad, algunas veces stalkers experimentados usan camelbacks desechados para remendar sus trajes.\n \n%c[d_red]\n\n%c[d_red]ADVERTENCIA:%c[ui_gray_2]\n \n%c[default]Aunque el agua tiene baja conductividad el&#233;ctrica, su proximidad al cuerpo puede hacerle m&#225;s vulnerable a las corrientes el&#233;ctricas. Por esta raz&#243;n, se recomienda prestar especial atenci&#243;n al entorno cuando est&#233; en posesi&#243;n de un camelbak.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Art&#237;culo militar \n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_af_iam_name">
+		<text>Modulo de Aplicacion Improvisado (vac&#237;o)</text>
+	</string>
+	<string id="st_af_iam_descr">
+		<text>El Modulo de Aplicacion Improvisado (IAM por sus siglas en ingles) filtra una peque&#241;a cantidad de particulas de radiaci&#243;n emitidas por los artefactos. Esta bolsa mecanica es el objeto m&#225;s barato que permite al usuario manejar artefactos menos potentes. El filtro esta compuesto de multiples capas mayoritariamente hechas de plomo que protegen de la radiaci&#243;n. Una alternativa de bajo costo en comparacion con los EAA y MAA. En caso de emergencia y solo si no lo necesitas m&#225;s, puede ser &#250;tilizado como una buena fuente de metal de calidad para reparaciones de trajes o cascos. Para ponerlo en tu cinturon, tienes que poner un artefacto dentro. El artefacto mantendra sus caracteristicas salvo la emisi&#243;n de radiaci&#243;n que la mantendra a bajo nivel. Actualmente no tiene nada dentro.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[ui_white] • %c[ui_gray_2] Art&#237;culo tecnol&#243;gico \n %c[d_cyan] • %c[ui_gray_2] Valioso\n %c[d_cyan] • %c[ui_gray_2] De bajo consumo\n %c[ui_white] • %c[ui_gray_2] Dispositivo para almacenar artefactos\n %c[ui_white] • %c[ui_gray_2] Capacidad maxima:%c[ui_gray_1] 1\n %c[ui_white] • %c[ui_gray_2] Nivel de radiaci&#243;n permisible:%c[ui_gray_1] 7 mSv\n %c[ui_white] • %c[ui_gray_2] estado:%c[ui_gray_1] Vac&#237;o\n
+		</text>
+	</string>
+	
+	<string id="st_af_aac_name">
+		<text>Envase de Aplicacion de Artefacto (Vacio)</text>
+	</string>
+	<string id="st_af_aac_descr">
+		<text>El Envase de Aplicacion de Artefacto (AAC por sus siglas en ingles) filtra una cantidad moderada de radiaci&#243;n de los artefactos. Este contenedor de metal mecanico es el mejor en terminos costo-eficiencia haciendolo el m&#225;s popular ya que permite al usuario manejar artefactos de mayor potencia. El filtro esta compuesto de multiples capas de plomo mayoritariamente, con una capa de torio que tiene fuertes propiedades a la hora de proteger contra la radiaci&#243;n. Este artefacot ha sido fabricado por cientificos que residen en bunkers militares en la Zona. En caso de emergencia y solo si no lo necesitas m&#225;s, puede ser &#250;tilizado como una buena fuente de metal de calidad para reparaciones de trajes o cascos. Actualmente in&#250;tilizable . Para ponerlo en tu cinturon, tienes que poner un artefacto dentro. El artefacto mantendra sus caracteristicas salvo la emisi&#243;n de radiaci&#243;n que la mantendra a bajo nivel.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Art&#237;culo tecnol&#243;gico \n %c[d_cyan] • %c[ui_gray_2] Valioso\n %c[d_cyan] • %c[ui_gray_2] De bajo consumo\n %c[ui_white] • %c[ui_gray_2] Dispositivo para almacenar artefactos\n %c[ui_white] • %c[ui_gray_2] Capacidad maxima:%c[ui_gray_1] 1\n %c[ui_white] • %c[ui_gray_2] Nivel de radiaci&#243;n permisible:%c[ui_gray_1] 12 mSv\n %c[ui_white] • %c[ui_gray_2] Estado:%c[ui_gray_1] Vac&#237;o\n
+		</text>
+	</string>
+	
+	<string id="st_af_aam_name">
+		<text>Modulo de Aplicacion de Artefacto (vac&#237;o)</text>
+	</string>
+	<string id="st_af_aam_descr">
+		<text>El Modulo de Aplicacion de Artefacto (AAM Por sus siglas en ingles) filtra una significante cantidad de radiaci&#243;n emitida por los artefactos. Este m&#243;dulo mecanico es la forma m&#225;s efectiva de manejar la mayoria de artefactos de alta potencia. El filtro esta compuesto de multiple capas de nano-carbon. Por instancia es liviano y tiene fuertes capacidades de protecci&#243;n contra la radiaci&#243;n. Considerado como un simbolo de afluencia en la Zona. Usado mayoritariamente por cientificos para minimizar los efectos de los artefactos. Dise&#241;ado y fabricado por una institucion del gobierno Ukraniano que provee equipamiento para los cientificos que residen en la Zona. En caso de emergencia y solo si no lo necesitas m&#225;s, puede ser &#250;tilizado como una buena fuente de metal de calidad para reparaciones de trajes o cascos. Actualmente in&#250;tilizable . Para ponerlo en tu cinturon, tienes que poner un artefacto dentro. El artefacto mantendra sus caracteristicas salvo la emisi&#243;n de radiaci&#243;n que la mantendra a bajo nivel.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Art&#237;culo tecnol&#243;gico \n %c[d_cyan] • %c[ui_gray_2] Alta calidad \n %c[d_cyan] • %c[ui_gray_2] Valioso\n %c[d_cyan] • %c[ui_gray_2] De bajo consumo\n %c[ui_white] • %c[ui_gray_2] Dispositivo para almacenar artefactos\n %c[ui_white] • %c[ui_gray_2] Capacidad maxima:%c[ui_gray_1] 1\n %c[ui_white] • %c[ui_gray_2] Nivel de radiaci&#243;n permisible:%c[ui_gray_1] 23 mSv\n %c[ui_white] • %c[ui_gray_2] Estado:%c[ui_gray_1] Vac&#237;o\n
+		</text>
+	</string>
+	
+<!------------------------ Mutant Hide ------------------------>
+	<string id="st_hide_flesh_name">
+		<text>Cuero de mutante "Carne"</text>
+	</string>
+	<string id="st_hide_flesh_descr">
+		<text>Cuero removido de una raza de cerdo mutado conocido como "Carne". Su alto peso (su principal inconveniente) es resultado de una gruesa capa de grasa debajo de su relativa suave y superficial piel. Ofrece baja protecci&#243;n fisica, pero por otro reduce significativamente los da&#241;inos efectos de anomal&#237;as qu&#237;micas, termales y el&#233;ctricas. Puede ser usada solo para repaciones menores ya que la grasa es in&#250;til para el mantenimiento de armaduras y debe ser cortada, dejando solamente un peque&#241;o parche de piel.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Piel de mutante ligera\n%c[d_purple] • %c[ui_gray_2] Protecci&#243;n insignificante contra da&#241;os\n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_boar_name">
+		<text>Pellejo de Jabali</text>
+	</string>
+	<string id="st_hide_boar_descr">
+		<text>Un pellejo casi cubierto por pelaje completamente, extraido de uno de los Jabalies salvajes encontrados comunmente en la Zona. Los mutantes en s&#237; son bastante resistentes al da&#241;o y pueden aguantar considerablemente, y la raz&#243;n de esto es sencilla: su gran masa muscular y huesos casi irrompibles. La piel, por otro lado, es delgada (probablemente para proveer a la criatura con efectivas maneras de regulacion t&#233;rmica), eslo lo hace una pobre opci&#243;n para la mejora de armaduras. El pelaje a su vez hace que la piel sea un aislante t&#233;rmico relativamente potente. Puede ser usado para reparaciones menores. Desgraciadamente, llevar el pellejo por encima de la armadura hace al usuario menos resistente a particulas toxicas y radioactivas ya que se acumulan en el pelaje.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Piel de mutante ligera \n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_bloodsucker_name">
+		<text>Piel de chupasangre</text>
+	</string>
+	<string id="st_hide_bloodsucker_descr">
+		<text>Los chupasangres como especie, evolucionaron de los humanos y esta afinidad todava se puede ver en la textura de su piel. Lo m&#225;s caracteristico es lo suave y agradable que es al tacto, casi como la piel de un bebe. Esto aplica, sin embargo, solo a la capa exterior &#45; debajo, los Chupasangres cuentan con m&#250;sculos bien desarrollados que pueden &#250;tilizarse para formar una especie de pelaje con un considerable potencial de reducci&#243;n de da&#241;os, especialmente a los ataques cuerpo a cuerpo. Esto hace la piel de los Chupasangres una opci&#243;n popular entre cazadores experimentados que tambien la llevan como una se&#241;al de su experiencia. \nLa propiedad m&#225;s unica y tambien una de sus principales deventajas es su potente reacci&#243;n al cambio de temperatura &#45; aunque la piel por si misma solo se quemar&#225; a temperaturas muy altas, puede llegar a ponerse muy caliente incrementando el da&#241;o al portador y al equipo debajo de el.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Piel de mutante de peso mediano \n %c[d_cyan] • %c[ui_gray_2] Valioso \n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_psysucker_name">
+		<text>Piel de psicovampiro</text>
+	</string>
+	<string id="st_hide_psysucker_descr">
+		<text>Los psicovampiros como especie, evolucionaron de los chupasangres y esta afinidad todavia se puede ver en la textura de la piel. Lo m&#225;s caracteristico es lo suave y agradable que es al tacto, casi como la piel de un bebe. Esto aplica, sin embargo, solo a la capa exterior &#45; debajo, los psicovampiros cuentan con musculos bien desarrollados que pueden &#250;tilizarse para formar una especie de sobretodo con un considerable potencia de reducci&#243;n de da&#241;os, especialmente a los ataques cuerpo a cuerpo. Esto hace la piel de los psicovampiros una opci&#243;n popular entre los cazadores experimentados que tambien la llevan como una se&#241;a de su experiencia. \nLa propiedad m&#225;s unica y tambien una de sus principales deventajas de la piel es us potente reaccion al cambio de temperatura &#45; aunque la piel por si misma solo se quemar&#225; a temperaturas muy altas, puede llegar a ponerse muy caliente incrementando el da&#241;o al portador y al equipo debajo de el. Reportes indican que aunque ofrece poca proteci&#243;n fisica puede ser usada para absorber y dispersar cantidades significativas de ondas ps&#237;quicas cuando se lleva sobre la cabeza.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Piel de mutante mediana \n %c[d_cyan] • %c[ui_gray_2] Valioso \n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_lurker_name">
+		<text>Piel de acechador</text>
+	</string>
+	<string id="st_hide_lurker_descr">
+		<text>Un grueso pellejo cubierto casi completamente por pelaje, extraido a un acechador. Los mutantes en si son bastante resistentes al da&#241;o y pueden aguantar considerablemente; la raz&#243;n de esto es sencilla: gran masa muscular y huesos casi irrompibles. La piel de acechador es conocida por ser gruesa y duradera, haciendola una buena opci&#243;n para mejorar armaduras. El pelaje hace esta piel un potente aislante termal. Puede ser usada para reparaciones menores.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Piel de mutante ligera \n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_burer_name">
+		<text>Piel de quemador</text>
+	</string>
+	<string id="st_hide_burer_descr">
+		<text>Despellejar a un quemador es muy parecido a despellejar un enano retorcido. Agregue a esto un hedor casi insoportable de huevos podridos y se hara a la idea de por qu&#233; los stalkers consideran esto como una haza&#241;a. \nReportes indican que aunque ofrece poca proteci&#243;n fisica, ademas de que puede ser usada para absorber y dispersar cantidades significativas de ondas ps&#237;quicas cuando se lleva sobre la cabeza. La piel de quemador ofrece poca resistencia el&#233;ctrica, haciendo al portador m&#225;s suceptible a da&#241;o el&#233;ctrico. Adem&#225;s, debido al hecho de que los Quemadores se encuentran raramente en la Zona, la piel tiene un significante potencial de investigacion, por lo que es un producto comercial valioso para los cient&#237;ficos.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Piel ligera de mutante\n %c[d_cyan] • %c[ui_gray_2] Especimen cient&#237;fico raro\n %c[d_cyan] • %c[ui_gray_2] valuable\n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_chimera_name">
+		<text>Piel de quimera</text>
+	</string>
+	<string id="st_hide_chimera_descr">
+		<text>La quimera, siendo uno de los mutantes m&#225;s peligrosos de la Zona, no solo es una amenaza significativa, sino que tambien puede ser considerada una fuente viable de dinero. Todas las partes sacadas del cuerpo de una Quimera pueden ser vendidas por un muy alto precio, pero es la piel lo que lo hace una de la especies m&#225;s valoradas por los cientificos y tambien como una de las mas valoradas mejoras de armadura en la Zona. Ofrece buenas propiedades de protecci&#243;n y, a&#250;n m&#225;s importante, es relativamente liviana lo que no limita el movimiento. Sin embargo, su caracteristica m&#225;s unica son las fibras organicas que se encuentran en su piel que actuan como muy eficientes condutores el&#233;ctricos. Este hecho confirma en gran medida los informes de las unidades de reconocimiento (especialmente aquellas explorando el complejo industrial AMK) acerca de quimeras rodeadas en lo que parecia ser una anomal&#237;a el&#233;ctrica, produciendo descargas a cualquier organismo viviente hostil. Desgraciadamente, ninguna unidad pudo regresar, as&#237; que no hay evidencia que confirme la existencia de tales criaturas.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Piel de mutante pesada\n %c[d_cyan] • %c[ui_gray_2] especimen cient&#237;fico muy raro\n %c[d_cyan] • %c[ui_gray_2] Extremadamente valioso\n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_pseudogiant_name">
+		<text>Piel de pseudogigante</text>
+	</string>
+	<string id="st_hide_pseudogiant_descr">
+		<text>La piel de un pseudogigante recuerda en muchas formas a la piel de elefante. Es gruesa y dura al tacto, su textura es muy irregular y esta llena de pliegues que actuan como mecanismo de enfriamiento. El grosor aproximado de la piel de un pseudogigante es de 2cm, lo que la hace muy duradera y capaz de soportar da&#241;o. Esto, sin embargo, a costa de un gran peso. \nDesde que es bastante conocido que los pseudogigantes viven cerca de areas con alto nivel de toxicidad y radioactividad, la piel naturalmente se ha adaptado a este tipo de condiciones extrem&#225;s, lo que incrementa su &#250;tilidad. Tambien se puede usada para reparar hasta los trajes m&#225;s pesados pero este proceso requiere las herramientas m&#225;s avanzadas y resistentes disponibles. \nNo es solo valorada por su cualidades practicas, tambien sirve como un prestigioso trofeo de caza para los cientificos en la Zona.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Piel de mutante muy pesada\n %c[d_cyan] • %c[ui_gray_2] Especimen cient&#237;fico\n %c[d_cyan] • %c[ui_gray_2] Valioso\n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_controller_name">
+		<text>Cuero cabelludo de controlador</text>
+	</string>
+	<string id="st_hide_controller_descr">
+		<text>Como es el caso con otros mutantes humanoides, es todo un reto emocional tratar de despellejar un Controlador y es todavia mucho m&#225;s complicado ya que la cara retiene ciertas caracteristicas de la persona que era antes. Fuentes militares confidenciales han revelado que las huellas digitales de la persona que se ha transformado en un Controlador pueden ser encontradas algunas veces en la base de datos . Estudios recientes muestran que no solo la mano de los Controladores son capaces de emitir ondas ps&#237;quicas &#45; el cuerpo entero es la fuente de las emisi&#243;nes. Por esta raz&#243;n, el cuero cabelludo &#45; cuando es preparado apropiadamente &#45; tiene la habilidad de absorber energ&#237;a ps&#237;quica, pero no es necesario cubrir tu cabeza con multiples capas de cuero cabelludo para que tenga efecto alguno. La piel tambien es un conductor el&#233;ctrico. En cuanto a sus propiedades f&#237;sicas, es ligera y solo puede ser usada para reparaciones menores. Como es el caso de otras criaturas ps&#237;quicas con forma humanoide, la piel de un Controlador es conductora de electricidad.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Piel de mutante ligera\n %c[d_cyan] • %c[ui_gray_2] Especimen cient&#237;fico raro\n %c[d_cyan] • %c[ui_gray_2] Muy valioso\n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_pseudodog_name">
+		<text>Pelaje de pseudoperro</text>
+	</string>
+	<string id="st_hide_pseudodog_descr">
+		<text>Cubierto de denso pero corto y duro pelaje , el pellejo de un pseudoperro se mantiene como una de las &#250;tiles, amplia y versatil dentro de la Zona. Puede ser agregado a las armaduras incluso con la m&#225;s ligera herramienta y sin embargo es bastante duradero lo que lo hace adecuado para reparaciones de trajes de rango medio. \nCuando se usa como un sobretodo puede cubrir una significativa area del cuerpo con una capa protectiva que incrementa la resistencia tanto al da&#241;o fisico como al calor. El pelaje tambien provee un buen aislamiento. Sin embargo, como es el caso de todos los pelajes, puede capturar particulas toxicas y radiocativas facilmente, por lo que es altamente recomendado quitarselo cuando se esta cerca de zonas radioactvas y/o toxicas.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Piel de mutante de peso medio\n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_hide_psy_dog_name">
+		<text>Pelaje de pseudoperro ps&#237;quico</text>
+	</string>
+	<string id="st_hide_psy_dog_descr">
+		<text>El pelaje de un pseudoperro ps&#237;quico es sin duda alguna uno de los m&#225;s raros y hermosos materiales textiles del mundo. Usualmente de color blanco nieve o gris, es de gran demanda y puede ser vendido por una gran suma de dinero. Probablemente ha sido introducido en el mundo de la moda gracias a los contrabandistas o aquellos que se ha vuelto cazadores de mutantes. \nPara aquellos en la Zona, puede servir como una cobija, especialmente durante las noches frias, y tambien ofrece una eficiente protecci&#243;n contra rupturas y reduce ligeramente la influencia ps&#237;quica cuando parte de su pelaje es usado como m&#225;scara o como capucha. Sin embargo, puede capturar particulas toxicas y radioactivas facilmente, por lo que es altamente recomendado quitarselo cuando se esta cerca de zonas radioactivas y/o toxicas. Los cazadores lo usan con orgullo, pero solo si la criatura ha sido asesina con sus propias manos.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Piel de mutante de peso medio\n %c[d_cyan] • %c[ui_gray_2] Valioso\n %c[d_cyan] • %c[ui_gray_2] La efectividad de multiples unidades es acumulable\n
+		</text>
+	</string>
+	
+	<string id="st_powder_poltergeist">
+		<text>"Polvo de diamante"</text>
+	</string>
+	<string id="st_powder_poltergeist_descr">
+		<text>"Polvo de diamante" es un nombre comun dado a una sustancia cristaloide encontrada mayormente en la barriga de cualquier criatura y que tiene efectos psicoticos. \nNo se sabe a ciencia cierta que procesos metabolicos llevan a la formacion de esta sustancia, por lo que los cientificos amsiosamente pagan altas sumas de dinero para poner sus manos en una muestra de esta sustancia. Su uso practico es limitado pero algunos stalkers son conocidos por rociarlo a sus m&#225;s queridos cuchillo de caza ya que hace mucho m&#225;s facil afilarlos con ello. Tambien les saca brillo y las hace parecer mejor conservadas.\n \n %c[d_cyan] • %c[ui_gray_2] Producto psicotico de origen mutante\n %c[d_cyan] • %c[ui_gray_2] Especimen cient&#237;fico extremadamente raro\n %c[d_cyan] • %c[ui_gray_2] Valioso\n
+		</text>
+	</string>
+	
+</string_table>

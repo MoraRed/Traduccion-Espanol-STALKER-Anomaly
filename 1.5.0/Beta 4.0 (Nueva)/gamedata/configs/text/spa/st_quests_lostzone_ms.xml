@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT STRINGS FOR LOST TO THE ZONE: MORTAL SIN TASKS
+<	Anomaly 1.5 - Lost to the Zone: Mortal Sin
+<
+<	Made by: SarisKhan
+<	Last revised: 04 September 2019
+<
+<===========================================================-->
+
+<string_table>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 1 -->
+	<string id="lttz_ms_start_title">
+		<text>Pecado Mortal: Enviado Misterioso</text>
+	</string>
+	
+	<string id="lttz_ms_start_dolg_descr">
+		<text>El general Voronin quiere que interrogues a un enviado misterioso que molesta a los stalkers en el bar 100 Rads.</text>
+	</string>
+	<string id="lttz_ms_start_dolg_descr_talk">
+		<text>Has obtenido algo de informaci&#243;n &#250;til del enviado. Informa al general Voronin.</text>
+	</string>
+	<string id="lttz_ms_start_dolg_descr_kill">
+		<text>Has obtenido informaci&#243;n &#250;til y matado al enviado misterioso. Informa al general Voronin.</text>
+	</string>
+	
+	<string id="lttz_ms_start_killer_descr">
+		<text>Dushman quiere que interrogues a un enviado misterioso que molesta a los mercenarios en la base de la Ciudad de la Muerte.</text>
+	</string>
+	<string id="lttz_ms_start_killer_descr_talk">
+		<text>Has obtenido algo de informaci&#243;n &#250;til del enviado. Rep&#243;rtate con Dushman.</text>
+	</string>
+	<string id="lttz_ms_start_killer_descr_kill">
+		<text>Has obtenido informaci&#243;n &#250;til y matado al enviado misterioso. Rep&#243;rtate con Dushman.</text>
+	</string>
+	
+	<string id="lttz_ms_start_stalker_descr">
+		<text>Sidorovich quiere que interrogues a un enviado misterioso que molesta a los stalkers en la Villa de los Novatos.</text>
+	</string>
+	<string id="lttz_ms_start_stalker_descr_talk">
+		<text>Has obtenido algo de informaci&#243;n &#250;til del enviado. Informe a Sidorovich.</text>
+	</string>
+	<string id="lttz_ms_start_stalker_descr_kill">
+		<text>Has obtenido informaci&#243;n &#250;til y matado al enviado misterioso. Rep&#243;rtate con Sidorovich.</text>
+	</string>
+	
+	<string id="lttz_ms_start_csky_descr">
+		<text>Cold quiere que interrogues a un enviado misterioso que molesta a los stalkers en la Base Oculta.</text>
+	</string>
+	<string id="lttz_ms_start_csky_descr_talk">
+		<text>Has obtenido algo de informaci&#243;n &#250;til del enviado. Rep&#243;rtate con Cold.</text>
+	</string>
+	<string id="lttz_ms_start_csky_descr_kill">
+		<text>Has obtenido informaci&#243;n &#250;til y matado al enviado misterioso. Rep&#243;rtate con Cold.</text>
+	</string>
+	
+	<string id="lttz_ms_start_freedom_descr">
+		<text>Lukash quiere que interrogues a un enviado misterioso que molesta a los stalkers en el Cuartel General de Libertad.</text>
+	</string>
+	<string id="lttz_ms_start_freedom_descr_talk">
+		<text>Has obtenido algo de informaci&#243;n &#250;til del enviado. Rep&#243;rtate con Lukash.</text>
+	</string>
+	<string id="lttz_ms_start_freedom_descr_kill">
+		<text>Has obtenido informaci&#243;n &#250;til y matado al enviado misterioso. Rep&#243;rtate con Lukash.</text>
+	</string>
+	
+	<string id="lttz_ms_start_ecolog_descr">
+		<text>El profesor Sakharov quiere que interrogues a un enviado misterioso que molesta a los guardias cerca del laboratorio del b&#250;nker m&#243;vil.</text>
+	</string>
+	<string id="lttz_ms_start_ecolog_descr_talk">
+		<text>Has obtenido algo de informaci&#243;n &#250;til del enviado. Informa al profesor Sakharov.</text>
+	</string>
+	<string id="lttz_ms_start_ecolog_descr_kill">
+		<text>Has obtenido informaci&#243;n &#250;til y matado al enviado misterioso. Informa al profesor Sakharov.</text>
+	</string>
+	
+	<string id="vodnik_notes_name">
+		<text>Notas de Vodnik</text>
+	</string>
+	<string id="vodnik_notes_desc">
+		<text>"Muchos se han unido a nuestra causa, ya sea que hayan entendido la magnificencia de la Zona desde el principio, o que requieran alguna explicaci&#243;n. Envidio a los Fundadores; fueron creados por los propios Maestros, &#161;pudieron ser testigos del nacimiento de Vyraj! Pero nos limpiaron, juzg&#225;ndonos dignos, y limpiar&#225;n a nuestros nuevos hermanos. Juntos, correremos la voz por todo el mundo."</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 2 -->
+	<string id="lttz_ms_red_forester_title">
+		<text>Pecado Mortal: Bosque Rojo</text>
+	</string>
+	<string id="lttz_ms_red_forester_descr">
+		<text>Habla con Forester sobre la posible actividad de Pecado en el Bosque Rojo.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 3 -->
+	<string id="lttz_ms_red_forest_attackers_title">
+		<text>Pecado Mortal: Cazadores del Bosque Rojo</text>
+	</string>
+	<string id="lttz_ms_red_forest_attackers_descr">
+		<text>Forester dedujo d&#243;nde pueden haber acampado los misteriosos stalkers que estas buscando. Confr&#243;ntalos.</text>
+	</string>
+	<string id="lttz_ms_red_forest_attackers_descr2">
+		<text>Busca en los cuerpos cualquier informaci&#243;n &#250;til.</text>
+	</string>
+	
+	<string id="attackers_pda_name">
+		<text>PDA del l&#237;der de escuadr&#243;n de Pecado</text>
+	</string>
+	<string id="attackers_pda_desc">
+		<text>Esta PDA sol&#237;a pertenecer al l&#237;der del escuadr&#243;n. Contiene un mapa del Bosque Rojo con un conjunto de lugares marcados, uno sin marcar entre ellos. Parece que el escuadr&#243;n estaba persiguiendo a alguien, y que estaban muy cerca de encontrarlo. Tambi&#233;n hay muchos datos adicionales encriptados; podr&#237;an ser valiosos.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 4 -->
+	<string id="lttz_ms_runaway_title">
+		<text>Pecado Mortal: Fugitivo</text>
+	</string>
+	<string id="lttz_ms_runaway_descr">
+		<text>Los de Pecado estaban persiguiendo a alguien. Se supon&#237;a que deb&#237;an revisar las minas del oeste. Ve a investigar en su lugar.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 5 -->
+	<string id="lttz_ms_needle_haystack_title">
+		<text>Pecado Mortal: Aguja en un pajar</text>
+	</string>
+	<string id="lttz_ms_needle_haystack_descr">
+		<text>Stitch requiere su dispositivo de pirater&#237;a para una tarea importante. Extrae el objeto de uno de los autobuses destrozados en el medio del cementerio de camiones.</text>
+	</string>
+	<string id="lttz_ms_return_stitch_descr">
+		<text>Has encontrado el dispositivo de pirater&#237;a. Ll&#233;vaselo a Stitch.</text>
+	</string>
+	
+	<string id="stitch_decoder_name">
+		<text>Decodificador de Stitch</text>
+	</string>
+	<string id="stitch_decoder_desc">
+		<text>Este dispositivo de hacking algo anticuado pertenece a Stitch. Deber&#237;a ser compatible con las piezas de tecnolog&#237;a tambien obsoletas que estan esparcidas por la Zona.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 6 -->
+	<string id="lttz_ms_report_title">
+		<text>Pecado Mortal: Informe de situaci&#243;n</text>
+	</string>
+	<string id="lttz_ms_report_dolg_descr">
+		<text>Seg&#250;n Stitch, Pecado ha estado preparando una campa&#241;a a gran escala. Reporta tus hallazgos al General Voronin.</text>
+	</string>
+	<string id="lttz_ms_report_killer_descr">
+		<text>Seg&#250;n Stitch, Pecado ha estado preparando una campa&#241;a a gran escala. Reporta tus hallazgos a Dushman.</text>
+	</string>
+	<string id="lttz_ms_report_stalker_descr">
+		<text>Seg&#250;n Stitch, Pecado ha estado preparando una campa&#241;a a gran escala. Reporta tus hallazgos a Sidorovich.</text>
+	</string>
+	<string id="lttz_ms_report_csky_descr">
+		<text>Seg&#250;n Stitch, Pecado ha estado preparando una campa&#241;a a gran escala. Reporta sus hallazgos a Cold.</text>
+	</string>
+	<string id="lttz_ms_report_freedom_descr">
+		<text>Seg&#250;n Stitch, Pecado ha estado preparando una campa&#241;a a gran escala. Reporta tus hallazgos a Lukash.</text>
+	</string>
+	<string id="lttz_ms_report_ecolog_descr">
+		<text>Seg&#250;n Stitch, Pecado ha estado preparando una campa&#241;a a gran escala. Reporta tus hallazgos al profesor Sakharov.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 7 -->
+	<string id="lttz_ms_ambush_title">
+		<text>Pecado Mortal: Emboscada</text>
+	</string>
+	<string id="lttz_ms_ambush_dolg_descr">
+		<text>Las fuerzas de Pecado est&#225;n invadiendo el Bar. Defiendete de ellas.</text>
+	</string>
+	<string id="lttz_ms_ambush_dolg_done_descr">
+		<text>Has repelido el asalto enemigo. Rep&#243;rtate con el general Voronin.</text>
+	</string>
+	<string id="lttz_ms_ambush_killer_descr">
+		<text>Las fuerzas de Pecado est&#225;n invadiendo la Ciudad de la Muerte. Defiendete de ellos.</text>
+	</string>
+	<string id="lttz_ms_ambush_killer_done_descr">
+		<text>Has repelido el asalto enemigo. Rep&#243;rtate con Dushman.</text>
+	</string>
+	<string id="lttz_ms_ambush_stalker_descr">
+		<text>Las fuerzas de Pecado est&#225;n invadiendo el Campamento de Novatos. Defiendete de ellos.</text>
+	</string>
+	<string id="lttz_ms_ambush_stalker_done_descr">
+		<text>Has repelido el asalto enemigo. Rep&#243;rtate con Sidorovich.</text>
+	</string>
+	<string id="lttz_ms_ambush_csky_descr">
+		<text>Las fuerzas de Pecado est&#225;n invadiendo la Aldea de Pescadores. Defiendete de ellos.</text>
+	</string>
+	<string id="lttz_ms_ambush_csky_done_descr">
+		<text>Has repelido el asalto enemigo. Rep&#243;rtate con Cold.</text>
+	</string>
+	<string id="lttz_ms_ambush_freedom_descr">
+		<text>Las fuerzas de Pecado est&#225;n invadiendo el cuartel general. Debes repelerlos.</text>
+	</string>
+	<string id="lttz_ms_ambush_freedom_done_descr">
+		<text>Has repelido el asalto enemigo. Rep&#243;rtate con Lukash.</text>
+	</string>
+	<string id="lttz_ms_ambush_ecolog_descr">
+		<text>Las fuerzas de Pecado est&#225;n asaltando el b&#250;nker m&#243;vil. Debes repelerlos.</text>
+	</string>
+	<string id="lttz_ms_ambush_ecolog_done_descr">
+		<text>Has repelido el asalto enemigo. Informa al profesor Sakharov.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task -->
+	<string id="lttz_ms_dark_crusade_title">
+		<text>Pecado Mortal: Cruzada Oscura</text>
+	</string>
+	<string id="lttz_ms_dark_crusade_descr">
+		<text>Pecado representa una amenaza considerable para la comunidad de stalkers. Has lo que puedas para detenerlos.</text>
+	</string>
+	<string id="lttz_ms_dark_crusade_descr2">
+		<text>Chernobog planea expandir la Zona para que abarque todo el mundo. Debe ser detenido.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 8 -->
+	<string id="lttz_ms_preemptive_strike_title">
+		<text>Pecado Mortal: Ataque preventivo</text>
+	</string>
+	<string id="lttz_ms_protect_miracle_machine_descr">
+		<text>Pecado intenta reactivar la M&#225;quina Milagrosa. Mata al escuadr&#243;n de centinelas cerca de la entrada del laboratorio.</text>
+	</string>
+	<string id="lttz_ms_protect_miracle_machine_descr2">
+		<text>Pecado intenta reactivar la M&#225;quina Milagrosa. Desciende al laboratorio y mata a cualquier enemigo que encuentres.</text>
+	</string>
+	<string id="lttz_ms_protect_miracle_machine_descr3">
+		<text>Pecado intenta reactivar la M&#225;quina Milagrosa. Evita que el &#250;ltimo equipo tenga &#233;xito.</text>
+	</string>
+	
+	<string id="lttz_ms_protect_brain_scorcher_descr">
+		<text>Pecado trata de reactivar el Cauterizador Cerebral. Viaja a Radar y elimina todas las fuerzas hostiles para evitar que lo hagan.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 9 -->
+	<string id="lttz_ms_to_war_title">
+		<text>Pecado Mortal: A la guerra</text>
+	</string>
+	<string id="lttz_ms_to_war_descr">
+		<text>Al fallar en la reactivaci&#243;n de las instalaciones ps&#237;quicas, Pecado declar&#243; guerra abierta. Viaja a Limansk para contactar con Rogue y formar un frente unido.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 10 -->
+	<string id="lttz_ms_urban_warfare_title">
+		<text>Pecado Mortal: Guerra urbana</text>
+	</string>
+	<string id="lttz_ms_urban_warfare_descr">
+		<text>Las fuerzas de Pecado ocupan la mayor parte de Limansk. Asesina a sus l&#237;deres para desbaratarlos.</text>
+	</string>
+	<string id="lttz_ms_urban_warfare_descr2">
+		<text>Has derrotado a los Castigadores de Pecado. Reporta tu &#233;xito a Rogue.</text>
+	</string>
+	
+	<string id="drekavac_notes_name">
+		<text>Notas de Drekavac</text>
+	</string>
+	<string id="drekavac_notes_desc">
+		<text>"Finalmente, despu&#233;s de varios a&#241;os de preparaci&#243;n, podemos continuar el plan de los Maestros. Es lamentable que tanta gente no nos crea, pero a veces las palabras no son suficientes. Est&#225;n cegados por los deseos humanos b&#225;sicos. Si insisten en continuar con sus formas violentas, los trataremos con violencia. Tal vez entonces lo entiendan. La semilla de Vyraj est&#225; brotando, y estoy aqu&#237; para extender el para&#237;so m&#225;s y m&#225;s all&#225;. Soy la punta de la lanza."</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 11 -->
+	<string id="lttz_ms_war_prisoner_title">
+		<text>Pecado Mortal: Prisionero de guerra</text>
+	</string>
+	<string id="lttz_ms_war_prisoner_descr">
+		<text>Rogue se las arregl&#243; para capturar a un miembro de Pecado. Interr&#243;galo para obtener informaci&#243;n &#250;til.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 12 -->
+	<string id="lttz_ms_contact_lost_title">
+		<text>Pecado Mortal: Contacto Perdido</text>
+	</string>
+	<string id="lttz_ms_contact_lost_descr">
+		<text>El equipo de exploradores enviado por Rogue no regres&#243; de su misi&#243;n. Investiga la situaci&#243;n.</text>
+	</string>
+	<string id="lttz_ms_contact_lost_descr2">
+		<text>Has conseguido obtener algo de informaci&#243;n del equipo. Vuelve a Rogue.</text>
+	</string>
+	
+	<string id="contact_lost_pda_name">
+		<text>PDA del l&#237;der del equipo de exploradores</text>
+	</string>
+	<string id="contact_lost_pda_desc">
+		<text>Esta PDA sol&#237;a pertenecer al l&#237;der del equipo de exploradores. Hab&#237;a logrado registrar cierta informaci&#243;n sobre las fuerzas enemigas antes de su prematura desaparici&#243;n.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 13 -->
+	<string id="lttz_ms_destruction_site_title">
+		<text>Pecado Mortal: Sitio de destrucci&#243;n</text>
+	</string>
+	<string id="lttz_ms_destruction_site_descr">
+		<text>Las fuerzas de Pecado se han atrincherado en una posici&#243;n fortificada en una antigua obra. Elim&#237;nalos para asegurar Limansk y abrir camino hacia el norte.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 14 -->
+	<string id="lttz_ms_hospital_assault_title">
+		<text>Pecado Mortal: Asalto a un hospital</text>
+	</string>
+	<string id="lttz_ms_hospital_assault_descr">
+		<text>Restos de la Ruta de Pecado en Limansk para acceder al Hospital Desierto.</text>
+	</string>
+	<string id="lttz_ms_hospital_assault_descr2">
+		<text>Expulsar a las fuerzas de Pecado del Hospital Desierto, de esa formas evitar&#225;s que se atrincheren mientras avanzas hacia la CNPP.</text>
+	</string>
+	<string id="lttz_ms_hospital_assault_descr3">
+		<text>Una voz telep&#225;tica te llam&#243; a la ubicaci&#243;n de un misterioso stalker. Investiga.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 15 -->
+	<string id="lttz_ms_heart_zone_title">
+		<text>Pecado Mortal: Coraz&#243;n de la zona</text>
+	</string>
+	<string id="lttz_ms_heart_zone_descr">
+		<text>Elimina las patrullas de Pecado en tu camino hacia el norte de la CNPP as&#237; podr&#225;s asegurar un viaje de regreso seguro.</text>
+	</string>
+	<string id="lttz_ms_heart_zone_descr2">
+		<text>Viaja a la zona ominosa conocida como los Generadores.</text>
+	</string>
+	<string id="lttz_ms_heart_zone_descr3">
+		<text>Un stalker no identificado contact&#243; con usted en la PDA. Por suerte, es aliado.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 16 -->
+	<string id="lttz_ms_decisive_blow_title">
+		<text>Pecado Mortal: Golpe decisivo</text>
+	</string>
+	<string id="lttz_ms_decisive_blow_descr">
+		<text>Las fuerzas de Pecado que quedan se est&#225;n reuniendo cerca de la entrada principal del Laboratorio de Guerra. At&#225;calos para desviar la atenci&#243;n de la misi&#243;n de sabotaje de Strelok.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 17 -->
+	<string id="lttz_ms_confrontation_title">
+		<text>Pecado Mortal: Confrontaci&#243;n</text>
+	</string>
+	<string id="lttz_ms_confrontation_descr">
+		<text>Pecado ha fallado cr&#237;ticamente en su misi&#243;n. Enfrenta a Chernobog.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 18 -->
+	<string id="lttz_ms_endgame_title">
+		<text>Pecado Mortal: Fin del juego</text>
+	</string>
+	<string id="lttz_ms_endgame_descr">
+		<text>Persigue a Chernobog e imp&#237;dele que pida su prejuicioso deseo.</text>
+	</string>
+	
+	<string id="chernobog_notes_name">
+		<text>Notas de Chernobog</text>
+	</string>
+	<string id="chernobog_notes_desc">
+		<text>"La Zona es un milagro. Los Maestros nos limpiaron. Pronto, pensamos que la Zona limpiar&#237;a el mundo. Pero no. Nuestro peque&#241;o para&#237;so pronto fue invadido por la gente defectuosa de un mundo pecaminoso. Y, en un acto de atrocidad impensable, la bestia llamada Strelok paraliz&#243; al valiente Monolito, y entr&#243; en las c&#225;maras de los Maestros para matar sus formas mortales. Sin embargo, no me desesperar&#233;. No puedo dejar que este milagro sea consumido por el vicio y la suciedad de los indignos. As&#237; que nosotros, Pecado, debemos embarcarnos en una b&#250;squeda para cumplir el deseo de los Maestros. Har&#233;mos la guerra a los violentos para conseguir la paz eterna".</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 19 -->
+	<string id="lttz_ms_choice_title">
+		<text>Pecado Mortal: Elecci&#243;n</text>
+	</string>
+	<string id="lttz_ms_choice_descr">
+		<text>Chernobog est&#225; muerto. Si quieres usar El Genio t&#250; mismo, es tu elecci&#243;n.</text>
+	</string>
+	<string id="lttz_ms_choice_descr2">
+		<text>Habla con el Genio del Monolito</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Task 20 -->
+	<string id="lttz_ms_zone_hero_title">
+		<text>Pecado Mortal: H&#233;roe de la zona</text>
+	</string>
+	<string id="lttz_ms_zone_hero_dolg_descr">
+		<text>Has evitado que Pecado acelere la expansi&#243;n de la Zona. Reporta tu &#233;xito al General Voronin.</text>
+	</string>
+	<string id="lttz_ms_zone_hero_killer_descr">
+		<text>Te has asegurado de que la Zona mantenga su actual estado lucrativo. Informa de tu &#233;xito a Dushman.</text>
+	</string>
+	<string id="lttz_ms_zone_hero_stalker_descr">
+		<text>Se enfrent&#243; a una amenaza a los stalkers en todas partes, y prevaleci&#243;. Informa de tu &#233;xito a Sidorovich.</text>
+	</string>
+	<string id="lttz_ms_zone_hero_csky_descr">
+		<text>Has evitado que la Zona se desequilibre. Reporta tu &#233;xito a Cold.</text>
+	</string>
+	<string id="lttz_ms_zone_hero_freedom_descr">
+		<text>Has evitado que un tirano se imponga en el mundo. Informa de tu &#233;xito a Lukash.</text>
+	</string>
+	<string id="lttz_ms_zone_hero_ecolog_descr">
+		<text>Has sobrevivido a una aventura que matar&#237;a a la mayor&#237;a de los cient&#237;ficos, y has mantenido la Zona a salvo para su estudio. Reporta tu &#233;xito al profesor Sakharov.</text>
+	</string>
+	
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Mortal Sin Unquenchable Flame Tasks -->
+	<string id="unquenchable_flame_task_name">
+		<text>Llama inextinguible</text>
+	</string>
+	<string id="unquenchable_flame_task_text">
+		<text>Los sobrevivientes de Pecado se est&#225;n reuniendo en Zaton. Tienes que eliminarlos.</text>
+	</string>
+	
+	<string id="esc_m_trader_task_4_about">
+		<text>Ver&#225;s, stalker, s&#233; que ya has peleado tu parte contra esos lun&#225;ticos de Pecado, pero Barbas me dijo los que quedan son muy activos. Varios stalkers informaron que han estado estableciendo una base en los talleres de la subestaci&#243;n abandonada en Zaton. Est&#225;n poniendo en peligro mis rutas comerciales y eso no me gusta. Ve a silenciarlos para siempre.</text>
+	</string>
+	<string id="esc_m_trader_task_4_finish">
+		<text>&#191;Seguro que no eres un ej&#233;rcito en un solo hombre, eh? Bien hecho, stalker. Espero que no volvamos a o&#237;r hablar de ellos.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_4_about">
+		<text>Has establecido una gran reputaci&#243;n al destruir casi por s&#237; solo a toda una facci&#243;n de lun&#225;ticos. Ver&#225;s, el asunto es que a&#250;n no han sido completamente destruidos. Nuestros chicos del puesto de avanzada en Zaton reportaron actividad sospechosa en los talleres de la subestaci&#243;n abandonada, y est&#225;n seguros de que es el Pecado otra vez. Elim&#237;nalos antes de que empiecen otra maldita cruzada.</text>
+	</string>
+	<string id="cit_killers_merc_trader_stalker_task_4_finish">
+		<text>Siempre puedo confiar en que terminar&#225;s el trabajo como un verdadero profesional. Aqu&#237; est&#225; tu recompensa.</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_about">
+		<text>Maldita sea, justo cuando estaba a punto de superar la historia de hace unos a&#241;os, esos tipos regresan de repente. Resulta que hay sobrevivientes de Pecado reagrup&#225;ndose en los talleres de la subestaci&#243;n abandonada en Zaton. S&#233; que es un largo viaje para llegar all&#225;, pero no me gusta la idea de que se fortalezcan all&#237; como una especie de tumor maligno. Toma algunos de nuestros hombres y elim&#237;nalos.</text>
+	</string>
+	<string id="mar_smart_terrain_base_stalker_leader_marsh_task_3_finish">
+		<text>Ah, bien hecho. Creo que hemos hecho nuestra parte de la guerra por los pr&#243;ximos a&#241;os, &#191;no crees?</text>
+	</string>
+		
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+</string_table>

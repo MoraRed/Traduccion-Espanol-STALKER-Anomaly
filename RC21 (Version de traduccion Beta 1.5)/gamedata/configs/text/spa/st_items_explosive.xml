@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Explosive items + Mines
+-->
+
+<string_table>
+
+	<string id="st_mine_name">
+		<text>Mina antipersonal de fragmentaci&#243;n PFM-1</text>
+	</string>
+	<string id="st_mine_descr">
+		<text>La PFM-1 (abreviatura de противопехотная фугасная мина; nombre de la OTAN: "Loro verde") sol&#237;a ser una mina antipersonal est&#225;ndar del Ej&#233;rcito Rojo, empleada principalmente durante la invasi&#243;n sovi&#233;tica de Afganist&#225;n. Su amplia utilizaci&#243;n durante el conflicto provoc&#243; un gran n&#250;mero de v&#237;ctimas civiles, especialmente entre los ni&#241;os, ya que las minas dispersas al azar se confund&#237;an a menudo con juguetes debido a su forma y color familiares. Por esta raz&#243;n, el PFM-1 se gan&#243; un siniestro apodo: "Asesino de ni&#241;os". Desde entonces, la mina ha sido reemplazada por nuevos modelos. Sin embargo, como fue el caso con una variedad de otras armas "retiradas", un gran n&#250;mero de estas minas se ha abierto camino de alguna manera en la Zona, convirti&#233;ndose en su principal explosivo trampa. La mina es muy apreciada principalmente por su funcionalidad, facilidad de uso, tama&#241;o compacto y bajo peso, mientras que su principal inconveniente es una cantidad relativamente peque&#241;a de material explosivo: su potencia es a menudo insuficiente para matar a un stalkers fuertemente blindado con una sola explosi&#243;n. Por esta raz&#243;n, la mina debe utilizarse en combinaci&#243;n con otros materiales explosivos y act&#250;a como un incendiario. Si no est&#225; armada, la mina no detonar&#225;, incluso si es tiroteada por una pistola.\n \n%c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] explosivo \n %c[d_blue] • %c[ui_gray_2] art&#237;culo militar\n %c[d_blue] • %c[ui_gray_2] mina antipersonal\n %c[d_purple] • %c[ui_gray_2] mecanismo desencadenante: %c[ui_gray_1]]presi&#243;n\n %c[d_purple] • %c[ui_gray_2] potencia de explosi&#243;n: %c[ui_gray_1]peque&#241;o\n %c[d_purple] • %c[ui_gray_2] radio de explosi&#243;n: %c[ui_gray_1]2,2 m\n %c[d_purple] • %c[ui_gray_2] radio de fragmentos: %c[ui_gray_1]ninguno\n %c[d_purple] • %c[ui_gray_2] n&#250;mero medio de fragmentos: %c[ui_gray_1]ninguno\n %c[d_purple] • %c[ui_gray_2] retraso de explosi&#243;n: %c[ui_gray_1]ninguno\n
+		</text>
+	</string>
+	
+	<string id="st_ied_rpg">
+		<text>Dispositivo explosivo improvisado (basado en una ojiva OG-7V)</text>
+	</string>
+	<string id="st_ied_rpg_descr">
+		<text>Dispositivo explosivo improvisado basado en una ojiva OG-7V y partes de una bater&#237;a de autom&#243;vil. Parece que ha sido transportado por bastante tiempo y podr&#237;a explotar en cualquier momento. Afortunadamente, el mecanismo de activaci&#243;n asegura que no lo har&#225; a menos que el explosivo sea golpeado directamente por una bala o sometido a otra fuerza f&#237;sica potente. En la Zona, los artefactos explosivos improvisados son bastante populares y los stalkers los utilizan para diversos fines, desde obtener acceso a &#225;reas cerradas hasta emboscadas. Tambi&#233;n se colocan a menudo junto a las minas para amplificar enormemente el poder de explosi&#243;n. Estos IED pueden ocultarse de manera efectiva, haci&#233;ndolo pr&#225;cticamente invisible para los dem&#225;s.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] explosivo\n %c[d_blue] • %c[ui_gray_2] elemento militar\n %c[d_blue] • %c[ui_gray_2] imperceptible cuando se coloca en el suelo\n %c[d_purple] • %c[ui_gray_2] mecanismo desencadenante: %c[ui_gray_1]proximidad \n %c[d_purple] • %c[ui_gray_2] potencia de explosi&#243;n: %c[ui_gray_1]alta \n %c[d_purple] • %c[ui_gray_2] radio de explosi&#243;n: %c[ui_gray_1]7.8 m \n %c[d_purple] • %c[ui_gray_2] radio de fragmentos: %c[ui_gray_1]56 m \n %c[d_purple] • %c[ui_gray_2] n&#250;mero medio de fragmentos: %c[ui_gray_1]440 (metralla) \n %c[d_purple] • %c[ui_gray_2] retardo de explosi&#243;n: %c[ui_gray_1]ninguno\n
+		</text>
+	</string>
+	
+	<string id="st_ied">
+		<text>Dispositivo explosivo improvisado (basado en qu&#237;micos)</text>
+	</string>
+	<string id="st_ied_descr">
+		<text>Dispositivo explosivo improvisado producido a partir de diversas sustancias qu&#237;micas, con un encendedor el&#233;ctrico roto y en un contenedor de bolas de acero. Los productos qu&#237;micos utilizados en el dispositivo producen un intenso olor y son muy t&#243;xicos. Este artefacto explosivo improvisado es significativamente m&#225;s potente que una versi&#243;n m&#225;s com&#250;n del OG-7V. En la Zona, los IED son bastante populares y los stalkers los usan para una variedad de prop&#243;sitos, desde acceder a &#225;reas cerradas hasta emboscadas. Tambi&#233;n se colocan a menudo junto a las minas para amplificar enormemente la potencia de la explosi&#243;n. Este IED puede ocultarse de manera efectiva, haci&#233;ndolo pr&#225;cticamente invisible para todos los dem&#225;s.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] explosivo\n %c[d_blue] • %c[ui_gray_2] elemento militar\n %c[d_blue] • %c[ui_gray_2] imperceptible cuando se coloca en el suelo\n %c[d_purple] • %c[ui_gray_2] mecanismo desencadenante: %c[ui_gray_1]proximidad\n %c[d_purple] • %c[ui_gray_2] potencia de explosi&#243;n: %c[ui_gray_1]muy alta \n %c[d_purple] • %c[ui_gray_2] radio de explosi&#243;n: %c[ui_gray_1]12.9 m \n %c[d_purple] • %c[ui_gray_2] radio de los fragmentos: %c[ui_gray_1]74 m \n %c[d_purple] • %c[ui_gray_2] n&#250;mero medio de fragmentos: %c[ui_gray_1]580 (bolas de acero) \n %c[d_purple] • %c[ui_gray_2] retardo de explosi&#243;n: %c[ui_gray_1]ninguno\n
+		</text>
+	</string>
+	
+	<string id="st_balon_gas">
+		<text>Bombona de gas
+		</text>
+	</string>
+	<string id="st_balon_gas_descr">
+		<text>\n \n %c[d_red]ADVERTENCIA: Explota con los impactos\n \n %c[ui_gray_1]Tanque de gas de metal pesado impregnado con pol&#237;mero compatible en el interior y en el exterior con Hypalon para la abrasi&#243;n clim&#225;tica y la resistencia a los rayos UV. Este recipiente de gas es un tanque de almacenamiento intermedio colapsable para cualquier gas industrial, antes de ser embotellado bajo presi&#243;n. En la Zona, estas bombonas contienen a menudo una composici&#243;n de metano, propano, etano y butano, y se pueden usar para cocinar o calentar, as&#237; como para fines de combate. Tras un impacto directo, el recipiente puede encenderse y despu&#233;s de un rato puede producirse una liberaci&#243;n r&#225;pida de una cantidad considerable de energ&#237;a, causando que el gas en el recipiente se expanda instant&#225;neamente y resultando en una explosi&#243;n demorada pero potente con metralla met&#225;lica en todas direcciones. Tales botes han sido utilizados como un arma en las peleas entre facciones en la Zona matando a muchos y hiriendo a&#250;n m&#225;s. Si se vac&#237;a, el tanque puede utilizarse para reparaciones de blindaje.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] explosivo\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] contiene: %c[ui_gray_1] gas natural refinado \n %c[d_green] • %c[ui_gray_2] combustible de cocina de alto nivel\n %c[d_purple] • %c[ui_gray_2] mecanismo de activaci&#243;n: %c[ui_gray_1]impacto o explosi&#243;n de bala \n %c[d_purple] • %c[ui_gray_2] potencia de explosi&#243;n: %c[ui_gray_1]muy alto \n %c[d_purple] • %c[ui_gray_2] radio de explosi&#243;n: %c[ui_gray_1]6.4 m \n %c[d_purple] • %c[ui_gray_2] radio de fragmentos: %c[ui_gray_1]36 m \n %c[d_purple] • %c[ui_gray_2] n&#250;mero medio de fragmentos: %c[ui_gray_1]28 (fragmentos de metales pesados) \n %c[d_purple] • %c[ui_gray_2] retraso de la explosi&#243;n: %c[ui_gray_1]~2 segundos\n
+		</text>
+	</string>
+
+	<string id="st_balon_gas_empty">
+		<text>Bombona de gas (vac&#237;a)</text>
+	</string>
+	<string id="st_balon_gas_empty_descr">
+		<text>Tanque de gas de metal pesado vac&#237;o impregnado con pol&#237;mero compatible en el interior y en el exterior con Hypalon para la abrasi&#243;n clim&#225;tica y la resistencia a los rayos UV. Este recipiente de gas es un tanque de almacenamiento intermedio colapsable para cualquier gas industrial, antes de ser embotellado bajo presi&#243;n. En la Zona, estas bombonas contienen a menudo una composici&#243;n de metano, propano, etano y butano, y se pueden usar para cocinar o calentar, as&#237; como para fines de combate. Est&#225; vac&#237;a ahora, pero a&#250;n puede usarla para el mantenimiento del equipo.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	
+	<string id="st_metalcan_powder">
+		<text>Lata de polvo
+		</text>
+	</string>
+	<string id="st_metalcan_powder_descr">
+		<text>\n \n %c[d_red]ADVERTENCIA: Explota con los impactos\n \n %c[ui_gray_1]Una lata de metal peque&#241;a y moderadamente pesada rellena con una mezcla de qu&#237;micos industriales explosivos, tornillos de metal y tuercas, as&#237; como p&#243;lvora negra extraida de munici&#243;n vieja. Una notoria trampa mortal dise&#241;ada por un grupo de bandidos rusos conocidos como "los Swireksters" y vendida a varios grupos de bandidos que operan en la Zona. Tras disparos directos, la lata explotar&#225; instant&#225;neamente lanzando tornillos de metal y productos qu&#237;micos corrosivos en todas las direcciones. Nadie en su sano juicio deber&#237;a bajar la guardia cuando planea usar este arma mortal. Tambi&#233;n puede usar las partes met&#225;licas de la lata para el mantenimiento de emergencia de las prendas.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] explosivo\n %c[d_blue] • %c[ui_gray_2] mecanismo de activaci&#243;n: %c[ui_gray_1]impacto o explosi&#243;n de bala \n %c[d_purple] • %c[ui_gray_2] potencia de explosi&#243;n: %c[ui_gray_1]bajo \n %c[d_purple] • %c[ui_gray_2] radio de explosi&#243;n: %c[ui_gray_1]1.8 m \n %c[d_purple] • %c[ui_gray_2] radio de fragmentos: %c[ui_gray_1]14 m \n %c[d_purple] • %c[ui_gray_2] n&#250;mero medio de fragmentos: %c[ui_gray_1]77 (peque&#241;as piezas de metal) \n %c[d_purple] • %c[ui_gray_2] retraso de la explosi&#243;n: %c[ui_gray_1]ninguno\n
+		</text>
+	</string>
+	
+	<string id="st_jerrycan_item">
+		<text>Bid&#243;n
+		</text>
+	</string>
+	
+	<string id="st_jerrycan_fuel">
+		<text>Bid&#243;n
+		</text>
+	</string>
+	<string id="st_jerrycan_fuel_descr">
+		<text>\n \n %c[d_red]ADVERTENCIA: explota al impactar\n \n %c[ui_gray_1]Una gran lata de metal llena de gasolina E95. Los militares ucranianos trajeron bidones a la Zona en grandes cantidades para sus veh&#237;culos blindados. Inicialmente, cumplieron su prop&#243;sito, pero despu&#233;s del segundo desastre de Chernobyl, los veh&#237;culos por razones a&#250;n desconocidas ya no estaban operativos. Mientras que algunos stalkers todav&#237;a est&#225;n tratando de hacer que los restos vuelvan a funcionar, otros han encontrado formas alternativas de utilizar los bidones: como explosivos improvisados. En caso de impacto directo, el bid&#243;n se incendiar&#225; y explotar&#225; despu&#233;s de un ligero retraso. Aunque pesado y engorroso, es extremadamente poderoso, y un bid&#243;n bien colocado puede ser letal incluso si el blanco usa las armaduras m&#225;s pesadas. Por otro lado, la explosi&#243;n a menudo es tan potente que el asesino se convierte en la v&#237;ctima, por lo que es mejor usar estos recipientes con precauci&#243;n. Hay rumores de que un stalker veterano llamado Yuya una vez salv&#243; el pellejo al atraer a un pseudogigante a una trampa con un bid&#243;n. Vaci&#243; el &#250;ltimo cartucho de su Makarov y el gigante estall&#243; en llamas con un rugido que se escuch&#243; en todo el J&#250;piter.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] explosivo\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] contiene: %c[ui_gray_1]gasolina E95 \n %c[d_green] • %c[ui_gray_2] combustible de cocina de alto nivel \n %c[d_purple] • %c[ui_gray_2] utilizable para: %c[ui_gray_1]mantenimiento de armas (+4%) \n %c[d_purple] • %c[ui_gray_2] mecanismo desencadenante: %c[ui_gray_1]impacto o explosi&#243;n de bala \n %c[d_purple] • %c[ui_gray_2] potencia de explosi&#243;n: %c[ui_gray_1]alto \n %c[d_purple] • %c[ui_gray_2] radio de explosi&#243;n: %c[ui_gray_1]5.6 m \n %c[d_purple] • %c[ui_gray_2] radio de fragmentos: %c[ui_gray_1]28 m \n %c[d_purple] • %c[ui_gray_2] n&#250;mero medio de fragmentos: %c[ui_gray_1]39 (fragmentos de metales pesados) \n %c[d_purple] • %c[ui_gray_2] retraso de la explosi&#243;n: %c[ui_gray_1]~3 segundos
+		</text>
+	</string>
+
+	<string id="st_jerrycan_fuel_empty">
+		<text>Bid&#243;n (vac&#237;o)</text>
+	</string>
+	<string id="st_jerrycan_fuel_empty_descr">
+		<text>Bindon de metal vac&#237;o. Solo se puede utilizar como material para reparaciones b&#225;sicas de equipo o se puede vender a comerciantes.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] explosivo\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	
+</string_table>

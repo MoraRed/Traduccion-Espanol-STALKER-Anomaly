@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!--
+	Advanced Weapon Repair Mod 0.3 by Faustle (2017)
+-->
+
+<string_table>
+	<!--
+		Interface
+	-->
+	<string id="st_current_condition">
+		<text>Condici&#243;n actual: </text>
+	</string>
+	<string id="st_detail_success">
+		<text>+++ La parte [%s] se ha instalado correctamente</text>
+	</string>
+	<string id="st_detail_fail">
+		<text>--- La parte [%s] se ha da&#241;ado durante el reemplazo</text>
+	</string>
+	<string id="st_quality_worn">
+		<text>++++ Una o m&#225;s partes han sido reemplazadas por otras peores. La calidad del arma cambi&#243; a desgastado.</text>
+	</string>
+	<string id="st_quality_good">
+		<text>++++ Todas las partes han sido reemplazadas por otras en funcionamiento. El arma ahora est&#225; en una condici&#243;n &#243;ptima.</text>
+	</string>
+	<string id="st_quality_wgood">
+		<text>++++ Todas las partes han sido reemplazadas. La calidad del arma no ha cambiado.</text>
+	</string>
+	<string id="st_already_repair">
+		<text>--- El reemplazamiento de partes ha sido completado. Para aumentar la calidad del arma, la condici&#243;n debe ser del 100%</text>
+	</string>
+	<string id="st_no_barrel">
+		<text>--- No es posible reemplazar ninguna de las partes antes de reemplazar el barril</text>
+	</string>
+	<string id="st_bar_no_need_new">
+		<text>--- El barril del arma no requiere ser reemplazado</text>
+	</string>
+	<string id="st_part_no_need_new">
+		<text>--- Las partes del arma no requieren ser reemplazadas</text>
+	</string>
+	<string id="st_bar_no_need_old">
+		<text>--- El barril de esta arma no requiere ser requiere ser reemplazado. Para aumentar la calidad del arma, la condici&#243;n debe ser del 100%</text>
+	</string>
+	<string id="st_part_no_need_old">
+		<text>--- Las partes del arma no requieren ser reemplazadas. Para aumentar la calidad del arma, la condici&#243;n debe ser del 100%</text>
+	</string>
+	<string id="st_no_barrel_to_kit">
+		<text>--- No hay barriles compatibles del calibre [%s]</text>
+	</string>
+	<string id="st_no_details">
+		<text>--- No hay partes disponibles para [%s]</text>
+	</string>
+	<string id="st_selected_worn">
+		<text>--- Seleccionado%s: [%s] Probabilidad de exito en la reparaci&#243;n: %i%% Para reparar, restaure la parte.</text>
+	</string>
+	<string id="st_selected_good">
+		<text>--- Seleccionado%s: \[%s] Probabilidad de exito en la reparaci&#243;n: %i%%</text>
+	</string>
+	<string id="st_selected_r_kit">
+		<text>--- Seleccionado: [%s]</text>
+	</string>
+	<string id="st_sel_detail">
+		<text>--- Clickea en la imagen de la parte correspondiente para empezar a reemplazar</text>
+	</string>
+	<string id="st_cond_grow">
+		<text>Condici&#243;n: %i%%</text>
+	</string>
+	<string id="st_awr_back">
+		<text>Atras</text>
+	</string>
+	<string id="st_awr_exit">
+		<text>Salir</text>
+	</string>
+	<string id="st_awr_ctrl">
+		<text>%sPara evitar el desarmado accidental de objetos,\nel procedimiento debe ser realizado solo cuando la tecla ALT es presionada%s</text>
+	</string>
+	<string id="st_unload">
+		<text>El arma debe ser descargada y estar libre de accesorios antes del mantenimiento.</text>
+	</string>
+	<string id="st_no_weap">
+		<text>Se debe quitar el arma para usar el banco.</text>
+	</string>
+	<string id="st_handsfree">
+		<text>Tus manos est&#225;n ocupadas</text>
+	</string>
+	<string id="st_stolen_1">
+		<text>El mecanismo del gatillo ha sido robado durante tu ausencia. La condici&#243;n ha empeorado.</text>
+	</string>
+	<string id="st_stolen_2">
+		<text>La cabeza de la recamara ha sido robada durante tu ausencia. La condici&#243;n ha empeorado.</text>
+	</string>
+	<string id="st_stolen_3">
+		<text>El cerrojo del arma ha sido robado de tu arma durante tu ausencia. La condici&#243;n ha empeorado.</text>
+	</string>
+	<string id="st_not_in_list">
+		<text>No posees el conocimiento para reparar esta arma.</text>
+	</string>
+	<string id="st_awr_timer_msg_on">
+		<text>%sTienes cinco minutos%s</text>
+	</string>
+	<string id="st_awr_timer_msg_off">
+		<text>%sEl tiempo se ha acabado%s</text>
+	</string>
+	<string id="st_awr_dead_mechanic">
+		<text>%sEl t&#233;cnico %s ha sido asesinado %s %s\nEl acceso al banco de trabajo ahora es gratis</text>
+	</string>
+	<string id="st_by_unknown">
+		<text>desconocido</text>
+	</string>
+	<string id="st_mech_tiski">
+		<text>banco del t&#233;cnico\n</text>
+	</string>
+	<string id="st_mech_tiski_w">
+		<text>Banco del tecnico con %s</text>
+	</string>
+	<!-- ListBox status texts -->
+	<string id="st_ending_1">
+		<text>ы</text>
+	</string>
+	<string id="st_ending_2">
+		<text>а</text>
+	</string>
+	<string id="st_ending_3">
+		<text>о</text>
+	</string>
+	<string id="st_text_status">
+		<text>[CONDICI&#211;N]:%s%s%%</text>
+	</string>
+	<string id="st_text_wpn">
+		<text>[ARMA]:%s%s</text>
+	</string>
+	<string id="st_text_mode">
+		<text>[MODO]:%s%s</text>
+	</string>
+	<string id="st_text_mode_1">
+		<text>RESTAURACI&#211;N</text>
+	</string>
+	<string id="st_text_mode_2">
+		<text>REPARAR CON LA POSIBILIDAD DE RESTAURACI&#211;N</text>
+	</string>
+	<string id="st_text_mode_3">
+		<text>NO DISPONIBLE</text>
+	</string>
+	<string id="st_text_warning_mode_1_4">
+		<text>%Despu&#233;s de la mejora, el estado del arma ser&#225; %s%%, y la calidad - nueva</text>
+	</string>
+	<string id="st_text_warning_mode_1_3">
+		<text>%sCu&#225;ndo se mejora, solo es posible utilizar partes en funcionamiento.</text>
+	</string>
+	<string id="st_text_warning_mode_1_1">
+		<text>[Atenci&#243;n]: En este modo, solo es posible mejorar armas oxidadas y desgastadas</text>
+	</string>
+	<string id="st_text_warning_mode_2_5">
+		<text>%sDespues de finalizar la reparaci&#243;n con mejora: %i%% para desgastado y %i%% para nuevo.</text>
+	</string>
+	<string id="st_text_warning_mode_2_4">
+		<text>%sDespues de finalizar la reparaci&#243;n sin mejora, la condici&#243;n del arma ser&#225; %i%%</text>
+	</string>
+	<string id="st_text_warning_mode_2_3">
+		<text>%sLa calidad del arma, al mismo tiempo, corresponder&#225; a la parte reemplazada de menor calidad.</text>
+	</string>
+	<string id="st_text_warning_mode_2_1">
+		<text>[Atenci&#243;n]: En este modo es posible reparar y mejorar armas</text>
+	</string>
+	<string id="st_text_warning_mode_3_3">
+		<text>%sMejorar no es posible hasta que el estado haya subido al 100%</text>
+	</string>
+	<string id="st_text_warning_mode_3_2">
+		<text>[PRECAUCI&#211;N]: Reparar esta arma no es posible, debido a que la condici&#243;n de la calidad del arma est&#225; al maximo.</text>
+	</string>
+	<string id="st_text_warning_mode_3_1">
+		<text>[PRECAUCI&#211;N]: La calidad del arma ya se encuentra al maximo. Por ende la restauraci&#243;n no es posible.</text>
+	</string>
+	<string id="st_text_warning_mode_help">
+		<text>Para ayuda, presiona F1</text>
+	</string>
+	<!-- Disassembly -->
+	<string id="st_dis_news">
+		<text>[AWR]</text>
+	</string>
+	<string id="st_dis_count">
+		<text>шт.</text>
+	</string>
+	<string id="st_dis_text_1">
+		<text>%s %s %s %s ha sido desmontado</text>
+	</string>
+	<string id="st_dis_text_2">
+		<text>%sIntentaste desarmar %s %s, pero no se han obtenido partes.</text>
+	</string>
+	<string id="st_dis_text_3">
+		<text>%sFaltan las herramientas requeridas %s %s</text>
+	</string>
+	<string id="st_dis_text_4">
+		<text>\nLos cargadores han sido removidos: %iPC type %s\nObjetos recibidos </text>
+	</string>
+	<string id="st_dis_text_5">
+		<text>%sHas logrado restaurar la parte %s\n%s</text>
+	</string>
+	<string id="st_dis_text_6">
+		<text>%sNo has podido restaurar la parte %s</text>
+	</string>
+	<string id="st_dis_text_7">
+		<text>%s %s %s %s %s</text> <!--text>%s %s %s %s has been disassembled</text-->
+	</string>
+	<string id="st_dis_text_8">
+		<text>%s %s %s %s %s ha sido cortado</text>
+	</string>
+	<string id="st_dis_text_9">
+		<text>\nPartes obtenidas: </text>
+	</string>
+	<string id="st_dis_text_10">
+		<text>%sHas intentado cortar %s %s, pero no se han obtenido partes.</text>
+	</string>
+	<string id="st_dis_text_11">
+		<text>%s %s %s %s %s</text>
+	</string>
+	<!-- Dialogues -->
+	<string id="st_awr_dialog_1">
+		<text>&#191;Puedo usar tu mesa de trabajo? Necesito arreglar algo.</text>
+	</string>
+	<string id="st_awr_dialog_2">
+		<text>Esta bien… es toda tuya por mil rublos</text>
+	</string>
+	<string id="st_awr_dialog_3">
+		<text>Aqu&#237;.</text>
+	</string>
+	<string id="st_awr_dialog_4">
+		<text>Genial. Me tomar&#233; un descanso por el momento. Mientras tanto, ap&#250;rate, tengo m&#225;s trabajo que hacer hoy.</text>
+	</string>
+	<string id="st_awr_dialog_5">
+		<text>No tengo tanto.</text>
+	</string>
+	<string id="st_awr_dialog_6">
+		<text>Toma.</text>
+	</string>
+	<string id="st_awr_dialog_7">
+		<text>Has sido util para m&#237;, asi que te dejar&#233; usarlo. Pero intenta apresurarte, tengo m&#225;s trabajo que realizar hoy.</text>
+	</string>
+
+	<!-- Sell dialog -->
+	<string id="st_awr_sell_dialog_1">
+		<text>Tengo algunos repuestos. &#191;Conoces a alguien que podr&#237;a comprarlos?</text>
+	</string>
+	<string id="st_awr_sell_dialog_2">
+		<text>Los t&#233;cnicos como yo guardamos todo tipo de basura de la que se te pueda ocurrir. Podr&#237;a comprarlo yo. Por el precio adecuado, claro.</text>
+	</string>
+	<string id="st_awr_sell_dialog_3">
+		<text>&#191;Y cu&#225;l es tu oferta?</text>
+	</string>
+	<string id="st_awr_sell_dialog_4">
+		<text>Bueno, por partes funcionales puedo darte 300 RU por parte nueva. Las gastadas por 150. Sobre el resto de la basura, obtienes 250 por piezas nuevas y 125 por piezas gastadas. Eh, 60 deber&#237;a ser bueno para las partes oxidadas. Estos no son tan &#250;tiles, ya sabes.</text>
+	</string>
+	<string id="st_awr_sell_dialog_5">
+		<text>Hmm… bueno, tu oferta es medio regular. Igual no tengo m&#225;s uso que darles. Ten, dame el dinero.</text>
+	</string>
+	<string id="st_awr_sell_dialog_6">
+		<text>Eso es un poco barato para m&#237;, supongo que me lo pensar&#233;.</text>
+	</string>
+	<string id="st_awr_sell_dialog_7">
+		<text>Me alegro de hacer negocios contigo. Si tienes mas repuestos, ya sabes donde encontrarme.</text>
+	</string>
+	<string id="st_awr_sell_dialog_8">
+		<text>Uh, lo pensar&#233;. Gracias.</text>
+	</string>
+
+	<!-- Help -->
+	<string id="st_awr_help_0">
+		<text>Instrucciones</text>
+	</string>
+	<string id="st_awr_help_1">
+		<text>El procedimiento de reparaci&#243;n se ve afectado por la calidad general del arma (nueva, desgastada, oxidada) y su estado actual. Adem&#225;s, los t&#233;rminos 0–65, 0–75 y 0–85 determinan el estado del arma para cada uno de los tipos de calidad: 0–65% para armas oxidadas, 0–75% para armas gastadas y 0–85% para armas nuevas.</text>
+	</string>
+	<string id="st_awr_help_2">
+		<text>Procedimiento de reparaci&#243;n y actualizaci&#243;n (armas con condici&#243;n de 0–65 / 0–75 / 0–85):</text>
+	</string>
+	<string id="st_awr_help_3">
+		<text>1. Seleccione un kit de reparaci&#243;n para reemplazar el ca&#241;&#243;n del arma con otro ca&#241;&#243;n del mismo calibre con el estado del arma de 0–20 / 0–25 / 0–30 o usando un kit de mantenimiento de armas en una condici&#243;n del 20–65 / 25– 75 / 30–85 haciendo doble clic en el nombre del conjunto con la lista.\n2. Seleccione una parte de la lista con un solo clic del mouse. El reemplazo de piezas al reparar armas con un estado bajo ocurre en una secuencia determinada:\n \La condici&#243;n 0–20 / 0–25 / 0–30%: Reemplazo del ca&#241;&#243;n \nLa condici&#243;n 20–35 / 25–45 / 30–55%: Reemplazo del gatillo (mecanismo de choque-gatillo) \nLa condici&#243;n 35–45 / 45–60 / 55–70%: Reemplazo de la cabeza de la rec&#225;mara \nLa condici&#243;n 45–55 / 60–70 / 70–80%: Reemplazo de gas tubo \nLas condiciones 55–65 / 70–75 / 80–85%: Reemplazo del bloque de nalgas \n \n3. Haga clic en la imagen de la parte que se est&#225; reemplazando actualmente (la parte seleccionada para el reemplazo que est&#225; disponible para reemplazo se indica mediante una luz verde). Intentar reemplazar una parte gasta una carga de un cintur&#243;n. set\n4. En caso de que el reemplazo sea exitoso, este procedimiento se repite para todas las partes en el orden especificado\n5. En caso de que la pieza se haya da&#241;ado, intente nuevamente si hay un kit de reparaci&#243;n y m&#225;s piezas de armas.\n6. Todas las partes reemplazadas se conservan hasta que se baja la condici&#243;n del arma. En este caso, para mejorar la calidad, las piezas deber&#225;n reemplazarse nuevamente.\n7. Cuando se hayan reemplazado las cinco partes, la calidad del arma se cambiar&#225; a la correspondiente. En esa nota, si al menos uno de los elementos reemplazados se ha desgastado, la calidad del arma se cambiar&#225; a "desgastada", incluso si otras partes del arma se reemplazan por otras nuevas.</text>
+	</string>
+	<string id="st_awr_help_4">
+		<text>El orden predeterminado de reemplazar las partes del arma se debe a la necesidad de hacer coincidir las partes con el estado del arma, ya que todas las partes reemplazadas para cada arma que alguna vez se repararon parcialmente en el banco se almacenan en la memoria del juego. Esto le permite continuar reparando desde la misma ubicaci&#243;n sin tener que reemplazar piezas, siempre que la condici&#243;n del arma no haya disminuido despu&#233;s de la reparaci&#243;n.</text>
+	</string>
+	<string id="st_awr_help_5">
+		<text>El procedimiento de actualizaci&#243;n de armas solo est&#225; disponible en una condici&#243;n del 95–100% para armas de calidad oxidada o desgastada:</text>
+	</string>
+	<string id="st_awr_help_6">
+		<text>1. Seleccione un kit de reparaci&#243;n para reemplazar el ca&#241;&#243;n o un kit de actualizaci&#243;n de armas en la lista haciendo doble clic en el nombre del conjunto en la lista. El pedido de reemplazo no est&#225; disponible para actualizaci&#243;nes.\n2. Seleccione una parte correspondiente al kit de reparaci&#243;n en la lista con un solo clic del mouse. Al actualizar, solo se pueden usar partes en funcionamiento. \n3. Haga clic en la imagen de la parte que se est&#225; reemplazando actualmente \n4. En caso de que el reemplazo sea exitoso, este procedimiento sigue siendo el mismo para todas las otras partes del arma. \n5. En caso de que la pieza se haya da&#241;ado, intente nuevamente si hay un kit de reparaci&#243;n y m&#225;s piezas de armas. \n6. Todas las partes reemplazadas se retienen hasta que se baja el estado del arma. En este caso, para mejorar la calidad, las piezas requerir&#225;n m&#225;s reemplazos. \n7. Cuando las cinco partes han sido reemplazadas por otras nuevas, la calidad del arma cambiar&#225; a "nueva".</text>
+	</string>
+</string_table>

@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	
+	<string id="st_achievement_1_name">
+		<text>Bolsillos pesados</text>
+	</string>
+	<string id="st_achievement_1_hint">
+		<text>Los comerciantes est&#225;n m&#225;s dispuestos a venderte equipo de nivel superior, incluso si no cumples con los requisitos de buena voluntad de su facci&#243;n.</text>
+	</string>
+	<string id="st_achievement_1_descr">
+		<text>Tu gran riqueza se ha hecho muy conocida entre los comerciantes de la Zona. Ansiosos por tu patrocinio, es m&#225;s probable que te ofrezcan sus mejores productos, sin importar tu posici&#243;n en la facci&#243;n.</text>
+	</string>
+	<string id="st_achievement_1_unlock">
+		<text>Has desbloqueado el logro "Bolsillos pesados".</text>
+	</string>
+	
+	<string id="st_achievement_2_name">
+		<text>Radioterapia</text>
+	</string>
+	<string id="st_achievement_2_hint">
+		<text>Cada vez que se inicia una tormenta ps&#237;quica o una emisi&#243;n, existe la posibilidad de que no necesites ponerte a cubierto.</text>
+	</string>
+	<string id="st_achievement_2_descr">
+		<text>Tu mente se ha adormecido con los susurros, y ya no temes el peligro de las emisiones o las tormentas ps&#237;quicas. A veces, su llegada incluso te trae paz.</text>
+	</string>
+	<string id="st_achievement_2_unlock">
+		<text>Has desbloqueado el logro "Radioterapia".</text>
+	</string>
+	
+	<string id="st_achievement_3_name">
+		<text>Infopreneur</text>
+	</string>
+	<string id="st_achievement_3_hint">
+		<text>Los comerciantes ahora te pagar&#225;n un peque&#241;o bono por cualquier otro PDA que les entregues.</text>
+	</string>
+	<string id="st_achievement_3_descr">
+		<text>Los artefactos son llamativos, pero el conocimiento es donde reside el verdadero poder. Habiendo aprendido esto a trav&#233;s de la experiencia, puedes cobrar m&#225;s por los secretos que vendes.</text>
+	</string>
+	<string id="st_achievement_3_unlock">
+		<text>Has desbloqueado el logro "Infopreneur".</text>
+	</string>
+	
+	<string id="st_achievement_4_name">
+		<text>Duga Libre</text>
+	</string>
+	<string id="st_achievement_4_hint">
+		<text>Es m&#225;s probable que los stalkers se desplacen a trav&#233;s de Yantar y Radar, lo que posiblemente aumente su poblaci&#243;n en las zonas septentrionales.</text>
+	</string>
+	<string id="st_achievement_4_descr">
+		<text>Despu&#233;s de ver lo que la experimentaci&#243;n imprudente hab&#237;a tra&#237;do a la Zona, decidiste cerrar algunos de sus proyectos cient&#237;ficos deteriorados. Con dos importantes campos ps&#237;quicos desactivados, los caminos a trav&#233;s de Yantar y Radar son ahora m&#225;s accesibles que nunca.</text>
+	</string>
+	<string id="st_achievement_4_unlock">
+		<text>Has desbloqueado el logro "Duga Libre".</text>
+	</string>
+	
+	<string id="st_achievement_5_name">
+		<text>Buen Carnicero</text>
+	</string>
+	<string id="st_achievement_5_hint">
+		<text>Eres capaz de desollar mutantes mucho m&#225;s r&#225;pido de lo normal.</text>
+	</string>
+	<string id="st_achievement_5_descr">
+		<text>Con raz&#243;n, la fauna de la Zona te teme: una gran parte ha ca&#237;do en tus manos. La pr&#225;ctica hace que el trabajo sea r&#225;pido, y de hecho has practicado mucho.</text>
+	</string>
+	<string id="st_achievement_5_unlock">
+		<text>Has desbloqueado el logro "Buen Carnicero".</text>
+	</string>
+	
+	<string id="st_achievement_6_name">
+		<text>Plata o Plomo</text>
+	</string>
+	<string id="st_achievement_6_hint">
+		<text>Los stalkers que se rinden ocasionalmente pueden revelar la ubicaci&#243;n de un segundo alijo.</text>
+	</string>
+	<string id="st_achievement_6_descr">
+		<text>Los cuerpos y los casquillos de bala ensucian las v&#237;as detr&#225;s de ti. Tus enemigos te conocen como un asesino despiadado. Los que sobreviven a tus horribles ataques est&#225;n ahora mucho m&#225;s dispuestos a desprenderse de sus bienes si eso significa vivir para presenciar otro d&#237;a.</text>
+	</string>
+	<string id="st_achievement_6_unlock">
+		<text>Has desbloqueado el logro "Plata o plomo".</text>
+	</string>
+	
+	<string id="st_achievement_7_name">
+		<text>Guerra Mecanizada</text>
+	</string>
+	<string id="st_achievement_7_hint">
+		<text>Los art&#237;culos de bonificaci&#243;n utilizados en reparaciones son m&#225;s efectivos.</text>
+	</string>
+	<string id="st_achievement_7_descr">
+		<text>Agradecido por tu diligente asistencia, el t&#233;cnico al que has ayudado a equiparse ha decidido ense&#241;arte una o dos cosas sobre el mantenimiento de campo, permiti&#233;ndote hacer reparaciones m&#225;s eficientes por ti mismo.</text>
+	</string>
+	<string id="st_achievement_7_unlock">
+		<text>Has desbloqueado el logro "Guerra mecanizada".</text>
+	</string>
+	
+	<string id="st_achievement_8_name">
+		<text>Turista</text>
+	</string>
+	<string id="st_achievement_8_hint">
+		<text>Tu profunda familiaridad con la Zona te ha permitido deducir el paradero de algunos de los mejores escondites.</text>
+	</string>
+	<string id="st_achievement_8_descr">
+		<text>A pesar de los peligros, has explorado todas las partes accesibles de la Zona. Desde las turbias profundidades del Gran Pantano hasta el paisaje ex&#243;tico de los Generadores... conoces la Zona como la palma de tu mano.</text>
+	</string>
+	<string id="st_achievement_8_unlock">
+		<text>Has desbloqueado el logro "Turista".</text>
+	</string>
+	
+	<string id="st_achievement_9_name">
+		<text>Trapo Y Hueso</text>
+	</string>
+	<string id="st_achievement_9_hint">
+		<text>Ocasionalmente encuentras m&#225;s bot&#237;n al buscar en los escondites.</text>
+	</string>
+	<string id="st_achievement_9_descr">
+		<text>Despu&#233;s de haber adquirido una amplia experiencia husmeando en los escondites de otros stalkers, has aprendido a usar fondos falsos y bolsas secretas en las que se pueden esconder otras cosas.</text>
+	</string>
+	<string id="st_achievement_9_unlock">
+		<text>Has desbloqueado el logro "Trapo y hueso".</text>
+	</string>
+	
+	<string id="st_achievement_10_name">
+		<text>Finalista</text>
+	</string>
+	<string id="st_achievement_10_hint">
+		<text>Todos los logros disponibles han sido desbloqueados.</text>
+	</string>
+	<string id="st_achievement_10_descr">
+		<text>Todo lo que hay que lograr se ha logrado. El camino ha sido largo, pero has llegado al final, triunfante.</text>
+	</string>
+	<string id="st_achievement_10_unlock">
+		<text>Has desbloqueado el logro "Finalista".</text>
+	</string>
+	
+	<string id="st_achievement_11_name">
+		<text>Pensamiento Ilusorio</text>
+	</string>
+	<string id="st_achievement_11_hint">
+		<text>Has desbloqueado "Renegados" como una facci&#243;n jugable.</text>
+	</string>
+	<string id="st_achievement_11_descr">
+		<text>Hiciste lo que fuera necesario para obtener los secretos de uno de los mayores stalkers de la Zona. Aunque eres esc&#233;ptico, te revel&#243; toda la verdad, lo que lograste en la b&#250;squeda del conocimiento no puede ser negado.</text>
+	</string>
+	<string id="st_achievement_11_unlock">
+		<text>Has desbloqueado el logro "Pensamiento Ilusorio".</text>
+	</string>
+	
+	<string id="st_achievement_12_name">
+		<text>Bajo Tierra</text>
+	</string>
+	<string id="st_achievement_12_hint">
+		<text>Los helic&#243;pteros Mi-2 aparecer&#225;n en lugar de los Mi-24.</text>
+	</string>
+	<string id="st_achievement_12_descr">
+		<text>Cuanto m&#225;s alto vuelan, m&#225;s fuerte caen. Dispuestos a no desperdiciar ning&#250;n equipo costoso, los helic&#243;pteros de la Zona parecen ser ahora de una variedad mucho m&#225;s d&#233;bil. Pero no son menos tentadores de destruir.</text>
+	</string>
+	<string id="st_achievement_12_unlock">
+		<text>Has desbloqueado el logro "Bajo Tierra".</text>
+	</string>
+	
+	<string id="st_achievement_13_name">
+		<text>Ge&#243;logo</text>
+	</string>
+	<string id="st_achievement_13_hint">
+		<text>Tiene m&#225;s posibilidades de encontrar artefactos despu&#233;s de una emisi&#243;n.</text>
+	</string>
+	<string id="st_achievement_13_descr">
+		<text>Tararear, silbar y escupir... las anomal&#237;as de la Zona ya no te asustan. Su amplia experiencia con los detectores hace que los artefactos sean m&#225;s f&#225;ciles de encontrar.</text>
+	</string>
+	<string id="st_achievement_13_unlock">
+		<text>Has desbloqueado el logro "Ge&#243;logo".</text>
+	</string>
+	
+	<string id="st_achievement_14_name">
+		<text>H&#233;roe popular</text>
+	</string>
+	<string id="st_achievement_14_hint">
+		<text>Puedes reclutar grupos m&#225;s grandes de acompa&#241;antes para que sean tus compa&#241;eros.</text>
+	</string>
+	<string id="st_achievement_14_descr">
+		<text>Sus haza&#241;as han comenzado a convertirte en una leyenda local, y se lleva con una clara confianza que s&#243;lo la experiencia puede aportar. Los grupos m&#225;s grandes de stalkers est&#225;n m&#225;s dispuestos a ponerse directamente bajo tu liderazgo, creyendo que los guiar&#225;s al &#233;xito.</text>
+	</string>
+	<string id="st_achievement_14_unlock">
+		<text>Has desbloqueado el logro "H&#233;roe popular".</text>
+	</string>
+	
+	<string id="st_achievement_15_name">
+		<text>Traga Libros</text>
+	</string>
+	<string id="st_achievement_15_hint">
+		<text>Las tarjetas de memoria ser&#225;n reemplazadas por PDA raros cuando aparezcan.</text>
+	</string>
+	<string id="st_achievement_15_descr">
+		<text>A trav&#233;s de tus propios esfuerzos o leyendo sobre los de otros, ha llegado a aprender mucho sobre la Zona y sus numerosos habitantes. &#191;Quiz&#225;s deber&#237;as considerar compartir algunos de estos conocimientos?</text>
+	</string>
+	<string id="st_achievement_15_unlock">
+		<text>Has desbloqueado el logro "Traga Libros".</text>
+	</string>
+	
+	<string id="st_achievement_16_name">
+		<text>Placer Infantil</text>
+	</string>
+	<string id="st_achievement_16_hint">
+		<text>Es probable que recuperes m&#225;s bot&#237;n de las cajas que destruyes.</text>
+	</string>
+	<string id="st_achievement_16_descr">
+		<text>Las cajas de madera ahora tiemblan cuando te acercas, ya que cientos de sus hermanos caja se han roto entre tus manos. Desde entonces, has convertido el romper cajas en una forma de arte, abri&#233;ndolas con un m&#237;nimo de da&#241;o a su contenido.</text>
+	</string>
+	<string id="st_achievement_16_unlock">
+		<text>Has desbloqueado el logro "Placer infantil".</text>
+	</string>
+	
+	<string id="st_achievement_17_name">
+		<text>Vigilante del Reciclaje</text>
+	</string>
+	<string id="st_achievement_17_hint">
+		<text>Tienes una ligera posibilidad de conseguir material adicional durante el desarme.</text>
+	</string>
+	<string id="st_achievement_17_descr">
+		<text>Convencido de que cada parte cuenta, no puedes evitar separar la basura para obtener componentes m&#225;s &#250;tiles. Despu&#233;s de mucha experiencia, te has vuelto m&#225;s cuidadoso. No desperdicias nada.</text>
+	</string>
+	<string id="st_achievement_17_unlock">
+		<text>Has desbloqueado el logro "Vigilante del Reciclaje".</text>
+	</string>
+	
+	<string id="st_achievement_18_name">
+		<text>Af&#225;n Art&#237;fice</text>
+	</string>
+	<string id="st_achievement_18_hint">
+		<text>La fabricaci&#243;n requiere uno o dos componentes menos.</text>
+	</string>
+	<string id="st_achievement_18_descr">
+		<text>Dise&#241;ar tu propio equipo siempre ha sido un proceso enriquecedor, pero ahora tu gran experiencia en el tema te permite usar los componentes con mayor eficiencia.</text>
+	</string>
+	<string id="st_achievement_18_unlock">
+		<text>Has desbloqueado el logro "Af&#225;n Art&#237;fice".</text>
+	</string>
+	
+	<string id="st_achievement_19_name">
+		<text>Invitado Imprevisto</text>
+	</string>
+	<string id="st_achievement_19_hint">
+		<text>Es menos probable que levantes sospechas o que te descubran estando disfrazado.</text>
+	</string>
+	<string id="st_achievement_19_descr">
+		<text>Te has familiarizado con las sutiles costumbres de tus enemigos, y como resultado tus disfraces son m&#225;s convincentes. Debido a esto, tus varios errores en otras &#225;reas son m&#225;s probables de ser pasados por alto, vistos como nada m&#225;s que las rarezas de un tranquilo y bien intencionado invitado.</text>
+	</string>
+	<string id="st_achievement_19_unlock">
+		<text>Has desbloqueado el logro "Invitado imprevisto".</text>
+	</string>
+	
+	<string id="st_achievement_20_name">
+		<text>Absolutor</text>
+	</string>
+	<string id="st_achievement_20_hint">
+		<text>Has desbloqueado "Pecadores" como una facci&#243;n jugable.</text>
+	</string>
+	<string id="st_achievement_20_descr">
+		<text>Cuando los stalkers oscuros de la facci&#243;n Pecado salieron al ruedo para traer su visi&#243;n al mundo, te enfrentaste a ellos, d&#225;ndole al mundo la oportunidad resolver sus problemas sin la manipulaci&#243;n de la noosfera. </text>
+	</string>
+	<string id="st_achievement_20_unlock">
+		<text>Has desbloqueado el logro "Absolutor".</text>
+	</string>
+	
+	<string id="st_achievement_21_name">
+		<text>Colaborador</text>
+	</string>
+	<string id="st_achievement_21_hint">
+		<text>Has desbloqueado "UNISG" como facci&#243;n jugable.</text>
+	</string>
+	<string id="st_achievement_21_descr">
+		<text>Para bien o para mal, elegiste tu bando y tomaste tu decisi&#243;n. Es dif&#237;cil saber si te equivocaste o acertaste... pero lo lograste. Y uno supone que deber&#237;as estar agradecido por eso.</text>
+	</string>
+	<string id="st_achievement_21_unlock">
+		<text>Has desbloqueado el logro "Colaborador".</text>
+	</string>
+	
+	<string id="st_achievement_22_name">
+		<text>Cortina de Hierro</text>
+	</string>
+	<string id="st_achievement_22_hint">
+		<text>Se te ha otorgado un bono de 50,000 RU por tu contribuci&#243;n al esfuerzo de guerra de la facci&#243;n.</text>
+	</string>
+	<string id="st_achievement_22_descr">
+		<text>Tu facci&#243;n se ha convertido en una fuerza indiscutible dentro de la Zona, con grupos menores incluso consider&#225;ndola una superpotencia local. El bot&#237;n de guerra ya est&#225; siendo dividido, y te ha llegado un importante dividendo.</text>
+	</string>
+	<string id="st_achievement_22_unlock">
+		<text>Has desbloqueado el logro "Cortina de hierro".</text>
+	</string>
+	
+	<string id="st_achievement_23_name">
+		<text>Esp&#237;ritu Turbio</text>
+	</string>
+	<string id="st_achievement_23_hint">
+		<text>Tu rango ha aumentado considerablemente.</text>
+	</string>
+	<string id="st_achievement_23_descr">
+		<text>Has sobrevivido a eventos que habr&#237;an matado varias veces a la mayor&#237;a de los stalkers. Algunos empiezan a preguntarse si es posible que te maten.</text>
+	</string>
+	<string id="st_achievement_23_unlock">
+		<text>Has desbloqueado el logro "Esp&#237;ritu Turbio".</text>
+	</string>
+	
+	<string id="st_achievement_24_name">
+		<text>Invictus</text>
+	</string>
+	<string id="st_achievement_24_hint">
+		<text>Ahora puedes tomar una captura de pantalla y presumir de este logro a tus compa&#241;eros stalkers.</text>
+	</string>
+	<string id="st_achievement_24_descr">
+		<text>A pesar de las vicisitudes perversas que has vivido, has demostrado ser un &#233;xito rotundo. Est&#225; claro que no queda nada en la Zona que te desaf&#237;e, y que puede ser el momento de pasar a cosas a&#250;n m&#225;s grandes. </text>
+	</string>
+	<string id="st_achievement_24_unlock">
+		<text>Has desbloqueado el logro "Invictus".</text>
+	</string>
+	
+</string_table>

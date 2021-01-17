@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Junk/Misc Items
+-->
+
+<string_table>
+	<string id="st_jar">
+		<text>Tarro pl&#225;stico</text>
+	</string>
+	<string id="st_jar_descr">
+		<text>
+		Un peque&#241;o frasco de pl&#225;stico. Estos frascos siempre son &#250;tiles para mantener seguros los objetos peque&#241;os, especialmente las drogas y los medicamentos. Protege el contenido de la humedad y asegura que el producto se mantenga intacto.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] material b&#225;sico\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n
+		</text>
+	</string>
+	
+	<string id="st_e_syringe">
+		<text>Jeringa vac&#237;a</text>
+	</string>
+	<string id="st_e_syringe_descr">
+		<text>Una jeringa m&#233;dica de 12 ml con un p&#233;simo &#233;mbolo. Parece que se ha usado con bastante frecuencia. Con un kit de fabricaci&#243;n de drogas y el conocimiento adecuado, esta jeringa puede ser &#250;til para la creaci&#243;n de varios tipos de drogas.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] material b&#225;sico\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n
+		</text>
+	</string>
+	
+	<string id="st_rope">
+		<text>Cuerda</text>
+	</string>
+	<string id="st_rope_descr">
+		<text>
+		Una buena cuerda sirve para muchos prop&#243;sitos, especialmente en un lugar como la Zona. Muchos stalkers pueden darle un buen uso, lo que genera un valor comercial bastante alto. Aproximadamente 10 metros de largo.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] material b&#225;sico\n
+		</text>
+	</string>
+	
+	<string id="st_porn">
+		<text>PlayBoy ruso</text>
+	</string>
+	<string id="st_porn_descr">
+		<text>100 p&#225;ginas (algo viejas y arrugadas) de chicas rusas desnudas de primera calidad. Contrabando com&#250;n entre los reclutas, criminales y otros desafortunados que est&#225;n atrapados en la Zona contra su voluntad. Algunos occidentales bromean diciendo: Desde Rusia con amor.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n
+		</text>
+	</string>
+	
+	<string id="st_survivalguide">
+		<text>Gu&#237;a de supervivencia de las fuerzas especiales ucranianas</text>
+	</string>
+	<string id="st_survivalguide_descr">
+		<text>Has estudiado esta gu&#237;a de supervivencia muchas veces antes. Por esta raz&#243;n, no tiene ning&#250;n valor educativo, pero deber&#237;as ser capaz de venderla por algo de dinero r&#225;pido. Algunos stalkers pueden querer echarle un vistazo.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n
+		</text>
+	</string>
+	
+	<string id="st_guitar_name">
+		<text>Guitarra</text>
+	</string>
+	<string id="st_guitar_descr">
+		<text>La guitarra es un instrumento de cuerda ampliamente utilizado por los stalkers de todas las facciones de la Zona para levantar el &#225;nimo y fraternizar. Los stalkers pueden ser vistos a menudo tocando la guitarra en campamentos, puestos de avanzada u otros lugares de relativa seguridad, generalmente junto al fuego. \n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n</text>
+	</string>
+
+	<string id="st_harmonica_name">
+		<text>Harm&#243;nica</text>
+	</string>
+	<string id="st_harmonica_descr">
+		<text>Para los amantes del blues y del romance carcelario.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n</text>
+	</string>
+
+	<string id="st_steel_wool">
+		<text>Estropajo de acero</text>
+	</string>
+	<string id="st_steel_wool_descr">
+		<text>Tambi&#233;n conocido como lana de alambre o esponja de alambre, es un conjunto de hilos de acero blando muy finos. Se utiliza como abrasivo en trabajos de acabado y reparaci&#243;n para pulir objetos de madera o metal, limpiar utensilios de cocina dom&#233;sticos y lijar pintura superficial. Est&#225; hecho de acero con bajo contenido de carbono (el contenido de carbono es lo suficientemente bajo como para estar cerca del hierro normal). No se hace estirando un "alambre de lana de acero" a trav&#233;s de un troquel c&#243;nico, sino m&#225;s bien mediante un proceso m&#225;s parecido al brochado donde un alambre de acero pesado se tira a trav&#233;s de un troquel dentado que elimina un afeitado de alambre delgado. Los paquetes de lana de acero se pueden usar en la limpieza de equipos de precisi&#243;n y para mejorar la dispersi&#243;n de lubricantes y solventes de limpieza.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	
+	<string id="st_grease">
+		<text>Grasa industrial</text>
+	</string>
+	<string id="st_grease_descr">
+		<text>La grasa es un lubricante semis&#243;lido. Generalmente consiste en un jab&#243;n emulsionado con aceite mineral o vegetal. Las grasas se aplican a mecanismos que no pueden lubricarse constantemente o donde el aceite lubricante t&#237;pico no se mantendr&#237;a. Tambi&#233;n act&#250;an como selladores para evitar la entrada de agua y suciedad. Los cojinetes lubricados con grasa tienen mayores caracter&#237;sticas de fricci&#243;n debido a su alta viscosidad.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] alta calidad\n
+		</text>
+	</string>
+	
+	<string id="st_shovel_old">
+		<text>Pala de metal</text>
+	</string>
+	<string id="st_shovel_old_descr">
+		<text>Una vieja pala de metal utilizada para diversos fines de campo. Pocas personas realmente tienen palas en sus mochilas, ya que se encuentran con bastante frecuencia en la Zona, especialmente en las zonas industriales.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n</text>
+	</string>
+	
+	<string id="st_shovel_mili">
+		<text>Pala de campo militar</text>
+	</string>
+	<string id="st_shovel_mili_descr">
+		<text>Pala militar negra de alta calidad. Usado para numerosos prop&#243;sitos de campo. El r&#233;gimen de entrenamiento de los soldados de Spetsnaz cubre el combate cuerpo a cuerpo y el uso de armas de mano y otros equipos con el fin de eliminar enemigos. Un ejemplo famoso es la pala atrincherante, que es un arma formidable en combate cuerpo a cuerpo cuando la usa un operador de Spetsnaz.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo militar\n</text>
+	</string>
+	
+	<string id="st_meinkampf">
+		<text>Mein Kampf</text>
+	</string>
+	<string id="st_meinkampf_descr">
+		<text>Las memorias estrat&#233;gicas de Adolf Hitler recogidas en un solo libro. El libro y todo lo que representa son odiados por muchos, lo que hace de este un art&#237;culo de alto valor simb&#243;lico. Adolf Hitler (20 de abril de 1889 - 30 de abril de 1945) fue un pol&#237;tico alem&#225;n nacido en Austria y el l&#237;der del Partido Nacional Socialista de los Trabajadores Alemanes (en alem&#225;n: Nationalsozialistische Deutsche Arbeiterpartei (NSDAP), com&#250;nmente conocido como el Partido Nazi). Fue canciller de Alemania de 1933 a 1945 y dictador de la Alemania nazi (como Fuhrer und Reichskanzler) de 1934 a 1945. Hitler es responsable de la fundaci&#243;n del nazismo, el comienzo de la Segunda Guerra Mundial y el Holocausto.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] pertenencias personales\n
+		</text>
+	</string>
+	
+	<string id="st_journal">
+		<text>Diario personal</text>
+	</string>
+	<string id="st_journal_descr">
+		<text>Un diario encuadernado en cuero. Est&#225; lleno de pensamientos del portador original, observaciones y algunos bocetos con anotaciones. Una vista r&#225;pida revela consejos &#250;tiles para el hombre com&#250;n, pero vale poco m&#225;s de lo que valdr&#237;a un objeto sentimental.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] pertenencias personales\n
+		</text>
+	</string>
+	
+	<string id="st_maps_kit">
+		<text>Kit de cartograf&#237;a</text>
+	</string>
+	<string id="st_maps_kit_descr">
+		<text>Un Kit de cartograf&#237;a que contiene un conjunto de bol&#237;grafos e instrumentos de medici&#243;n. Todo en una cubierta impermeable y camuflada de alta calidad. Utilizado por y expedido al personal de artiller&#237;a ucraniano. Algunos mapas a&#250;n no han sido completados. Tu PDA es mucho m&#225;s &#250;til que todo esto.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_red] • %c[ui_gray_2] in&#250;til\n</text>
+	</string>
+	
+	<string id="st_welding_goggles">
+		<text>Gafas de soldador</text>
+	</string>
+	<string id="st_welding_goggles_descr">
+		<text>Gafas de soldar viejas y corro&#237;das con una banda de cuero rota. Las gafas de soldar est&#225;n dise&#241;adas para proteger los ojos al soldar o cortar. In&#250;tiles en su estado actual y de poco valor.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n</text>
+	</string>
+	
+	<string id="st_survival_kit">
+		<text>Kit de supervivencia peque&#241;o</text>
+	</string>
+	<string id="st_survival_kit_descr">
+		<text>Kit de supervivencia que contiene tela, agujas de coser y algunas tiras de cuero. Utilizado principalmente como un medio para detener la hemorragia y tratar las laceraciones, en manos de un usuario experto este peque&#241;o kit de supervivencia puede resultar esencial durante las excursiones prolongadas en la Zona. Tambi&#233;n puede ser utilizado para la reparaci&#243;n de los equipos, incluso de los da&#241;os m&#225;s graves.\n \n %c[ui_gray_3]CURANDO:\n %c[d_red] • %c[ui_gray_2] Restaura 3.6%hp/s, total 162%\n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_red] • %c[ui_gray_2] aplicacion lenta (field kit)\n %c[d_blue] • %c[ui_gray_2] detiene inmediatamente el sangrado intenso\n %c[d_red] • %c[ui_gray_2] tiempo de recuperaci&#243;n prolongado\n
+		</text>
+	</string>
+	
+	<string id="st_jewelry_box">
+		<text>Caja de joyas decorada</text>
+	</string>
+	<string id="st_jewelry_box_descr">
+		<text>Una peque&#241;a caja que contiene joyas finamente elaboradas. Aunque no es raro que los stalkers roben cascos, cuernos o dientes de los mutantes de la Zona, s&#243;lo unos pocos son lo suficientemente h&#225;biles para convertir estos materiales en un tesoro como &#233;ste. Sin embargo, pocos stalkers se ocupan de estas baratijas, y pocos comerciantes se dedican a la exportaci&#243;n de estas joyas.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n %c[d_blue] • %c[ui_gray_2] valioso\n</text>
+	</string>
+	
+	<string id="st_book1">
+		<text>Manual de mec&#225;nica</text>
+	</string>
+	<string id="st_book1_descr">
+		<text>Manual de ingenier&#237;a mec&#225;nica. Algunas personas leen estos libros para ampliar sus conocimientos y aprender m&#225;s sobre las instalaciones y f&#225;bricas de la Zona. Tiene bajo valor de venta.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n
+		</text>
+	</string>
+	
+	<string id="st_book2">
+		<text>Manual de ingenier&#237;a</text>
+	</string>
+	<string id="st_book2_descr">
+		<text>Manual de ingenier&#237;a industrial. Algunas personas leen estos libros para ampliar sus conocimientos y aprender m&#225;s sobre las instalaciones y f&#225;bricas de la Zona. Bajo valor de venta.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n
+		</text>
+	</string>
+	
+	<string id="st_drugnotes">
+		<text>Notas de distribuci&#243;n de drogas</text>
+	</string>
+	<string id="st_drugnotes_descr">
+		<text>Este cuaderno describe detalladamente varios negocios de drogas. Apodos espec&#237;ficos, lugares y horas de encuentro. Algunos de estos negocios se ejecutan a trav&#233;s de intercambios de equipo y otros se pagan en grandes cantidades de rublos. Al navegar por las p&#225;ginas, queda claro que Libertad es el principal distribuidor de drogas naturales como la marihuana. Los bandidos son productores y distribuidores de las m&#225;s poderosas (y peligrosas) drogas sint&#233;ticas como el &#225;cido salic&#237;lico y la coca&#237;na. Aparentemente, cada facci&#243;n de la Zona participa en estos tratos. En particular el Monolito parece canjear grandes cantidades de drogas a cambio de municiones y equipos m&#225;s caros.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] pertenencias personales\n %c[d_blue] • %c[ui_gray_2] valioso\n
+		</text>
+	</string>
+	
+	<string id="st_picture_woman">
+		<text>Foto de un ser querido</text>
+	</string>
+	<string id="st_picture_woman_descr">
+		<text>Esta foto contiene una figura suavemente representada, sonri&#233;ndo alentadoramente. Se ha prestado gran atenci&#243;n a la iluminaci&#243;n y a la atm&#243;sfera alrededor de la persona, demostrando una ternura reflexiva y de observaci&#243;n.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] pertenencias personales\n
+		</text>
+	</string>
+	
+	<string id="st_porn2">
+		<text>MAXIM ucraniano</text>
+	</string>
+	<string id="st_porn2_descr">
+		<text>Esta revista est&#225; muy usada, pero a&#250;n contiene algunos art&#237;culos brillantes de hermosas chicas eslavas. Muchas de las p&#225;ginas han sido arrancadas. Algunos stalkers discuten si es divertido o no, que los novatos traigan cosas como esta a un lugar tan mortal y sublime como la Zona. Huele un poco a queso.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n
+		</text>
+	</string>
+	
+	<string id="st_boots">
+		<text>Botas de cuero</text>
+	</string>
+	<string id="st_boots_descr">
+		<text>Todo el mundo es consciente de la importancia de un buen equipo. Un par de botas extra puede ser extremadamente &#250;til y puede ser objeto de envidia de otros stalkers ya que es una rareza.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n %c[d_blue] • %c[ui_gray_2] pertenencias personales\n
+		</text>
+	</string>
+	
+	<string id="st_batteries_dead_empty">
+		<text>Bater&#237;as viejas (agotadas)</text>
+	</string>
+	<string id="st_batteries_dead_empty_descr">
+		<text>S&#243;lo una de cada diez bater&#237;as que se encuentran en la Zona todav&#237;a tienen algo de carga. Estas, sin embargo, est&#225;n completamente agotadas y por eso no tienen ning&#250;n valor.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_red] • %c[ui_gray_2] agotado\n</text>
+	</string>
+	
+	<string id="st_batteries_empty">
+		<text>Bater&#237;as (agotadas)</text>
+	</string>
+	<string id="st_batteries_empty_descr">
+		<text>Estas bater&#237;as agotaron completamente la energ&#237;a que una vez tuvieron. Su &#250;nico valor es la cantidad de metal del que est&#225;n hechas.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_red] • %c[ui_gray_2] agotado\n</text>
+	</string>
+	
+	<string id="st_batteries_ccell_empty">
+		<text>Pack militar de bater&#237;as (agotadas)</text>
+	</string>
+	<string id="st_batteries_ccell_empty_descr">
+		<text>Una unidad de bater&#237;a militar agotadas. Si est&#225;n llenas son muy valiosas y tienen una gran demanda debido a la relativa escasez de bater&#237;as en la Zona. Sin embargo, ahora que se han agotado constituyen solo un peso extra.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_red] • %c[ui_gray_2] agotado\n</text>
+	</string>
+	
+	<string id="st_flashlight_broken">
+		<text>Linterna rota</text>
+	</string>
+	<string id="st_flashlight_broken_descr">
+		<text>El mango est&#225; roto y ni siquiera la cinta adhesiva podr&#237;a mantener las bater&#237;as en su lugar. Esto ya no tiene ning&#250;n valor.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_red] • %c[ui_gray_2] roto sin posibilidad de reparaci&#243;n\n %c[d_red] • %c[ui_gray_2] in&#250;til\n</text>
+	</string>
+	
+	<string id="st_underwear">
+		<text>Ropa interior mojada</text>
+	</string>
+	<string id="st_underwear_descr">
+		<text>Un par extra de calcetines, una camisa y pantalones podr&#237;a aumentar sustancialmente tu comodidad. Desafortunadamente, este juego est&#225; completamente empapado. Hay pocas posibilidades de que alg&#250;n stalker pague por esta basura. Aunque parezcan in&#250;tiles, el material del que esta hecha la ropa interior puede ser usado en el mantenimiento de armaduras y armas.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n %c[d_blue] • %c[ui_gray_2] pertenencias personales\n
+		</text>
+	</string>
+	
+	<string id="st_wpn_spareparts">
+		<text>Repuestos para armas</text>
+	</string>
+	<string id="st_wpn_spareparts_descr">
+		<text>Piezas de repuesto para lo que parece ser un rifle de asalto AKM. Las piezas de madera no est&#225;n en muy buen estado, y lo mismo puede decirse de los elementos de metal. S&#243;lo los novatos estar&#237;an interesados en comprarlo. Sin embargo, parece que pueden ser &#250;tiles para la reparaci&#243;n de equipos. Ciertos stalkers reemplazan algunas partes cuando encuentran un arma nueva a la intemperie para evitar ser perseguidos por robar en el escondite de alguien.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo militar\n
+		</text>
+	</string>
+	
+	<string id="st_beadspread">
+		<text>Cubrecama</text>
+	</string>
+	<string id="st_beadspread_descr">
+		<text>Un art&#237;culo de lujo en la Zona. Como s&#243;lo hay unas pocas camas en las casas seguras de la Zona, tener un saco de dormir y un cubrecama puede ser esencial si no quieres chocar con la pared en las circunstancias m&#225;s inapropiadas. Las s&#225;banas est&#225;n incluidas en el equipo de algunas unidades militares.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n
+		</text>
+	</string>
+	
+	<string id="st_walkie">
+		<text>Walkie talkie</text>
+	</string>
+	<string id="st_walkie_descr">
+		<text>La pantalla est&#225; muerta y hay un constante silbido del altavoz que indica que no sirve para nada. Tiene lo que parecen ser marcas de garras.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_red] • %c[ui_gray_2] roto sin posibilidad de reparaci&#243;n\n %c[d_red] • %c[ui_gray_2] in&#250;til\n</text>
+	</string>
+	
+	<string id="st_cards">
+		<text>Mazo de cartas</text>
+	</string>
+	<string id="st_cards_descr">
+		<text>Jugar a las cartas es un pasatiempo muy conocido, pero una baraja de cartas tambi&#233;n puede ser usada para clasificar oficios especiales. La cubierta muestra el orgulloso dise&#241;o arquitect&#243;nico del Metro de Mosc&#250;.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n</text>
+	</string>
+	
+	<string id="st_mili_maps">
+		<text>Mapas militares</text>
+	</string>
+	<string id="st_mili_maps_descr">
+		<text>Mapas que muestran la ubicaci&#243;n de los campos militares alrededor de la Zona. Cada PDA viene con estos mapas instalados, as&#237; que este art&#237;culo es de poca utilidad.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo militar\n
+		</text>
+	</string>
+	
+	<string id="st_headlamp">
+		<text>Linterna de cabeza vieja</text>
+	</string>
+	<string id="st_headlamp_descr">
+		<text>Aunque pocos se atreven a explorar la Zona durante la noche, hay circunstancias en las que una l&#225;mpara de cabeza es crucial. Y otra fuente de luz no har&#225; ningun da&#241;o, porque nunca se sabe cu&#225;ndo tendr&#225;s que ir de un lugar a otro. Desafortunadamente, esta unidad en particular ha sucumbido a sus d&#237;as de trabajo y ahora s&#243;lo puede servir como una fuente de repuestos baratos.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_red] • %c[ui_gray_2] roto sin posibilidad de reparaci&#243;n\n %c[d_red] • %c[ui_gray_2] in&#250;til\n</text>
+	</string>
+	
+	<string id="st_mirror">
+		<text>Espejo telesc&#243;pico</text>
+	</string>
+	<string id="st_mirror_descr">
+		<text>Peque&#241;o espejo montado en un tubo de hierro telesc&#243;pico. Un art&#237;culo muy &#250;til usado por los luchadores versados en las artes del combate urbano ya que permite asomarse a las esquinas sin ser recibir un disparo.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo militar\n</text>
+	</string>
+	
+	<string id="st_hammer">
+		<text>Martillo viejo (reutilizable)</text>
+	</string>
+	<string id="st_hammer_descr">
+		<text>Martillo con mango de madera y cabeza de hierro. Visto comunmente en las &#225;reas industriales de la Zona. A pesar de su gran peso, se suele llevar en la mochila debido a su versatilidad.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n %c[d_orange] • %c[ui_gray_2] usos ilimitados\n</text>
+	</string>
+
+	<string id="st_tarpaulin">
+		<text>Lona camuflada</text>
+	</string>
+	<string id="st_tarpaulin_descr">
+		<text>
+		Una lona (o impermeable) es una gran lienzo de material fuerte, flexible, resistente al agua o impermeable, a menudo de tela como la lona o el poli&#233;ster recubierto de uretano, o hecha de pl&#225;sticos como el polietileno. Tiene ojales reforzados en las esquinas y a lo largo de los lados para formar puntos de sujeci&#243;n para la cuerda, lo que permite atarlos o suspenderlos. Sirve para muchos prop&#243;sitos, pero se utiliza principalmente para crear peque&#241;os y simples escondites tipo carpa. El valor comercial es bajo debido a las alternativas f&#225;ciles de encontrar.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo militar\n
+		</text>
+	</string>
+	
+	<string id="st_synthrope">
+		<text>2 Cuerdas sint&#233;ticas</text>
+	</string>
+	<string id="st_synthrope_descr">
+		<text>
+		Las cuerdas sint&#233;ticas se encuentran com&#250;nmente en los almacenes militares. Pero por alguna raz&#243;n pocos stalkers militares las llevan. Una buena cuerda sirve para muchos prop&#243;sitos, especialmente en un lugar como la Zona. Muchos stalkers pueden darle un buen uso, lo que genera un valor comercial bastante alto. Cada una tiene unos 5 metros de largo.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n
+		</text>
+	</string>
+	
+	<string id="st_cutlery">
+		<text>Cubiertos de campo</text>
+	</string>
+	<string id="st_cutlery_descr">
+		<text>
+		Una cuchara, un cuchillo y un tenedor hechos de acero pesado. Un juego de cubierter&#237;a robusto y razonablemente ligero, ideal para llevar en una mochila en la exploraci&#243;n de campo. Los cubiertos est&#225;n unidos por un cord&#243;n de cobre. Si se limpian adecuadamente y se desoxida, ser&#225; seguro utilizarlos.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n
+		</text>
+	</string>
+	
+	<string id="st_radio">
+		<text>Radio peque&#241;a</text>
+	</string>
+	<string id="st_radio_descr">
+		<text>
+		La m&#250;sica es una buena manera de calmar los nervios. Pero con la antena rota, esta radio no sirve para nada. La humedad y la suciedad tambi&#233;n lo han da&#241;ado.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico %c[d_red] • %c[ui_gray_2] roto sin posibilidad de reparaci&#243;n\n %c[d_red] • %c[ui_gray_2] in&#250;til\n
+		</text>
+	</string>
+	
+	<string id="st_radio2">
+		<text>Radio rota</text>
+	</string>
+	<string id="st_radio2_descr">
+		<text>
+		Una peque&#241;a radio en mal estado. Sucia y da&#241;ada por la humedad. El interior parece estar en bastante mal estado ya que el radio traquetea cuando se mueve. Tiene poco valor.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_red] • %c[ui_gray_2] roto sin posibilidad de reparaci&#243;n\n %c[d_red] • %c[ui_gray_2] in&#250;til\n
+		</text>
+	</string>
+	
+	<string id="st_broken_detector">
+		<text>Detector roto</text>
+	</string>
+	<string id="st_broken_detector_descr">
+		<text>
+		Un detector Oso roto. La pantalla est&#225; rota y el interior parece estar en bastante mal estado. Algunas de las partes electr&#243;nicas del interior todav&#237;a est&#225;n a salvo. Pueden ser reutilizados para fines de reparaci&#243;n, o tal vez incluso en la artesan&#237;a.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_red] • %c[ui_gray_2] roto sin posibilidad de reparaci&#243;n\n %c[d_red] • %c[ui_gray_2] in&#250;til\n
+		</text>
+	</string>
+	
+	<string id="st_gloves">
+		<text>Guantes de cuero</text>
+	</string>
+	<string id="st_gloves_descr">
+		<text>
+		Un par de guantes de cuero. Se sienten y huelen bien como si se hubieran comprado recientemente. Cuando hace fr&#237;o, es importante mantener las manos calientes y tersas.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n %c[d_blue] • %c[ui_gray_2] valioso\n
+		</text>
+	</string>
+	
+	<string id="st_hand_watch">
+		<text>Reloj de mano</text>
+	</string>
+	<string id="st_hand_watch_descr">
+		<text>
+		Un viejo y cl&#225;sico reloj sovi&#233;tico "raketa3". Parece que todav&#237;a est&#225; en buen estado. No es de sorprender que muchos stalkers prefieran los relojes mec&#225;nicos a las PDAs para comprobar la hora. Dado que esos relojes son fiables y duraderos incluso en las peores situaciones, son &#250;tiles cuando las PDA fallan debido a fuertes ondas electromagn&#233;ticas provenientes de emisiones o campos de anomal&#237;as cercanas. Sin embargo, algunos simplemente los usan como un accesorio.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] pertenencias personales\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] valioso\n
+		</text>
+	</string>
+	
+	<string id="st_ball_hammer">
+		<text>Martillo de bola</text>
+	</string>
+	<string id="st_ball_hammer_descr">
+		<text>
+		Tambi&#233;n conocido como el martillo del maquinista. El martillo de bola es un tipo de martillo de perforaci&#243;n usado en la metalurgia. A pesar de ser viejo y oxidado, nunca te puedes equivocar al tener uno para peque&#241;os trabajos de reparaci&#243;n.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n
+		</text>
+	</string>
+	
+	<string id="st_duct_tape">
+		<text>Cinta adhesiva</text>
+	</string>
+	<string id="st_duct_tape_descr">
+		<text>
+		La cinta adhesiva se usa com&#250;nmente en situaciones que requieren una cinta fuerte, flexible y muy pegajosa. Una soluci&#243;n f&#225;cil y temporal para trabajos de reparaci&#243;n r&#225;pida. Este tipo tambi&#233;n tiene un adhesivo de larga duraci&#243;n y resistencia a la intemperie.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso diario\n
+		</text>
+	</string>
+
+	
+<!-- unused -->
+	<string id="ammo12x70_base_name">
+		<text>Componentes de munici&#243;n para balas de 12x70</text>
+	</string>
+	<string id="ammo12x70_base_descr">
+		<text>P&#243;lvora, proyectiles y balas... todo lo necesario para hacer proyectiles de 12x70 babosa. Tiene suficiente para hacer 40 rondas.\n \n%c[ui_gray_2]PROPERTIES:\n %c[d_cyan] • %c[ui_gray_2]usado para fabricar munici&#243;n\n%c[0,253,155,155] • %c[0,240,140,140]requiere herramientas</text>
+	</string>
+	<string id="ammo12x70_tools_name">
+		<text>Herramientas para fabricar balas de 12x70</text>
+	</string>
+	<string id="ammo12x70_tools_descr">
+		<text>Las herramientas necesarias para hacer balas 12x70 babosa. 12x70.\n \n%c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2]usado para fabricar munici&#243;n\n %c[d_cyan] • %c[ui_gray_2]art&#237;culo diario\n</text>
+	</string>
+	<string id="sew_tools_name">
+		<text>Kit de costura</text>
+	</string>
+	<string id="sew_tools_descr">
+		<text>Agujas y retazos de tela. Todo lo que necesitas para hacer art&#237;culos de tela.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2]Herramientas de trabajo\n %c[d_cyan] • %c[ui_gray_2]Com&#250;n</text>
+	</string>
+	<string id="sleepbag_base_name">
+		<text>Componentes de saco de dormir</text>
+	</string>
+	<string id="sleepbag_base_descr">
+		<text>Todo lo necesario para hacer un saco de dormir.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2]Art&#237;culo fabricado\n %c[0,253,155,155] • %c[0,240,140,140]Se necesita kit de costura</text>
+	</string>
+	<string id="backpack_base_name">
+		<text>Componentes de la mochila</text>
+	</string>
+	<string id="backpack_base_descr">
+		<text>Tela engomada, cremalleras y remaches. Todo lo necesario para hacer una mochila.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2]Art&#237;culo fabricado\n %c[0,253,155,155] • %c[0,240,140,140]Se necesita kit de costura</text>
+	</string>
+	<string id="selfroll_1_name">
+		<text>Rollos de tabaco</text>
+	</string>
+	<string id="selfroll_1_descr">
+		<text>Tabaco suelto, filtros y papel.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[0,253,155,155] • %c[0,240,140,140]Puede causar cancer\n %c[d_cyan] • %c[ui_gray_2]Fabricado en la Zona</text>
+	</string>
+	<string id="st_itm_cutting_tools">
+		<text>Herramientas maestras de desarme</text>
+	</string>
+	<string id="st_itm_cutting_tools_descr">
+		<text>Herramientas de f&#225;brica dise&#241;adas para desarmar cualquier cosa. \n \n%c[ui_gray_2]PROPIEDADES:\n%c[0,155,155,155] • %c[ui_gray_2]Herramientas de trabajo\n%c[0,255,1,1] • %c[0,100,250,100]Compatible con art&#237;culos de alta tecnolog&#237;a</text>
+	</string>
+	<string id="st_itm_cutting_tools_2">
+		<text>Herramientas de desarme del viajero</text>
+	</string>
+	<string id="st_itm_cutting_tools_2_descr">
+		<text>Un juego de herramientas oxidadas para el desmontaje de armaduras medianas.\n \n%c[ui_gray_2]PROPIEDADES:\n%c[0,155,155,155] • %c[ui_gray_2]Herramientas de trabajo\n%c[0,255,1,1] • %c[0,100,250,100]Compatible con armaduras medias</text>
+	</string>
+	<string id="st_itm_cutting_tools_3">
+		<text>Herramientas b&#225;sicas de desarme</text>
+	</string>
+	<string id="st_itm_cutting_tools_3_descr">
+		<text>Herramientas improvisadas dise&#241;adas para m&#225;scaras de tela o de gas ligero.\n \n%c[ui_gray_2]PROPIEDADES:\n%c[0,155,155,155] • %c[ui_gray_2]Herramientas de trabajo\n%c[0,255,1,1] • %c[0,100,250,100]Trabaja con armaduras ligeras y m&#225;scaras de gas </text>
+	</string>
+	<string id="plate_seva_name">
+		<text>Placa SEVA</text>
+	</string>
+	<string id="plate_seva_descr">
+		<text>Una placa blindada tallada de un traje SEVA. Capaz de detener peque&#241;as balas y da algo de resistencia elemental. Puede ser usada para reparaciones.\n \n%c[ui_gray_2]PROPIEDADES:\n \n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="plate_heavy_name">
+		<text>Placa pesada "ESAPI"</text>
+	</string>
+	<string id="plate_heavy_descr">
+		<text>Una placa compuesta de cer&#225;mica que proporciona protecci&#243;n de clase 4. Puede ser usada como material de reparaci&#243;n.\n \n%c[ui_gray_2]PROPIEDADES:\n \n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="plate_medium_name">
+		<text>Placa mediana "SAPI".</text>
+	</string>
+	<string id="plate_medium_descr">
+		<text>Una placa blindada que proporciona protecci&#243;n de clase 3. Puede ser usada como material de reparaci&#243;n.\n \n%c[ui_gray_2]PROPIEDADES:\n \n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="plate_light_name">
+		<text>Cuchara dom&#233;stica</text>
+	</string>
+	<string id="plate_light_descr">
+		<text>Placa blindada hecha a mano con kevlar y aramida. Proporciona protecci&#243;n de clase II. Puede ser usada como material de reparaci&#243;n.\n \n%c[ui_gray_2]PROPIEDADES:\n \n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="plate_cloth_name">
+		<text>Placa de tela ligera</text>
+	</string>
+	<string id="plate_cloth_descr">
+		<text>Hecho a mano con kevlar y placa de tejidos. Proporciona protecci&#243;n de clase 1. Puede ser usado como material de reparaci&#243;n.\n \n%c[ui_gray_2]PROPIEDADES:\n \n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="plate_military_name">
+		<text>Placa de Granito-4M</text>
+	</string>
+	<string id="plate_military_descr">
+		<text>Placa militar de blindaje pesado compuesta de cer&#225;mica. Proporciona una protecci&#243;n clase 5. Puede ser usado como material de reparaci&#243;n.\n \n%c[ui_gray_2]PROPIEDADES:\n \n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="plate_monolith_name">
+		<text>Placa desconocida</text>
+	</string>
+	<string id="plate_monolith_descr">
+		<text>Una placa blindada compuesta de materiales desconocidos. Parece estar hecha de aleaci&#243;n s&#243;lida y algo de tela. Extremadamente pesada. Proporciona una protecci&#243;n de clase 5 (en pruebas de campo). Puede ser usado como material de reparaci&#243;n.\n \n%c[ui_gray_2]PROPIEDADES:\n \n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="plate_unload_name">
+		<text>Bolsa de munici&#243;n</text>
+	</string>
+	<string id="plate_unload_descr">
+		<text>Una bolsa de munici&#243;n recortada, usada para guardar cartuchos. Hecho de tela densa y de alta calidad.\n \n%c[ui_gray_2]PROPIEDADES:\n \n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="plate_small_name">
+		<text>Peque&#241;a placa blindada</text>
+	</string>
+	<string id="plate_small_descr">
+		<text>Una peque&#241;a placa blindada casera, probablemente hecha de chatarra fundida. Puede ser usado como material de reparaci&#243;n.\n \n%c[ui_gray_2]PROPIEDADES:\n \n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="cloth_green_name">
+		<text>Tela verde</text>
+	</string>
+	<string id="cloth_green_descr">
+		<text>Tela verde, cortada de un traje verde. Calidad muy alta y un tejido muy denso. Puede ser usado como material de reparaci&#243;n.\n \n%c[ui_gray_2]PROPIEDADES:\n \n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="cloth_black_name">
+		<text>Tela negra</text>
+	</string>
+	<string id="cloth_black_descr">
+		<text>Tela negra, cortada de un traje negro. Calidad muy alta y un tejido muy denso. Puede ser usado como material de reparaci&#243;n.\n \n%c[ui_gray_2]PROPIEDADES:\n \n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="cloth_brown_name">
+		<text>Tela marr&#243;n</text>
+	</string>
+	<string id="cloth_brown_descr">
+		<text>Tela marr&#243;n, cortada de un traje marr&#243;n. Calidad muy alta y un tejido muy denso. Puede ser usado como material de reparaci&#243;n. \n \n%c[ui_gray_2]PROPIEDADES:\n \n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="cloth_white_name">
+		<text>Tela blanca</text>
+	</string>
+	<string id="cloth_white_descr">
+		<text>Tela blanca, cortada de un traje blanco. Calidad muy alta y un tejido muy denso. Puede ser usado como material de reparaci&#243;n. \n \n%c[ui_gray_2]PROPIEDADES:\n \n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="servomotor_name">
+		<text>Servo motor</text>
+	</string>
+	<string id="servomotor_descr">
+		<text>Un servo tomado de un exoesqueleto. Parece que podr&#237;a ser reemplazado por un kit de reparaci&#243;n.\n \n%c[ui_gray_2]PROPIEDADES:\n \n %c[d_cyan] • %c[ui_gray_2] высокоart&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="plastic_pieces_name">
+		<text>Desechos de pl&#225;stico</text>
+	</string>
+	<string id="plastic_pieces_descr">
+		<text>Pedazos de pl&#225;stico denso, sacados de un traje. Puede ser usado para parches o reparaciones.\n \n%c[ui_gray_2]PROPIEDADES:\n \n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="glass_pieces_name">
+		<text>Vidrio</text>
+	</string>
+	<string id="glass_pieces_descr">
+		<text>Pedazos de vidrio curado de m&#225;scaras de gas o cascos. Puede reemplazar los vidrios rotos en casi cualquier casco con las herramientas adecuadas.\n \n%c[ui_gray_2]PROPIEDADES:\n \n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="st_spareparts">
+		<text>Partes viejas de escopeta</text>
+	</string>
+	<string id="st_spareparts_descr">
+		<text>Viejas piezas de madera y metal de varios rifles de ca&#241;&#243;n liso, todas en diferentes condiciones. Algo de esto podr&#237;a ser &#250;til para las reparaciones.\n \n%c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="st_sov_r_spareparts">
+		<text>Partes de rifles autom&#225;ticos sovi&#233;ticos</text>
+	</string>
+	<string id="st_sov_r_spareparts_descr">
+		<text>Viejos manantiales, barriles y cepos de varios rifles sovi&#233;ticos, todos en diferentes condiciones. Algo de esto podr&#237;a ser &#250;til para las reparaciones.\n \n%c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="st_nato_r_spareparts">
+		<text>Partes de rifles autom&#225;ticos de la OTAN</text>
+	</string>
+	<string id="st_nato_r_spareparts_descr">
+		<text>Barriles viejos, armazones y existencias de varios rifles autom&#225;ticos de la OTAN, todos en diferentes condiciones. Algo de esto podr&#237;a ser &#250;til para las reparaciones.\n \n%c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="st_sov_p_spareparts">
+		<text>Partes de pistola sovi&#233;tica</text>
+	</string>
+	<string id="st_sov_p_spareparts_descr">
+		<text>Viejos resortes, martillos y armazones de varias pistolas sovi&#233;ticas. Algo de esto podr&#237;a ser &#250;til para las reparaciones.\n \n%c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="st_nato_p_spareparts">
+		<text>Partes de pistola de la OTAN</text>
+	</string>
+	<string id="st_nato_p_spareparts_descr">
+		<text>Viejos resortes, martillos y armazones de varias pistolas de la OTAN. Algo de esto podr&#237;a ser &#250;til para las reparaciones.\n%c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="st_sov_s_spareparts">
+		<text>Partes de rifle de francotirador sovi&#233;tico</text>
+	</string>
+	<string id="st_sov_s_spareparts_descr">
+		<text>Viejas partes de rifles largos sovi&#233;ticos. Algo de esto podr&#237;a ser usado para reparaciones.\n \n%c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="st_nato_s_spareparts">
+		<text>Partes de rifle de francotirador de la OTAN</text>
+	</string>
+	<string id="st_nato_s_spareparts_descr">
+		<text>Partes viejas de rifle de francotirador de la OTAN. Algo de esto podr&#237;a ser usado para reparaciones.\n \n%c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="st_shot_spareparts">
+		<text>Partes de escopeta</text>
+	</string>
+	<string id="st_shot_spareparts_descr">
+		<text>Partes relativamente nuevas dise&#241;adas para rifles de ca&#241;&#243;n liso. Esto podr&#237;a ser usado para reparaciones.\n \n%c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="st_pp_spareparts">
+		<text>Partes de subfusiles</text>
+	</string>
+	<string id="st_pp_spareparts_descr">
+		<text>Resortes, armazones y culatas dise&#241;adas para subametralladoras. Esto podr&#237;a ser usado para reparaciones.\n \n%c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	<string id="st_deactivate_mix">
+		<text>Antis&#233;ptico casero</text>
+	</string>
+	<string id="st_deactivate_mix_descr">
+		<text>Una mezcla de pastillas y disolventes de probada eficacia para neutralizar la radiaci&#243;n y los materiales biopeligrosos. Es buena para descontaminar objetos.\n \n%c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2]Descontamina art&#237;culos\n %c[d_cyan] • %c[ui_gray_2]Fabricado en la Zona</text>
+	</string>
+	<string id="st_barrelkit_shotgun">
+		<text>Ca&#241;&#243;n de escopeta de reemplazo</text>
+	</string>
+	<string id="st_barrelkit_shotgun_descr">
+		<text>Kit especializado para reemplazar los ca&#241;ones de las escopetas en el campo. Incluye todas las herramientas y los barriles.\n \n%c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n</text>
+	</string>
+	<string id="st_vodka_4">
+		<text>Licor Jagermeister</text>
+	</string>
+	<string id="st_vodka_4_descr">
+		<text>Un fuerte licor de hierbas alem&#225;n. Hecho con 56 componentes y "a&#241;ejado" durante 12 meses en barriles de roble. La etiqueta de la botella muestra un ciervo con una cruz en sus cuernos. Seg&#250;n la leyenda, el ciervo fue visto por San Huberto, el patr&#243;n de los cazadores.\n \n%c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] Bebida alcoh&#243;lica fuerte\n %c[d_cyan] • %c[ui_gray_2] Provoca mareos</text>
+	</string>
+	<string id="st_selfroll_base_1_name">
+		<text>Papel, tabaco y filtros.</text>
+	</string>
+	<string id="st_selfroll_base_1_descr">
+		<text>Tabaco, filtros y papel, todo lo necesario para hacer cigarrillos. Esto deber&#237;a hacer unos seis o siete. \n \n%c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2]Art&#237;culo fabricado en la Zona</text>
+	</string>
+</string_table>

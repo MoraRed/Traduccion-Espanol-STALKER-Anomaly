@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- (Military Mechanic) -->
+	<string id="army_yan_mec_about_tool_0">
+		<text>&#191;Qui&#233;n eres?</text>
+	</string>
+	<string id="army_yan_mec_about_tool_1">
+		<text>Vengo del ej&#233;rcito local, con el apodo de "Peregrino". Yo estaba estudiando como ingeniero antes de mi reclutamiento. El cuartel general not&#243; mi habilidad para arreglar cosas y decidi&#243; que ser&#237;a mucho m&#225;s &#250;til aqu&#237;, ayudando a hacer mantenimiento al equipo cient&#237;fico. El profesor jefe, Sakharov creo, claramente estuvo de acuerdo. Ahora que lo pienso, se sinti&#243; un poco aliviado. </text>
+	</string>
+	<string id="army_yan_mec_about_tool_2">
+		<text>&#191;As&#237; que eres el nuevo t&#233;cnico del b&#250;nker? &#191;C&#243;mo ha sido hasta ahora?</text>
+	</string>
+	<string id="army_yan_mec_about_tool_3">
+		<text>Es mejor que estar atrapado en el cuartel general, teniendo a un oficial encabronado respirando en tu cuello siempre, o ir de patrulla con &#243;rdenes de disparar a gente desesperada en la cara.\n \nPero, para ser honesto contigo, sigue siendo una mierda. Gracias a la extraordinaria dedicaci&#243;n de nuestro Cuerpo de Suministros, tengo que discutir hasta que me ponga azul la cara s&#243;lo para mantener lo que tenemos actualmente. El equipo esot&#233;rico que los ecologistas mantienen aqu&#237; no es exactamente f&#225;cil mantenerlo con lo que hay disponible, y mucho menos mejorarlo o adaptarlo a las condiciones siempre cambiantes de la Zona.\n \nTrat&#233; de reparar el viejo receptor, pero todo lo que hace es emitir un mont&#243;n de tonterias. Nuestros chicos de los almacenes del ej&#233;rcito estiraron la pata hace siete a&#241;os, pero esta maldita m&#225;quina a&#250;n cree que puede o&#237;r sus voces.</text>
+	</string>
+	<string id="army_yan_mec_about_tool_4">
+		<text>Buena suerte para ti, entonces.</text>
+	</string>
+
+	
+<!-- (Military Cooker) -->
+	<string id="meet_povar_army_0">
+		<text>&#191;Qui&#233;n eres?</text>
+	</string>
+	<string id="meet_povar_army_1">
+		<text>El cocinero local, supongo. En el papel, en realidad soy un asistente de campo para los ecologistas de aqu&#237;. En la pr&#225;ctica... bueno, han pasado unos meses desde que me enviaron a una misi&#243;n, y tengo la sensaci&#243;n de que no voy a ir a ning&#250;n lugar por el momento. De todos modos, me llaman Spirit.</text>
+	</string>
+	<string id="meet_povar_army_2">
+		<text>&#191;Por qu&#233; no te enviaron de nuevo al campo?</text>
+	</string>
+	<string id="meet_povar_army_3">
+		<text>S&#243;lo un peque&#241;o malentendido. Los otros asistentes de campo de por aqu&#237; piensan que soy un alcoh&#243;lico. Quiero decir, &#191;en serio? En estos d&#237;as, tendr&#237;as que estar loco para no beber. &#191;Crees que los snorkels de por aqu&#237; son malos? &#161;Mi amigo Topol trabaja en un b&#250;nker cerca de Pripyat! Me enter&#233; del regreso del Monolito y... no, no quiero pensar en eso. Mira, si por casualidad consigues algo de Nemiroff, puedo conseguirte algo bueno. &#191;Qu&#233; me dices? \nPuedo ofrecerte cuatro cargadores de 9x18 o dos cargadores de 5.45 por cinco tragos de Nemiroff, y cuatro cargadores por diez. \nPor diez tragos, puedo compartir un cargador de 7.62mm 7N1, o tres cajas de 12x70 cartuchos, t&#250; eliges. \nPor quince tragos, que son unas cinco botellas llenas, y 7000 RU, obtienes tres cargadores de balas de 7.62x54 mm PP.  Son bastante caros, ya sabes... \nY por veinte tragos, menos de siete botellas llenas, te sacar&#233; un traje Berill entero de los contenedores. No pienses que soy un sinverg&#252;enza, no es tan malo. El traje me sobra, y trato de enviar la mayor&#237;a de las botellas a Yanov para los chicos.</text>
+	</string>
+	<string id="meet_povar_army_4">
+		<text>Lo considerar&#233;. Gracias.</text>
+	</string>
+
+	<string id="barter_povar_army_0">
+		<text>He tra&#237;do un poco de vodka.</text>
+	</string>
+	<string id="barter_povar_army_1">
+		<text>&#161;Que bien! &#191;Quieres algo en particular?</text>
+	</string>
+		<string id="barter_povar_army_2">
+			<text>Cuatro cargadores 9x18.</text>
+		</string>
+		<string id="barter_povar_army_3">
+			<text>Dos cargadores 5.45.</text>
+		</string>
+		<string id="barter_povar_army_4">
+			<text>Cuatro cargadores 5.45.</text>
+		</string>
+		<string id="barter_povar_army_5">
+			<text>Tres cajas de conchas (perdigones).</text>
+		</string>
+		<string id="barter_povar_army_6">
+			<text>Un cargador 7.62 7N1.</text>
+		</string>
+		<string id="barter_povar_army_7">
+			<text>Tres cajas para la PKP.</text>
+		</string>
+		<string id="barter_povar_army_8">
+			<text>El Berill.</text>
+		</string>
+	<string id="barter_povar_army_10">
+		<text>Bien. Aqu&#237; tienes.</text>
+	</string>
+	<string id="barter_povar_army_11">
+		<text>De acuerdo. Toma.</text>
+	</string>
+	<string id="barter_povar_army_12">
+		<text>Hmm. Me parece justo. Aqu&#237; est&#225;n tus cosas.</text>
+	</string>
+	<string id="barter_povar_army_13">
+		<text>&#161;Ja! &#161;Feliz cacer&#237;a, stalker!</text>
+	</string>
+	<string id="barter_povar_army_14">
+		<text>Hmm. Buena elecci&#243;n.</text>
+	</string>
+	<string id="barter_povar_army_15">
+		<text>No puedo esperar a escuchar la dulce m&#250;sica que tocar&#225; tu francotirador con esto en su interior.</text>
+	</string>
+	<string id="barter_povar_army_16">
+		<text>Aqu&#237; tienes.</text>
+	</string>
+	<string id="barter_povar_army_9">
+		<text>Toma, disfruta. Yo se que lo har&#233; yo.</text>
+	</string>
+
+	<string id="remember_dyx_barter_0">
+		<text>&#191;Recu&#233;rdame que es lo que tienes?</text>
+	</string>
+	<string id="remember_dyx_barter_1">
+		<text>Esto es lo que tengo: cuatro cargadores de 9x18 por cinco tragos de Nemiroff, dos cargadores de 5,45x39 por cinco tragos, cuatro cargadores de 5,45x39 por diez tragos, tres paquetes de 12x70 por diez tragos, un cargador de 7,62x54 7N1 por diez tragos, tres cajas de cargadores para la PKP por cinco botellas llenas y siete mil rublos, y un traje de Berill por veinte tragos.</text>
+	</string>
+
+
+<!-- Kruglov -->
+	<string id="yan_ecolog_kruglov_start_dialog_1">
+		<text>Saludos, stalker.</text>
+	</string>
+
+	<!-- yan_ecolog_semenov -->
+	<string id="yan_ecolog_semenov_start_dialog_1">
+		<text>Ah, stalker, &#191;qu&#233; necesitas?</text>
+	</string>
+	<string id="yan_ecolog_semenov_start_dialog_yan_ecolog_semenov_task_1">
+		<text>Todav&#237;a tengo m&#225;s datos que recopilar. Vamos a buscar m&#225;s mutantes.</text>
+	</string>
+
+	<!-- yan_ecolog_vasilyev -->
+	<string id="yan_ecolog_vasilyev_start_dialog_1">
+		<text>Saludos, stalker.</text>
+	</string>
+	
+
+<!-- Sakharov -->
+	<string id="st_yan_saharov_message_free_upgrade">
+		<text>Stalker, &#161;nos has salvado! Nuestro b&#250;nker habr&#237;a estado condenado si no hubieras intervenido para ayudar. &#161;Para mostrarte mi gratitud, ven a verme para una mejora gratuita a tu psico-casco!</text>
+	</string>
+	<string id="yan_stalker_sakharov_start_1">
+		<text>Hola, stalker. &#191;Qu&#233; te trae por aqu&#237;?</text>
+	</string>
+	<string id="yan_stalker_sakharov_player_query_brain_scorcher">
+		<text>&#191;Qu&#233; puedes decirme sobre el Cauterizador Cerebral?</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_query_brain_scorcher">
+		<text>Hmm, bueno... todav&#237;a tenemos mucho que aprender, pero supongo que no har&#225; da&#241;o compartir lo poco que sabemos contigo. El Cauterizador parece emitir una frecuencia agresiva que afecta a la mente de cualquiera que se acerque demasiado al centro de Pripyat, la Central nuclear o al lado equivocado del Bosque Rojo. Los s&#237;ntomas incluyen migra&#241;as, alucinaciones, visi&#243;n de t&#250;nel, y sin sonar poco profesional, zombificaci&#243;n. Si tuviera que dar una estimaci&#243;n cient&#237;fica, identificar&#237;a el cauterizador cerebral como un psicotransmisor remoto, aunque tendr&#237;a que llevar a cabo una investigaci&#243;n m&#225;s exhaustiva antes de llegar a esa conclusi&#243;n.</text>
+	</string>
+	<string id="yan_stalker_sakharov_player_query_psi_helmet">
+		<text>Profesor, necesito un casco de protecci&#243;n psiquica. Mi tarea requiere que recorra el &#225;rea del Cauterizador, y sin &#233;l, no podr&#233; completarla.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_query_psi_helmet">
+		<text>Asumo que entiendes el riesgo de pasar por estas &#225;reas ps&#237;quicamente vol&#225;tiles, &#191;verdad?... Oh, de acuerdo, creo que lo entiendes. De otra manera no me lo preguntar&#237;as. Bueno, ha habido un prototipo en el que hemos estado trabajando cuidadosamente, pero aun est&#225; sin terminar, y le falta la calibraci&#243;n final. Podr&#237;amos darle el casco ps&#237;quico de inmediato por una modesta suma de 10.000 rublos. Sin embargo, estar&#237;as poniendo tu vida en manos de un equipo inacabado.\n \nHay una posibilidad m&#225;s: podemos acelerar el progreso de la calibraci&#243;n, pero eso requerir&#237;a que us&#225;ramos m&#225;s fondos, y que t&#250; esperaras. Esto normalmente cuesta unos 17.500 rublos. Si usted est&#225; dispuesto a pagar esa suma, comenzaremos a utilizarla inmediatamente para terminar nuestras calibraciones, lo que deber&#237;a tomar aproximadamente dos d&#237;as, m&#225;s o menos.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_query_psi_helmet_free">
+		<text>Asumo que entiendes el riesgo de pasar por estas &#225;reas ps&#237;quicamente vol&#225;tiles, &#191;verdad?... Oh, de acuerdo, creo que lo entiendes. De otra manera no me lo preguntar&#237;as. Bueno, ha habido un prototipo en el que hemos estado trabajando cuidadosamente, pero est&#225; sin terminarse, y le falta la calibraci&#243;n final.\n \nDeber&#237;a protegerte de las psicoemisiones del entorno, pero no me canso de insistir en esto: estar&#237;as arriesgando tu vida con un hardware incompleto.</text>
+	</string>
+	<string id="yan_stalker_sakharov_player_psi_helmet_1_1">
+		<text>Tengo prisa. Su prototipo deber&#237;a servir.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_1_1">
+		<text>Si insiste, aunque me temo que su misi&#243;n ser&#225; demasiado peligrosa para un equipo que no est&#225; en perfectas condiciones de funcionamiento. No lo olvide: siempre puede traernos su casco para una calibraci&#243;n final. Si siente que algo est&#225; mal, regrese inmediatamente. Los campos ps&#237;quicos pueden ser traicioneros, y en mi conciencia no descansar&#237;a bien si escucho que mueres a uno despu&#233;s, todo gracias a mi trabajo inconcluso.\n \nAhora, si est&#225;s seguro de que no quieres que termine de ajustar este modelo, ser&#225;n 10.000 rublos.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_player_psi_helmet_1_2">
+		<text>Aqu&#237; est&#225; el dinero. Gracias, profesor.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_1_2">
+		<text>No, en absoluto. Pero me gustar&#237;a que lo probaras primero. Puedes ayudarnos desactivando el psico-emisor del laboratorio que est&#225; al norte de aqu&#237;. Esperemos que proteja bien tu conciencia.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_player_psi_helmet_1_3">
+		<text>He decidido dejarle terminarlo. Por favor, calibrelo con cuidado.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_1_3">
+		<text>No sabes el alivio que esto nos trae a m&#237; y a mis colegas. Dejarnos terminar las calibraciones finales reducir&#225; considerablemente el riesgo de que adquieras psicosis, amnesia o locura general mientras exploras los fen&#243;menos ps&#237;quicos de la Zona. Como ya ha proporcionado ayuda financiera a nuestra causa, una calibraci&#243;n final s&#243;lo le costar&#225; unos 8.000 rublos. Sin embargo, tendr&#225; que dejar su casco y necesitaremos dos d&#237;as m&#225;s para completar los retoques finales.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_player_psi_helmet_2_1">
+		<text>Espero que mi paciencia valga la pena para poder tener la versi&#243;n calibrada.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_1">
+		<text>En efecto, lo ser&#225;. Una vez que terminemos de trabajar en este casco, podr&#225;s pasear libremente por la Zona, sin sufrir el riesgo de degradaci&#243;n mental de cualquier psico-emisor que puedas encontrar en tus viajes. Entonces, el costo es de 17.500 rublos.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_1_free">
+		<text>En efecto, lo ser&#225;. Una vez que terminemos de trabajar en este casco, podr&#225;s pasear libremente por la Zona, sin sufrir el riesgo de degradaci&#243;n mental de cualquier psico-emisor que puedas encontrar en tus viajes. Entonces, el costo es de 17.500 rublos. Por lo general, el costo ser&#237;a de 17.500 rublos, pero ya que nos ha ayudado en un momento dif&#237;cil, puedo confiadamente entregarle este dispositivo de forma gratuita. &#218;selo con cuidado.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_player_psi_helmet_2_2">
+		<text>De acuerdo, esperar&#233; al casco ps&#237;quico completamente calibrado. Haz tu magia.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_2">
+		<text>Gracias, stalker. Comenzar&#233; las calibraciones finales de una vez. Ven a visitarme en unos d&#237;as.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_player_psi_helmet_2_3">
+		<text>&#191;Ya est&#225; listo?</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_3">
+		<text>&#161;Si lo es! Aqu&#237; tienes. Si lo desea, puede ayudarnos m&#225;s usando su nuevo dispositivo para desactivar el psicoemisor en el complejo del laboratorio justo al norte de aqu&#237;. Puedo decir con confianza que nuestro trabajo proteger&#225; bien su mente.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_2_3_1">
+		<text>Todav&#237;a no. Por favor, vuelve m&#225;s tarde.</text>
+	</string>
+
+	<string id="yan_stalker_sakharov_player_psi_helmet_3_1">
+		<text>Necesito pensarlo.</text>
+	</string>
+	<string id="yan_stalker_sakharov_npc_psi_helmet_3_1">
+		<text>Muy bien. No se preocupe, mientras tanto nos quedaremos con el casco ps&#237;quico para resguardarlo.</text>
+	</string>
+	
+	<string id="st_yan_stalker_sakharov_life_ask">
+		<text>&#191;Puede decirme c&#243;mo le ha ayudado la Zona en su investigaci&#243;n cient&#237;fica, profesor?  </text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_1">
+		<text>&#161;Claro que s&#237;! El artefacto Estrella Nocturna, independientemente de sus propiedades cuando se encuentra en la naturaleza, comienza a tomar curiosos rasgos antibal&#237;sticos cuando se expone a las condiciones de laboratorio correctas. En unos pocos a&#241;os, podremos ver espectaculares avances en tecnolog&#237;as como el chaleco antibalas o las placas de kevlar.</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_2">
+		<text>&#161;Oh, s&#237;! Examinar las muestras de tejido de los diversos mutantes humanoides ha sido una pr&#225;ctica esclarecedora. La comunidad cient&#237;fica en general todav&#237;a no est&#225; segura de qu&#233; caus&#243; que el chupasangre desarrollara invisibilidad, o que el snorkel desarrollara su renombrada flexibilidad. Cuanto m&#225;s aprendamos sobre la causa y la naturaleza de estas mutaciones, &#161;m&#225;s acertadamente podremos predecir el camino evolutivo de la Humanidad! &#191;No es emocionante?</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_3">
+		<text>Bueno, recientemente llevamos a cabo una fascinante serie de experimentos con chupasangres, que revel&#243; que - en realidad, pens&#225;ndolo bien, es probablemente mejor que no lo sepas.</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_4">
+		<text>Como un intelectual, usted podr&#237;a apreciar esto: nuestra investigaci&#243;n ha descubierto que el llamado "ojo" del Carne est&#225; equipado no s&#243;lo con fotorreceptores... &#161;sino tambi&#233;n con receptores olfativos!\n \nNo s&#243;lo ven con sus ojos - &#161;tambi&#233;n huelen con ellos! &#191;Qui&#233;n hubiera pensado que el cerdo com&#250;n un d&#237;a mutar&#237;a en una criatura conectada con una forma muy inusual de sinestesia? &#161;Una que no es simplemente causada por un cableado cruzado en el cerebro, sino por alteraciones en sus &#243;rganos sensoriales!</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_5">
+		<text>&#161;Claro! Despu&#233;s de a&#241;os de estudiar varias partes mutantes, nos acercamos a la comercializaci&#243;n de &#243;rganos y tejidos como los ojos del pulpo, los tendones del esn&#243;rquel o las fibras musculares de los pseudogigantes para fines m&#225;s, eh, controvertidos. &#191;Has visto el &#250;ltimo lote de muestras? Hemos estado transplantando tantos como hemos podido a todos nuestros, bueno - todos nuestros asistentes voluntarios. &#161;Con un mayor desarrollo, podr&#237;amos empezar una locura!</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_6">
+		<text>Decir que la Zona ha ayudado en mi investigaci&#243;n ser&#237;a quedarse corto. Los descubrimientos que hemos hecho han avanzado mi credibilidad como cient&#237;fico considerablemente. Tal vez uno de mis mayores logros fue un esfuerzo de colaboraci&#243;n: con mis colegas, sintetizamos con &#233;xito un raro artefacto Pel&#237;cula bajo condiciones de laboratorio controladas - &#161;un verdadero avance merecedor del Premio Nobel!\n \nDesgraciadamente, la naturaleza de los artefactos ha evolucionado independientemente desde entonces, como para resistirse a nuestras investigaciones. A pesar de nuestro logro estelar, pasar&#225; bastante tiempo antes de que podamos sintetizar eficientemente artefactos m&#225;s poderosos de nuevo.</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_7">
+		<text>Bueno, hay un colega m&#237;o - un profesor Brenter - que ha sido muy entusiasta en sus estudios sobre el efecto de las prote&#237;nas mutadas en el cuerpo humano. Estudiando a los stalkers que han comido carne mutante, como los clientes del Bar 100 Rads, y documentando lo que hacen para evitar los peores efectos negativos, aumenta nuestro conocimiento para contrarrestar el da&#241;o que la radiaci&#243;n deja en el cuerpo.</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_8">
+		<text>&#161;S&#237;! &#191;Has o&#237;do hablar del artefacto Erizo? Inicialmente, pensamos que ser&#237;a poco realista reproducir tal maravilla en condiciones de laboratorio hasta por lo menos el 2022, gracias a su estabilidad cr&#237;tica. Sin embargo, podemos descubrir el secreto antes de lo previsto.\n \nEl momento no podr&#237;a ser mejor: cada vez es m&#225;s dif&#237;cil encontrarlos de forma natural en la Zona, y cada uno es vital para crear potentes trajes anti-radiaci&#243;n y medicaci&#243;n.\n \nEs probable que te hayas beneficiado de los resultados de nuestros experimentos con Urchin varias veces, ahora que lo pienso. Es un reto pensar en cualquier explorador profesional de la zona que no haya usado nuestros avanzados trajes y sueros radioprotectores en alg&#250;n momento de su vida. </text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_9">
+		<text>&#191;Qu&#233;? Lo siento, pero no quiero seguir conversando de las maravillas de la Zona hoy. Tengo los nervios destrozados por todos los chirridos y garras que escuch&#233; de los mutantes de la zona anoche, y apenas puedo concentrarme.\n \nQuiz&#225; le interese comprar material cient&#237;fico, o ver si alguno de mis colegas necesita ayuda.</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_10">
+		<text>Hace muchos a&#241;os, nuestra comprensi&#243;n de la gravedad era tal que pudimos empezar a desarrollar los primeros impulsores de iones y propulsores.\n \nSin el constante flujo de artefactos que los stalkers trajeron de las anomal&#237;as basadas en la gravedad, tales revelaciones nunca habr&#237;an sido posibles en nuestra vida. Pasar&#225;n muchos a&#241;os antes de que nuestros descubrimientos se abran al p&#250;blico, pero es innegable que los stalkers han ayudado a la ciencia a allanar su camino de vuelta a las estrellas.\n \nY me atrevo a decir que, como la comunidad cient&#237;fica sabe que algunas anomal&#237;as de la gravedad, como el v&#243;rtice, comprimen el espacio mismo, &#161;quiz&#225;s la teletransportaci&#243;n tambi&#233;n deje de ser una fantas&#237;a con el tiempo! Ah, pero me he adelantado. </text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_11">
+		<text>El campo de la energ&#237;a se ha beneficiado considerablemente de nuestras investigaciones en la Zona. Hemos empezado a introducir discretamente artefactos Luz de Luna - as&#237; como dispositivos especializados dise&#241;ados para aprovechar de forma segura la salida de energ&#237;a an&#243;mala - lo hemos hecho estaciones de energ&#237;a selectas en todo el pa&#237;s. Con un mayor refinamiento, podr&#237;an potencialmente reemplazar los combustibles f&#243;siles por completo para las generaciones futuras.\n \nCon el tiempo, podr&#237;amos intentar lo mismo con los mucho m&#225;s potentes artefactos tipo Bater&#237;a. Sin embargo, mis colegas estiman que incluso un solo Bater&#237;a es capaz de producir una potencia superior a la de tres reactores nucleares. Naturalmente, cuando se trata de una potencia tan impresionante, debemos ser lentos y cautelosos con nuestros experimentos.</text>
+	</string>
+	<string id="st_yan_stalker_sakharov_life_end">
+		<text>&#191;Hmm? Tal vez m&#225;s tarde, joven. Estoy seguro de que tienes asuntos m&#225;s urgentes que atender ahora.</text>
+	</string>
+
+	<!-- yan_merc_guards -->
+	<string id="yan_merc_guards_start_2">
+		<text>Ahora mismo no, estoy de guardia. Prefiero que hables con Peregrino o con uno de los cerebritos si necesitas algo.</text>
+	</string>
+	<string id="yan_merc_guards_start_3">
+		<text>Hazlo r&#225;pido. No quiero que los soplones nos pillen teniendo una jugosa conversaci&#243;n.</text>
+	</string>
+	<string id="yan_merc_guards_start_4">
+		<text>Ese zumbido del complejo del norte hace que me piquen los dientes. Ojal&#225; el maldito chef no se siga bebiendo todo el maldito alcohol...</text>
+	</string>
+</string_table>

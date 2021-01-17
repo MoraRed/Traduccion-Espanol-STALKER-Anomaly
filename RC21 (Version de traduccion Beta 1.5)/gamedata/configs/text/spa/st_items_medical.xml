@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Medical Items + Drugs
+-->
+
+<string_table>
+	
+	<string id="st_antirad">
+		<text>Medicamentos contra la radiaci&#243;n</text>
+	</string>
+	<string id="st_antirad_descr">
+		<text>Las drogas de protecci&#243;n contra la radiaci&#243;n son comunes en la Zona. Cuando se usa, esta droga induce la contracci&#243;n de los vasos sangu&#237;neos perif&#233;ricos y la privaci&#243;n de ox&#237;geno, que sirven para tratar y prevenir la exposici&#243;n a la radiaci&#243;n. La droga no tiene efectos secundarios graves, aunque se han notificado casos aislados de n&#225;useas, mareos, calambres y dolor de est&#243;mago leves.\n \n %c[ui_gray_3]CURANDO:\n %c[d_red] • %c[ui_gray_2] Agota 5% hp por uso\n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] importado\n %c[d_blue] • %c[ui_gray_2] uso r&#225;pido (jeringa)\n
+		</text>
+	</string>
+	<string id="st_bandage">
+		<text>Vendaje</text>
+	</string>
+	<string id="st_bandage_descr">
+		<text>Una venda el&#225;stica com&#250;n utilizada para detener las hemorragias y prevenir infecciones en las heridas. En caso de hemorragia ordinaria, aplique cuidadosamente la venda a la herida. Para el sangrado arterial, atar inmediatamente la venda alrededor de la zona afectada.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de primeros auxilios\n %c[d_blue] • %c[ui_gray_2] uso r&#225;pido (yeso adhesivo)\n
+		</text>
+	</string>
+	
+	<string id="st_drug_coagulant">
+		<text>Vinca</text>
+	</string>
+	<string id="st_drug_coagulant_descr">
+		<text>Vikasolum ucraniano - un equivalente artificial de la vitamina K. El prop&#243;sito principal de esta droga es aumentar la velocidad de coagulaci&#243;n de la sangre. Tiene una gran demanda entre los stalkers que buscan que las heridas de curaci&#243;n lenta y las laceraciones infligidas por los mutantes se cierren m&#225;s r&#225;pido. Los efectos de la droga son duraderos. Tome dos tabletas a la vez.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_red] • %c[ui_gray_2] causa mareos\n</text>
+	</string>
+	
+	<string id="st_drug_anabiotic">
+		<text>Anabi&#243;ticos</text>
+	</string>
+	<string id="st_drug_anabiotic_descr">
+		<text>Una droga experimental desarrollada por el profesor Ozersky para los equipos de investigaci&#243;n cient&#237;fica que trabajan en la Zona. En su n&#250;cleo, la droga contiene tetrodotoxina, conocida coloquialmente como "polvo de zombi", que causa un apagado completo del sistema nervioso central del cuerpo que puede permitir a las personas sobrevivir a las emisiones en el exterior. Despu&#233;s de seis a&#241;os de pruebas de campo, los stalkers prudentes saben que deben tener a mano unos cuantos para las emisiones inesperadas.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] producido en la zona\n %c[d_red] • %c[ui_gray_2] causa un desmayo temporal\n</text>
+	</string>
+	
+	<string id="st_drug_psy_blockade">
+		<text>Bloqueador ps&#237;quico</text>
+	</string>
+	<string id="st_drug_psy_blockade_descr">
+		<text>Una droga que bloquea los impulsos nerviosos similares a los de los arrebatos. El consumo induce a la p&#233;rdida a corto plazo de todas las emociones. Se usa exclusivamente en la Zona para contrarrestar los efectos de los campos ps&#237;quicos an&#243;malos. Los efectos de la droga son duraderos. Tome dos tabletas a la vez.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_red] • %c[ui_gray_2] causa mareos severos\n
+		</text>
+	</string>
+	
+	<string id="st_drug_antidot">
+		<text>Ant&#237;doto</text>
+	</string>
+	<string id="st_drug_antidot_descr">
+		<text>La antitoxina IP2 es un f&#225;rmaco complejo que comprende varios ant&#237;dotos, entre ellos el metoclopramidum, la piridoxina, la tiamina, la riboxina y otros productos farmac&#233;uticos. La droga se utiliza para inyectar en el torrente sangu&#237;neo una serie de antibi&#243;ticos que neutralizan los venenos naturales, junto con absorbentes de veneno sint&#233;ticos. La IP2 no es particularmente popular en la Zona, ya que la mayor&#237;a de los stalkers dependen de una m&#225;scara de gas y un traje protector. Sin embargo, todav&#237;a hay quienes tienen algunas unidades de este ant&#237;doto escondidas para situaciones de emergencia. Los efectos de la droga son duraderos. Tome una c&#225;psula a la vez.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_red] • %c[ui_gray_2] causa mareos\n</text>
+	</string>
+	
+	<string id="st_drug_booster">
+		<text>H&#233;rcules</text>
+	</string>
+	<string id="st_drug_booster_descr">
+		<text>El principal componente de este producto es un andr&#243;geno anab&#243;lico, un esteroide artificial cuya composici&#243;n qu&#237;mica se asemeja a la de la testosterona. A menudo utilizado por los stalkers durante las largas incursiones para reducir la fatiga muscular. Aumenta significativamente la capacidad de carga de peso. Los efectos de la droga son duraderos.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] bebida\n %c[d_blue] • %c[ui_gray_2] importado\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] leve efecto de desintoxicaci&#243;n alcoh&#243;lica\n
+		</text>
+	</string>
+	
+	<string id="st_drug_radioprotector">
+		<text>Radioprotector</text>
+	</string>
+	<string id="st_drug_radioprotector_descr">
+		<text>B190 Radioprotector de Indralina, incluido en los botiquines que se entregan al personal de las centrales nucleares. Utilizado en la Zona en lugar del clorhidrato de cisteamina PC1, excesivamente t&#243;xico, cuyo uso repetido a menudo causaba la muerte. Reduce los efectos de la radiaci&#243;n gamma en los tejidos vivos. Es mejor consumirlo antes de la exposici&#243;n, ya que los efectos no son instant&#225;neos, pero la droga dura mucho tiempo. Tome una c&#225;psula a la vez.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_red] • %c[ui_gray_2] mareos leves\n
+		</text>
+	</string>
+	
+	<string id="st_akvatab">
+		<text>Akvatabs</text>
+	</string>
+	<string id="st_akvatab_descr">
+		<text>Peque&#241;a bolsa de pl&#225;stico con p&#237;ldoras destinadas a desinfectar el agua que contiene bacterias y virus da&#241;inos. Use dos pastillas a la vez.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_red] • %c[ui_gray_2] uso lento (tabletas dispersables)\n %c[d_blue] • %c[ui_gray_2] fuente nutritiva limpia\n
+		</text>
+	</string>
+	
+	<string id="st_medkit_ai1">
+		<text>Paquete m&#233;dico b&#225;sico</text>
+	</string>
+	<string id="st_medkit_ai1_descr">
+		<text>Un paquete m&#233;dico que contiene una variedad de equipo para el tratamiento de lesiones menores.\n \n %c[ui_gray_3]CONTENIDOS:\n %c[d_cyan] • %c[default] vendajes (4)\n %c[d_cyan] • %c[default] diclofenac s&#243;dico\n %c[d_cyan] • %c[default] estimulante improvisado\n %c[d_cyan] • %c[default] ampolla de metamizol\n %c[d_cyan] • %c[default] agua mineral\n %c[d_cyan] • %c[default] sulfadimetoxina\n %c[d_cyan] • %c[default] torniquete\n %c[d_cyan] • %c[default] yadulin\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] almacenamiento para equipo m&#233;dico\n</text>
+	</string>
+	
+	<string id="st_medkit_ai2">
+		<text>Paquete m&#233;dico del ej&#233;rcito</text>
+	</string>
+	<string id="st_medkit_ai2_descr">
+		<text>Un paquete m&#233;dico de grado militar, que contiene una gran cantidad de drogas m&#233;dicas estimulantes.\n \n %c[ui_gray_3]CONTENIDOS:\n %c[d_cyan] • %c[default] ampolla de morfina\n %c[d_cyan] • %c[default] preparaci&#243;n antiradiaci&#243;n\n %c[d_cyan] • %c[default] tabletas aquatab\n %c[d_cyan] • %c[default] vendaje (4)\n %c[d_cyan] • %c[default] tabletas de cafeina\n %c[d_cyan] • %c[default] diclofenac s&#243;dico\n %c[d_cyan] • %c[default] arn&#233;s (2)\n %c[d_cyan] • %c[default] estimulante militar\n %c[d_cyan] • %c[default] agua mineral\n %c[d_cyan] • %c[default] pildora 027R\n %c[d_cyan] • %c[default] vacuna anti-tetanica\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] almacenamiento para equipo m&#233;dico\n</text>
+	</string>
+	
+	<string id="st_medkit_ai3">
+		<text>Paquete m&#233;dico cient&#237;fico</text>
+	</string>
+	<string id="st_medkit_ai3_descr">
+		<text>Un paquete m&#233;dico, dise&#241;ado para ser usado espec&#237;ficamente en la Zona. Contiene una gran cantidad de drogas con el fin de contrarrestar los riesgos qu&#237;micos, ps&#237;quicos y radiactivos.\n \n %c[ui_gray_3]CONTENIDOS:\n %c[d_cyan] • %c[default] drogas anti-radiaci&#243;n (2)\n %c[d_cyan] • %c[default] antioxidante IP2\n %c[d_cyan] • %c[default] inyecci&#243;n grande de glucosa\n %c[d_cyan] • %c[default] cistamina (2)\n %c[d_cyan] • %c[default] dicofenac s&#243;dico\n %c[d_cyan] • %c[default] epinefrina\n %c[d_cyan] • %c[default] arn&#233;s\n %c[d_cyan] • %c[default] indralin-B190\n %c[d_cyan] • %c[default] agua mineral\n %c[d_cyan] • %c[default] psi-bloqueador\n %c[d_cyan] • %c[default] estimulante cient&#237;fico (2)\n %c[d_cyan] • %c[default] sulfadimetoxina\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] almacenamiento de equipo m&#233;dico\n
+		</text>
+	</string>
+	
+	<string id="st_analgetic">
+		<text>Dicofenac s&#243;dico</text>
+	</string>
+	<string id="st_analgetic_descr">
+		<text>Antiinflamatorio no esteroideo del grupo de los derivados del &#225;cido fenilac&#233;tico. El efecto de la droga embota la actividad nerviosa del usuario. Debido al gran n&#250;mero de efectos secundarios, como dolor de cabeza, mareos, somnolencia y, en algunos casos, trastornos de la memoria, desorientaci&#243;n, irritabilidad, no se utiliza con fines medicinales en la mayor&#237;a de los pa&#237;ses. Sin embargo, en la Zona se ha popularizado debido a un efecto secundario que se expresa en la violaci&#243;n de la sensibilidad del sistema nervioso central, lo que le permite soportar lesiones graves, como heridas de bala y metralla.\n \n %c[ui_gray_3]CURANDO:\n %c[d_red] • %c[ui_gray_2] Restaura 2%hp por uso\n %c[d_red] • %c[ui_gray_2] Restaura 0.05%hp/s, total 50%\n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] importado\n %c[d_purple] • %c[ui_gray_2] bono promedio de resistencia al da&#241;o\n
+		</text>
+	</string>
+	
+	<string id="st_jgut_zhgut">
+		<text>Torniquete</text>
+	</string>
+	<string id="st_jgut_descr">
+		<text>Un torniquete de goma hemost&#225;tica, que permite que el usuario deje de sangrar.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de primeros auxilios\n %c[d_blue] • %c[ui_gray_2] uso r&#225;pido (torniquete)\n
+		</text>
+	</string>
+	
+	<string id="st_yadylin">
+		<text>Yadulin</text>
+	</string>
+	<string id="st_yadylin_descr">
+		<text>Una semidroga basada en la morfina. Permite al usuario calmar r&#225;pidamente el dolor y aumentar la producci&#243;n de adrenalina, ayud&#225;ndole a soportar incluso las batallas m&#225;s intensas. Es popular entre los stalkers, a menudo utilizada como droga recreativa entre los grupos criminales, y supuestamente se suministra al Monolito.\n \n %c[ui_gray_3]CURACION:\n %c[d_red] • %c[ui_gray_2] Restaura 0.12%hp/s, total 30%\n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] importado\n %c[d_blue] • %c[ui_gray_2] efecto ag&#243;nico\n %c[d_red] • %c[ui_gray_2] causa una nubosidad de la conciencia a corto plazo\n
+		</text>
+	</string>
+	
+		<string id="st_medkit">
+		<text>Botiqu&#237;n de primeros auxilios</text>
+	</string>
+	<string id="st_medkit_descr">
+		<text>Un kit m&#233;dico de uso general. Muy &#250;til para el tratamiento de lesiones, heridas, quemaduras qu&#237;micas y t&#233;rmicas y varios tipos de envenenamiento.\n \n %c[ui_gray_3]CURACION:\n %c[d_red] • %c[ui_gray_2] Restaura 1.8%hp/s, total 60%\n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo diario\n %c[d_red] • %c[ui_gray_2] uso lento (kit de campo)\n %c[d_red] • %c[ui_gray_2] tiempo prolongado de recuperaci&#243;n del cuerpo\n
+		</text>
+	</string>
+	<string id="st_medkit_army">
+		<text>Botiqu&#237;n m&#233;dico del ej&#233;rcito</text>
+	</string>
+	<string id="st_medkit_army_descr">
+		<text>Un botiqu&#237;n especializado para proporcionar primeros auxilios a las v&#237;ctimas de los combates. El kit incluye coagulantes sangu&#237;neos a base de menadiona, analg&#233;sicos, antibi&#243;ticos e inmunoestimulantes, as&#237; como un kit para extraer balas y fragmentos del cuerpo. Este botiqu&#237;n se entrega principalmente a personal del ej&#233;rcito como las unidades Spetsnaz que se aventuran en las profundidades de la Zona y es popular entre las fuerzas Deber.\n \n %c[ui_gray_3]CURANDO:\n %c[d_red] • %c[ui_gray_2] Restaura 3%hp/s, total 100%\n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culos militar\n %c[d_red] • %c[ui_gray_2] uso lento (kit de campo)\n %c[d_red] • %c[ui_gray_2] tiempo prolongado de recuperaci&#243;n del cuerpo\n
+		</text>
+	</string>
+	<string id="st_medkit_science">
+		<text>Kit m&#233;dico cient&#237;fico</text>
+	</string>
+	<string id="st_medkit_science_descr">
+		<text>Un kit m&#233;dico dise&#241;ado espec&#237;ficamente para su uso en la Zona. El kit contiene productos para el manejo de heridas, as&#237; como para prevenir el desarrollo de envenenamiento por radiaci&#243;n y reducir la radiaci&#243;n acumulada en el cuerpo. Contiene Vikasolum, Batilolum y Nafazolina, a diferencia de otros botiquines.\n \n %c[ui_gray_3]CURACION:\n %c[d_red] • %c[ui_gray_2] Restaura 3%hp/s, total 100%\n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] valioso\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_red] • %c[ui_gray_2] uso lento (kit de campo)\n %c[d_red] • %c[ui_gray_2] tiempo prolongado de recuperaci&#243;n del cuerpo\n
+		</text>
+	</string>
+	
+	<string id="st_glucose_s">
+		<text>Dosis de glucosa peque&#241;a</text>
+	</string>
+	<string id="st_glucose_s_descr">
+		<text>Las inyecciones de glucosa se utilizan en casos de hipoglucemia diab&#233;tica grave, pero tambi&#233;n pueden emplearse como estimulante. La inducci&#243;n instant&#225;nea de los carbohidratos conlleva un r&#225;pido aumento de la energ&#237;a, lo que permite al usuario realizar un mayor esfuerzo f&#237;sico y soportar el estr&#233;s. Debido a sus convenientes medios de administraci&#243;n, pueden utilizarse en situaciones de combate. Esto hace que la inyecci&#243;n de glucosa sea una muy buena manera de acelerar el proceso de curaci&#243;n.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] importado\n %c[d_blue] • %c[ui_gray_2] uso r&#225;pido (jeringa)\n</text>
+	</string>
+	
+	<string id="st_glucose">
+		<text>Dosis de glucosa grande</text>
+	</string>
+	<string id="st_glucose_descr">
+		<text>Las inyecciones de glucosa se utilizan en casos de hipoglucemia diab&#233;tica grave, pero tambi&#233;n pueden emplearse como estimulante. La inducci&#243;n instant&#225;nea de los carbohidratos conlleva un r&#225;pido aumento de la energ&#237;a, lo que permite al usuario realizar un mayor esfuerzo f&#237;sico y soportar el estr&#233;s. Debido a sus convenientes medios de administraci&#243;n, pueden utilizarse en situaciones de combate. Esto hace que la inyecci&#243;n de glucosa sea una muy buena manera de acelerar el proceso de curaci&#243;n.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] importado\n %c[d_blue] • %c[ui_gray_2] uso r&#225;pido (jeringa)\n</text>
+	</string>
+	
+	<string id="st_stim_impro">
+		<text>Estimulador improvisado</text>
+	</string>
+	<string id="st_stim_impro_descr">
+		<text>Los estimulantes improvisados son populares entre los zonistas novatos, ya que son f&#225;ciles de obtener y baratos. Se producen en la Zona a partir de ingredientes com&#250;nmente disponibles, sin el equipo y la purificaci&#243;n adecuados. Esto es la causa de muchos efectos secundarios que incluyen dolor de cabeza, parestesia y un considerable aumento en la demanda de nutrici&#243;n. Se inyecta en el muslo.\n \n %c[ui_gray_3]CURANDO:\n %c[d_red] • %c[ui_gray_2] Restaura 4.2%hp/s, total 50%\n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] producido en la zona\n %c[d_blue] • %c[ui_gray_2] uso r&#225;pido (jeringa)\n %c[d_blue] • %c[ui_gray_2] tiempo de recuperaci&#243;n corporal moderado\n</text>
+	</string>
+	
+	<string id="st_stim_military">
+		<text>Paquete de est&#237;muladores militares</text>
+	</string>
+	<string id="st_stim_military_descr">
+		<text>Los estimulantes militares forman parte del equipo est&#225;ndar de los soldados para las operaciones de campo en la Zona... en teor&#237;a. En la pr&#225;ctica, la mayor&#237;a de los soldados nunca ven estos estimulantes. Sin embargo, est&#225;n disponibles con sospechosa facilidad en el mercado negro y pueden ser adquiridos por la mayor&#237;a de los stalkers por un precio razonable. Popular entre los zonistas experimentados. Son significativamente m&#225;s potentes y r&#225;pidos que sus hom&#243;logos improvisados, lo que los hace perfectos para su uso en situaciones que amenazan la vida. Producidos a partir de agentes en bruto de alta densidad que pueden pasar factura al cuerpo. Los efectos secundarios incluyen mareos extremos y aumento del hambre.\n \n %c[ui_gray_3]CURANDO:\n %c[d_red] • %c[ui_gray_2] Restaura 6%hp/s, total 90%\n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] importado\n %c[d_blue] • %c[ui_gray_2] art&#237;culo militar\n %c[d_blue] • %c[ui_gray_2] uso r&#225;pido (jeringa)\n %c[d_blue] • %c[ui_gray_2] tiempo de recuperaci&#243;n corporal r&#225;pido\n</text>
+	</string>
+	
+	<string id="st_stim_scientic">
+		<text>Estimulante cient&#237;fico</text>
+	</string>
+	<string id="st_stim_scientic_descr">
+		<text>Creado por el mismo instituto de investigaci&#243;n de defensa en Kiev que desarroll&#243; el conocido traje SEVA, esta soluci&#243;n de &#250;ltima generaci&#243;n constituye el estabilizador de salud m&#225;s potente disponible en la Zona. Los ingredientes de la mejor calidad y la f&#243;rmula perfeccionada permiten una recuperaci&#243;n casi instant&#225;nea y aseguran una r&#225;pida limpieza de la radiaci&#243;n. Los efectos secundarios son minimizados. El coste extremadamente alto pr&#225;cticamente limita el grupo objetivo de la droga a los stalkers m&#225;s h&#225;biles y exitosos.\n \n %c[ui_gray_3]CURANDO:\n %c[d_red] • %c[ui_gray_2] Restaura 6%hp/s, total 90%\n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] importado\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_blue] • %c[ui_gray_2] uso r&#225;pido (jeringa)\n %c[d_blue] • %c[ui_gray_2] tiempo de recuperaci&#243;n corporal r&#225;pido\n</text>
+	</string>
+	
+	<string id="st_sleepingpills">
+		<text>Pildoras 027 R</text>
+	</string>
+	<string id="st_sleepingpills_descr">
+		<text>Un paquete de tabletas de alprazolam de 0,25 mg, tambi&#233;n conocido como 027 R. El alprazolam es conocido entre los qu&#237;micos por su capacidad para reducir la depresi&#243;n, la ansiedad y los problemas de p&#225;nico. Invaluable para cualquiera que explore Yantar, Radar, el Bosque Rojo o cualquiera de los laboratorios subterr&#225;neos. Los efectos secundarios incluyen somnolencia. Es mejor tomarlo con agua, pero algunos stalkers optan por la cafe&#237;na.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] inducci&#243;n inmediata de somnolencia\n
+		</text>
+	</string>
+	
+	<string id="st_cocaine">
+		<text>Coca&#237;na</text>
+	</string>
+	<string id="st_cocaine_descr">
+		<text>Peque&#241;o estuche de aluminio que contiene coca&#237;na y las herramientas que facilitan su uso. La coca&#237;na es un poderoso estimulante adictivo que aumenta dr&#225;sticamente la felicidad, la energ&#237;a y el estado de alerta en el cerebro cuando se toma, junto con una irritabilidad y paranoia extremas que conducen a violentos cambios de humor.\n \nLos efectos a largo plazo incluyen la p&#233;rdida de apetito, vulnerabilidad a las enfermedades, psicosis y la erosi&#243;n de la boca y los pulmones. Para los stalkers que esperan vivir una vida especialmente corta o violenta sin importar nada, los efectos negativos representan una opci&#243;n aceptable para la euforia y el rendimiento en combate que otorgan los efectos de esta droga. Se rumorea que los bandidos son los mayores proveedores de coca&#237;na de la Zona, siendo los renegados sus principales clientes.z\n \n %c[ui_gray_3]CURANDO:\n %c[d_red] • %c[ui_gray_2] Agota 6%hp por uso\n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] estimulante\n %c[d_blue] • %c[ui_gray_2] efecto muy potente de sobriedad alcoh&#243;lica\n
+		</text>
+	</string>
+	
+	<string id="st_adrenalin">
+		<text>Inyecci&#243;n de epinefrina</text>
+	</string>
+	<string id="st_adrenalin_descr">
+		<text>La epinefrina (tambi&#233;n conocida como adrenalina) es una hormona y un neurotransmisor. La epinefrina tiene muchas funciones en el cuerpo, como la regulaci&#243;n instant&#225;nea del ritmo card&#237;aco, los di&#225;metros de los vasos sangu&#237;neos y de las v&#237;as respiratorias, y los cambios metab&#243;licos. La liberaci&#243;n de epinefrina es un componente crucial de la respuesta para pelear o escapar por parte del sistema nervioso simp&#225;tico. Los efectos conducen a un aumento del nivel de glucosa en la sangre y de los &#225;cidos grasos, proporcionando sustratos para la producci&#243;n instant&#225;nea de energ&#237;a dentro de las c&#233;lulas de todo el cuerpo.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] importado\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_blue] • %c[ui_gray_2] uso r&#225;pido (jeringa)\n %c[d_blue] • %c[ui_gray_2] efecto muy potente de desintoxicaci&#243;n alcoh&#243;lica\n
+		</text>
+	</string>
+	
+	<string id="st_morphine">
+		<text>Ampolla de morfina</text>
+	</string>
+	<string id="st_morphine_descr">
+		<text>Una ampolla met&#225;lica dise&#241;ada como equipo de campo para el personal militar para la reducci&#243;n instant&#225;nea del dolor. Esta ampolla contiene una potente dosis de morfina. En la medicina cl&#237;nica, la morfina se considera el patr&#243;n oro de los analg&#233;sicos opi&#225;ceos utilizados para aliviar el dolor y el sufrimiento intenso o agonizante. Al igual que otros opi&#225;ceos, como la oxicodona, la hidromorfona y la diacetilmorfina (hero&#237;na), la morfina act&#250;a directamente sobre el sistema nervioso central (SNC) para aliviar el dolor. Se inyecta en un brazo o un muslo.\n \n %c[ui_gray_3]CURANDO:\n %c[d_red] • %c[ui_gray_2] Restaura 10%hp por uso\n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] importado\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_blue] • %c[ui_gray_2] uso r&#225;pido (jeringa)\n %c[d_purple] • %c[ui_gray_2] bono importante de resistencia a los da&#241;os\n
+		</text>
+	</string>
+	
+	<string id="st_salicidic_acid">
+		<text>Ampolla de metamizol</text>
+	</string>
+	<string id="st_salicidic_acid_descr">
+		<text>Una ampolla met&#225;lica dise&#241;ada como equipo de campo para el personal militar para la reducci&#243;n instant&#225;nea del dolor. Contiene una potente dosis de metamizol mezclado con una droga antihemorr&#225;gica. El metamizol es una de las drogas antiinflamatorias no esteroideas (AINEs) m&#225;s fuertes, especialmente efectivas para aliviar los dolores, as&#237; como para reducir la fiebre. Tambi&#233;n es &#250;til como droga antiinflamatoria cuando se utiliza en dosis m&#225;s altas. Puede causar algunos efectos secundarios retardados como la leucopenia o la agranulocitosis, por lo que debe utilizarse con moderaci&#243;n. Se inyecta en un brazo o un muslo. Su disponibilidad en la Zona es limitada debido a la dificultad de pasar de contrabando la medicina a trav&#233;s de los cordones militares.\n \n %c[ui_gray_3]CURACION:\n %c[d_red] • %c[ui_gray_2] Restaura 10%hp por uso\n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] importado\n %c[d_blue] • %c[ui_gray_2] uso r&#225;pido (jeringa)\n %c[d_purple] • %c[ui_gray_2] bono de resistencia al da&#241;o moderado\n
+		</text>
+	</string>
+	
+	<string id="st_caffeine">
+		<text>Pastillas de cafe&#237;na</text>
+	</string>
+	<string id="st_caffeine_descr">
+		<text>La cafe&#237;na y el benzoato de sodio, que hacen que el sistema nervioso central funcione con la mayor eficacia posible en un momento dado. Reduce la somnolencia en gran medida. Tome dos tabletas a la vez.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] estimulante\n %c[d_blue] • %c[ui_gray_2] potente efecto de desintoxicaci&#243;n alcoh&#243;lica\n
+		</text>
+	</string>
+	
+		<string id="st_antirad_cystamine">
+		<text>Cistamina</text>
+	</string>
+	<string id="st_antirad_cystamine_descr">
+		<text>Una sustancia que funciona como radioprotector, utilizada para debilitar los efectos de la radiaci&#243;n en el cuerpo. El efecto radioprotector de la cistamina se basa en la capacidad de unirse a los radicales libres -mol&#233;culas ionizadas y excitadas que se forman en los tejidos al ser irradiados- as&#237; como en la capacidad del f&#225;rmaco para interactuar con determinadas enzimas y conferir resistencia a las radiaciones ionizantes. Los efectos de la cistamina no contrarrestan la radiaci&#243;n ya acumulada.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] importado\n %c[d_red] • %c[ui_gray_2] mareos leves\n
+		</text>
+	</string>
+	
+	<string id="st_antibio_sulfad">
+		<text>Sulfadimetoxina</text>
+	</string>
+	<string id="st_antibio_sulfad_descr">
+		<text>Medicaci&#243;n de sulfanilamida, efectiva contra bacterias gram-positivas y gram-negativas. Act&#250;a contra los neumococos, los estreptococos, los estafilococos, la E. coli, la varilla de Klebsiella (varilla de Friedlander), agentes causantes de la disenter&#237;a; es menos activa con respecto a la prote&#237;na; es activa contra el virus del tracoma (una enfermedad infecciosa del ojo que puede provocar ceguera); no act&#250;a sobre cepas de bacterias resistentes a otros preparados de sulfanilamida. Los efectos adversos incluyen dolores de cabeza, trastornos digestivos, erupciones cut&#225;neas, fiebres y leucopenia. Los efectos de la droga son duraderos.\n \n %c[ui_gray_3]CURANDO:\n %c[d_red] • %c[ui_gray_2] Agota 1.5%hp por uso\n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] importado\n
+		</text>
+	</string>
+	
+	<string id="st_antibio_chlor">
+		<text>Clortetraciclina</text>
+	</string>
+	<string id="st_antibio_chlor_descr">
+		<text>Un antibi&#243;tico. Polvo cristalino de color amarillo dorado, de sabor amargo, soluble en agua. Es uno de los primeros antibi&#243;ticos abiertamente usados (despu&#233;s de la penicilina). El cloruro de clorotetraciclina tiene un efecto bacteriost&#225;tico sobre los microbios gram-positivos y gram-negativos, las rickettsias y algunos virus grandes.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] importado\n %c[d_red] • %c[ui_gray_2] aumento medio de la somnolencia\n
+		</text>
+	</string>
+	
+	<string id="st_antiemetic">
+		<text>Etperazina</text>
+	</string>
+	<string id="st_antiemetic_descr">
+		<text>Comprimidos recubiertos que contienen 4,6 y 10 mg de perfenazina. La droga es un neurol&#233;ptico - un agente antipsic&#243;tico que proporciona acciones antial&#233;rgicas, sedantes, miorrelajantes, antiem&#233;ticas, anticolin&#233;rgicas d&#233;biles, hipotensivas e hipot&#233;rmicas. La eficacia de la eperazina se debe al bloqueo de los receptores D2 en los sistemas mesocortical y mesol&#237;mbico. Rara vez se utiliza en la Zona.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] importado\n %c[d_blue] • %c[ui_gray_2] antiinflamatorio\n
+		</text>
+	</string>
+	
+	<string id="st_joint">
+		<text>Porro de cannabis</text>
+	</string>
+	<string id="st_joint_descr">
+		<text>Conocidos por sus efectos relajantes, estos son utilizados por los stalkers de forma recreativa, especialmente aquellos que frecuentan la Barrera o el Bosque Rojo m&#225;s all&#225; de ella. Induce un efecto calmante si se combina con el alcohol. Aumenta el hambre.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] estimulante\n %c[d_blue] • %c[ui_gray_2] producido en la zona\n %c[d_blue] • %c[ui_gray_2] leve efecto de desintoxicaci&#243;n alcoh&#243;lica\n
+		</text>
+	</string>
+	
+	<string id="st_rebirth">
+		<text>Axyltallisal "El Renacimiento"</text>
+	</string>
+	<string id="st_rebirth_descr">
+		<text>&#161;Advertencia! No lo use en combinaci&#243;n con ninguna otra droga ya que puede resultar letal. Esta poderosa mezcla contenida en una peque&#241;a jeringa le har&#225; perder el conocimiento. Pero cuando despierte (si se despierta), se sentir&#225; renacido. Iny&#233;ctese la jeringa en el muslo cuando est&#233; sentado.\n \n %c[ui_gray_3]CURANDO:\n %c[d_red] • %c[ui_gray_2] Restaura 22.5%hp/s, total 190%\n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] uso r&#225;pido (jeringa)\n %c[d_blue] • %c[ui_gray_2] fuente nutritiva limpia\n %c[d_red] • %c[ui_gray_2] causa un desmayo temporal\n
+		</text>
+	</string>
+	
+	<string id="st_tetanus">
+		<text>Vacuna antitet&#225;nica</text>
+	</string>
+	<string id="st_tetanus_descr">
+		<text>La vacuna antitet&#225;nica est&#225; compuesta por la toxina del t&#233;tanos inactivada y se utiliza para evitar que un individuo contraiga el t&#233;tanos. El t&#233;tanos, tambi&#233;n conocido como trismo, es una enfermedad causada por la bacteria Clostridium tetani que entra en el cuerpo a trav&#233;s de heridas abiertas y libera un veneno llamado tetanospasmina. El t&#233;tanos es una enfermedad potencialmente mortal porque el veneno ataca el sistema nervioso bloqueando las se&#241;ales nerviosas de la m&#233;dula espinal hacia y desde los m&#250;sculos. Tanto los animales como los mutantes son propensos a portar Clostridium tetani que puede ser transferido a trav&#233;s de las mordeduras. La inyecci&#243;n de la toxina inactivada mejora el sistema inmunol&#243;gico y puede provocar varios efectos secundarios positivos. Adem&#225;s, esta vacuna ha sido complementada con varias antitoxinas adicionales, lo que la hace utilizable para otros fines que no sean la prevenci&#243;n de la contracci&#243;n del t&#233;tanos.\n \n %c[ui_gray_3]CURANDO:\n %c[d_red] • %c[ui_gray_2] Restaura 0.06%hp/s, total 26.5%\n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] importado\n %c[d_blue] • %c[ui_gray_2] uso r&#225;pido (jeringa)\n</text>
+	</string>
+	
+	<string id="st_antirad_kalium">
+		<text>Yoduro de potasio</text>
+	</string>
+	<string id="st_antirad_kalium_descr">
+		<text>Un compuesto farmacol&#243;gico, utilizado en la Zona como una manera barata de contrarrestar los efectos de la radiaci&#243;n en el cuerpo. Causa numerosos efectos secundarios, en particular, ampollas en el tracto gastrointestinal, adormecimiento al dolor y disfunci&#243;n de la gl&#225;ndula tiroides.\n \n %c[ui_gray_3]CURACION:\n %c[d_red] • %c[ui_gray_2] Agota 8%hp por uso\n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] medicina\n %c[d_blue] • %c[ui_gray_2] importado\n %c[d_red] • %c[ui_gray_2] mareos leves\n %c[d_red] • %c[ui_gray_2] reducci&#243;n significativa de la salud\n
+		</text>
+	</string>
+	
+	<string id="st_marijuana">
+		<text>Marihuana</text>
+	</string>
+	<string id="st_marijuana_descr">
+		<text>Cannabis de cultivo propio. Fumarla es un pasatiempo popular, especialmente entre los de Libertad que han servido en la Barrera. Las bolsas de marihuana pueden ser compradas aqu&#237; y all&#225; dentro de la Zona. Algunos creen que la droga ayuda a mantener el equilibrio mental.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] estimulante\n %c[d_red] • %c[ui_gray_2] uso lento (inhalaci&#243;n prolongada)\n %c[d_blue] • %c[ui_gray_2] potente efecto de desintoxicaci&#243;n alcoh&#243;lica\n
+		</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Mechanic -->
+	<string id="dasc_tech_mlr_task_1_name">
+		<text>Encuentra %s para los Mec&#225;nicos en Paisaje Oscuro</text>
+	</string>
+	<string id="dasc_tech_mlr_task_1_text">
+		<text>El t&#233;cnico en el aserradero me ha pedido que lo busque %s.</text>
+	</string>
+	<string id="dasc_tech_mlr_task_1_about">
+		<text>Como comprender&#225;n, la naturaleza salvaje aqu&#237; es completamente irreal. Aunque este es un antiguo aserradero, no queda nada m&#225;s que los troncos. Podr&#237;a usar algunos kits para trabajar... Si puedes encontrar los m&#225;s b&#225;sicos, traemelos.</text>
+	</string>
+	<string id="dasc_tech_mlr_task_1_fetch_about">
+		<text>Como comprender&#225;n, la naturaleza salvaje aqu&#237; es completamente irreal. Aunque este es un antiguo aserradero, no queda nada m&#225;s que los troncos. Podr&#237;a usar algunos kits para trabajar... Si puedes encontrar los m&#225;s b&#225;sicos, traemelos.</text>
+	</string>
+	<string id="dasc_tech_mlr_task_1_fetch_finish">
+		<text>Gracias ... Las cosas se me har&#225;n mucho m&#225;s f&#225;ciles. Conserva este artefacto - se llama "Pellicle". Muy raro.</text>
+	</string>
+
+	<string id="dasc_tech_mlr_task_2_name">
+		<text>Encuentra %s para los Mec&#225;nicos en Paisaje Oscuro</text>
+	</string>
+	<string id="dasc_tech_mlr_task_2_text">
+		<text>El t&#233;cnico en el aserradero me ha pedido que lo busque %s.</text>
+	</string>
+	<string id="dasc_tech_mlr_task_2_about">
+		<text>Como ya has encontrado un conjunto de herramientas, sabes donde hay algunas m&#225;s avanzadas? Los necesito desesperadamente.</text>
+	</string>
+	<string id="dasc_tech_mlr_task_2_fetch_about">
+		<text>Como ya has encontrado un conjunto de herramientas, sabes donde hay algunas m&#225;s avanzadas? Los necesito desesperadamente.</text>
+	</string>
+	<string id="dasc_tech_mlr_task_2_fetch_finish">
+		<text>Gracias. Toma un descuento.</text>
+	</string>
+
+	<string id="dasc_tech_mlr_task_3_name">
+		<text>Encuentra %s para los Mec&#225;nicos en Paisaje Oscuro</text>
+	</string>
+	<string id="dasc_tech_mlr_task_3_text">
+		<text>El t&#233;cnico en el aserradero me ha pedido que lo busque %s.</text>
+	</string>
+	<string id="dasc_tech_mlr_task_3_about">
+		<text>Entiendo que podria ser demasiado pedir en este lugar olvidado de Dios, pero tal vez podrias ayudarme a encontrar un tercer kit m&#225;s complejo? El kit de un experto me servira.</text>
+	</string>
+	<string id="dasc_tech_mlr_task_3_fetch_about">
+		<text>Entiendo que podria ser demasiado pedir en este lugar olvidado de Dios, pero tal vez podrias ayudarme a encontrar un tercer kit m&#225;s complejo? El kit de un experto me servira.</text>
+	</string>
+	<string id="dasc_tech_mlr_task_3_fetch_finish">
+		<text>Gracias por todo. Tal vez este miserable lugar se convierta en un campamento hecho y derecho algun dia.</text>
+	</string>
+
+
+</string_table>

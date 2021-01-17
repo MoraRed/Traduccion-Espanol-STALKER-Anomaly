@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_addon_companion_quick_menu_tooFar">
+		<text>Mi escuadron no puede escucharme. Necesito acercarme o contactarlos a traves de PDA.</text>
+	</string>
+
+	<string id="st_addon_companion_quick_menu_followMe">
+		<text>SIGUEME</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_waitHere">
+		<text>ESPERA AQUI</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_stopStealth">
+		<text>PARAR SIGILO</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_stealth">
+		<text>SIGILO</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_stayClose">
+		<text>MANTENTE CERCA</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_stayFar">
+		<text>MANTENTE LEJOS</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_fireAtWill">
+		<text>FUEGO A DISCRECION</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_ignoreCombatButHelpMe">
+		<text>IGNORA EL COMBATE, PERO AYUDAME</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_ignoreCombat">
+		<text>IGNORA EL COMBATE</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_doNotLootCorpses">
+		<text>NO SAQUEAR CADAVERES</text>
+	</string>
+	
+	<string id="st_addon_companion_quick_menu_lootCorpses">
+		<text>SAQUEAR CAD&#193;VERES</text>
+	</string>
+	
+</string_table>

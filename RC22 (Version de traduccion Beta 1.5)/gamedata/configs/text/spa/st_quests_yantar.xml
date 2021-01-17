@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!--===========================================================
+<
+< TEXT  STRINGS FOR TASKS ON YANTAR MAP
+<	CoC 1.4.08 - DoctorX Questlines 1.6
+<
+<	Modified by: DoctorX
+<	Last revised: October 07, 2016
+<
+<===========================================================-->
+
+<string_table>
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- STORYLINE TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecologist) Default Storyline Task -->
+
+	<string id="drx_sl_yan_stalker_sakharov_default_task_name">
+		<text>Obtener Siguiente Tarea</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_default_task_text">
+		<text>Recibe tu pr&#243;xima tarea.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_default_task_about">
+		<text>&#191;Eh, eres t&#250;? &#161;Oh si, genial! Stalker, necesito que ayudes a uno de mis colegas. Ve con &#233;l r&#225;pido! &#161;Te necesita!</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_default_task_finish">
+		<text>Buena suerte stalker.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecologist) Research Documents Storyline Task -->
+
+	<string id="drx_sl_yan_stalker_sakharov_task_1_name">
+		<text>Documentos de investigaci&#243;n de Sakharov</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_1_text">
+		<text>Algunos de los trabajos de investigaci&#243;n del profesor Sakharov fueron abandonados por su cient&#237;fico cuando huy&#243; de un ataque de mutantes. Recupera los documentos y devu&#233;lveselos a Sakharov.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_1_about">
+		<text>Ah, s&#237;, me alegro de que est&#233;s aqu&#237;. Uno de mis investigadores acaba de regresar del campo. Tuvo que abandonar sus notas despu&#233;s de ser atacado por mutantes. Le aterroriza volver all&#237;. Necesito esa investigaci&#243;n, stalker. Por favor, recup&#233;rela por m&#237;, con gusto le compensar&#233; por las molestias.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_1_finish">
+		<text>&#161;Gracias stalker! Por favor, tome esto como pago.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecologist) Abnormal Measurement Storyline Task -->
+
+	<string id="drx_sl_yan_stalker_sakharov_task_2_name">
+		<text>Medici&#243;n Anormal</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_2_text_0">
+		<text>El profesor Sakharov te pidi&#243; ayuda para tomar medidas de una anomal&#237;a inusual, pero primero tienes que recuperar el $item_1 que perdiste.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_2_text_1">
+		<text>El profesor Sakharov te pidi&#243; ayuda para tomar medidas de una anomal&#237;a inusual.\nDir&#237;gete a la ubicaci&#243;n marcada.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_2_text_2">
+		<text>El profesor Sakharov te pidi&#243; ayuda para tomar medidas de una anomal&#237;a inusual.\nUsa el $item_1 para tomar medidas.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_2_text_3">
+		<text>El profesor Sakharov te pidi&#243; ayuda para tomar medidas de una anomal&#237;a inusual.\nVuelve con el $item_1 y los resultados registrados.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_2_about">
+		<text>&#161;Ah, s&#237;, bien! Le he estado esperando. Nuestros esc&#225;neres muestran lecturas interesantes de una anomal&#237;a particular. Necesito que un stalker experimentado se dirija all&#237; y tome medidas con detenimiento. Tengo el dispositivo adecuado para usted, joven. Buena suerte.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_2_finish">
+		<text>&#161;Si, bien, bien! &#161;Ahora mi investigaci&#243;n puede comenzar! Gracias, stalker. Lo hiciste bien.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecologist) Search Lab X-18 (Dark Valley) Storyline Task -->
+
+	<string id="drx_sl_yan_stalker_sakharov_task_3_name">
+		<text>Buscar el Laboratorio X-18</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_3_text">
+		<text>El profesor Sakharov necesita los documentos de investigaci&#243;n contenidos en Lab X-18 en Valle Oscuro.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_3_about">
+		<text>Oh, s&#237;. &#161;Bien! Tengo un trabajo importante para usted. Se ha realizado una importante investigaci&#243;n en el Laboratorio X-18, pero no hemos podido acceder para analizarla. &#191;Cree que podr&#237;a intentar recuperarla por nosotros? Le pagar&#233; bien si lo logra.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_3_finish">
+		<text>&#161;Excelente! &#161;Gracias stalker!</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecologist) Plant Anomaly Scanner (Red Forest) Storyline Task -->
+
+	<string id="drx_sl_yan_stalker_sakharov_task_4_name">
+		<text>Plantar el Esc&#225;ner Cerca de la Anomal&#237;a del Simbionte</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_4_text">
+		<text>El profesor Sakharov quiere que el esc&#225;ner de anomal&#237;as sea plantado cerca de la anomal&#237;a del Simbionte en el Bosque Rojo.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_4_text0">
+		<text>El profesor Sakharov quiere que el esc&#225;ner de anomal&#237;as sea plantado cerca de la anomal&#237;a del Simbionte en el Bosque Rojo.\nConsigue un esc&#225;ner de anomal&#237;as primero.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_4_text1_0">
+		<text>El profesor Sakharov quiere que el esc&#225;ner de anomal&#237;as sea plantado cerca de la anomal&#237;a del Simbionte en el Bosque Rojo.\nLleva el esc&#225;ner al campo an&#243;malo.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_4_text1_1">
+		<text>El profesor Sakharov quiere que el esc&#225;ner de anomal&#237;as sea plantado cerca de la anomal&#237;a del Simbionte en el Bosque Rojo.\nLleva el esc&#225;ner al campo an&#243;malo.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_4_text2">
+		<text>El profesor Sakharov quiere que el esc&#225;ner de anomal&#237;as sea plantado cerca de la anomal&#237;a del Simbionte en el Bosque Rojo.\nPlanta el esc&#225;ner.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_4_text3">
+		<text>El profesor Sakharov quiere que el esc&#225;ner de anomal&#237;as sea plantado cerca de la anomal&#237;a del Simbionte en el Bosque Rojo.\nInforma sobre la implementaci&#243;n.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_4_about">
+		<text>&#161;Espl&#233;ndido! Por favor, echa un vistazo a este nuevo esc&#225;ner. Utilizamos estos dispositivos para escanear actividades an&#243;malas durante nuestras expediciones cient&#237;ficas. Una de las anomal&#237;as m&#225;s interesantes de la Zona es la Anomal&#237;a Simbionte, que se encuentra en lo profundo del Bosque Rojo. Queremos que este esc&#225;ner se instale cerca de esa anomal&#237;a. Nos ayudar&#225; a aprender m&#225;s sobre su actividad. \nLa ubicaci&#243;n es peligrosa, pero esperamos que no sea un problema para un stalker capaz como usted. Por favor, inst&#225;lelo all&#237; por m&#237;, con gusto le compensar&#233; por las molestias.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_task_4_finish">
+		<text>&#161;Gracias! &#161;Ahora podremos estudiar ese fen&#243;meno!</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- CHANGE FACTIONS TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecologist Trader) Payoff Change Factions Task -->
+
+	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_name">
+		<text>Ciencia y Cinta Roja</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_text">
+		<text>Sakharov quiere que le d&#233; 17.000 RU para que pueda entregar todo el papeleo del gobierno, necesario para que me convierta en un ecologista oficial.</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_about">
+		<text>Ah, bueno, estoy seguro de que ser&#237;as un gran asistente de campo, pero, la cosa es que hacer todo el papeleo necesario no es precisamente barato, ni r&#225;pido sin alguna, ehhh... motivaci&#243;n. Ya sabe c&#243;mo pueden ser estos tipos del gobierno.\n \nContratos permanentes, licencias, identificaciones... Necesitar&#233; al menos 17.000 RU para pagar todo esto, especialmente si quiere ver los resultados mientras aun vive. Sin embargo, si est&#225; dispuesto a desprenderse de ese dinero, &#161;nos encantar&#237;a recibirle!</text>
+	</string>
+	<string id="drx_sl_yan_stalker_sakharov_cf_task_1_finish">
+		<text>&#161;Maravilloso! &#161;Excelente! Por favor, si&#233;ntete como en casa ac&#225;, compa&#241;ero ecologista.</text>
+	</string>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+
+	<!-- /////////////////////////////////////////////////////////////////////////////////////////////
+	<!--
+	<!-- DYNAMIC TASK TEXT  STRINGS
+	<!--
+	<!--	Modified by DoctorX
+	<!--	for DoctorX Questlines 1.6
+	<!--	October 07, 2016
+	<!--
+	<!-- ----------------------------------------------------------------------------------------- -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Semenov (Ecog Honcho) Research Hunt Task -->
+
+	<string id="yan_ecolog_semenov_task_1_name">
+		<text>Caza para Investigaci&#243;n Semenov</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_text">
+		<text>El asistente Semenov ha solicitado que lo acompa&#241;e a recorrer los alrededores para que pueda recoger muestras frescas de tejido mutante y analizar sus cad&#225;veres con su equipo de escaneo.</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_about">
+		<text>&#191;Le importar&#237;a ayudarme a eliminar algunos mutantes para que pueda tomar lecturas y muestras de tejido? Digamos... unos cinco mutantes diferentes. Pondr&#233; mi vida en sus manos, y usted tendr&#237;a que garantizar mi seguridad. Le compensar&#233; por sus esfuerzos.</text>
+	</string>
+	<string id="yan_ecolog_semenov_task_1_finish">
+		<text>Gracias por su ayuda, amigo. Tengo todas las muestras de tejido que necesito. Aqu&#237; est&#225; su pago. Vuelva a visitarme alg&#250;n d&#237;a.</text>
+	</string>
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Sakharov (Ecog Trader) -->
+	<string id="yan_stalker_sakharov_task_1_name">
+		<text>Buscar %s para el Bunker en Yantar</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_text">
+		<text>Los &#250;ltimos experimentos del profesor Sakharov requieren una muestra de tejido fresco de un %s. Deber&#237;a traerle una tan pronto como la encuentre.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_about">
+		<text>Necesito un stalker experimentado o un cazador de mutantes. &#191;Eres ese alguien?</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_fetch_about">
+		<text>Necesito recolectar c&#233;lulas frescas de muestras de tejido de %s. Para  eso necesito que consigas la muestra y la traigas a mi b&#250;nker. S&#233; que los zo&#243;logos no est&#225;n a favor de esto, pero este lugar no es un zool&#243;gico, hay que admitirlo. En cualquier caso, aseg&#250;rese de volver conmigo tan pronto como tenga la muestra requerida - &#161;podr&#237;a proporcionar una valiosa visi&#243;n de la biolog&#237;a de la vida silvestre mutante!</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_1_fetch_finish">
+		<text>Gracias, querido colega. Esto me ayudar&#225; inmensamente en mi investigaci&#243;n.</text>
+	</string>
+	
+	<!-- Collect New Artefact Task -->
+	<string id="yan_stalker_sakharov_task_2_name">
+		<text>Investigaci&#243;n An&#243;mala</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_text">
+		<text>El profesor Sakharov me ha pedido que encuentre un artefacto "%s" para ayudarlo con su investigaci&#243;n.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_about">
+		<text>&#191;Quieres ayudarme con algunas investigaciones? Le pagar&#233; por sus esfuerzos.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_fetch_about">
+		<text>&#161;Nuestro equipo de investigaci&#243;n est&#225; cerca de otro descubrimiento significativo, pero necesita desesperadamente m&#225;s materiales para mantener nuestra financiaci&#243;n y continuar la experimentaci&#243;n! Por favor, localice y entr&#233;guennos el artefacto %s. Necesitaremos tomar muestras de &#233;l si esperamos continuar nuestras investigaciones y proporcionar materia prima a nuestros proveedores.</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_2_fetch_finish">
+		<text>En nombre de la comunidad cient&#237;fica, le agradezco. Aqu&#237; est&#225; la recompensa, como te prometi&#243;.</text>
+	</string>
+
+	<!-- Classified Information Task -->
+	<string id="classified_information_task_name">
+		<text>Informacion Clasificada</text>
+	</string>
+	<string id="classified_information_task_text">
+		<text>El profesor me ha pedido que le consiga algunos documentos de investigaci&#243;n confidenciales.</text>
+	</string>
+	<string id="classified_information_task_about">
+		<text>Bandidos desconocidos abordaron a uno de nuestros equipos de investigaci&#243;n. Afortunadamente, parte de la expedici&#243;n regres&#243; con vida y bien. Desafortunadamente, tuvieron que dejar atr&#225;s una investigaci&#243;n algo sensible durante su huida.\n \nEn aras del progreso cient&#237;fico, as&#237; como del futuro bienestar de mis colegas, no deseo que estos datos se pierdan, o peor a&#250;n, que lleguen a manos del misterioso grupo que atac&#243; a mis investigadores. Por favor, ve a la memoria cach&#233; en estas coordenadas: si te das prisa, los documentos que deseo recuperar deber&#237;an estar todav&#237;a all&#237;. Por su discreci&#243;n, as&#237; como la entrega de estos documentos a mi oficina aqu&#237;, ofrezco un pago razonable. Como otra muestra de mi gratitud, tambi&#233;n puede ayudarse con los suministros que mi equipo haya dejado en ese almac&#233;n. </text>
+	</string>
+	<string id="classified_information_task_finish">
+		<text>Gracias, querido stalker. &#191;O deber&#237;a decir colega? La investigaci&#243;n puede ahora continuar sin problemas, esperemos que sin ning&#250;n contratiempo adicional a la vuelta de la esquina. </text>
+	</string>
+	
+	<!-- yan_stalker_sakharov -->
+	<string id="yan_stalker_sakharov_psi_helmet_upgrade_name">
+		<text>Busca el casco ps&#237;quico</text>
+	</string>
+	<string id="yan_stalker_sakharov_psi_helmet_upgrade_text">
+		<text>El profesor Sakharov ha accedido a calibrar completamente tu casco de protecci&#243;n ps&#237;quica. Ha pedido que vuelvas a recogerlo despu&#233;s de unos dos d&#237;as.</text>
+	</string>
+
+	<string id="brain_machine_deactivate_name">
+		<text>Deshabilitar El Genio</text>
+	</string>
+	<string id="brain_machine_deactivate_text">
+		<text>El Genio puede causar problemas a los cient&#237;ficos de Yantar si no se controla durante mucho tiempo. El profesor Sakharov seguramente apreciar&#237;a su desactivaci&#243;n.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Peregrine (Military Mechanic) Find Level 1 Toolkit Task -->
+
+	<string id="mechanic_army_yan_mlr_task_1_name">
+		<text>Encontrar %s para Cl&#233;rigo</text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_1_text">
+		<text>Peregrino requiere %s para instalar actualizaciones b&#225;sicas de equipos, debo llevarselo si encuentro alguno.</text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_1_about">
+		<text>Oh, claro. El cuartel general nos notific&#243; de la llegada de herramientas a nuestro b&#250;nker a trav&#233;s del Cord&#243;n, pero el paquete nunca lleg&#243;. &#191;Y d&#243;nde termin&#243; esta entrega? S&#243;lo la Zona lo sabe. Sin embargo, la situaci&#243;n no ha cambiado, y todav&#237;a necesitamos m&#225;s herramientas. El cuartel general est&#225; muy obstinado en organizarnos m&#225;s ahora, as&#237; que te dir&#233; algo. Si logras encontrar algunas herramientas en la naturaleza, incluso algunas b&#225;sicas, te pagar&#233; personalmente para que las traigas aqu&#237;. </text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_1_fetch_about">
+		<text>Brillante. Conc&#233;ntrate en traer de vuelta un conjunto de herramientas b&#225;sicas por ahora - las cosas m&#225;s avanzadas son in&#250;tiles sin ellas. Buena caza ah&#237; fuera, stalker.</text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_1_fetch_finish">
+		<text>Bien, echemos un vistazo. S&#237;, esto servir&#225;. Ahora tal vez pueda hacer algo m&#225;s que mantenimiento. Aqu&#237; est&#225; tu recompensa. Gracias por la ayuda.</text>
+	</string>
+
+	<string id="mechanic_army_yan_mlr_task_2_name">
+		<text>Encontrar %s para Cl&#233;rigo</text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_2_text">
+		<text>Peregrino requiere %s para instalar actualizaciones avanzadas de equipos, debo llevarselo si encuentro alguno.</text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_2_about">
+		<text>Bueno, ciertamente eres m&#225;s emprendedor que mis proveedores habituales, as&#237; que te dir&#233; algo: cons&#237;gueme un juego de herramientas m&#225;s avanzado. Haz esto, y habr&#225; dinero en tu bolsillo. </text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_2_fetch_about">
+		<text>Fant&#225;stico. Estoy seguro de que Sakharov tambi&#233;n apreciar&#225; esto. Estoy seguro de que, una vez que me traiga estas herramientas, mi trabajo t&#233;cnico le ayudar&#225; a financiar su b&#250;nker antes de que pueda parpadear.</text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_2_fetch_finish">
+		<text>&#161;Grandioso! Vuelve cuando quieras si necesitas que eche un vistazo a tu equipo. Ahora podr&#233; hacer algunas modificaciones medio decentes, gracias a t&#237;.</text>
+	</string>
+
+	<string id="mechanic_army_yan_mlr_task_3_name">
+		<text>Encontrar %s para Cl&#233;rigo</text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_3_text">
+		<text>Peregrino requiere %s para instalar actualizaciones expertas de equipos, debo llevarselo si encuentro alguno.</text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_3_about">
+		<text>No estoy seguro de que te lo haya dicho, pero Sakharov est&#225; muy contento de que me ayudes. Quer&#237;a que te dijera que ha reservado una saludable suma de rublos para el stalker que pueda traerme un juego de herramientas expertas. Deber&#237;a permitirnos sacar el m&#225;ximo provecho del equipo cient&#237;fico que tenemos aqu&#237;, especialmente nuestros trajes para materiales peligrosos y exoesqueletos. Entonces, &#191;est&#225;s dispuesto a ir a la caza de herramientas para m&#237; por &#250;ltima vez? </text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_3_fetch_about">
+		<text>Estoy honestamente agradecido por esto. Cuando vuelvas con las herramientas, tambi&#233;n te ense&#241;ar&#233; un truco o dos sobre c&#243;mo hacer un mantenimiento adecuado en el campo - a menos que otro t&#233;cnico ya te haya ense&#241;ado, por supuesto. Ser&#225; mi forma de decir gracias. Buena suerte ah&#237; fuera. </text>
+	</string>
+	<string id="mechanic_army_yan_mlr_task_3_fetch_finish">
+		<text>Hm. L&#225;stima que no trabajes en el Cuerpo de Suministros. Tal vez ahora pueda finalmente arreglar ese maldito receptor. En cuanto a ti, te has ganado mi gratitud. En nombre de este b&#250;nker, aqu&#237; est&#225; tu pago. </text>
+	</string>
+	
+	
+	
+ 	<string id="yan_stalker_sakharov_task_4_name">
+		<text>Recuperar Dispositivo de Rastreo</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_4_about">
+		<text>Hemos implantado varios dispositivos en los mutantes para medir varios datos: ritmo card&#237;aco, h&#225;bitos de alimentaci&#243;n, ciclos de sue&#241;o, tiempos de viaje y similares. Sin embargo, desde la &#250;ltima explosi&#243;n, uno de los dispositivos ha empezado a funcionar mal, sigue rastreando el movimiento pero ha dejado de transmitir cualquier otro dato &#250;til. Como estos rastreadores tienen un dise&#241;o especialmente avanzado, debemos recuperar el defectuoso para su inspecci&#243;n y posibles reparaciones. Obtener el dispositivo del mutante por cualquier medio disponible, y luego traernoslo de vuelta. </text>
+	</string>
+	<string id="yan_stalker_sakharov_task_4_stage_0">
+		<text>Detener al mutante con el dispositivo de rastreo</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_4_stage_1">
+		<text>Recuperar el dispositivo de rastreo</text>
+	</string>
+	<string id="yan_stalker_sakharov_task_4_stage_2">
+		<text>Devuelve el dispositivo</text>
+	</string>
+	<string id="recover_mutant_data_device_desc">
+		<text>Un dispositivo robusto que fue plantado en un mutante para monitorear sus movimientos, h&#225;bitos y signos vitales. Muestra signos de corrosi&#243;n, y est&#225; cubierto de numerosas marcas de mordeduras y ara&#241;azos.  </text>
+	</string>
+	<string id="recover_mutant_data_device_name">
+		<text>Dispositivo de localizaci&#243;n</text>
+	</string>
+</string_table>

@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Faction Patches
+-->
+
+<string_table>
+	<string id="csky_patch">
+		<text>Parche de Cielo Despejado</text>
+	</string>
+	<string id="csky_patch_description">
+		<text>Una insignia arrancanda de un uniforme de la facci&#243;n Cielo Despejado.</text>
+	</string>
+
+	<string id="freedom_patch">
+		<text>Parche de Libertad</text>
+	</string>
+	<string id="freedom_patch_description">
+		<text>Una insignia arrancanda de un uniforme de la facci&#243;n Libertad.</text>
+	</string>
+
+	<string id="stalker_patch">
+		<text>Parche de Solitarios</text>
+	</string>
+	<string id="stalker_patch_description">
+		<text>Una insignia arrancanda de un uniforme de la facci&#243;n Solitarios.</text>
+	</string>
+
+	<string id="ecolog_patch">
+		<text>Parche de Ecologistas</text>
+	</string>
+	<string id="ecolog_patch_description">
+		<text>Una insignia arrancanda de un uniforme de la facci&#243;n Ecologistas.</text>
+	</string>
+
+	<string id="bandit_patch">
+		<text>Parche de Bandido</text>
+	</string>
+	<string id="bandit_patch_description">
+		<text>Una insignia arrancanda de un uniforme de la facci&#243;n Bandido.</text>
+	</string>
+
+	<string id="duty_patch">
+		<text>Parche de Deber</text>
+	</string>
+	<string id="duty_patch_description">
+		<text>Una insignia arrancanda de un uniforme de la facci&#243;n Deber.</text>
+	</string>
+
+	<string id="monolith_patch">
+		<text>Parche de Monolito</text>
+	</string>
+	<string id="monolith_patch_description">
+		<text>Una insignia arrancanda de un uniforme de la facci&#243;n Monolito.</text>
+	</string>
+
+	<string id="army_patch">
+		<text>Parche de Militares</text>
+	</string>
+	<string id="army_patch_description">
+		<text>Una insignia arrancanda de un uniforme de la facci&#243;n Militares.</text>
+	</string>
+
+	<string id="merc_patch">
+		<text>Parche de Mercenarios</text>
+	</string>
+	<string id="merc_patch_description">
+		<text>Una insignia arrancanda de un uniforme de la facci&#243;n Mercenarios.</text>
+	</string>
+	
+	<string id="st_clearsky_fp">
+		<text>Parche de la facci&#243;n Cielo Despejado</text>
+	</string>
+	<string id="st_clearsky_fp_descr">
+		<text>Esta insignia de la facci&#243;n representa un amanecer contra un cielo azul despejado, flanqueado por palomas. Est&#225; destinada a comunicar el deseo de la facci&#243;n de curar la Zona, as&#237; como su desagrado por el conflicto. Cielo Despejado ha afirmado su objetivo de reducir gradualmente la frecuencia y la gravedad de las explosiones y otros cataclismos an&#243;malos. Pocos stalekrs creen que tal cosa sea posible.\n \n %c[ui_gray_3]PROPIEDADES:\n    %c[d_blue] • %c[ui_gray_2] pertenencias personales\n %c[d_blue] • %c[ui_gray_2] valioso\n
+		</text>
+	</string>
+	
+	<string id="st_freedom_fp">
+		<text>Parche de la facci&#243;n Libertad</text>
+	</string>
+	<string id="st_freedom_fp_descr">
+		<text>Esta insignia de facci&#243;n representa un lobo verde sobre un fondo negro junto a la bandera ucraniana. En general, el dise&#241;o est&#225; destinado a comunicar la naturaleza social de Libertad y el amor a la tierra, junto con su determinaci&#243;n incondicional y su depredador vicioso colectivo en la batalla. Sin embargo, es un misterio por qu&#233; los anarquistas querr&#237;an la bandera de cualquier pa&#237;s como parte de su dise&#241;o.\n \n %c[ui_gray_3]PROPIEDADES:\n    %c[d_blue] • %c[ui_gray_2] pertenencias personales\n %c[d_blue] • %c[ui_gray_2] valioso\n
+		</text>
+	</string>
+	
+	<string id="st_stalker_fp">
+		<text>Parche de Radiaci&#243;n</text>
+	</string>
+	<string id="st_stalker_fp_descr">
+		<text>Com&#250;nmente usado por stalkers no alineados, este parche es considerado un coleccionable por los mercenarios, quienes intercambian insignias como esta por el bot&#237;n de un misterioso patr&#243;n. Como los solitarios son numerosos, pero a menudo dispersos y solitarios, son considerados como presa f&#225;cil por los grupos m&#225;s organizados y depredadores de la Zona.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] pertenencias personales\n %c[d_blue] • %c[ui_gray_2] valioso\n
+		</text>
+	</string>
+	
+	<string id="st_ecolog_fp">
+		<text>Parches de la facci&#243;n Ecologistas</text>
+	</string>
+	<string id="st_ecolog_fp_descr">
+		<text>Esta insignia de facci&#243;n representa un par de alas doradas sobre un fondo blanco y cian. El mercado negro de la Zona valora mucho los parches ecologistas, ya que coser uno convincentemente en un traje puede permitir a un stalker ir casi a cualquier parte sin temor a ser molestado por otros grupos. Los ecologistas rara vez se separan de sus parches voluntariamente, aunque eso no detiene a los habitantes menos escrupulosos de la Zona.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] pertenencias personales\n %c[d_blue] • %c[ui_gray_2] valioso\n
+		</text>
+	</string>
+	
+	<string id="st_bandit_fp">
+		<text>Parche de la facci&#243;n Bandida</text>
+	</string>
+	<string id="st_bandit_fp_descr">
+		<text>Esta insignia de facci&#243;n representa un cr&#225;neo negro agrietado contra un escudo blanco. Este s&#237;mbolo est&#225; muy acorde con la visi&#243;n que tienen algunos de los l&#237;deres de la facci&#243;n - que no son meros matones, sino m&#225;s bien los se&#241;ores de las hordas feudales, trayendo orden a aquellos que aceptan su "protecci&#243;n" y dando una retribuci&#243;n despiadada a cualquiera que se atreva a desafiarlos.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] pertenencias personales\n %c[d_blue] • %c[ui_gray_2] valioso\n
+		</text>
+	</string>
+	
+	<string id="st_dolg_fp">
+		<text>Parche de la facci&#243;n Deber</text>
+	</string>
+	<string id="st_dolg_fp_descr">
+		<text>Esta insignia de la facci&#243;n representa una cruz de oro contra un escudo rojo y negro. El dise&#241;o es para aludir a las ra&#237;ces militares de la facci&#243;n, pero sin restarle importancia a su papel principal como soldados estoicos que luchan resueltamente contra cada movimiento de la Zona por el bien del mundo exterior.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] pertenencias personales\n %c[d_blue] • %c[ui_gray_2] valioso\n
+		</text>
+	</string>
+	
+	<string id="st_monolith_fp">
+		<text>Parche de la facci&#243;n Monolita</text>
+	</string>
+	<string id="st_monolith_fp_descr">
+		<text>Esta insignia representa alas emplumadas perfiladas contra un sol dorado, tal vez un s&#237;mbolo que representa 'El Genio'. El aspecto m&#225;s intrigante de este parche es que es usado casi exclusivamente por un grupo considerado como loco y con el cerebro lavado. La existencia misma de este parche sugiere que las tropas del Monolito o bien conservan un nivel de creatividad m&#225;s alto de lo que se pensaba inicialmente, o bien una fuerza externa los est&#225; equipando encubiertamente. Los parches de Monolito son muy apreciados entre otros grupos, ya que demuestran la capacidad de luchar contra el Monolito y vivir, una habilidad muy respetada por los veteranos de la Zona.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] pertenencias personales\n %c[d_blue] • %c[ui_gray_2] valioso\n
+		</text>
+	</string>
+	
+	<string id="st_army_fp">
+		<text>Parche de la facci&#243;n Militar</text>
+	</string>
+	<string id="st_army_fp_descr">
+		<text>Este emblema de facci&#243;n es un escudo de armas militares al completo. Representa tres escudos protectores, el principal con los colores de la bandera ucraniana y dos espadas detr&#225;s de &#233;l. Rodeando estos escudos hay laureles dorados. Las fuerzas militares de la Zona parecen sentirse ante todo como protectoras y pacificadoras. En realidad, si estas fuerzas de la Zona intentan o no cumplir con este rol es un tema de amarga discusi&#243;n.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] pertenencias personales\n %c[d_blue] • %c[ui_gray_2] valioso\n
+		</text>
+	</string>
+	
+	<string id="st_merc_fp">
+		<text>Parche de la facci&#243;n Mercenaria</text>
+	</string>
+	<string id="st_merc_fp_descr">
+		<text>Esta insignia representa un ave de presa azul sobre un fondo negro. Se supone que es indicativo del car&#225;cter de los mercenarios como una facci&#243;n de soldados fr&#237;os, precisos y muy &#225;giles de fortuna, listos para capturar o acabar con sus objetivos en un momento dado.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] pertenencias personales\n %c[d_blue] • %c[ui_gray_2] valioso\n
+		</text>
+	</string>
+	
+	<string id="st_isg_fp">
+		<text>Parche de la facci&#243;n UNISG</text>
+	</string>
+	<string id="st_isg_fp_descr">
+		<text>Esta insignia de facci&#243;n representa un microscopio blanco rodeado de laureles estilizados y muy angulosos sobre un fondo granate. Cosida en la parte posterior del parche hay una etiqueta que dice que la insignia pertenece al Grupo Cient&#237;fico Internacional de las Naciones Unidas (UNISG).\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] pertenencias personales\n %c[d_blue] • %c[ui_gray_2] valioso\n
+		</text>
+	</string>
+	
+	<string id="st_greh_fp">
+		<text>Parche de la facci&#243;n Pecado</text>
+	</string>
+	<string id="st_greh_fp_descr">
+		<text>El simple hecho de sostener este parche te hace sentir un poco inc&#243;modo. En la esquina superior izquierda hay una serpiente, mientras que en la derecha hay una Cruz Ortodoxa Oriental. En el centro de la insignia se encuentra una imagen estilizada de un eclipse. Sin embargo, a medida que contin&#250;a llevando este emblema, su inquietud disminuye en una extra&#241;a y gradual sensaci&#243;n de paz.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] pertenencias personales\n %c[d_blue] • %c[ui_gray_2] valioso\n
+		</text>
+	</string>
+	
+	<string id="st_renegade_fp">
+		<text>Parche de la facci&#243;n Renegada</text>
+	</string>
+	<string id="st_renegade_fp_descr">
+		<text>Esta insignia de la facci&#243;n representa un escorpi&#243;n de aspecto ict&#233;rico contra un exuberante escudo verde. La existencia de este objeto implicar&#237;a que los renegados de la Zona pose&#237;an un objetivo m&#225;s alto, aunque nadie creer&#237;a hoy en d&#237;a que se unen por pura desesperaci&#243;n. A&#250;n as&#237;, este objeto se mantiene en circulaci&#243;n entre todos los verdaderos renegados, posiblemente por nostalgia.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] pertenencias personales\n %c[d_blue] • %c[ui_gray_2] valioso\n
+		</text>
+	</string>
+</string_table>

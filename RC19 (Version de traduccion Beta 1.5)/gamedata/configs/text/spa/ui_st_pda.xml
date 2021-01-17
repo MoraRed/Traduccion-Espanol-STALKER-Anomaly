@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="Time">
+		<text>Hora</text>
+	</string>
+	<string id="date">
+		<text>Fecha</text>
+	</string>
+	<string id="filter_secondary_tasks_text">
+		<text>Tareas secundarias</text>
+	</string>
+	<string id="filter_treasures_text">
+		<text>Alijos</text>
+	</string>
+	<string id="missions_list">
+		<text>Lista de tareas</text>
+	</string>
+	<string id="month_april">
+		<text>Abril</text>
+	</string>
+	<string id="month_august">
+		<text>Agosto</text>
+	</string>
+	<string id="month_december">
+		<text>Diciembre</text>
+	</string>
+	<string id="month_february">
+		<text>Febrero</text>
+	</string>
+	<string id="month_january">
+		<text>Enero</text>
+	</string>
+	<string id="month_july">
+		<text>Julio</text>
+	</string>
+	<string id="month_june">
+		<text>Junio</text>
+	</string>
+	<string id="month_march">
+		<text>Marzo</text>
+	</string>
+	<string id="month_may">
+		<text>Mayo</text>
+	</string>
+	<string id="month_november">
+		<text>Noviembre</text>
+	</string>
+	<string id="month_october">
+		<text>Octubre</text>
+	</string>
+	<string id="month_september">
+		<text>Septiembre</text>
+	</string>
+	<string id="pda_btn_close">
+		<text>Cerrar PDA</text>
+	</string>
+	<string id="pda_btn_logs">
+		<text>Mensajes</text>
+	</string>
+	<string id="pda_btn_logs_hint">
+		<text>Mostrar historial de mensajes</text>
+	</string>
+	<string id="pda_btn_quests">
+		<text>Mapa de area</text>
+	</string>
+	<string id="pda_btn_quests_hint">
+		<text>Mapa de la Zona y lista de tareas</text>
+	</string>
+	<string id="pda_btn_ranking">
+		<text>Estad&#237;sticas</text>
+	</string>
+	<string id="pda_btn_ranking_hint">
+		<text>Mostrar estad&#237;sticas personales</text>
+	</string>
+	<string id="pda_cur_time">
+		<text>Hora actual:</text>
+	</string>
+	<string id="pda_date_filter">
+		<text>Filtrar por fecha</text>
+	</string>
+	<string id="pda_filter_news">
+		<text>Mostrar noticias</text>
+	</string>
+	<string id="pda_filter_talk">
+		<text>Mostrar di&#225;logos</text>
+	</string>
+	<string id="pda_legend_caption">
+		<text>S&#237;mbolos</text>
+	</string>
+	<string id="pda_stat_1">
+		<text>Tiempo transcurrido:</text>
+	</string>
+	<string id="pda_stat_2">
+		<text>Emisiones sobrevividas:</text>
+	</string>
+	<string id="pda_stat_3">
+		<text>Tareas completadas:</text>
+	</string>
+	<string id="pda_stat_4">
+		<text>Mutantes eliminados:</text>
+	</string>
+	<string id="pda_stat_5">
+		<text>Stalkers eliminados:</text>
+	</string>
+	<string id="pda_stat_6">
+		<text>Cajas destrozadas:</text>
+	</string>
+	<string id="pda_stat_7">
+		<text>Alijos encontrados:</text>
+	</string>
+	<string id="pda_stat_8">
+		<text>Tormentas ps&#237;quicas sobrevividas:</text>
+	</string>
+	<string id="pda_stat_9">
+		<text>PDAs entregadas:</text>
+	</string>
+	<string id="pda_stat_10">
+		<text>Helic&#243;pteros derribados:</text>
+	</string>
+	<string id="pda_stat_11">
+		<text>Artefactos detectados:</text>
+	</string>
+	<string id="pda_stat_12">
+		<text>Heridos ayudados:</text>
+	</string>
+	<string id="pda_stat_13">
+		<text>Cambio de zona:</text>
+	</string>
+	<string id="pda_stat_14">
+		<text>Enemigos rendidos:</text>
+	</string>
+	<string id="pda_stat_15">
+		<text>Apositos usados:</text>
+	</string>
+	<string id="pda_stat_16">
+		<text>Art&#237;culos desbloqueados:</text>
+	</string>
+	<string id="pda_stat_17">
+		<text>Logros:</text>
+	</string>
+	<string id="pda_stat_18">
+		<text>Niveles visitados:</text>
+	</string>
+	<string id="pda_stat_money">
+		<text>Dinero:</text>
+	</string>
+	<string id="pda_stat_mutant_killed">
+		<text>Mutante m&#225;s poderoso asesinado:</text>
+	</string>
+	<string id="st_location">
+		<text>Ubicaci&#243;n:</text>
+	</string>
+	<string id="st_target">
+		<text>Objetivo</text>
+	</string>
+	<string id="st_ui_pda_legend_additional_task">
+		<text>Tarea secundaria</text>
+	</string>
+	<string id="st_ui_pda_legend_enemies">
+		<text>Enemigos</text>
+	</string>
+	<string id="st_ui_pda_legend_friends">
+		<text>Amigos</text>
+	</string>
+	<string id="st_ui_pda_legend_leader">
+		<text>L&#237;der de facci&#243;n</text>
+	</string>
+	<string id="st_ui_pda_legend_main_task">
+		<text>Tarea principal</text>
+	</string>
+	<string id="st_ui_pda_legend_neutrals">
+		<text>Neutrales</text>
+	</string>
+	<string id="st_ui_pda_legend_scout">
+		<text>Gu&#237;a</text>
+	</string>
+	<string id="st_ui_pda_legend_secrets">
+		<text>Alijos</text>
+	</string>
+	<string id="st_ui_pda_legend_squad">
+		<text>Comandante de escuadr&#243;n</text>
+	</string>
+	<string id="st_ui_pda_legend_trader">
+		<text>Comerciante</text>
+	</string>
+	<string id="trader">
+		<text>Comerciante</text>
+	</string>
+	<string id="stalker">
+		<text>Stalkers libres</text>
+	</string>
+	<string id="ui_logs_center_caption">
+		<text>Historial de mensajes</text>
+	</string>
+	<string id="ui_map_btn_center">
+		<text>Centro en jugador</text>
+	</string>
+	<string id="ui_map_btn_down">
+		<text>Mover hacia abajo</text>
+	</string>
+	<string id="ui_map_btn_left">
+		<text>Mover hacia la izquierda</text>
+	</string>
+	<string id="ui_map_btn_legend">
+		<text>Mostrar leyenda</text>
+	</string>
+	<string id="ui_map_btn_right">
+		<text>Mover a la derecha</text>
+	</string>
+	<string id="ui_map_btn_up">
+		<text>Ascender</text>
+	</string>
+	<string id="ui_map_btn_zmreset">
+		<text>Restablecer zoom</text>
+	</string>
+	<string id="ui_map_btn_zoom_in">
+		<text>Aumentar el zoom</text>
+	</string>
+	<string id="ui_map_btn_zoom_out">
+		<text>Disminuir el zoom</text>
+	</string>
+	<string id="ui_ranking_center_caption">
+		<text>Logros</text>
+	</string>
+	<string id="ui_task_btn_focus_center">
+		<text>Centrar el mapa en el objetivo</text>
+	</string>
+	<string id="ui_task_btn_focus_center2">
+		<text>Centrar el mapa en el objetivo</text>
+	</string>
+	<string id="zoom_in_btn_hint">
+		<text>Zoom +</text>
+	</string>
+	<string id="zoom_out_btn_hint">
+		<text>Zoom -</text>
+	</string>
+	<string id="st_ui_pda_legend_mechanic">
+		<text>T&#233;cnico</text>
+	</string>
+	<string id="st_ui_pda_legend_medic">
+		<text>M&#233;dico</text>
+	</string>
+	<string id="st_ui_pda_legend_barman">
+		<text>Tabernero</text>
+	</string>
+	<string id="st_ui_pda_legend_special">
+		<text>Personaje Importante</text>
+	</string>
+	<string id="st_ui_pda_companion">
+		<text>Compa&#241;ero</text>
+	</string>
+	<string id="ui_pda_secondary_task">
+		<text>Tareas activas</text>
+	</string>
+	<string id="ui_show_second_task_wnd">
+		<text>Oculta o muestra la lista de tareas</text>
+	</string>
+	<string id="st_ui_pda_actor_box">
+		<text>Almacenamiento personal</text>
+	</string>
+	<string id="filter_primary_objects_text">
+		<text>Areas</text>
+	</string>
+	<string id="filter_quest_npcs_text">
+		<text>Objetos importantes</text>
+	</string>
+	<string id="st_ui_pda_legend_primary_objects">
+		<text>Area</text>
+	</string>
+	<string id="st_jup_b32_has_af">
+		<text>Los esc&#225;neres detectan la presencia de artefactos:</text>
+	</string>
+	<string id="st_jup_b32_no_af">
+		<text>De acuerdo con los esc&#225;neres, no hay artefactos.</text>
+	</string>
+	<string id="st_ui_pda_secret">
+		<text>Alijo</text>
+	</string>
+	<string id="st_ui_pda_sleep_place">
+		<text>Cama</text>
+	</string>
+	<string id="st_ui_pda_legend_vip">
+		<text>Personaje importante</text>
+	</string>
+	<string id="zombie_name">
+		<text>John Doe</text>
+	</string>
+	<string id="arena_enemy">
+		<text>Participante</text>
+	</string>
+	<string id="st_ui_pda_task_unknown_enemy">
+		<text>Enemigo desconocido</text>
+	</string>
+	<string id="st_items_sold">
+		<text>Items vendidos</text>
+	</string>
+	<string id="st_last_seen">
+		<text>Ultima vez visto</text>
+	</string>
+	<string id="st_artefacts_found">
+		<text>Artefactos encontrados</text>
+	</string>
+	<string id="st_stalkers_killed">
+		<text>Stalkers eliminados</text>
+	</string>
+	<string id="st_mutants_killed">
+		<text>Mutantes eliminados</text>
+	</string>
+	<string id="st_helicopters downed">
+		<text>Helicopteros derribados</text>
+	</string>
+	<string id="st_corpse_looted">
+		<text>Cadaveres saqueados</text>
+	</string>
+	<string id="st_wounded_helped">
+		<text>Heridos ayudados</text>
+	</string>
+	<string id="pda_btn_relations">
+		<text>Relaciones</text>
+	</string>
+	<string id="pda_btn_relations_hint">
+		<text>Mostrar relaciones de facci&#243;n</text>
+	</string>
+	<string id="pda_relations_header">
+		<text>Relaciones de facci&#243;n</text>
+	</string>
+	<string id="pda_companions_header">
+		<text>Compa&#241;eros</text>
+	</string>
+	<string id="pda_table_value_on">
+		<text>Mostrar texto</text>
+	</string>
+	<string id="pda_table_value_off">
+		<text>Mostrar valores</text>
+	</string>
+	<string id="pda_companions_auto">
+		<text>Actualizar</text>
+	</string>
+	<string id="pda_show_enemy">
+		<text>Mostrar enemigos</text>
+	</string>
+	
+	<string id="st_pda_mode_on">
+		<text>On</text>
+	</string>
+	<string id="st_pda_mode_off">
+		<text>Off</text>
+	</string>
+	<string id="st_pda_mode_dist_far">
+		<text>Lejos</text>
+	</string>
+	<string id="st_pda_mode_dist_near">
+		<text>Cerca</text>
+	</string>
+	<string id="st_pda_mode_true">
+		<text>Habilitado</text>
+	</string>
+	<string id="st_pda_mode_false">
+		<text>Falso</text>
+	</string>
+	<string id="st_pda_mode_enabled">
+		<text>Activado</text>
+	</string>
+	<string id="st_pda_mode_disabled">
+		<text>Desactivado</text>
+	</string>
+	<string id="st_pda_distance_state_far">
+		<text>Distancia mantener lejos</text>
+	</string>
+	<string id="st_pda_distance_state_near">
+		<text>Distancia manten cerca</text>
+	</string>
+	<string id="st_pda_cant_trade">
+		<text>Los Stalkers relacionados con tareas no pueden comerciar</text>
+	</string>
+	<!-- PDA Relations Action list -->
+	<string id="st_mm_pda_statistics">
+		<text>Estad&#237;sticas</text>
+	</string>
+	<string id="st_pda_action_1__1">
+		<text>Prestar art&#237;culos</text>
+	</string>
+	<string id="st_pda_action_1__2">
+		<text>Ordenes</text>
+	</string>
+	<string id="st_pda_action_1__2_2">
+		<text>Movimiento</text>
+	</string>
+	<string id="st_pda_action_1__2_2_2_on">
+		<text>Seguir</text>
+	</string>
+	<string id="st_pda_action_1__2_2_2_off">
+		<text>Esperar</text>
+	</string>
+	<string id="st_pda_action_1__2_2_3_on">
+		<text>Distancia (cerca)</text>
+	</string>
+	<string id="st_pda_action_1__2_2_3_off">
+		<text>Distancia (lejos)</text>
+	</string>
+	<string id="st_pda_action_1__2_3">
+		<text>Combate</text>
+	</string>
+	<string id="st_pda_action_1__2_4">
+		<text>Saqueo</text>
+	</string>
+	<string id="st_pda_action_1__2_5_on">
+		<text>Sigilo (desactivar)</text>
+	</string>
+	<string id="st_pda_action_1__2_5_off">
+		<text>Sigilo (habilitar)</text>
+	</string>
+	<string id="st_pda_action_1__2_3_2">
+		<text>Pasivo</text>
+	</string>
+	<string id="st_pda_action_1__2_3_3">
+		<text>Defensivo</text>
+	</string>
+	<string id="st_pda_action_1__2_3_4">
+		<text>Agresivo</text>
+	</string>
+	<string id="st_pda_action_1__2_4_2_on">
+		<text>Items (deshabilitar)</text>
+	</string>
+	<string id="st_pda_action_1__2_4_2_off">
+		<text>Items (habilitar)</text>
+	</string>
+	<string id="st_pda_action_1__2_4_3_on">
+		<text>Cad&#225;veres (deshabilitar)</text>
+	</string>
+	<string id="st_pda_action_1__2_4_3_off">
+		<text>Cad&#225;veres (habilitar)</text>
+	</string>
+	<string id="pda_btn_contacts">
+		<text>Contactos</text>
+	</string>
+	<string id="pda_btn_contacts_hint">
+		<text>Mostrar contactos cercanos</text>
+	</string>
+	<string id="pda_show_known_contacts">
+		<text>Contactos conocidos</text>
+	</string>
+	<string id="pda_msg_all">
+		<text>Todos</text>
+	</string>
+
+	<string id="st_pda_action_back">
+		<text>Atr&#225;s</text>
+	</string>
+	<string id="st_mm_pda_stalkers_killed">
+		<text>Stalkers eliminados</text>
+	</string>
+	<string id="st_mm_pda_mutants_killed">
+		<text>Mutantes eliminados</text>
+	</string>
+	<string id="st_mm_pda_artes_found">
+		<text>Artefactos encontrados</text>
+	</string>
+	<string id="st_mm_pda_items_sold">
+		<text>Items vendidos</text>
+	</string>
+	<string id="st_mm_pda_helicopters downed">
+		<text>Helicopteros derribados</text>
+	</string>
+	<string id="st_mm_pda_corpse_looted">
+		<text>Cadaveres saqueados</text>
+	</string>
+	<string id="st_mm_pda_wounded_helped">
+		<text>Heridos ayudados</text>
+	</string>
+	<string id="st_mm_pda_level_travel">
+		<text>Zonas visitadas</text>
+	</string>
+
+	<string id="st_mm_pda_dismissable">
+		<text>Descartable</text>
+	</string>
+	<string id="st_mm_pda_stealth">
+		<text>Sigilo</text>
+	</string>
+	<string id="st_mm_pda_keep_distance">
+		<text>Mant&#233;n distancia</text>
+	</string>
+	<string id="st_mm_pda_loot_corpses">
+		<text>Saquear cad&#225;veres</text>
+	</string>
+	<string id="st_mm_pda_pickup_items">
+		<text>Recoger art&#237;culos</text>
+	</string>
+	<string id="st_mm_pda_combat">
+		<text>Combate</text>
+	</string>
+	<string id="st_mm_pda_movement">
+		<text>Movimiento</text>
+	</string>
+	<string id="st_mm_pda_states">
+		<text>Estados</text>
+	</string>
+	<string id="st_mm_pda_location">
+		<text>Ubicaci&#243;n</text>
+	</string>
+	<string id="st_pda_fast_travel">
+		<text>Viaje r&#225;pido</text>
+	</string>
+	<string id="st_pda_display_values">
+		<text>Mostrar Valores</text>
+	</string>
+	<string id="st_distance_to">
+		<text>Distancia a</text>
+	</string>
+	
+	<string id="st_stash_of">
+		<text>Alijo de</text>
+	</string>
+	
+<!-- Radio -->
+	<string id="pda_btn_radio">
+		<text>Radio</text>
+	</string>
+	<string id="pda_btn_radio_title">
+		<text>Radio</text>
+	</string>
+	<string id="pda_btn_plyr_title">
+		<text>Reproductor de musica</text>
+	</string>
+	<string id="pda_btn_radio_hint">
+		<text>Mostrar radio y reproductor de musica</text>
+	</string>
+	<string id="ui_st_radio_playing">
+		<text>Reproduciendo</text>
+	</string>
+	<string id="ui_st_radio_playlist">
+		<text>Lista de reproduccion</text>
+	</string>
+	<string id="ui_st_radio_loop_off">
+		<text>Bucle Off</text>
+	</string>
+	<string id="ui_st_radio_loop_all">
+		<text>Blucle Todo</text>
+	</string>
+	<string id="ui_st_radio_loop_one">
+		<text>Bucle Uno</text>
+	</string>
+	<string id="ui_st_radio_shuffle_on">
+		<text>Aleatorio On</text>
+	</string>
+	<string id="ui_st_radio_shuffle_off">
+		<text>Aleatorio Off</text>
+	</string>
+	
+<!-- Warfare -->
+	<string id="pda_all_levels">
+		<text>Todos los niveles</text>
+	</string>
+	<string id="pda_current_level">
+		<text>Zona actual</text>
+	</string>
+	<string id="ui_st_pda_warfare_squads">
+		<text>Patrullas totales</text>
+	</string>
+	<string id="ui_st_pda_warfare_capped_smarts">
+		<text>Puestos Avanzados totales</text>
+	</string>
+	<string id="ui_st_pda_warfare_major_hold">
+		<text>Base</text>
+	</string>
+	<string id="ui_st_pda_warfare_dominance">
+		<text>%s mantienen %s de %s puestos avanzados en %s</text>
+	</string>
+	<string id="ui_st_pda_warfare_zone">
+		<text>la Zona</text>
+	</string>
+	
+</string_table>

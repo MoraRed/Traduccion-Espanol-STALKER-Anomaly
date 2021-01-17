@@ -1,0 +1,726 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Ammunition
+-->
+
+<string_table>
+	
+	<string id="ammo_12.7x55_ap">
+		<text>Munici&#243;n 12.7x55 mm STs-130 VPS</text>
+	</string>
+	<string id="ammo_12.7x55_ap_descr">
+		<text>El cartucho subs&#243;nico de 12,7 x 55 mm que perfora el blindaje se utiliza en el rifle de francotirador VKS bullpup. El cartucho puede transportar un proyectil que pesa entre 59 gramos (911 granos) y 76 g (1173 granos), produciendo cantidades masivas de energ&#237;a cin&#233;tica.\n \n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]muy alto</text>
+	</string>
+	<string id="ammo_12.7x55_ap_s">
+		<text>12.7x55 AP</text>
+	</string>
+	
+	<string id="ammo-11.43x23-fmj">
+		<text>Munici&#243;n .45 ACP</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_descr">
+		<text>La bala de calibre 45 ha gozado de popularidad durante centenares de a&#241;os gracias a su rendimiento bal&#237;stico y a una carga propulsora relativamente peque&#241;a. Como resultado, el proyectil de este cartucho es relativamente lento pero muy preciso y proporciona una considerable potencia de parada.\n \n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]ninguno\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]medio</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_s">
+		<text>.45 ACP</text>
+	</string>
+	
+	<string id="ammo-11.43x23-hydro">
+		<text>Munici&#243;n .45 ACP Hydra-shock</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_descr">
+		<text>Esta inusual bala de calibre .45 ACP consiste en una bala de punta suave encamisada con un n&#250;cleo de acero hueco, que posee tanto sus ventajas como sus desventajas.\n \n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]IIA\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]alto</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_s">
+		<text>.45 HS</text>
+	</string>
+	
+	<string id="ammo-12.7x55-fmj">
+		<text>Munici&#243;n 12.7x55 mm STs-130</text>
+	</string>
+	<string id="ammo-12.7x55-fmj_descr">
+		<text>El cartucho subs&#243;nico de 12,7x55 mm con cubierta met&#225;lica se utiliza en el rifle de francotirador VKS bullpup. El cartucho puede transportar un proyectil de entre 59 gramos (911 granos) y 76 g (1173 granos), produciendo cantidades masivas de energ&#237;a cin&#233;tica.\n \n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]muy alto</text>
+	</string>
+	<string id="ammo-12.7x55-fmj_s">
+		<text>12.7x55</text>
+	</string>
+	
+	<string id="ammo-12x70-buck">
+		<text>Cartuchos tipo "perdigon" 12x70</text>
+	</string>
+	<string id="ammo-12x70-buck_descr">
+		<text>Un proyectil est&#225;ndar de calibre 12 con un calibre de 8 mm. Altamente letal a corta distancia. S&#243;lo adecuado para su uso con armas de ca&#241;&#243;n largo.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]ninguno\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]medio - alto\n \n%c[ui_gray_1]ESPECIAL:\n%c[d_purple] • %c[ui_gray_2] una nube de perdigones expansiva, efectivo a corto alcance.</text>
+	</string>
+	<string id="ammo-12x70-buck_s">
+		<text>Cartucho 12x70</text>
+	</string>
+	
+	<string id="ammo-12x76-dart">
+		<text>Cartuchos tipo "dardo" 12x76</text>
+	</string>
+	<string id="ammo-12x76-dart_descr">
+		<text>Un cartucho tipo dardo calibre 12, normalmente utilizado para la caza mayor pero tambi&#233;n adecuada para otros fines, incluyendo la perforaci&#243;n de armaduras blandas.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]alto</text>
+	</string>
+	<string id="ammo-12x76-dart_s">
+		<text>Darto 12x76</text>
+	</string>
+	
+	<string id="ammo-12x76-bull">
+		<text>Cartuchos tipo "darto" 12x76</text>
+	</string>
+	<string id="ammo-12x76-bull_descr">
+		<text>Munici&#243;n de calibre 12 hechas a medida para acabar con dinosaurios y mutantes. El interior est&#225; hecho de plomo cubierto de cobre con acero, con un inserto en forma de dardos en el interior. El proyectil es muy largo y tiene una gran carga de p&#243;lvora. Puede romperte las manos por el retroceso.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]muy alto</text>
+	</string>
+	<string id="ammo-12x76-bull_s">
+		<text>Bull 12x76</text>
+	</string>	
+	
+	<string id="ammo-12x76-zhekan">
+		<text>Cartuchos tipo "babosa" 12x76</text>
+	</string>
+	<string id="ammo-12x76-zhekan_descr">
+		<text>Esta bala pesada de calibre 12 se utiliza normalmente para la caza mayor, pero tambi&#233;n es buena para otros fines. En lugar de perforar, esta pesada "babosa" simplemente aplasta la armadura.\n \n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]II\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos : %c[ui_gray_1]muy alto</text>
+	</string>
+	<string id="ammo-12x76-zhekan_s">
+		<text>Babosa 12x76</text>
+	</string>
+	
+	<string id="ammo-338-lapua">
+		<text>Munici&#243;n .338 Lapua Magnum</text>
+	</string>
+	<string id="ammo-338-lapua_descr">
+		<text>La Lapua Magnum .338 es un cartucho especializado de fuego centralizado sin borde, desarrollado para rifles de francotirador de largo alcance. La guerra de Afganist&#225;n e Irak lo convirtieron en un cartucho comprobado en combate que tiene una gran disponibilidad en cuanto a munici&#243;n. El .338 Lapua es una bala de doble prop&#243;sito, antipersonal y anti-materia, pero su potencial anti-materia es limitado.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]muy alto</text>
+	</string>
+	<string id="ammo-338-lapua_s">
+		<text>.338 Lapua Magnum</text>
+	</string>
+	
+	<string id="ammo-357-hp">
+		<text>Munici&#243;n .357 HP</text>
+	</string>
+	<string id="ammo-357-hp_descr">
+		<text>El proyectil de .357 HP es una bala de punta hueca. La principal caracteristica de esta bala es que reduce la velocidad antes del impacto, lo que disminuye su penetraci&#243;n, pero al mismo tiempo causa un mayor da&#241;o a los tejidos internos.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]II\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]alto</text>
+	</string>
+	<string id="ammo-357-hp_s">
+		<text>.357 HP</text>
+	</string>
+	
+	<string id="ammo-5.45x39-ap">
+		<text>Munici&#243;n 5.45x39 mm AP</text>
+	</string>
+	<string id="ammo-5.45x39-ap_descr">
+		<text>Munici&#243;n militar de perforaci&#243;n de blindaje de calibre 5.45x39 7N22 para fusiles autom&#225;ticos de los pa&#237;ses del Pacto de Varsovia. La bala contiene un perforador de blindaje de aleaci&#243;n dura. Es eficaz contra los chalecos antibalas.\n \n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]medio</text>
+	</string>
+	<string id="ammo-5.45x39-ap_s">
+		<text>5.45x39 AP</text>
+	</string>
+	
+	<string id="ammo-5.45x39-ep">
+		<text>Munici&#243;n 5.45x39 mm EP</text>
+	</string>
+	<string id="ammo-5.45x39-ep_descr">
+		<text>El calibre 7N10 militar de 5,45x39 es una bala de penetraci&#243;n mejorada para los rifles autom&#225;ticos de los pa&#237;ses del Pacto de Varsovia. Se utiliza un n&#250;cleo de acero m&#225;s duro y afilado para mejorar la penetraci&#243;n.\n \n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]medio</text>
+	</string>
+	<string id="ammo-5.45x39-ep_s">
+		<text>5.45x39 EP</text>
+	</string>
+	
+	<string id="ammo-5.45x39-fmj">
+		<text>Munici&#243;n 5.45x39 mm FMJ</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_descr">
+		<text>El calibre militar 7N6 de 5,45 x 39 fue la primera serie est&#225;ndar de rifles autom&#225;ticos de los pa&#237;ses del Pacto de Varsovia que utilizaron el nuevo cartucho intermedio. Proporciona una mayor precisi&#243;n que la bala de calibre 7.62 gracias a la reducci&#243;n del retroceso y a un aumento de 100 metros de alcance.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]medio</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_s">
+		<text>5.45x39 FMJ</text>
+	</string>
+	
+	<string id="ammo-5.56x45-ap">
+		<text>Munici&#243;n 5.56x45 mm AP</text>
+	</string>
+	<string id="ammo-5.56x45-ap_descr">
+		<text>El &#250;ltimo proyectil militar de la OTAN de calibre 5.56x45 de penetraci&#243;n mejorada, conocido como M855A1, utilizado por las fuerzas armadas de los Estados Unidos. Incrementa la efectividad contra el blindaje y los tejidos blandos.\n \n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]medio</text>
+	</string>
+	<string id="ammo-5.56x45-ap_s">
+		<text>5.56x45 AP</text>
+	</string>
+	
+	<string id="ammo-5.56x45-ss190">
+		<text>Munici&#243;n 5.56x45 mm EP</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_descr">
+		<text>Una bala est&#225;ndar de la OTAN de calibre 5.56x45 con n&#250;cleo de acero. El nuevo dise&#241;o mejor&#243; la penetraci&#243;n a costa de un da&#241;o de tejido menos importante. Ampliamente conocido bajo su &#237;ndice M855.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]medio</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_s">
+		<text>5.56x45 EP</text>
+	</string>
+	
+	<string id="ammo-5.56x45-fmj">
+		<text>Munici&#243;n 5.56x45 mm FMJ</text>
+	</string>
+	<string id="ammo-5.56x45-fmj_descr">
+		<text>Una bala est&#225;ndar de la OTAN de calibre 5.56x45 llamada M193, dise&#241;ada especialmente para fuego autom&#225;tico preciso. Proporciona buenas caracter&#237;sticas bal&#237;sticas, habiendo sido dise&#241;ada sobre la base de una bala de caza. Bien conocida por haber sido utilizada en la guerra de Vietnam y tener un gran resultado contra el tejido, pero con una penetraci&#243;n limitada.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]alto</text>
+	</string>
+	<string id="ammo-5.56x45-fmj_s">
+		<text>5.56x45 FMJ</text>
+	</string>
+	
+	<string id="ammo-5.7x28-ss190">
+		<text>Munici&#243;n 5.7x28 SS190</text>
+	</string>
+	<string id="ammo-5.7x28-ss190_descr">
+		<text>El FN 5.7x28mm es un proyectil de alta velocidad dise&#241;ado y fabricado por FN Herstal. Es uno de los proyectiles de fuego centralizado de m&#225;s largo alcance parecido al .22 Hornet o al .22 K-Hornet. El 5.7x28mm fue desarrollado en conjunto con el arma de defensa personal FN P90 (PDW) y la pistola FN Five-seven, en respuesta a las solicitudes de la OTAN para reemplazar el Parabellum de 9x19mm.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armadura: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]bajo - medio</text>
+	</string>
+	<string id="ammo-5.7x28-ss190_s">
+		<text>5.7x28 AP</text>
+	</string>
+	
+	<string id="ammo-4.6x30-fmj">
+		<text>Munici&#243;n 4.6x30 mm FMJ</text>
+	</string>
+	<string id="ammo-4.6x30-fmj_descr">
+		<text>La munici&#243;n HK de 4.6?30mm es un tipo de proyectil que se usa principalmente en el arma de defensa personal (PDW) Heckler &amp; Koch MP7. Est&#225; dise&#241;ada para minimizar el peso y el retroceso mientras aumenta la penetraci&#243;n del blindaje corporal. Tiene un casquillo de cuello de botella y una bala puntiaguda, con n&#250;cleo de acero y cubierta de bronce.\n \n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]IIIA \n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]bajo - medio</text>
+	</string>
+	<string id="ammo-4.6x30-fmj_s">
+		<text>4.6x30 FMJ</text>
+	</string>
+	<string id="ammo-4.6x30-fmj_bad">
+		<text>Munici&#243;n 4.6x30 mm FMJ (vieja)</text>
+	</string>
+	<string id="ammo-4.6x30-fmj_verybad">
+		<text>Munici&#243;n 4.6x30 mm FMJ (da&#241;ada)</text>
+	</string>
+	
+	<string id="ammo-5.7x28-ss195">
+		<text>Munici&#243;n 5.7x28 mm SS195</text>
+	</string>
+	<string id="ammo-5.7x28-ss195_descr">
+		<text>El SS195 FN 5.7x28mm es un proyectil expansivo dise&#241;ado y fabricado por FN Herstal. Se trata de una munici&#243;n de fuego centralizado con cuello de botella que es algo similar al .22 Hornet o .22 K-Hornet.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]IIA\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]medio</text>
+	</string>
+	<string id="ammo-5.7x28-ss195_s">
+		<text>5,7x28 HP</text>
+	</string>
+	
+	<string id="ammo-50-bmg">
+		<text>Munici&#243;n .50 BMG</text>
+	</string>
+	<string id="ammo-50-bmg_descr">
+		<text>La .50 Browning Machine Gun (12,7x99mm OTAN y denominada como la 50 Browning por la C.I.P.) es una munici&#243;n desarrollada para la ametralladora Browning de calibre .50 a finales de la d&#233;cada de 1910, que entr&#243; en servicio oficial en 1921. Con el nombre STANAG 4383 se define como una munici&#243;n est&#225;ndar de las fuerzas de la OTAN as&#237; como para muchos pa&#237;ses no pertenecientes a la OTAN. El cartucho en s&#237; se ha fabricado en muchas variantes: m&#250;ltiples generaciones de balas normales, trazadoras, perforadoras de blindaje (AP), incendiarias y balas de subcalibre trucadas. Las balas destinadas a las ametralladoras se fabrican en un cintur&#243;n continuo mediante eslabones met&#225;licos. \nEl cartucho BMG de calibre .50 tambi&#233;n se utiliza en rifles de largo alcance y anti-materia, as&#237; como en otras ametralladoras de calibre .50.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]IV \n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]alto</text>
+	</string>
+	<string id="ammo-50-bmg_s">
+		<text>.50 BMG</text>
+	</string>
+	<string id="ammo-50-bmg_bad">
+		<text>Munici&#243;n .50 BMG (vieja)</text>
+	</string>
+	<string id="ammo-50-bmg_verybad">
+		<text>Munici&#243;n .50 BMG (da&#241;ada)</text>
+	</string>
+	
+	<string id="ammo-7.62x25-p">
+		<text>Munici&#243;n 7.62x25 mm P</text>
+	</string>
+	<string id="ammo-7.62x25-p_descr">
+		<text>El proyectil de 7,62 x 25 mm es una munici&#243;n rusa para pistola tipo cuello de botella muy utilizada en los ex estados sat&#233;lites sovi&#233;ticos, China y Pakist&#225;n, entre otros pa&#237;ses. Se trata de una versi&#243;n rusa mejorada del Mauser de 7,63x25 mm. Tiene una excelente penetraci&#243;n y puede superar f&#225;cilmente los chalecos bal&#237;sticos m&#225;s ligeros, as&#237; como los cascos de kevlar. Aunque la mayor&#237;a de las armas de fuego con este calibre son obsoletas y se han eliminado de los inventarios militares, el proyectil sigue teniendo un uso generalizado debido a la gran cantidad de munici&#243;n que queda.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]I\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]medio</text>
+	</string>
+	<string id="ammo-7.62x25-p_s">
+		<text>7.62x25 P</text>
+	</string>
+	
+	<string id="ammo-7.62x25-ps">
+		<text>Munici&#243;n 7.62x25 mm Pst</text>
+	</string>
+	<string id="ammo-7.62x25-ps_descr">
+		<text>El proyectil de 7,62 x 25 mm con n&#250;cleo de acero es una munici&#243;n rusa de pistola y con cuello de botella que se utiliza ampliamente en los antiguos Estados sat&#233;lites sovi&#233;ticos, China y el Pakist&#225;n, entre otros pa&#237;ses. Es muy eficaz contra objetivos no blindados.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]II\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]medio</text>
+	</string>
+	<string id="ammo-7.62x25-ps_s">
+		<text>7.62x25 Pst</text>
+	</string>
+	
+	<string id="ammo-7.62x39_ap">
+		<text>Munici&#243;n M7.62x39 mm M43</text>
+	</string>
+	<string id="ammo-7.62x39_ap_descr">
+		<text>El M43 de 7,62 x 39 es un proyectil perforador de blindaje producido en China, por lo que a menudo se le denomina "7,62 x 39 CN". Esta bala tiene un n&#250;cleo de acero suave que mejora su capacidad de penetraci&#243;n. Esta bala china (as&#237; como el resto de la munici&#243;n M43) est&#225; actualmente prohibida para su importaci&#243;n en los Estados Unidos porque la ley federal estadounidense clasifica la bala como una bala de pistola perforadora de blindaje. Esta clasificaci&#243;n se basa en los materiales y el dise&#241;o de la bala, m&#225;s que en la capacidad emp&#237;rica de penetrar en el blindaje.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]alta</text>
+	</string>
+	<string id="ammo-7.62x39_ap_s">
+		<text>7.62x39 AP</text>
+	</string>
+	
+	<string id="ammo-7.62x39_fmj">
+		<text>Munici&#243;n 7.62x39 mm FMJ</text>
+	</string>
+	<string id="ammo-7.62x39_fmj_descr">
+		<text>El tipo de munici&#243;n m&#225;s utilizado es el denominado Full Metal Jacket de 7,62x39, especialmente en &#193;frica y en el Oriente Medio. Algunos la apodaron la "La bala de la Revoluci&#243;n" debido a su uso favorecido por organizaciones terroristas y criminales. Debido al gran poder de esta bala, la mayor&#237;a de las organizaciones militares han recurrido al uso de placas de acero adicionales para resistirlo, ya que existe una alta probabilidad de encontrarselo en situaciones de combate.\n \n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]alta</text>
+	</string>
+	<string id="ammo-7.62x39_fmj_s">
+		<text>7.62x39 FMJ</text>
+	</string>
+	
+	<string id="ammo-7.62x51_ap">
+		<text>Munici&#243;n 7.62x51 mm OTAN AP</text>
+	</string>
+	<string id="ammo-7.62x51_ap_descr">
+		<text>Una bala militar de calibre 7.62x51 tipo M61 con un n&#250;cleo de acero endurecido. Conserva un alto grado de da&#241;o mientras mejora enormemente el rendimiento contra las armaduras corporales.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]alto</text>
+	</string>
+	<string id="ammo-7.62x51_ap_s">
+		<text>7.62x51 AP</text>
+	</string>
+	
+	<string id="ammo-7.62x51_fmj">
+		<text>Munici&#243;n 7.62x51 mm OTAN ball</text>
+	</string>
+	<string id="ammo-7.62x51_fmj_descr">
+		<text>La munici&#243;n de 7,62x51 de la OTAN es una variante militar de la de .308 que fue usada como est&#225;ndar por las fuerzas de la OTAN hasta que se introdujo la munici&#243;n de 5,56 en los a&#241;os 70 en la guerra de Vietnam. En la actualidad, es m&#225;s com&#250;nmente empleada por contratistas militares privados en todo el mundo. La bala de 7,62x51 es un calibre de ametralladora muy com&#250;n, y tambi&#233;n puede utilizarse en rifles de combate o de francotirador.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]alto</text>
+	</string>
+	<string id="ammo-7.62x51_fmj_s">
+		<text>7.62x51 ball</text>
+	</string>
+	
+	<string id="ammo-7.62x54_7n14">
+		<text>Munici&#243;n 7.62x54 mm 7N14</text>
+	</string>
+	<string id="ammo-7.62x54_7n14_descr">
+		<text>El 7N14 de calibre 7.62x54 es un proyectil perforador de blindaje. La bala tiene un n&#250;cleo de acero para penetrar el blindaje o las barreras de luz, y una base en forma de cola de barco para aumentar la precisi&#243;n.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]alto</text>
+	</string>
+	<string id="ammo-7.62x54_7n14_s">
+		<text>7.62x54 7N14</text>
+	</string>
+	
+	<string id="ammo-7.62x54-7n1">
+		<text>Munici&#243;n 7.62x54 mm 7N1</text>
+	</string>
+	<string id="ammo-7.62x54-7n1_descr">
+		<text>Una bala de francotirador de calibre 7.62x54 con un penetrador de acero especialmente dise&#241;ado para la SVD. A diferencia del proyectil de ametralladora, el 7N1 proporciona juntas mucho m&#225;s estrechas.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]alto</text>
+	</string>
+	<string id="ammo-7.62x54-7n1_s">
+		<text>7.62x54 7N1</text>
+	</string>
+	
+	<string id="ammo-7.62x54-ap">
+		<text>Munici&#243;n 7.62x54 mm AP</text>
+	</string>
+	<string id="ammo-7.62x54-ap_descr">
+		<text>El proyectil perforador de blindaje 7N13 de calibre 7.62x54mm es una munici&#243;n de alta potencia y gracias a su n&#250;cleo de acero duro posee una capacidad de penetraci&#243;n bastante buena.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]alto</text>
+	</string>
+	<string id="ammo-7.62x54-ap_s">
+		<text>7.62x54 AP</text>
+	</string>
+	
+	<string id="ammo-7.62x54-r">
+		<text>Munici&#243;n 7.62x54 mm PP</text>
+	</string>
+	<string id="ammo-7.62x54-r_descr">
+		<text>El PP de 7,62x54 es un calibre de rifle antiguo introducido en el Imperio Sovi&#233;tico a finales del siglo XIX y todav&#237;a utilizado por la URSS despu&#233;s de la Segunda Guerra Mundial. Fue dise&#241;ado originalmente para el rifle de infanter&#237;a est&#225;ndar de Mosin-Nagant y es bastante com&#250;n en la Zona debido a la popularidad del rifle. La bala es relativamente barata pero tiene una capacidad de penetraci&#243;n sorprendentemente buena, incluso en comparaci&#243;n con los tipos de munici&#243;n m&#225;s modernos. Tambi&#233;n se puede utilizar como una soluci&#243;n m&#225;s barata en la ametralladora PKM.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]alto</text>
+	</string>
+	<string id="ammo-7.62x54-r_s">
+		<text>7.62x54 PP</text>
+	</string>
+	
+	<string id="ammo-7.92x33_ap">
+		<text>Munici&#243;n 7.92x57 mm SA</text>
+	</string>
+	<string id="ammo-7.92x33_ap_descr">
+		<text>7.92x57 SA es una bala que fue utilizada por el ej&#233;rcito brit&#225;nico contra objetivos blindados. Tiene un n&#250;cleo de acero endurecido que le da una mayor capacidad de perforaci&#243;n. Utilizada principalmente para tiros de largo alcance, la calidad del filo de esta bala es superior a la est&#225;ndar. Este proyectil es compatible con varios rifles de francotirador.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]IV\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]alto</text>
+	</string>
+	<string id="ammo-7.92x33_ap_s">
+		<text>7.62x57 AP</text>
+	</string>
+	
+	<string id="ammo-7.92x33_fmj">
+		<text>Munici&#243;n 7.92x57 mm Mauser</text>
+	</string>
+	<string id="ammo-7.92x33_fmj_descr">
+		<text>El proyectil de Mauser de 7,92x57 fue adoptada por el Imperio Alem&#225;n y luego por el Tercer Reich. Fue uno de los proyectiles m&#225;s populares en el per&#237;odo de las dos guerras mundiales. Sin embargo, hoy en d&#237;a, la bala se utiliza principalmente para la caza y los deportes.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]alto</text>
+	</string>
+	<string id="ammo-7.92x33_fmj_s">
+		<text>7.62x57 FMJ</text>
+	</string>
+	
+	<string id="ammo-9x18-ap">
+		<text>Munici&#243;n 9x18 RG028</text>
+	</string>
+	<string id="ammo-9x18-ap_descr">
+		<text>El RG028 es una munici&#243;n utilizada por su capacidad de penetraci&#243;n al blindaje. El objetivo del RG028 era convertirse en un antiblindaje, por lo que est&#225; provisto de un n&#250;cleo de acero endurecido. Desafortunadamente, el proyectil en s&#237; mismo no es una gran mejora con respecto al est&#225;ndar, s&#243;lo tiene un impacto m&#225;s fuerte que el t&#237;pico proyectil de 9x18.\n \n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]II\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]bajo - medio</text>
+	</string>
+	<string id="ammo-9x18-ap_s">
+		<text>9x18 RG028</text>
+	</string>
+	
+	<string id="ammo-9x18-fmj">
+		<text>Munici&#243;n 9x18 mm FMJ</text>
+	</string>
+	<string id="ammo-9x18-fmj_descr">
+		<text>Un proyectil con una punta de acero y un n&#250;cleo de plomo debajo de una cubierta de metal. Proporciona un buen poder de detenci&#243;n pero es ineficaz contra los chalecos antibalas.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]ninguro\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]bajo - medio</text>
+	</string>
+	<string id="ammo-9x18-fmj_s">
+		<text>9x18 FMJ</text>
+	</string>
+	
+	<string id="ammo-9x18-pmm">
+		<text>Munici&#243;n 9x18 mm +P+</text>
+	</string>
+	<string id="ammo-9x18-pmm_descr">
+		<text>Esta bala contiene un mayor poder de detenci&#243;n, mientras que su designaci&#243;n europea +P+ indica "munici&#243;n de sobrepresi&#243;n" con un aumento del 30% en la velocidad del ca&#241;&#243;n. Ineficaz contra los chalecos antibalas.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]I\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]medio - alto</text>
+	</string>
+	<string id="ammo-9x18-pmm_s">
+		<text>9x18 +P+</text>
+	</string>
+	
+	<string id="ammo-9x19-ap">
+		<text>Munici&#243;n 9x19 mm AP</text>
+	</string>
+	<string id="ammo-9x19-ap_descr">
+		<text>Esta bala rusa de calibre 9x19 viene con un n&#250;cleo de acero duro y con mayor empuje. Dise&#241;ada para mejorar la capacidad de penetraci&#243;n de la armadura de las armas peque&#241;as y subametralladoras.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]bajo - medio</text>
+	</string>
+	<string id="ammo-9x19-ap_s">
+		<text>9x19 AP</text>
+	</string>
+	
+	<string id="ammo-9x19-fmj">
+		<text>Munici&#243;n 9x19 mm FMJ</text>
+	</string>
+	<string id="ammo-9x19-fmj_descr">
+		<text>Esta bala b&#225;sica de calibre 9x19 cubierta tiene buenas caracter&#237;sticas y es f&#225;cil de producir. La bala es popular debido a que las convenciones internacionales proh&#237;ben el uso de municiones expansivas en combate. Es ineficaz contra los chalecos antibalas.\n \n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]I\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]medio</text>
+	</string>
+	<string id="ammo-9x19-fmj_s">
+		<text>9x19 FMJ</text>
+	</string>
+	
+	<string id="ammo-9x19-pbp">
+		<text>Munici&#243;n 9x19 mm JHP</text>
+	</string>
+	<string id="ammo-9x19-pbp_descr">
+		<text>Esta bala de punta hueca revestida de calibre 9x19 tiene un hueco expansible con un alto poder de detenci&#243;n y una baja propensi&#243;n al rebote. Usada por la polic&#237;a y para defensa propia. Es ineficaz contra el chaleco antibalas debido a su bajo potencial de penetraci&#243;n.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]I\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]alto</text>
+	</string>
+	<string id="ammo-9x19-pbp_s">
+		<text>9x19 JHP</text>
+	</string>
+	
+	<string id="ammo-9x39-ap">
+		<text>Munici&#243;n 9x39 mm SP-6</text>
+	</string>
+	<string id="ammo-9x39-ap_descr">
+		<text>El SP-6 es un proyectil subs&#243;nico perforador de blindaje con una punta blanda revestida de un n&#250;cleo de acero duro que sobresale de la carcasa. Requiere un supresor para disparar sigilosamente. Utilizada por los servicios especiales de los pa&#237;ses del Pacto de Varsovia. Es efectiva contra los chalecos antibalas.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]III\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]alto\n \n%c[ui_gray_1]ESPECIAL:\n%c[d_red] • %c[ui_gray_2] munici&#243;n sub-s&#243;nica\n%c[d_purple] • %c[ui_gray_2] aumento considerable en la ca&#237;da de velocidad del proyectil</text>
+	</string>
+	<string id="ammo-9x39-ap_s">
+		<text>9x39 SP-6</text>
+	</string>
+	
+	<string id="ammo-9x39-pab9">
+		<text>Munici&#243;n 9x39 mm SP-5</text>
+	</string>
+	<string id="ammo-9x39-pab9_descr">
+		<text>El SP-5 es un proyectil subs&#243;nico con una cubierta bimet&#225;lica. El proyectil contiene un n&#250;cleo de acero con un hueco detr&#225;s que est&#225; lleno de plomo. Requiere un supresor para dispararse sigilosamente. Utilizado por los servicios especiales de los pa&#237;ses del Pacto de Varsovia.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]IIIA\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]high\n \n%c[ui_gray_1]ESPECIAL:\n \n%c[d_red] • %c[ui_gray_2] munici&#243;n sub-s&#243;nica\n%c[d_purple] • %c[ui_gray_2] aumento considerable en la ca&#237;da de velocidad del proyectil</text>
+	</string>
+	<string id="ammo-9x39-pab9_s">
+		<text>9x39 SP-5</text>
+	</string>
+	
+	<string id="ammo-gauss">
+		<text>Baterias</text>
+	</string>
+	<string id="ammo-gauss_descr">
+		<text>Bater&#237;as que utilizan un fragmento capsulado del artefacto "Destello" como fuente de energ&#237;a. Fabricadas con equipo de alta tecnolog&#237;a.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]V\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]muy alto\n \n%c[ui_gray_1]ESPECIAL:\n%c[d_purple] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n%c[d_purple] • %c[ui_gray_2] prototipo</text>
+	</string>
+	
+	<string id="ammo-gauss_cardan">
+		<text>Baterias caseras</text>
+	</string>
+	<string id="ammo-gauss_cardan_descr">
+		<text>Estas celdas de menor capacidad utilizan fragmentos capsulados del artefacto "Destello" como fuente de energ&#237;a. Su menor capacidad se debe a las condiciones de producci&#243;n improvisadas y a la falta de equipo especializado.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]V\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]muy alto\n \n%c[ui_gray_1]ESPECIAL:\n%c[d_purple] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n%c[d_purple] • %c[ui_gray_2] prototipo</text>
+	</string>
+	
+	<string id="ammo-m209">
+		<text>Granada M203</text>
+	</string>
+	<string id="ammo-m209_descr">
+		<text>Granada de 40 mm para el lanzador de granadas underbarrel M203. Esta bala tiene un &#225;rea de muerte de 3,5 metros. Tambi&#233;n es adecuada para ser usada en el lanzagranadas integrado FN F2000.\n%c[d_purple] • %c[ui_gray_2] Potencia de explosi&#243;n: %c[ui_gray_1]medio\n%c[d_purple] • %c[ui_gray_2] Radio de explosi&#243;n: %c[ui_gray_1]4.1 m\n%c[d_purple] • %c[ui_gray_2] Alcance de los fragmentos: %c[ui_gray_1]28 m\n%c[d_purple] • %c[ui_gray_2] Numero de fragmentos prom.: %c[ui_gray_1]95 (metralla peque&#241;a)\n%c[d_purple] • %c[ui_gray_2] Tiempo de explosi&#243;n: %c[ui_gray_1]ninguno (explota al impactar)</text>
+	</string>
+	<string id="ammo-m209_s">
+		<text>M203</text>
+	</string>
+	
+	<string id="ammo-og-7b">
+		<text>Ojiva OG-7V</text>
+	</string>
+	<string id="ammo-og-7b_descr">
+		<text>Ojiva de fragmentaci&#243;n de guerra antipersonal usada con el lanzagranadas RPG-7. El objetivo principal de la ojiva es matar a los enemigos que est&#225;n a cubierto fuera del alcance de las granadas de mano.\n%c[d_purple] • %c[ui_gray_2] Potencia de explosi&#243;n: %c[ui_gray_1]alto\n%c[d_purple] • %c[ui_gray_2] Radio de explosi&#243;n: %c[ui_gray_1]5.6 m\n%c[d_purple] • %c[ui_gray_2] Alcance de los fragmentos: %c[ui_gray_1]41 m\n%c[d_purple] • %c[ui_gray_2] Numero de fragmentos prom.: %c[ui_gray_1]153 (metralla peque&#241;a)\n%c[d_purple] • %c[ui_gray_2] Tiempo de explosi&#243;n: %c[ui_gray_1]ninguno (explota al impactar)</text>
+	</string>
+	<string id="ammo-og-7b_s">
+		<text>OG-7V</text>
+	</string>
+	
+	<string id="ammo-vog-25">
+		<text>Granada VOG-25</text>
+	</string>
+	<string id="ammo-vog-25_descr">
+		<text>Granada de fragmentaci&#243;n com&#250;n para el lanzador de granadas bajo ca&#241;&#243;n GP-25 Kostyor. Esta munici&#243;n tiene una zona de muerte de 2,5 metros. La granada VOG-25 tambi&#233;n se utiliza en el OC-14 Groza y en el lanzagranadas tipo rev&#243;lver RG6 / 6G30.\n%c[d_purple] • %c[ui_gray_2] Potencia de explosi&#243;n: %c[ui_gray_1]medio\n%c[d_purple] • %c[ui_gray_2] Radio de explosi&#243;n: %c[ui_gray_1]3.6 m\n%c[d_purple] • %c[ui_gray_2] Alcance de los fragmentos: %c[ui_gray_1]20 m\n%c[d_purple] • %c[ui_gray_2] Numero de fragmentos prom.: %c[ui_gray_1]81 (metralla peque&#241;a)\n%c[d_purple] • %c[ui_gray_2] Tiempo de explosi&#243;n: %c[ui_gray_1]ninguno (explota al impactar)</text>
+	</string>
+	<string id="ammo-vog-25_s">
+		<text>VOG-25</text>
+	</string>
+	
+		<!-- Bad Ammo Addon-->
+	<string id="ammo-11.43x23-fmj_bad">
+		<text>Munici&#243;n .45 ACP (vieja)</text>
+	</string>
+	<string id="ammo-11.43x23-fmj_verybad">
+		<text>Munici&#243;n .45 ACP (da&#241;ada)</text>
+	</string>
+	<string id="ammo-7.62x51_fmj_bad">
+		<text>Munici&#243;n 7.62x51 mm de la OTAN (vieja)</text>
+	</string>
+	<string id="ammo-7.62x51_fmj_verybad">
+		<text>Munici&#243;n 7.62x51 mm de la OTAN (da&#241;ada)</text>
+	</string>
+	<string id="ammo-7.62x51_ap_bad">
+		<text>Munici&#243;n 7.62x51 mm AP (vieja)</text>
+	</string>
+	<string id="ammo-7.62x51_ap_verybad">
+		<text>Munici&#243;n 7.62x51 mm AP (da&#241;ada)</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_bad">
+		<text>Munici&#243;n .45 ACP Hydra-shock (vieja)</text>
+	</string>
+	<string id="ammo-11.43x23-hydro_verybad">
+		<text>Munici&#243;n .45 ACP Hydra-shock (da&#241;ada)</text>
+	</string>
+	<string id="ammo-357-hp_bad">
+		<text>Munici&#243;n .357 HP (vieja)</text>
+	</string>
+	<string id="ammo-357-hp_verybad">
+		<text>Munici&#243;n .357 HP (da&#241;ada)</text>
+	</string>
+	<string id="ammo-338-lapua_bad">
+		<text>Munici&#243;n .338 Lapua Magnum (vieja)</text>
+	</string>
+	<string id="ammo-338-lapua_verybad">
+		<text>Munici&#243;n .338 Lapua Magnum (da&#241;ada)</text>
+	</string>
+	<string id="ammo-12x70-buck_bad">
+		<text>Cartuchos 12x70 (viejos)</text>
+	</string>
+	<string id="ammo-12x70-buck_verybad">
+		<text>Cartuchos 12x70 (da&#241;ado)</text>
+	</string>
+	<string id="ammo-12x76-zhekan_bad">
+		<text>Cartuchos "babosa" 12x76 (viejo)</text>
+	</string>
+	<string id="ammo-12x76-zhekan_verybad">
+		<text>Cartuchos "babosa" 12x76 (da&#241;ado)</text>
+	</string>
+	<string id="ammo-12x76-dart_bad">
+		<text>Cartuchos "darto" 12x76 (viejo)</text>
+	</string>
+	<string id="ammo-12x76-dart_verybad">
+		<text>Cartuchos "darto" 12x76 (da&#241;ado)</text>
+	</string>
+	<string id="ammo-5.45x39-ap_bad">
+		<text>Munici&#243;n 5.45x39 mm AP (vieja)</text>
+	</string>
+	<string id="ammo-5.45x39-ap_verybad">
+		<text>Munici&#243;n 5.45x39 mm AP (da&#241;ada)</text>
+	</string>
+	<string id="ammo-5.45x39-ep_bad">
+		<text>Munici&#243;n 5.45x39 mm EP (vieja)</text>
+	</string>
+	<string id="ammo-5.45x39-ep_verybad">
+		<text>Munici&#243;n 5.45x39 mm EP (da&#241;ada)</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_bad">
+		<text>Munici&#243;n 5.45x39 mm FMJ (vieja)</text>
+	</string>
+	<string id="ammo-5.45x39-fmj_verybad">
+		<text>Munici&#243;n 5.45x39 mm FMJ (da&#241;ada)</text>
+	</string>
+	<string id="ammo-5.56x45-ap_bad">
+		<text>Munici&#243;n 5.56x45 mm AP (vieja)</text>
+	</string>
+	<string id="ammo-5.56x45-ap_verybad">
+		<text>Munici&#243;n 5.56x45 mm AP (da&#241;ada)</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_bad">
+		<text>Munici&#243;n 5.56x45 mm EP (vieja)</text>
+	</string>
+	<string id="ammo-5.56x45-ss190_verybad">
+		<text>Munici&#243;n 5.56x45 mm EP (da&#241;ada)</text>
+	</string>
+	<string id="ammo-5.56x45-fmj_bad">
+		<text>Munici&#243;n 5.56x45 mm FMJ (vieja)</text>
+	</string>
+	<string id="ammo-5.56x45-fmj_verybad">
+		<text>Munici&#243;n 5.56x45 mm FMJ (da&#241;ada)</text>
+	</string>
+	<string id="ammo-7.62x54-7n1_bad">
+		<text>Munici&#243;n 7.62x54 mm 7N1 (vieja)</text>
+	</string>
+	<string id="ammo-7.62x54-7n1_verybad">
+		<text>Munici&#243;n 7.62x54 mm 7N1 (da&#241;ada)</text>
+	</string>
+	<string id="ammo-7.62x54_7n14_bad">
+		<text>Munici&#243;n 7.62x54 mm 7N14 (vieja)</text>
+	</string>
+	<string id="ammo-7.62x54_7n14_verybad">
+		<text>Munici&#243;n 7.62x54 mm 7N14 (da&#241;ada)</text>
+	</string>
+	<string id="ammo-7.62x54-ap_bad">
+		<text>Munici&#243;n 7.62x54 mm AP (vieja)</text>
+	</string>
+	<string id="ammo-7.62x54-ap_verybad">
+		<text>Munici&#243;n 7.62x54 mm AP (da&#241;ada)</text>
+	</string>
+	<string id="ammo-7.62x54-r_bad">
+		<text>Munici&#243;n 7.62x54 mm PP (vieja)</text>
+	</string>
+	<string id="ammo-7.62x54-r_verybad">
+		<text>Munici&#243;n 7.62x54 mm PP (da&#241;ada)</text>
+	</string>
+	<string id="ammo-9x18-fmj_bad">
+		<text>Munici&#243;n 9x18 mm FMJ (vieja)</text>
+	</string>
+	<string id="ammo-9x18-fmj_verybad">
+		<text>Munici&#243;n 9x18 mm FMJ (da&#241;ada)</text>
+	</string>
+	<string id="ammo-9x18-pmm_bad">
+		<text>Munici&#243;n 9x18 mm +P+ (vieja)</text>
+	</string>
+	<string id="ammo-9x18-pmm_verybad">
+		<text>Munici&#243;n 9x18 mm +P+ (da&#241;ada)</text>
+	</string>
+	<string id="ammo-9x18-ap_bad">
+		<text>Munici&#243;n 9x18 RG028 (vieja)</text>
+	</string>
+	<string id="ammo-9x18-ap_verybad">
+		<text>Munici&#243;n 9x18 RG028 (da&#241;ada)</text>
+	</string>
+	<string id="ammo-9x19-fmj_bad">
+		<text>Munici&#243;n 9x19 mm FMJ (vieja)</text>
+	</string>
+	<string id="ammo-9x19-fmj_verybad">
+		<text>Munici&#243;n 9x19 mm FMJ (da&#241;ada)</text>
+	</string>
+	<string id="ammo-9x19-pbp_bad">
+		<text>Munici&#243;n 9x19 mm JHP  (vieja)</text>
+	</string>
+	<string id="ammo-9x19-pbp_verybad">
+		<text>Munici&#243;n 9x19 mm JHP (da&#241;ada)</text>
+	</string>
+	<string id="ammo-9x19-ap_bad">
+		<text>Munici&#243;n 9x19 mm AP (vieja)</text>
+	</string>
+	<string id="ammo-9x19-ap_verybad">
+		<text>Munici&#243;n 9x19 mm AP (da&#241;ada)</text>
+	</string>
+	<string id="ammo-9x39-ap_bad">
+		<text>Munici&#243;n 9x39 mm SP-6 (vieja)</text>
+	</string>
+	<string id="ammo-9x39-ap_verybad">
+		<text>Munici&#243;n 9x39 mm SP-6 (da&#241;ada)</text>
+	</string>
+	<string id="ammo-9x39-pab9_bad">
+		<text>Munici&#243;n 9x39 mm SP-5 (vieja)</text>
+	</string>
+	<string id="ammo-9x39-pab9_verybad">
+		<text>Munici&#243;n 9x39 mm SP-5 (da&#241;ada)</text>
+	</string>
+	<string id="ammo-gauss_bad">
+		<text>Baterias (viejas)</text>
+	</string>
+	<string id="ammo-gauss_verybad">
+		<text>Baterias (da&#241;adas)</text>
+	</string>
+	<string id="ammo-m209_bad">
+		<text>Granada M203 (vieja)</text>
+	</string>
+	<string id="ammo-m209_verybad">
+		<text>Granada M203 (da&#241;ada)</text>
+	</string>
+	<string id="ammo-og-7b_bad">
+		<text>Ojiva OG-7V (vieja)</text>
+	</string>
+	<string id="ammo-og-7b_verybad">
+		<text>Ojiva OG-7V (da&#241;ada)</text>
+	</string>
+	<string id="ammo-vog-25_bad">
+		<text>Granada VOG-25 (vieja)</text>
+	</string>
+	<string id="ammo-vog-25_verybad">
+		<text>Granada VOG-25 (da&#241;ada)</text>
+	</string>
+	<string id="ammo-7.62x39_ap_bad">
+		<text>Munici&#243;n M43 62x39 mm (vieja)</text>
+	</string>
+	<string id="ammo-7.62x39_ap_verybad">
+		<text>Munici&#243;n M43 62x39 mm (da&#241;ada)</text>
+	</string>
+	<string id="ammo-7.62x39_fmj_bad">
+		<text>Munici&#243;n 7,62x39 mm FMJ (vieja)</text>
+	</string>
+	<string id="ammo-7.62x39_fmj_verybad">
+		<text>Munici&#243;n 7.62x39 mm FMJ (da&#241;ada)</text>
+	</string>
+	<string id="ammo-7.92x33_fmj_bad">
+		<text>Munici&#243;n Mauser 7.92x57mm (vieja)</text>
+	</string>
+	<string id="ammo-7.92x33_fmj_verybad">
+		<text>Munici&#243;n Mauser 7.92x57mm (da&#241;ada)</text>
+	</string>
+	<string id="ammo-7.92x33_ap_bad">
+		<text>Munici&#243;n 7.92x57 mm SA (vieja)</text>
+	</string>
+	<string id="ammo-7.92x33_ap_verybad">
+		<text>Munici&#243;n 7.92x57 mm SA (da&#241;ada)</text>
+	</string>
+	<string id="ammo-5.7x28-ss190_bad">
+		<text>Munici&#243;n 5.7x28 SS190 (vieja)</text>
+	</string>
+	<string id="ammo-5.7x28-ss190_verybad">
+		<text>Munici&#243;n 5.7x28 SS190 (da&#241;ada)</text>
+	</string>
+	<string id="ammo-5.7x28-ss195_bad">
+		<text>Munici&#243;n 5.7x28 mm SS195 (vieja)</text>
+	</string>
+	<string id="ammo-5.7x28-ss195_verybad">
+		<text>Munici&#243;n 5.7x28 mm SS195 (da&#241;ada)</text>
+	</string>
+	<string id="ammo-7.62x25-p_bad">
+		<text>Munici&#243;n 7.62x25 mm P (vieja)</text>
+	</string>
+	<string id="ammo-7.62x25-p_verybad">
+		<text>Munici&#243;n 7.62x25 mm P (da&#241;ada)</text>
+	</string>
+	<string id="ammo-7.62x25-ps_bad">
+		<text>Munici&#243;n 7.62x25 mm Pst (vieja)</text>
+	</string>
+	<string id="ammo-7.62x25-ps_verybad">
+		<text>Munici&#243;n 7.62x25 mm Pst (da&#241;ada)</text>
+	</string>
+	<string id="ammo-12.7x55-fmj_bad">
+		<text>Munici&#243;n 12.7x55 mm STs-130 (vieja)</text>
+	</string>
+	<string id="ammo-12.7x55-fmj_verybad">
+		<text>Munici&#243;n 12.7x55 mm STs-130 (da&#241;ada)</text>
+	</string>
+	<string id="ammo_12.7x55_ap_bad">
+		<text>Munici&#243;n 12.7x55 mm STs-130 VPS (vieja)</text>
+	</string>
+	<string id="ammo_12.7x55_ap_verybad">
+		<text>Munici&#243;n 12.7x55 mm STs-130 VPS (da&#241;ada)</text>
+	</string>
+	<!-- Bad Ammo Addon-->
+	
+	<string id="ammo-12x70-buck_self">
+		<text>Cartuchos caseros 12x70</text>
+	</string>
+	<string id="ammo-12x70-buck_self_descr">
+		<text>Un proyectil casero de calibre 12 lleno de peque&#241;os trozos de chatarra de metal, incluyendo balas usadas o da&#241;adas o incluso metralla. Altamente letal a corta distancia. S&#243;lo apto para su uso con armas de ca&#241;&#243;n ancho.\n%c[d_purple] • %c[ui_gray_2] Da&#241;o m&#225;ximo de perforaci&#243;n de armaduras: %c[ui_gray_1]ninguno\n%c[d_purple] • %c[ui_gray_2] &#205;ndice de da&#241;o a tejidos: %c[ui_gray_1]medio - alto\n \n%c[ui_gray_1]ESPECIAL:\n%c[d_purple] • %c[ui_gray_2] nube de perdigones expansiva, efectivo a corto alcance.</text>
+	</string>
+	<string id="ammo_flw">
+		<text>Combustible de lanzallamas</text>
+	</string>
+	<string id="ammo_flw_descr">
+		<text>Grasa animal hervida, diesel y trozos de caucho derretido. Se convierte en una sustancia pegajosa, parecida al napalm cuando se le enciende.</text>
+	</string>
+</string_table>

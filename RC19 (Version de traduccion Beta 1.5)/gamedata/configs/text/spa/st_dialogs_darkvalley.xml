@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Olivius (Bandit Trader) -->
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_1">
+		<text>&#161;Oye, hombre! &#191;Buscando equipo? &#191;O tal vez algo de trabajo? Soy el tipo que debes ver cuando necesitas gastar algo dinero.</text>
+	</string>
+	<string id="val_smart_terrain_7_4_bandit_trader_stalker_start_dialog_2">
+		<text>Hey, hombre. &#191;Qu&#233; es lo que necesitas? &#191;Buscas trabajo?</text>
+	</string>
+	
+	<string id="information_about_stash_7_4_bandit_trader_0">
+		<text>Busco informaci&#243;n sobre escondites. &#191;La tienes?</text>
+	</string>
+	<string id="information_about_stash_7_4_bandit_trader_1">
+		<text>Maldici&#243;n, &#191;c&#243;mo lo supiste? Consegu&#237; la informaci&#243;n antes de que los dem&#225;s se enteraran. Lo que sea, siete mil y es toda tuya.</text>
+	</string>
+
+	<string id="information_about_stash_7_4_bandit_trader1_0">
+		<text>Ok, la tomar&#233;. %c[d_orange][7000 RU]</text>
+	</string>
+	<string id="information_about_stash_7_4_bandit_trader1_1">
+		<text>Haz lo que quieras.</text>
+	</string>
+
+	<string id="bandit_trader_st_0">
+		<text>&#191;Por qu&#233; tu apodo es tan horrible?</text>
+	</string>
+	<string id="bandit_trader_st_1">
+		<text>&#161;Mira qui&#233;n habla! Malditos novatos, siempre tratando de hacerse los duros... Si no les dices que hacer, no pueden siquiera agarrarse bien los penes cuando orinan. Si lo haces, se comportan como imb&#233;ciles; lo digo as&#237; para que entiendas de qu&#233; hablo.</text>
+	</string>
+	<string id="bandit_trader_st_2">
+		<text>Hey, tranquilo - no quise decir nada con eso. S&#243;lo que no sab&#237;a qu&#233; decir.</text>
+	</string>
+	<string id="bandit_trader_st_3">
+		<text>Est&#225; bien, lo que sea... Disculpa aceptada. Las cosas no son f&#225;ciles cuando te haces viejo y tus nervios est&#225;n jodidos.</text>
+	</string>
+	<string id="bandit_trader_st_4">
+		<text>Entendido. &#191;C&#243;mo obtuviste tu opodo?</text>
+	</string>
+	<string id="bandit_trader_st_5">
+		<text>Te lo dir&#233;, aunque s&#243;lo sea para poner fin a tu habladera. Mi historia comenz&#243; en la Uni&#243;n Sovi&#233;tica, antes de que terminara en la carcel. Quer&#237;a una buena vida... Comerci&#233; un poco, ya sabes, y luego me atraparon por eso. As&#237; que despu&#233;s de cumplir mi condena, empec&#233; a hacer nuevas conexiones y a vender cosas robadas. Hice eso durante tres a&#241;os antes de que, una vez m&#225;s, terminara en la c&#225;rcel. Sal&#237;, pero la URSS se hab&#237;a ido... &#191;Sabes qu&#233; fue lo m&#225;s frustrante?</text>
+	</string>
+	<string id="bandit_trader_st_6">
+		<text>No. Nunca conoc&#237; la Uni&#243;n Sovi&#233;tica; era muy ni&#241;o.</text>
+	</string>
+	<string id="bandit_trader_st_7">
+		<text>La primera vez que termin&#233; en prisi&#243;n, fue por "negocios"... o usando la jerga sovi&#233;tica: "ganancias". Hoy d&#237;a, cualquiera que tenga &#233;xito puede terminar tras las rejas. All&#237; es donde sientes que tu trasero se quema.</text>
+	</string>
+	<string id="bandit_trader_st_8">
+		<text>[Continuar...]</text>
+	</string>
+	<string id="bandit_trader_st_9">
+		<text>Cuando sal&#237; de mi segunda vez, todo se cay&#243;. No hab&#237;a ning&#250;n ingreso, y hab&#237;a un mont&#243;n de gente que hac&#237;a lo mismo que yo. Cuando la Zona lleg&#243;, pens&#233; en ir a verla en persona.</text>
+	</string>
+	<string id="bandit_trader_st_10">
+		<text>[Continuar...]</text>
+	</string>
+	<string id="bandit_trader_st_11">
+		<text>Por cierto, me llaman Olivius porque, como el &#225;rbol del que recib&#237; mi apodo, puedes mantenerme sobre el fuego... o dejarme afuera para que me seque una y otra vez... Sobrevivir&#233; a ello. Eh, seguro que sobrevivir&#233; mejor que t&#250;. Puede que ya est&#233; canoso, pero he estado aqu&#237; mucho antes de que llegara Sult&#225;n... las probabilidades apuntan a que estar&#233; aqu&#237; mucho despu&#233;s de que se vaya.</text>
+	</string>
+	<string id="bandit_trader_st_12">
+		<text>Gracias por la aleccionadora historia. Disculpame de nuevo, por lo de antes.</text>
+	</string>
+
+	
+<!-- (Bandits Mechanic) -->
+	<string id="val_smart_terrain_7_3_bandit_mechanic_stalker_start_dialog_1">
+		<text>&#191;Qu&#233; necesitas hoy, hombre? Arreglar&#233; tu mierda de una vez. Tambi&#233;n puedo desencriptar cualquier PDA bloqueada que tengas, as&#237; que aseg&#250;rate de tra&#233;rmela.</text>
+	</string>
+	
+	<string id="bandit_mechanic_st_0">
+		<text>Comparteme tu historia, hermano.</text>
+	</string>
+	<string id="bandit_mechanic_st_1">
+		<text>&#191;Intentas que me procesen o algo as&#237;? Lo que sea, ponte c&#243;modo.</text>
+	</string>
+	<string id="bandit_mechanic_st_2">
+		<text>[Continuar...]</text>
+	</string>
+	<string id="bandit_mechanic_st_3">
+		<text>Hubo mas de una vez en los que mi cara estuvo en diplomas honorificos... Trabaj&#233; como ingeniero mec&#225;nico en una planta y fui reconocido en mi empresa como el mejor especialista en la profesi&#243;n. Me otorgaron premios y certificados.</text>
+	</string>
+	<string id="bandit_mechanic_st_4">
+		<text>&#191;Y c&#243;mo lo perdiste todo? &#191;Supongo que quer&#237;as empezar a perseguir algun trasero?</text>
+	</string>
+	<string id="bandit_mechanic_st_5">
+		<text>Je, echo de menos las clases privadas de yoga con las chicas, si sabes a lo que me refiero! Pero no, eso no es lo que me hizo entrar.</text>
+	</string>
+	<string id="bandit_mechanic_st_6">
+		<text>&#191;Qu&#233;? &#191;Empezaron a llamarte L&#237;mpido porque de repente te pusiste blando?</text>
+	</string>
+	<string id="bandit_mechanic_st_7">
+		<text>Eres un maldito payaso, &#191;cierto? Jaja, de todas formas, despu&#233;s de un largo turno lo que realmente quer&#237;a era ir al bar con los chicos. Tom&#233; unos cuantos tragos y falt&#233; unos dias... El jefe nos atrap&#243;, y me despidieron como un est&#250;pido perdedor.</text>
+	</string>
+	<string id="bandit_mechanic_st_8">
+		<text>La vida es una mierda.</text>
+	</string>
+	<string id="bandit_mechanic_st_9">
+		<text>Una perra que dudo que hayas vivido a&#250;n. Consegu&#237; un trabajo como cerrajero y encontr&#233; un nuevo amigo llamado Vitka. El nuevo trabajo apenas pagaba, pero por suerte gan&#233; lo suficiente para salir a emborracharme de vez en cuando. En una &#233;poca nos emborrach&#225;bamos y foll&#225;bamos por ah&#237;... Ni siquiera recuerdo por qu&#233;. Como sea, un dia lo apu&#241;al&#233; con un destornillador, lo bueno es que no muri&#243;. Pas&#233; unos a&#241;os en m&#225;xima seguridad, y la zorra de mi mujer vendi&#243; todo y sali&#243; corriendo. Cuando me liberaron, gast&#233; todo lo que tenia en ron y termin&#233; en los barrios bajos... Llegu&#233; aqu&#237; cuando la Zona lleg&#243;. Aqu&#237; todos somos iguales: todos somos vagabundos. Me reun&#237; con los chicos del Vertedero, me encontraron &#250;til como t&#233;cnico y me dejaron quedarme all&#237;. El mejor momento de mi vida... Toneladas de armas y vodka.</text>
+	</string>
+	<string id="bandit_mechanic_st_10">
+		<text>Esto no es el Vertedero.</text>
+	</string>
+	<string id="bandit_mechanic_st_11">
+		<text>&#161;Una observaci&#243;n asombrosa! &#161;Y todo este tiempo pens&#233; que eras ciego! A&#250;n no he llegado a esa parte, idiota. La emisi&#243;n del Gran Culo ocurri&#243;, y nos escondimos como ni&#241;itas.\n \nCuando esa pesadilla termin&#243;, tuvimos una reuni&#243;n sobre a d&#243;nde co&#241;o ir: las anomal&#237;as que cortaron Rostok en aquel entonces se hab&#237;an esfumado de repente, as&#237; que recib&#237;amos mucha presi&#243;n de Deber por el norte, mientras alg&#250;n cura coqueto intentaba sacarnos del sur. Para empeorar las cosas, nuestro jefe en ese momento, Yoga, acababa de morir, y el &#250;nico que quedaba con agallas para mantenernos juntos era nuestro maldito camarero.\n \nNos separ&#243; en peque&#241;os grupos, nos hizo tomar varios caminos para encontrarnos en este lugar - el Valle Oscuro. Luego, claro, muri&#243; a manos de un pistolero amn&#233;sico unos meses m&#225;s tarde, dej&#225;ndonos a nuestro cargo durante unos a&#241;os... Olivius nos mantuvo activos durante ese tiempo, pero no fue hasta Sult&#225;n que nos reunimos de nuevo.</text>
+	</string>
+	<string id="bandit_mechanic_st_12">
+		<text>Es una gran historia.</text>
+	</string>
+
+
+<!-- Sultan -->
+	<string id="zat_b7_bandit_boss_sultan_intro_0">
+		<text>Bienvenido a mi ciudadela. Todo lo que pasa en el valle circundante est&#225; bajo mi control o lo estar&#225; pronto. Cuando te canses de la vida de mierda, ven a trabajar para m&#237;. Entonces, tendr&#225;s una buena vida. As&#237; es como nos movemos, amigo.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_0">
+		<text>H&#225;blame sobre tu vida aqu&#237;.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1">
+		<text>Siendo el l&#237;der, no es un paseo por el parque, eso si... &#191;Qu&#233; es exactamente lo que quieres saber?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1111">
+		<text>&#191;Qu&#233; haces aqu&#237;?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11111">
+		<text>Vigilamos a los stalkers. Tienes que admitir que una buena mitad de ustedes son m&#225;s como ni&#241;os peque&#241;os que como hombres. Vienen a la Zona con sue&#241;os est&#250;pidos, o a jugar a los h&#233;roes, o s&#243;lo porque la vida los trata mal. No se dan cuenta de todo lo que les espera aqu&#237;; la parca, sobretodo. Ese es el tipo de persona que buscamos. Encontramos uno en el Vertedero, tomamos sus cosas y lo enviamos de vuelta al Cord&#243;n. Algunos se dan cuenta y se largan de la zona. Los que tienen m&#225;s piedras que cerebro vuelven aqu&#237;. &#191;Y qu&#233; hacemos? Los ponemos bajo nuestra protecci&#243;n y los llenamos de impuestos. Nadie se atreve a entrar en nuestro territorio; ni el ej&#233;rcito, ni los mercenarios, ni siquiera los mutantes.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1112">
+		<text>&#191;Qu&#233; te trajo a la Zona?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11121">
+		<text>&#161;Las piernas, Jaja! Vinimos aqu&#237; por los stalkers, &#191;qu&#233; m&#225;s? Sin nosotros alrededor para mantener el orden, todo se vuelve un caos. Saqueas, mantienes todo seguro, pero &#191;qui&#233;n va a pagar tus impuestos? Ya sabes, el impuesto de paz y seguridad. Cuando alguno de ustedes est&#225; orde&#241;ando una anomal&#237;a, nosotros estamos al acecho manteniendo a los mutantes a raya. Si todo sale bien, nos llevamos una tajada... "para mantener el orden", &#191;entiendes?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1113">
+		<text>&#191;C&#243;mo te convertiste en el "gran jefe malo" de por aqu&#237;?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11131">
+		<text>&#191;Por d&#243;nde empiezo... Supongo que todo se remonta al instituto. Tuve un buen amigo; un mejor amigo, si se le puede decir as&#237;. Siempre andabamos juntos, fumando, bebiendo y todo eso, s&#243;lo que &#233;l quer&#237;a m&#225;s y m&#225;s emoci&#243;n. Se meti&#243; en las drogas: al principio un poco de hierba, luego hero&#237;na, y luego coca, cuando empez&#243; a conseguir algo de dinero, le dije: "Tienes que dejar esta mierda, Tolyan, antes de que sea tarde", pero no me escuch&#243;. Un d&#237;a se anot&#243; en un problema enorme, y hast&#225; all&#237; lleg&#243;, lo mataron. Encontr&#233; a los que le pasaban la droga y me vengu&#233; por mi amigo... Me tomaron una foto y se desat&#243; el infierno; la c&#225;rcel, las peleas de pandillas, una pu&#241;alada en el est&#243;mago... Sal&#237;, empec&#233; un negocio, me arrestaron de nuevo... Cuando volv&#237; a salir, dej&#233; toda esa mierda atr&#225;s y puse los ojos en la Zona. Pas&#233; un par de meses aguantando, y luego me ascendieron. As&#237; que ahora estoy a cargo aqu&#237;, manteniendo "la normas" de este lugar.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1114">
+		<text>&#191;Qu&#233; piensas de los stalkers?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11141">
+		<text>Todos son diferentes. Algunos son punks que no duran aqu&#237; una semana, otros son asalariados... y otros son tipos buenos a los que la vida les ha dado una patada dentro y fuera del Cord&#243;n. Desplumamos a los de la primera clase y fastidiamos a los de la segunda. En cuanto a la &#250;ltima clase... bueno, intentamos no entrometernos en el camino de ellos ni ellos en el de nosotros. L&#225;stima que no siempre puedas distinguirlos de inmediato...</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1115">
+		<text>&#191;Qu&#233; piensas de Olivius?</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11151">
+		<text>Lo suficiente para ser mi t&#237;o... o tal vez mi abuelo. Es dif&#237;cil de decir a veces. Un tipo s&#243;lido. Me debe la vida por haber salvado a Valle Oscuro, y no dejo que lo olvide... A veces se pone un poco grande para sus botas, pero ahora es pr&#225;cticamente de la familia. Este valle no ser&#237;a lo mismo sin sus conexiones.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_1116">
+		<text>Oh, no importa. Olv&#237;dalo.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_about_11161">
+		<text>Tu sabras.</text>
+	</string>
+	
+	<string id="sultan_st_0">
+		<text>T&#250; debes ser Sultan.</text>
+	</string>
+	<string id="sultan_st_1">
+		<text>S&#237;, hijo, as&#237; es, y me he ganado mi nombre. Llegu&#233; aqu&#237; desde Zaton justo a tiempo. Elimin&#233; a los mutantes que pululaban por aqu&#237;, salv&#233; a los defensores, los reclut&#233; en mi pandilla... y volv&#237; a poner en marcha todo el edificio. Muchos por aqu&#237; todav&#237;a me deben sus vidas, y no lo olvidan.\n \nClaro que no todo es sol y arco iris. &#191;No est&#225;s seguro de si escuchaste por qu&#233; vine desde Zaton para empezar?</text>
+	</string>
+	<string id="sultan_st_2">
+		<text>S&#237;, lo he o&#237;do. Te dej&#243; plantado un idiota que pretend&#237;a ser tu amigo. Como sea que se llame ese imb&#233;cil, le voy a dar una nueva oportunidad.</text>
+	</string>
+	<string id="sultan_st_3">
+		<text>Se llamaba Alexander, pero no te preocupes por &#233;l. Eres un hombre valiente, hijo, pero incluso su culo es un laberinto de metal con p&#250;as; puedes tener la polla m&#225;s grande del mundo, y a&#250;n as&#237; no podr&#225;s entrarle.\n \nTendr&#225; lo que se merece, no te preocupes. S&#243;lo conf&#237;a en que tu sult&#225;n se encargue de esto.</text>
+	</string>
+	<string id="sultan_st_4">
+		<text>Bien, Sult&#225;n. T&#250; te encargas de esto. &#191;Alg&#250;n consejo para tratar con la gente de aqu&#237;?</text>
+	</string>
+	<string id="sultan_st_5">
+		<text>Simple. Nunca conf&#237;es en nadie a menos que veas el cr&#225;neo blanco y negro en sus mangas. La mayor&#237;a de los stalkers te persiguen siempre que pueden, as&#237; que no salgas a darles oportunidades por un coraz&#243;n blando. Ahora, algunos mercenarios son buenos, al igual que Libertad, pero no confundas esa aceptaci&#243;n con amor; a&#250;n as&#237; te enga&#241;ar&#225;n si creen que pueden salirse con la suya. Aunque pareces inteligente, as&#237; que pronto descubrir&#225;s las cosas por ti mismo. S&#243;lo recuerda; si sientes que algo no va bien, no esperes a las palabras o a las balas, s&#243;lo saca tu culo de ah&#237;. M&#225;s bien regresa vivo, para que los soplones que trataron de atraparte no se aprovechen del resto de tu familia.</text>
+	</string>
+	<string id="sultan_st_6">
+		<text>Gracias Sult&#225;n. &#191;Qu&#233; pasa con el refugio? &#191;Hay otros refugios como este alrededor de la Zona?</text>
+	</string>
+	<string id="sultan_st_7">
+		<text>Ning&#250;n lugar es realmente seguro en la Zona, hijo, pero no dejes que este consejo se desperdicie. Al norte de nosotros est&#225; el Cementerio de Camiones. Pug puede llevarte sin problemas si tienes el dinero en efectivo; por lo general est&#225; abajo de las escaleras cerca de Olivius. De lo contrario, tendr&#225;s que pasar la radiaci&#243;n, los mutantes y las patrullas militares... aunque si lo haces, encontrar&#225;s algunos hermanos operando el puesto de control de los almacenes del ej&#233;rcito. Ellos pueden mantenerte a salvo, y al norte de Libertad te cuidar&#225;n tambi&#233;n. S&#243;lo ten cuidado de no maltratar a nadie que le guste a Lukash estando a la vista, de lo contrario tus d&#237;as entre los lobos verdes estar&#225;n contados.\n \nAhora, al oeste de nosotros est&#225; el Vertedero. Hay un cazador retirado en el viejo hangar de trenes, y algunos mercaderes de pulgas al noreste de &#233;l que tienden a ser fr&#237;os, pero sus clientes pueden ser demasiado nerviosos para tu gusto. Mant&#233;n los ojos bien abiertos para ver si hay grandes grupos de Stalkers, especialmente Debers, a los que les gusta vagar por ese lugar.\n \nAhora, en cuanto al sur, hay un enorme bosque llamado Paisaje Oscuro, un lugar muy salvaje, donde hay soldados patrullando de vez en cuando y solitarios meando por ah&#237;. Un laberinto bastante grande. Sol&#237;amos usarlo para reunirnos con nuestros chicos en la estaci&#243;n de veh&#237;culos en el Cordon, pero hoy en d&#237;a usamos el Prado para eso, al suroeste.</text>
+	</string>
+	<string id="sultan_st_8">
+		<text>Parece que la familia aqu&#237; est&#225; bien establecida, entonces.</text>
+	</string>
+	<string id="sultan_st_9">
+		<text>&#191;Y qu&#233; esperabas, hijo? Puede que la vida no sea siempre un paseo por el parque, pero tenemos conexiones. Hablando de eso; si buscas desaparecer algunos stalkers, ve a ver a Loris, al noroeste del puente en el Cordon. A veces hay competencia por ah&#237;, pero en d&#237;as tranquilos deber&#237;as poder acercarte a &#233;l, y por el precio adecuado te conseguir&#225; un disfraz. Es mucho m&#225;s f&#225;cil sacar el tesoro de las torres cuando no te ven venir.</text>
+	</string>
+	<string id="sultan_st_10">
+		<text>Gracias por la ayuda, jefe. Le dar&#233; un buen uso a esta informaci&#243;n.</text>
+	</string>
+
+	
+<!-- (Bandit guide) -->
+	<string id="meet_guid_dv_bandit_0">
+		<text>&#191;Qui&#233;n eres?</text>
+	</string>
+	<string id="meet_guid_dv_bandit_1">
+		<text>Ah, genial, otro turista. Supongo que no puedes ser tan malo si te dejan entrar.\n \nMi nombre es Pug. Soy el gu&#237;a local. Puedo llevarte a nuestro puesto de avanzada en el cementerio de camiones por unos 1500 rublos, o a nuestro almac&#233;n en J&#250;piter por 8000 rublos. Elige el que quieras.</text>
+	</string>
+
+	<string id="travel_guid_dv_bandit_0">
+		<text>Vamonos.</text>
+	</string>
+	<string id="travel_guid_dv_bandit_1">
+		<text>&#191;Ad&#243;nde vamos?</text>
+	</string>
+	<string id="travel_guid_dv_bandit_2">
+		<text>Al Cementerio de Camiones. %c[d_orange][1500 RU]</text>
+	</string>
+	<string id="travel_guid_dv_bandit_3">
+		<text>Al almac&#233;n de Contenedores en J&#250;piter. %c[d_orange][8000 RU]</text>
+	</string>
+	<string id="travel_guid_dv_bandit_4">
+		<text>He cambiado de opinion.</text>
+	</string>
+
+</string_table>

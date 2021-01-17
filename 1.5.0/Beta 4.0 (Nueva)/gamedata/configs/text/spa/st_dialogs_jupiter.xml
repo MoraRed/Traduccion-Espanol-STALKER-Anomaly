@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- (Monolith Mechanic - Jupiter factory) -->
+	<string id="mechanic_monolith_jup_depo_start_0">
+		<text>Saludos, compa&#241;ero. Mi deber es proporcionar apoyo t&#233;cnico a nuestros hermanos de la zona.</text>
+	</string>
+
+	
+<!-- (Monolith Trader - Jupiter factory) -->
+	<string id="meet_guid_jupdepo_mon_0">
+		<text>&#191;A que lugares puedo viajar, hermano?</text>
+	</string>
+	<string id="meet_guid_jupdepo_mon_1">
+		<text>Hay varios - tenemos rutas que conducen al Bosque Rojo, las afueras y Pripyat. No puedo llevarte a ninguno de estos lugares yo mismo, pero puedes ir con tus hermanos - por una cuota. Sin embargo, no creo que sea un problema para ti.</text>
+	</string>
+	
+	<string id="meet_guid_jupdepo_mon_list_0">
+		<text>&#191;A donde me pueden llevar los guias?</text>
+	</string>
+	<string id="meet_guid_jupdepo_mon_list_1">
+		<text>Al Bosque Rojo por seis mil rublos, a las afueras por dos mil y a Pripyat por mil.</text>
+	</string>
+
+	<string id="travel_guid_jupdepo_mon_mon_0">
+		<text>Me gustar&#237;a viajar a un lugar, hermano.</text>
+	</string>
+	<string id="travel_guid_jupdepo_mon_mon_1">
+		<text>Por supuesto. &#191;A d&#243;nde te gustar&#237;a ir?</text>
+	</string>
+	<string id="travel_guid_jupdepo_mon_mon_2">
+		<text>Al bosque rojo. %c[d_orange][6000 RU]</text>
+	</string>
+	<string id="travel_guid_jupdepo_mon_mon_3">
+		<text>A las afueras. %c[d_orange][2000 RU]</text>
+	</string>
+	<string id="travel_guid_jupdepo_mon_mon_4">
+		<text>A Pripyat. %c[d_orange][1000 RU]</text>
+	</string>
+	<string id="travel_guid_jupdepo_mon_mon_5">
+		<text>He cambiado de opinion.</text>
+	</string>
+
+	
+<!-- Garry (Guide) -->
+	<string id="meet_guid_jup_0">
+		<text>&#191;Qui&#233;n eres?</text>
+	</string>
+	<string id="meet_guid_jup_1">
+		<text>Encantado de conocerte, hermano. Me llamo Garry, y soy un gu&#237;a, normalmente ando por el centro de la Zona. Puedo llevarte al Bar, Pripyat, el Bosque Rojo, Zaton y el metro de J&#250;piter.</text>
+	</string>
+
+	<string id="meet_guid_jup_list_0">
+		<text>Lo olvid&#233;. &#191;A d&#243;nde es que me puedes llevar?</text>
+	</string>
+	<string id="meet_guid_jup_list_1">
+		<text>Puedo ofrecer viajes al Bar por seis mil rublos, a Pripyat por tres mil, al Bosque Rojo por dos mil quinientos, a Skadovsk en Zaton por dos mil y al Metro de J&#250;piter por mil quinientos.</text>
+	</string>
+
+	<string id="travel_guid_jup_0">
+		<text>Ll&#233;vame a un sitio.</text>
+	</string>
+	<string id="travel_guid_jup_1">
+		<text>Claro, &#191;a d&#243;nde?</text>
+	</string>
+	<string id="travel_guid_jup_2">
+		<text>A la entrada del bar. %c[d_orange][6000 RU]</text>
+	</string>
+	<string id="travel_guid_jup_3">
+		<text>A Pripyat. %c[d_orange][3000 RU]</text>
+	</string>
+	<string id="travel_guid_jup_4">
+		<text>Al Bosque Rojo. %c[d_orange][2500 RU]</text>
+	</string>
+	<string id="travel_guid_jup_5">
+		<text>Al subterraneo de Jupiter. %c[d_orange][1500 RU]</text>
+	</string>
+	<string id="travel_guid_jup_6">
+		<text>Hacia Zaton. %c[d_orange][2000 RU]</text>
+	</string>
+	<string id="travel_guid_jup_7">
+		<text>He cambiado de opinion.</text>
+	</string>
+
+<!-- Loki (Freedom Leader) in Yanov -->
+	<string id="loki_st_0">
+		<text>&#191;Est&#225;s a cargo aqu&#237;?</text>
+	</string>
+	<string id="loki_st_1">
+		<text>Eso soy yo. Me llamo Loki, mano derecha de Lukash en esta estaci&#243;n.</text>
+	</string>
+	<string id="loki_st_2">
+		<text>&#191;Loki? Un nombre interesante, como la deidad escandinava.</text>
+	</string>
+	<string id="loki_st_3">
+		<text>Lo es. As&#237; es como me llamaban en los primeros d&#237;as, justo cuando apareci&#243; el Cauterizador. Eran tiempos locos.</text>
+	</string>
+	<string id="loki_st_4">
+		<text>&#191;Podr&#237;as contarme m&#225;s sobre lo que pas&#243; despu&#233;s del Cauterizador?</text>
+	</string>
+	<string id="loki_st_5">
+		<text>Claro. Cuando el Cauterizador se cerr&#243; por primera vez en 2012, mi equipo lanz&#243; una campa&#241;a hacia el norte. Seguimos durante alg&#250;n tiempo, pasando por diferentes lugares... Mientras la planta de energ&#237;a de Chernobyl se asomaba en el horizonte, decidimos buscar un lugar para acampar y encontramos esta estaci&#243;n mientras estaba vac&#237;a. Deber lleg&#243; poco despu&#233;s. Est&#225;bamos jugando al boxeo cuando de repente se produjo una emisi&#243;n. Debes entender que zombificarse es una forma muy mala de irse, no importa qui&#233;n seas. As&#237; que, con preocupaci&#243;n... dej&#233; entrar a Deber antes de que la tormenta se pusiera en marcha. Hicimos una tregua en todo el edificio, acordando mantener todas las armas y cuchillos en el interior de la estaci&#243;n. Seguir&#237;amos peleando fuera de ella, por supuesto.</text>
+	</string>
+	<string id="loki_st_6">
+		<text>&#191;Y qu&#233; pas&#243; con los Debers asignados a este lugar? &#191;D&#243;nde est&#225;n ahora?</text>
+	</string>
+	<string id="loki_st_7">
+		<text>Esa no una pregunta f&#225;cil. No hace mucho, un stalker llamado Alexander apareci&#243; y ayud&#243; mucho a la gente de aqu&#237; - el hombre hizo muchas cosas buenas. Gracias a &#233;l, todos manten&#237;an un cuidadoso equilibrio en esta estaci&#243;n. Las tensiones de las facciones en el edificio estaban empezando a calmarse. Eso fue hasta que el Monolito volvi&#243; a levantar sus feas cabezas del suelo y empez&#243; a mirar en nuestra direcci&#243;n.</text>
+	</string>
+	<string id="loki_st_8">
+		<text>&#191;Qu&#233; pas&#243; despu&#233;s?</text>
+	</string>
+	<string id="loki_st_9">
+		<text>Bueno, el Coronel Shulga - el l&#237;der de los Debers que estaban aqu&#237; - decidi&#243; que no iba a tolerar que los cultistas corrieran libremente por la Zona otra vez. Tom&#243; tantos hombres como pudo, dijo "No te preocupes, volveremos a por unos tragos" y march&#243; directamente a Pripyat. El Cauterizador Cerebral se reactiv&#243; no mucho tiempo despu&#233;s y... nunca los vimos desde ese momento.</text>
+	</string>
+	<string id="loki_st_10">
+		<text>&#191;Vali&#243; la pena su sacrificio?</text>
+	</string>
+	<string id="loki_st_11">
+		<text>...No. Pensar en los riesgos que corr&#237; cuando dej&#233; entrar a sus hombres aqu&#237; hace tantos a&#241;os... hoy en d&#237;a probablemente est&#233;n emborrachandose junto con los muertos vivientes y los decerebrados del monolito...</text>
+	</string>
+	<string id="loki_st_12">
+		<text>...Maldici&#243;n.</text>
+	</string>
+
+	<string id="devushka_loki_help_0">
+		<text>&#161;Oye, Loki! &#161;Entrega de Lukash!</text>
+	</string>
+	<string id="devushka_loki_help_1">
+		<text>S&#237;, esto ayudar&#225;. Un buen giro merece otro igual, como dice el viejo dicho. Toma, coge este traje. De todos modos su antiguo due&#241;o ya no lo necesitar&#225;.</text>
+	</string>
+	
+	
+
+	<string id="jup_a6_freedom_trader_ashot_start_dialog_0">
+		<text>&#191;Qu&#233; quieres que te venda hoy?</text>
+	</string>
+	<string id="jup_b19_freedom_yar_start_dialog_0">
+		<text>Hola stalker. &#191;Que necesitas?</text>
+	</string>
+
+	<!-- Trapper (Loner) in Yanov -->
+	<string id="jup_b220_trapper_start_11">
+		<text>Soy Trapper... No es necesario presentarnos.</text>
+	</string>
+	<string id="jup_b220_trapper_start_12">
+		<text>&#191;Qu&#233; te trae por aqu&#237;?</text>
+	</string>
+	
+		<string id="jup_trapper_about_himself_0">
+		<text>&#191;A qu&#233; te dedicas?</text>
+	</string>
+	<string id="jup_trapper_about_himself_1">
+		<text>Soy Trapper y sol&#237;a cazar mutantes que eran un peligro para los stalkers... Hoy en d&#237;a, recibo &#243;rdenes y se las doy a los cazadores m&#225;s j&#243;venes. Los entreno y les ense&#241;o t&#225;cticas de caza...</text>
+	</string>
+	
+	<string id="jup_trapper_about_retire_0">
+		<text>&#191;Por qu&#233; no cazas m&#225;s?</text>
+	</string>
+	<string id="jup_trapper_about_retire_1">
+		<text>Me estoy haciendo viejo, hombre. Por eso muri&#243; Zorro... Era mi compa&#241;ero y amigo. Cazamos muchas bestias juntos, hombro con hombro... Luego nos encontramos con estas dos quimeras de Zaton que no se han visto en la Zona durante dieciocho meses... Una tir&#243; a Zorro al suelo antes de que pudiera sacar mi escopeta. Cuando her&#237; al otro, salieron corriendo... &#161;Espero que ardan en el infierno para siempre!</text>
+	</string>
+	
+	<string id="st_jup_b220_trapper_life_ask">
+		<text>H&#225;blame de la caza de mutantes...</text>
+	</string>
+	<string id="st_jup_b220_trapper_life_1">
+		<text>Las quimeras son depredadores nocturnos muy peligrosos. Tratan de ponerse detr&#225;s al amparo de la oscuridad y saltan sobre ti. Si sabes que hay una quimera cerca, revisa siempre tu espalda y cubre el trasero de tus amigos...</text>
+	</string>
+	<string id="st_jup_b220_trapper_life_2">
+		<text>Los Quemadores usan ataques gravitacionales... Cuando est&#233;n cerca te golpear&#225;n y cuando est&#233;n lejos intentar&#225;n lanzarte algo... Tu mejor opci&#243;n es mantenerlos a medio alcance de ti y seguir movi&#233;ndote, a menos que te guste ser golpeado por algo pesado... &#161;Pero ten cuidado de conservar tu energ&#237;a! Los Quemadores pueden usar impulsos gravitacionales focalizados para arrancarte las armas de las manos y si est&#225;s cansado puede que funcione.</text>
+	</string>
+	<string id="st_jup_b220_trapper_life_3">
+		<text>Hay dos tipos de poltergeists. El primer tipo env&#237;a objetos que se estrellan contra el enemigo usando poderes gravitatorios, mientras que el segundo tipo es el poltergeist de fuego que usa llamas para quemar a sus v&#237;ctimas. Los cazadores inexpertos tratan de rodearlos para evadir sus ataques... El truco es saber que los poltergeists no pueden ver ni o&#237;r; usa eso a tu favor. Perciben los objetos que se mueven en el campo gravitatorio... As&#237; que un cazador experimentado se queda quieto tan pronto como ve un poltergeist, dispara y luego se queda quieto de nuevo, siempre repite esa tactica.</text>
+	</string>
+	<string id="st_jup_b220_trapper_life_4">
+		<text>Lo m&#225;s dif&#237;cil de cazar pseudogigantes es matarlos. Pueden recibir un castigo incre&#237;ble sin siquiera pesta&#241;ear... Todo lo que puedo decir es que tal vez quieras intentar usar una escopeta a corta distancia. S&#243;lo recuerda que los ataques de los seudogigantes pueden separar cualquier cosa que no haya sido fijada al concreto. At&#225;calo desde arriba... y aseg&#250;rate de que lo que sea que est&#233;s parado pueda soportar los da&#241;os.</text>
+	</string>
+	<string id="st_jup_b220_trapper_life_5">
+		<text>Los controladores usan tu propia mente en tu contra. Cuando est&#233;s cazando uno, es importante usar coberturas, porque debe verte para afectar tu mente... Adem&#225;s, son bastante lentos, as&#237; que si tu vida est&#225; en juego, usa granadas.</text>
+	</string>
+	<string id="st_jup_b220_trapper_life_end">
+		<text>Tengo trabajo que hacer, m&#225;s tarde hablamos sobre los mutantes.</text>
+	</string>
+
+
+	<!-- -->
+	<string id="jup_a6_stalker_medik_start_dialog_0">
+		<text>&#191;Qu&#233; te trae por aqu&#237;? &#191;Est&#225;s buscando suministros m&#233;dicos o solo has venido aqu&#237; para conversar?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_0">
+		<text>Necesito asistencia m&#233;dica</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1">
+		<text>Echemos un vistazo...</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_2">
+		<text>Echemos un vistazo... Bueno, tu h&#237;gado es m&#225;s grande de lo que esperaba, pero eso es un riesgo laboral, &#191;verdad? Aparte de eso, est&#225;s tan saludable como un Quemador.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_111">
+		<text>Bueno, por supuesto que necesitas que te arreglen, pero no lo har&#233; gratis. Mi precio es 1850 RU por una recuperaci&#243;n completa, sin importar la gravedad de tus heridas. Sin embargo, quitarte la radiaci&#243;n es un servicio aparte, otros 1480 RU extras.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_11">
+		<text>&#191;Qu&#233; est&#225; diciendo? &#191;Ya estoy muerto?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1111">
+		<text>Bueno, te pagar&#233;. Al final, no tiene sentido llevarse el dinero a la tumba.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1112">
+		<text>&#161;Mierda, eso esta demasiado caro para m&#237;!</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1115">
+		<text>No voy a pagar eso, &#161;gracias! &#161;Prefiero morirme!</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1114">
+		<text>No tengo tanto dinero. Trata s&#243;lo la radiaci&#243;n, por favor.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_1113">
+		<text>Tengo un botiqu&#237;n de primeros auxilios, as&#237; que tr&#225;tame s&#243;lo la radiaci&#243;n.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_11111">
+		<text>Espera un minuto... ahora est&#225;s como nuevo. Garant&#237;a - dos a&#241;os si no dejas la estaci&#243;n.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_11112">
+		<text>No doy pr&#233;stamos, busca en otra parte.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_11113">
+		<text>Entonces... Vete a por una buena muerte, amigo.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_need_health_care_11114">
+		<text>Bueno, ven aqu&#237;. No necesito m&#225;s antirads.</text>
+	</string>
+
+	<!-- -->
+	<string id="jup_a6_freedom_leader_start_dialog_11">
+		<text>Entonces, &#191;qu&#233; tienes que decir?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_start_dialog_12">
+		<text>&#191;Cu&#225;l es tu negocio aqu&#237;?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_0">
+		<text>H&#225;blame de tu puesto en Libertad.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1">
+		<text>Es una larga historia. &#191;Qu&#233; es lo que quieres saber?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1111">
+		<text>&#191;Qu&#233; haces aqu&#237;?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11111">
+		<text>Nos aseguramos de que varios funcionarios no oculten nada a la gente com&#250;n. Ya sabes c&#243;mo es: tan pronto como encuentran un nuevo laboratorio o algunos documentos que arrojan luz sobre los secretos de la Zona, inmediatamente organizan una operaci&#243;n militar y limpian todo mejor que una maldita aspiradora. La &#250;nica manera de descubrir la mierda es llegar primero.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1112">
+		<text>&#191;Qu&#233; te trajo al centro de la Zona?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11121">
+		<text>Bueno, los chicos ten&#237;an ganas de dar un paseo en un nuevo lugar... Es broma. Estar aqu&#237; es una oportunidad para encontrar cosas que el mundo no ha visto antes. Este lugar est&#225; bastante intacto en lo que respecta a la Zona, as&#237; que hay cosas nuevas donde quiera que mires.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_111211">
+		<text>&#191;Encontraste algo?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1112111">
+		<text>La mayor&#237;a de las veces consigo puertas cerradas y algunos artefactos nuevos y extra&#241;os.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1113">
+		<text>&#191;C&#243;mo terminaste en Libertad?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11131">
+		<text>Bueno, yo era amigo de los l&#237;deres de Libertad cuando no exist&#237;a la Zona. En aquellos d&#237;as, no eran l&#237;deres: eran hippies normales. As&#237; que cuando entr&#233; en la Zona en busca de artefactos y me encontr&#233; con caras conocidas, pens&#233; que podr&#237;a estar con los que conoc&#237;a.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1114">
+		<text>&#191;Qu&#233; pas&#243; en los almacenes militares?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11141">
+		<text>Son idiotas, eso es lo que pienso. Si Voronin no tuviera la cabeza metida en el culo, habr&#237;a enviado refuerzos aqu&#237; arriba como hizo Libertad cuando volvi&#243; el Monolito. &#161;Si Shulga no fuera tan idiota, no habr&#237;a desaparecido tratando de salvar esta estaci&#243;n! Si sus gru&#241;idos de hoy tuvieran m&#225;s de dos c&#233;lulas cerebrales para chocarse, pasar&#237;an m&#225;s tiempo tratando de encontrar a sus camaradas perdidos y menos tiempo peleando jodidamente con nosotros. Si alguno de ellos tuviera algo de sentido com&#250;n, disfrutar&#237;an de sus vidas al m&#225;ximo. No los tirar&#237;an a la basura tratando de erradicar la maravilla cient&#237;fica m&#225;s &#250;nica que el mundo haya visto.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_1115">
+		<text>Est&#225; bien. Olv&#237;dalo.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_about_you_11151">
+		<text>Lo que sea que haga flotar tu barco.</text>
+	</string>
+
+    <!-- Hawaiian (Bartender at Yanov Station) -->
+	<string id="jup_a6_stalker_barmen_start_dialog_11">
+		<text>Bienvenidos a mi humilde morada de placer y alegr&#237;a. &#191;Buscas alegr&#237;a, placer, o ambos en igual medida?</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_start_dialog_12">
+		<text>&#191;Vienes a relajarte? Las bebidas no son nada especial, pero este es un lugar acogedor y amigable.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_start_dialog_13">
+		<text>Tengo toda la mierda que vayas a necesitar. &#191;Qu&#233; es lo que buscas? &#191;Te apetece algo de comer, un trago, o te apetece disparar unas cuantas balas?</text>
+	</string>
+	
+	<string id="hawaiian_yanov_0">
+		<text>H&#225;blame de este lugar.</text>
+	</string>
+	<string id="hawaiian_yanov_1">
+		<text>&#161;Bienvenido a la estaci&#243;n Yanov, compa&#241;ero stalker! &#161;Lleno de gente alegre! S&#237;... &#161;lleno de ellos! Amigos y compa&#241;eros con los que puedes hablar, beber y bromear con los viajes por la Zona. &#191;Quieres comprar algo que te ayude? Armas, municiones, drogas, hierba, te tengo cubierto, amigo. &#161;Mejor prevenir que curar!</text>
+	</string>
+
+	<!-- Hermann (Ecologist)-->
+	<string id="jup_b6_scientist_nuclear_physicist_start_11">
+		<text>&#161;Bienvenido, stalker! Esto no es que sea un restaurante, claro, pero no pasamos hambre.</text>
+	</string>
+	
+	<string id="hermann_lab_0">
+		<text>H&#225;blame de este lugar.</text>
+	</string>
+	<string id="hermann_lab_1">
+		<text>Eh, bueno, no hay mucho que decir. Despu&#233;s de muchas negociaciones logr&#233; convencer al Ministerio de Educaci&#243;n de Ucrania para establecer otra instalaci&#243;n en la Zona una vez que el "Cauterizador Cerebral" fuera desactivado. Sin embargo, no nos ofrecieron ninguna protecci&#243;n porque la operaci&#243;n militar que lo acompa&#241;aba fracas&#243; por completo. Con un equipo de &#250;ltima generaci&#243;n pero sin mano de obra, tenemos que depender de stalkers contratados la mayor parte del tiempo. No hace falta decir que nuestra capacidad y condiciones de trabajo dejan mucho que desear. &#191;C&#243;mo se supone que vamos a hacer progresos significativos sin ninguna ayuda del exterior?</text>
+	</string>
+	
+	<string id="jup_b16_biochemist_oasis_start_11">
+		<text>&#191;Qu&#233; te trae por aqu&#237;?</text>
+	</string>
+	
+	<string id="ozersky_oasis_0">
+		<text>&#191;Sabes algo sobre el Oasis?</text>
+	</string>
+	<string id="ozersky_oasis_1">
+		<text>S&#237;, por supuesto. Incluso una vez estudiamos un artefacto de ese lugar, aunque desde entonces se ha solicitado su uso en el mundo exterior. Sin embargo, el stalker que nos lo dio, un tal Alexander Degtyarev, nunca revel&#243; d&#243;nde se encuentra el Oasis. Si lo encontrara, pagar&#237;amos generosamente por otro artefacto Oasis.</text>
+	</string>
+
+	<string id="jup_b6_scientist_medic_start_11">
+		<text>&#191;Qu&#233; te trae por aqu&#237;?</text>
+	</string>
+
+	<!-- Ashot and Yar -->
+	<string id="st_jup_yar_reply_1">
+		<text>Ve y dile a %s que traiga aqu&#237; su gordo culo.</text>
+	</string>
+	<string id="st_jup_yar_reply_2">
+		<text>&#191;No sabe que estoy ocupado? Dile que venga.</text>
+	</string>
+	<string id="st_jup_yar_reply_3">
+		<text>No me pagan por caminar. Dile que venga &#233;l.</text>
+	</string>
+	<string id="st_jup_yar_reply_4">
+		<text>&#191;Qu&#233;? &#191;Quiere una silla de ruedas? Ve a buscarme %s.</text>
+	</string>
+	<string id="st_jup_yar_reply_5">
+		<text>&#191;D&#243;nde est&#225; el %s? No puedo arreglarlo hasta que lo traiga aqu&#237;.</text>
+	</string>
+
+	<string id="st_jup_ashot_reply_1">
+		<text>Si %s lo quiere, dile que venga y que me lo quite.</text>
+	</string>
+	<string id="st_jup_ashot_reply_2">
+		<text>&#191;C&#243;mo dices? Si lo quiere, que venga y lo consiga en persona. &#191;De acuerdo?</text>
+	</string>
+	<string id="st_jup_ashot_reply_3">
+		<text>Dile a ese calvo cabr&#243;n que se arrastre hasta aqu&#237;.</text>
+	</string>
+	<string id="st_jup_ashot_reply_4">
+		<text>No puedo dejar mi tienda sola. El deber venir, &#191;eh?</text>
+	</string>
+	<string id="st_jup_ashot_reply_5">
+		<text>&#191;Parezco chico de recados? Dile a los %s que lo consigan ellos.</text>
+	</string>
+</string_table>

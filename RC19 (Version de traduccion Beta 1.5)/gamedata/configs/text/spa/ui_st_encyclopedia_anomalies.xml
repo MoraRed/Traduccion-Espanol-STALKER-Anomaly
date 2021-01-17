@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	
+	<string id="encyclopedia_anomalies">
+		<text>Anomalias</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_emission">
+		<text>Emisi&#243;n</text>
+	</string>
+	<string id="encyclopedia_anomalies_emission_text">
+		<text>
+			Las %c[pda_white]Emisiones%c[ui_gray_1], tambi&#233;n conocidas como %c[pda_green]Explosiones%c[ui_gray_1], son liberaciones repentinas de cantidades masivas de radiaci&#243;n.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nFuertes vientos, nubes de tormenta y un cielo rojo escarlata aparecen con el inicio de una emisi&#243;n, seguida de numerosos truenos y un profundo estruendo bajo los pies.\n \n \nEstos eventos comienzan con un fuerte aumento de la actividad radioactiva, an&#243;mala y ps&#237;quica - y terminan con la destrucci&#243;n de la mayor&#237;a de la vida a su paso, ya que las ondas de radiaci&#243;n cubren la Zona.\n \n \nA pesar de ser extremadamente mortales, todav&#237;a es bastante f&#225;cil sobrevivir a una emisi&#243;n poni&#233;ndose a cubierto dentro de edificios o t&#250;neles subterr&#225;neos hasta que el evento haya pasado.\n \n \nMuy similar a una tormenta ps&#237;quica, la enorme cantidad de energ&#237;a liberada por una emisi&#243;n parece "recargar" muchas anomal&#237;as, permitiendo a los stalkers cultivar nuevos artefactos a partir de ellas.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_phantom">
+		<text>Fantasma</text>
+	</string>
+	<string id="encyclopedia_anomalies_phantom_text">
+		<text>
+			Los %c[pda_white]Fantasmas%c[ui_gray_1] son seres ilusorios que existen dentro de la mente, m&#225;s que f&#237;sicamente.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nAunque es dif&#237;cil de clasificar como una anomal&#237;a o un mutante, un fantasma es una proyecci&#243;n mental involuntaria de un mutante que se encuentra actualmente en alg&#250;n lugar de la Zona.\n \n \nEstas proyecciones siempre van acompa&#241;adas de un ruido audible de "aullido" y se muestran brillantes y transparentes, flotando gradualmente hacia la v&#237;ctima a trav&#233;s de las paredes y el aire.\n \n \nSe desconoce por qu&#233; s&#243;lo toman la forma de mutantes, incluyendo aquellos con los que un stalker nunca se ha encontrado, y por qu&#233; nunca toman la apariencia de aquellos que ya est&#225;n extintos, como el tark.\n \n \nUna de las principales teor&#237;as sobre este fen&#243;meno sugiere que los mutantes vivos de la Zona est&#225;n de alguna manera fuertemente conectados a la Noosfera, y que a trav&#233;s de esto un campo ps&#237;quico sin querer imprime su apariencia visual y su naturaleza hostil en las mentes de sus v&#237;ctimas.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_psistorm">
+		<text>Tormenta ps&#237;quica</text>
+	</string>
+	<string id="encyclopedia_anomalies_psistorm_text">
+		<text>
+			Las %c[pda_white]Tormentas ps&#237;quicas%c[ui_gray_1] consisten en m&#250;ltiples v&#243;rtices ps&#237;quicos, que liberan cantidades letales de energ&#237;a ps&#237;quica.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nEstas inusuales anomal&#237;as clim&#225;ticas son de llegada muy reciente a la Zona, y hay mucha especulaci&#243;n sobre qu&#233; las causa. \n \nEmpezando con un tono p&#250;rpura/rosa y grandes formaciones de nubes de tormenta, toma muy poco tiempo para que una tormenta ps&#237;quica se forme y comience a causar estragos en la Zona.\n \n \nSi el equipo de un stalker le da al portador una gran protecci&#243;n contra el da&#241;o ps&#237;quico, o hace uso de drogas para proporcionar un efecto similar, es posible sobrevivir a la descarga de los v&#243;rtices ps&#237;quicos individuales durante la tormenta sin ponerse a cubierto. \n \n \nEsto siempre y cuando se mediquen inmediatamente despu&#233;s, ya que incluso los stalkers m&#225;s preparados se encontrar&#225;n en una situaci&#243;n muy delicada despu&#233;s de tal exposici&#243;n. \n \n \nDe manera similar a las emisiones, la enorme cantidad de energ&#237;a dispersada por una tormenta ps&#237;quica parece "recargar" muchas anomal&#237;as, lo que permite a los stalkers cultivar nuevos artefactos a partir de ellas.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_radiation">
+		<text>Radiaci&#243;n</text>
+	</string>
+	<string id="encyclopedia_anomalies_radiation_text">
+		<text>
+			%c[ui_gray_1]Bolsas de radiaci&#243;n ionizante, o simplemente %c[pda_green]radiaci&#243;n%c[ui_gray_1] para abreviar, son &#225;reas donde el conteo de radiaci&#243;n ambiental excede los 50 mR por hora. \n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nSe pueden encontrar por toda la Zona. En las zonas exteriores, la radiaci&#243;n tiende a ser dominante en los espacios amplios y abiertos y en los montones de chatarra (como la suciedad o los montones de chatarra de la basura, o los coches, tractores y cualquier cosa mec&#225;nica). \n \n%c[pda_green]Tips%c[ui_gray_1] \n• El %c[pda_white]contador Geiger%c[ui_gray_1] es una herramienta esencial para detectar y medir la radiaci&#243;n ionizante. Cuanto m&#225;s r&#225;pido sea el clic, m&#225;s radiaci&#243;n en el &#225;rea. \n• Muchos stalkers mueren debido a la enfermedad de la radiaci&#243;n. Es muy aconsejable mantener un paquete de %c[pda_white]drogas Anti-radiaci&#243;n%c[ui_gray_1] entre tus cosas. \n• Aseg&#250;rate de que tu m&#225;scara de gas est&#233; siempre en buenas condiciones. \n• %c[pda_white]Vodka%c[ui_gray_1] y los %c[pda_white]cigarrillos%c[ui_gray_1] se utilizan ampliamente entre los stalkers como una alternativa barata pero considerable a los anti-radiaci&#243;n. Ayudan curando lentamente el envenenamiento por radiaci&#243;n.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_psi">
+		<text>Psico-campo</text>
+	</string>
+	<string id="encyclopedia_anomalies_psi_text">
+		<text>
+			\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nSe trata de &#225;reas muy grandes de psicoactividad que ascienden hasta las nubes y que a menudo s&#243;lo son visibles por la forma en que dichas columnas distorsionan la luz que pasa a trav&#233;s de ellas. \nEstos campos tienen efectos nocivos en el tejido cerebral, y a veces pueden ser un indicio visible de una psicoemisi&#243;n, causando da&#241;os de leves a graves. Sin embargo, la mayor&#237;a de las veces estas columnas contienen charcos de anomal&#237;as y, si no hay anomal&#237;as, est&#225;n asociadas a zonas altamente irradiadas. \nEl campo ps&#237;quico no produce ning&#250;n artefacto.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_brain_scorcher">
+		<text>Cauterizador Cerebral </text>
+	</string>
+	<string id="encyclopedia_anomalies_brain_scorcher_text">
+		<text>
+			%c[ui_gray_1]El%c[pda_green]Cauterizador Cerebral%c[ui_gray_1] es una antigua instalaci&#243;n militar que fue tomada por el Grupo y se convirti&#243; en la primera aplicaci&#243;n importante de tecnolog&#237;a de control mental en la Zona. \n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] Tras la disoluci&#243;n de la Uni&#243;n Sovi&#233;tica, el Grupo continu&#243; la investigaci&#243;n iniciada en X8 y adapt&#243; la instalaci&#243;n en el Cauterizador, o lo que es m&#225;s importante, el Laboratorio X-19 situado en un antiguo b&#250;nker debajo de la instalaci&#243;n. \nCuando se cre&#243; la Zona, el "Cauterizar" fue activado por la Conciencia Com&#250;n para obstruir el camino hacia el centro de la Zona. Las psicoemisiones generadas por la instalaci&#243;n fueron eficaces para controlar la mente de los intrusos y someterlos a la voluntad colectiva, creando stalkers zombificados sin mente y crueles reclutas para la facci&#243;n del Monolito.\n \nMientras que la mayor&#237;a de los stalkers que se acercaron demasiado al "Cauterizador Cerebral" se convirtieron en zombis, un grupo de stalkers conocido como "El Grupo de Strelok" fue capaz de pasar por el "Cauterizador Cerebral" (probablemente con la ayuda de Guia) y lleg&#243; al centro de la Zona. El camino hacia el Cauterizador y la propia instalaci&#243;n estaba fuertemente custodiado por fan&#225;ticos del Monolito.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_burner">
+		<text>Quemador</text>
+	</string>
+	<string id="encyclopedia_anomalies_burner_text"> 	
+		<text>
+			• Nombre: %c[d_cyan]Quemador%c[ui_gray_1] \n• Tipo: %c[d_orange]Fuego%c[ui_gray_1] \n \n%c[d_green]Informaci&#243;n%c[ui_gray_1] \nEl Quemador puede ser un poco dif&#237;cil de ver, incluso a la luz del d&#237;a, ya que s&#243;lo se revela por una leve turbulencia de calor. \nSi la anomal&#237;a es desencadenada por un ser vivo o un objeto como un perno de metal, dispara una enorme columna de llamas en el aire, quemando todo lo que est&#233; a su alrededor. \n \nAunque es algo raro, la anomal&#237;a Quemador se encuentra a menudo en grupos. Algunos c&#250;mulos tambi&#233;n emiten una temperatura ambiente extremadamente alta, lo que cocina cualquier cosa en su entorno. Los Quemadores pueden emitir temperaturas que van desde los 100 grados cent&#237;grados hasta varios miles - lo suficientemente calientes como para agrietar el hormig&#243;n y derretir el metal, lo que explica por qu&#233; algunos quemadores aparecen en zonas que tienen grietas enormes y suelos gravemente da&#241;ados, mientras que otros sitios est&#225;n intactos. \n \nLos Quemadores son muy peligrosos cuando hay grandes dificultades, y pueden ser extremadamente peligrosos incluso con protecci&#243;n de alto nivel. Los quemadores no tienen un punto de generaci&#243;n fijo como otras anomal&#237;as, o incluso un punto de activaci&#243;n fijo. El simple hecho de estar en la misma localidad puede desencadenar una conflagraci&#243;n. \nUna t&#225;ctica para evitar da&#241;os es lanzar primero un tornillo a la anomal&#237;a, desencaden&#225;ndola, y luego pasar r&#225;pidamente por el chorro de la llama. Esta t&#225;ctica, si se utiliza repetidamente y sin demora, puede significar la diferencia entre atravesar una agrupaci&#243;n ileso o quemarse.		
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_comet">
+		<text>Cometa</text>
+	</string>
+	<string id="encyclopedia_anomalies_comet_text"> 	
+		<text>
+			• Nombre: %c[d_cyan]Cometa%c[ui_gray_1] \n• Tipo: %c[d_orange]Fuego%c[ui_gray_1] \n \n%c[d_green]Informaci&#243;n%c[ui_gray_1] \nLa anomal&#237;a Cometa funciona de manera muy parecida a la anomal&#237;a Quemador, en el sentido de que provoca da&#241;os por fuego al estar en contacto cercano, pero con la diferencia clave de que el Cometa es m&#243;vil, y se desplaza dentro de un &#225;rea determinada a un ritmo r&#225;pido. \nLa anomal&#237;a Cometa, a diferencia del Quemador, es extremadamente poderoso: puede matar incluso a un stalker bien equipado si es golpeado directamente. \nEsta anomal&#237;a no genera ning&#250;n tipo de artefacto.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_vortex">
+		<text>V&#243;rtice</text>
+	</string>
+	<string id="encyclopedia_anomalies_vortex_text"> 	
+		<text>
+			• Nombre: %c[d_cyan]V&#243;rtice%c[ui_gray_1] \n• Tipo: %c[d_orange]Gravitatoria%c[ui_gray_1] \n \n%c[d_green]Informaci&#243;n%c[ui_gray_1] \nUna anomal&#237;a de naturaleza presumiblemente gravitacional. Cuando se activa, el tremendo poder del V&#243;rtice arrastra todo dentro de su radio 10-15 metros hacia el centro. Las v&#237;ctimas arrastradas hacia el centro tienen pocas o nulas posibilidades de sobrevivir: sus cuerpos son r&#225;pidamente constre&#241;idos en un apretado bulto, s&#243;lo para ser reventados en una poderosa descarga de energ&#237;a un momento despu&#233;s. En algunos casos, pueden levitar en el aire en agon&#237;a, y pronto todo su cuerpo es desmenuzado en meros huesos y carne. \n \nLa anomal&#237;a permanece estacionaria durante toda su vida (una semana en promedio). F&#225;cilmente reconocible a la luz del d&#237;a por la fluctuaci&#243;n del aire, hojas danzantes, fragmentos de cad&#225;veres desmembrados y una distintiva mancha oscura en el centro. Altamente peligroso por la noche, ya que s&#243;lo puede ser revelado por medio de un detector o arrojando objetos met&#225;licos en &#233;l. \n \nLa diferencia entre un Remolino y un V&#243;rtice es bastante simple: tama&#241;o y fuerza. El V&#243;rtice tiene un alcance mucho mayor, es mucho m&#225;s dif&#237;cil de escapar que un Remolino, y causa mucho m&#225;s da&#241;o. Escapar de la anomal&#237;a del V&#243;rtice, una vez arrastrado, puede ser muy dif&#237;cil o imposible, dependiendo de la fuerza de la anomal&#237;a y el nivel de dificultad. El tipo de armadura que se use tambi&#233;n es muy importante, ya que las probabilidades son de que recibas al menos un golpe. Un posible m&#233;todo para escapar, una vez que se ha atra&#237;do, es esperar a que la anomal&#237;a se descargue, recibiendo el golpe. Despu&#233;s de la descarga, la anomal&#237;a no tiene fuerza de arrastre durante aproximadamente un segundo, permiti&#233;ndole salir corriendo y escapar de ella. Este m&#233;todo s&#243;lo ser&#225; posible con una armadura con una alta protecci&#243;n contra anomal&#237;as. Llevar un exoesqueleto y quedar atrapado en un v&#243;rtice casi siempre termina con la muerte del jugador, ya que impide la salida a toda velocidad, lo que significa que el jugador no puede escapar de la anomal&#237;a una vez que es atra&#237;do. \n \nUna simple t&#225;ctica para escapar de los v&#243;rtices requiere tiempo, saltos y resistencia. Antes de que la anomal&#237;a haga da&#241;o, el jugador se tambalear&#237;a como una "banda el&#225;stica". Un jugador con suficiente tiempo puede saltar en el momento justo, justo en el borde del efecto de la banda el&#225;stica (justo cuando te aleja de su epicentro). En el borde, un sprint muy r&#225;pido y un salto pueden sacarte de all&#237; lo suficientemente r&#225;pido como para escapar. \n \nPor supuesto, el m&#233;todo m&#225;s simple para escapar de un V&#243;rtice es evitarlo por completo. La presencia de un V&#243;rtice puede ser muy, muy f&#225;cilmente identificada por los sonidos que produce, similar a un sonido "ondulante" que se escucha en algunas pel&#237;culas de ciencia ficci&#243;n. La anomal&#237;a en s&#237; misma no se ve afectada por balas, granadas, cohetes RPG o tornillos. Los tornillos simplemente rebotan en ella. \n \nEncontrar un v&#243;rtice solitario no suele ser un problema para una persona que pueda correr r&#225;pido. Sin embargo, un grupo de v&#243;rtices agrupados son muy peligrosos y en algunos casos, un artefacto puede encontrarse en el medio del grupo.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_springboard">
+		<text>Trampol&#237;n</text>
+	</string>
+	<string id="encyclopedia_anomalies_springboard_text"> 	
+		<text>
+			• Nombre: %c[d_cyan]Trampolin%c[ui_gray_1] \n• Tipo: %c[d_orange]Gravitatoria%c[ui_gray_1] \n \n%c[d_green]Informaci&#243;n%c[ui_gray_1] \nFue uno de los primeros tipos de anomal&#237;as que se registraron. Un Trampol&#237;n es un campo gravitatorio inestable limitado a una cavidad a nivel del suelo, de unos 1-2 metros de ancho. Reacciona ante la presencia de criaturas u objetos enviando una poderosa onda de choque que da&#241;a cualquier cosa dentro de su radio. El da&#241;o causado por &#233;sta cambia a lo largo de la vida de la anomal&#237;a, desde moretones menores hasta heridas graves y muerte instant&#225;nea. \n \nLa anomal&#237;a Trampol&#237;n es muy com&#250;n y se puede encontrar casi en cualquier lugar de la Zona, tanto en el exterior como en los edificios. A simple vista, la anomal&#237;a aparece como una neblina de calor ondulante o una fluctuaci&#243;n de aire acompa&#241;ada de hojas en movimiento y a veces manchas de color carmes&#237; en el suelo. Lanzar un tornillo a un Trampol&#237;n hace que &#233;ste emita su onda de choque distintiva, haci&#233;ndolo f&#225;cilmente identificable. \n \nTambi&#233;n es una de las anomal&#237;as que son inofensivas para atravesar durante un breve momento despu&#233;s de haber sido activadas, haciendo que los tornillos sean herramientas muy &#250;tiles para navegar en un campo de Trampolines. A medida que los jugadores se acercan a un Trampol&#237;n su visi&#243;n se vuelve gradual pero marcadamente m&#225;s brillante a medida que se acercan a la propia anomal&#237;a. \n \nLos Trampolines son f&#225;cilmente identificables, y f&#225;cilmente evitables, pero la variaci&#243;n de las ubicaciones y los puntos de surgimiento irregulares en la Zona pueden hacerlos una molestia en un enfrentamiento. Los stalkers a menudo han muerto en medio de una pelea, olvidando o no notando la presencia de la anomal&#237;a por estar distra&#237;dos, y luego caminando directamente hacia ella. Como todas las anomal&#237;as, lo mejor es rastrear la ubicaci&#243;n y encontrar una forma de evitarla.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_whirligig">
+		<text>Remolino</text>
+	</string>
+	<string id="encyclopedia_anomalies_whirligig_text"> 	
+		<text>
+			• Name: %c[d_cyan]Remolino%c[ui_gray_1] \n• Tipo: %c[d_orange]Gravitatoria%c[ui_gray_1] \n \n%c[d_green]Informaci&#243;n%c[ui_gray_1] \nUna anomal&#237;a com&#250;n y peligrosa, que atrapa a sus v&#237;ctimas en el aire y las hace girar a una velocidad vertiginosa. La naturaleza exacta del Remolino sigue siendo desconocida. La anomal&#237;a se puede reconocer por un ligero torbellino de polvo en la parte superior y por los fragmentos de cad&#225;veres dispersos en las proximidades. Las v&#237;ctimas atrapadas en su borde exterior, lo suficientemente lejos de la zona de m&#225;ximo efecto en el centro, pueden escapar del Remolino con heridas relativamente menores. \n \nCuando uno est&#225; demasiado cerca de la anomal&#237;a al momento de activarla, el Remolino tirar&#225; violentamente de la v&#237;ctima hacia arriba, lo que le seguir&#225; da&#241;ando gravemente hasta que se descargue, y esa descarga es lo suficientemente poderosa como para desmembrar su cuerpo por la simple fuerza ejercida. No es tan f&#225;cil de evitar como el V&#243;rtice y, debido a que eleva a sus v&#237;ctimas en el aire, escapar una vez dentro de su radio efectivo es pr&#225;cticamente imposible, ya que saltar y correr es ineficaz. \n \nAunque el da&#241;o causado por el Remolino es menor que el de un V&#243;rtice, el Remolino puede ser considerado m&#225;s peligroso ya que es muy dif&#237;cil de escapar, y el V&#243;rtice tiene sus aspectos d&#233;biles. \n \nLas caracter&#237;sticas b&#225;sicas son f&#225;cilmente reconocibles. Cuando se activa, el Remolino se descarga como un tornado o torbellino.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_fruit">
+		<text>Ponche de frutas</text>
+	</string>
+	<string id="encyclopedia_anomalies_fruit_text"> 	
+		<text>
+			• Nombre : %c[d_cyan]Ponche de fruta%c[ui_gray_1] \n• Tipo: %c[d_orange]Qu&#237;mico%c[ui_gray_1] \n \n%c[d_green]Informaci&#243;n%c[ui_gray_1] \nEl ponche de fruta es un charco de l&#237;quido verde borrascoso que es f&#225;cilmente visible en casi cualquier ambiente debido a su luminosidad y a sus distintivos ruidos siseantes y burbujeantes. Al entrar en contacto con criaturas u objetos como tornillos, el Ponche de Fruta se ilumina brillantemente y emite un sonido siseante agudo. Es extremadamente corrosivo, da&#241;ando a las criaturas y objetos al contacto. Cualquier materia que permanezca en el Ponche de Fruta se disolver&#225; eventualmente, lo que indica la naturaleza corrosiva de la anomal&#237;a y la perdici&#243;n para cualquier traje protector. Para los jugadores, el contacto con un Ponche de fruta causar&#225; da&#241;os con cada "destello". Esta anomal&#237;a se encuentra com&#250;nmente bajo tierra. \n \nEn cuanto a sus caracter&#237;sticas, es generalmente aceptado que deriva de los restos de un derrame altamente radiactivo de alguna sustancia reactiva que obtuvo sus habilidades an&#243;malas de la Zona. Sus propiedades corrosivas se muestran por su intenso y r&#225;pido da&#241;o a todo el tejido vivo y la materia inorg&#225;nica, tanto de metal como de pl&#225;stico. \n \nDebido a su capacidad de generar artefactos en la Shadow of Chernobyl, y no en Cielo Despejado, podr&#237;a decirse que la &#250;ltima emisi&#243;n vista en Cielo Despejado desestabiliz&#243; un poco la Zona y dispers&#243; la Anomal&#237;a de Gas, reemplaz&#225;ndola por el Ponche de Fruta en su lugar. Es bastante com&#250;n, ocurre mayormente en edificios y complejos subterr&#225;neos, usualmente en un lugar aislado. \n \nEn algunas ocasiones, se pueden encontrar anomal&#237;as tanto de ponche de frutas como de gas, y en algunos casos parecen fusionarse. La actividad an&#243;mala y la radiaci&#243;n se combinan para crear una mezcla mortal tanto de l&#237;quido altamente corrosivo, que da&#241;a directamente la armadura y el equipo, como una nube t&#243;xica de gas venenoso que causa da&#241;os directos a la salud y a la resistencia. En Call of Pripyat, el Ponche de Frutas por s&#237; mismo s&#243;lo se puede encontrar muy raramente, y seg&#250;n la norma, s&#243;lo en &#225;reas cerradas o confinadas.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_fuzz">
+		<text>Pelusa quemada</text>
+	</string>
+	<string id="encyclopedia_anomalies_fuzz_text"> 	
+		<text>
+			• Nombre: %c[d_cyan]Pelusa quemada%c[ui_gray_1] \n• Tipo: %c[d_orange]Qu&#237;mico%c[ui_gray_1] \n \n%c[d_green]Informaci&#243;n%c[ui_gray_1] \nEsta anomal&#237;a se encuentra generalmente en el exterior. Se parece al musgo o a enredaderas, colgando como cortinas desde su lugar de crecimiento. Reacciona a los seres vivos que se acercan r&#225;pidamente descargando una nube de proyectiles que lesionan gravemente la piel descubierta o ligeramente protegida al contacto. No reacciona a los objetivos que se mueven lentamente. La Pelusa Quemada es generalmente considerada la anomal&#237;a menos peligrosa de la Zona, ya que puede ser f&#225;cilmente detectada y evitada. A&#250;n as&#237;, los jugadores rara vez parecen sufrir da&#241;os al entrar en contacto con la anomal&#237;a. Tocar una cortina de Pelusa Quemada parece provocar la reacci&#243;n de la anomal&#237;a, pero s&#243;lo los jugadores con poca o ninguna armadura han informado de que han sido heridos por ella. La Pelusa Quemada es la &#250;nica anomal&#237;a que no reacciona a los tornillos de metal. \n \nSus or&#237;genes org&#225;nicos pueden ser claves para entender por qu&#233; no se ve afectada por cosas como otras anomal&#237;as, o que normalmente no responde a condiciones como lo hacen otras anomal&#237;as.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_gas">
+		<text>Gas</text>
+	</string>
+	<string id="encyclopedia_anomalies_gas_text"> 	
+		<text>
+			• Nombre: %c[d_cyan]Gas%c[ui_gray_1] \n• Tipo: %c[d_orange]Qu&#237;mico%c[ui_gray_1] \n \n%c[d_green]Informaci&#243;n%c[ui_gray_1] \nNo siempre es f&#225;cil de detectar, esta anomal&#237;a es reconocible por las nubes de gas verde que flotan y deambulan sobre el suelo. Si uno se acerca, la pantalla se vuelve verde y se puede escuchar un silbido. Cuando es activada por piezas met&#225;licas o tejidos org&#225;nicos, emite compuestos &#225;cidos, salpic&#225;ndolos en sus alrededores. \n \nNo debe ser confundido con el Ponche de Fruta, debido a que se comporta m&#225;s como una nube o un banco de niebla que como un charco de l&#237;quido como el Ponche de Fruta. \n \nParece ser una versi&#243;n evolucionada o mayor del Ponche de Fruta, porque el Ponche de Fruta no tiene el efecto de asfixia t&#243;xica que tiene el gas, y es m&#225;s corrosivo y m&#225;s da&#241;ino.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_gascloud">
+		<text>Nube de Gas</text>
+	</string>
+	<string id="encyclopedia_anomalies_gascloud_text"> 	
+		<text>
+			• Nombre: %c[d_cyan]Nube de gasCloud%c[ui_gray_1] \n• Tipo: %c[d_orange]Qu&#237;mico%c[ui_gray_1] \n \n%c[d_green]Informaci&#243;n%c[ui_gray_1] \nLa anomal&#237;a de la Nube de Gas se asemeja a una anomal&#237;a de Gas y causa quemaduras qu&#237;micas. Sin embargo, la Nube de Gas se mueve y causa mucho m&#225;s da&#241;o. Como tal, es la contraparte qu&#237;mica de las anomal&#237;as Cometa y Tesla. \n \nIncluso llevando un traje de protecci&#243;n de alto nivel y algunos artefactos de protecci&#243;n qu&#237;mica, s&#243;lo un toque de esta anomal&#237;a reducir&#237;a la salud dram&#225;ticamente y un golpe directo podr&#237;a resultar en la muerte instant&#225;nea. Atravesarla es lo mejor que se puede hacer, ya que evitar&#225; que el jugador reciba un da&#241;o importante. Ciertas drogas pueden reducir considerablemente el da&#241;o causado por la Nube de Gas. \n \nEsta anomal&#237;a tampoco genera ning&#250;n tipo de artefacto.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_electro">
+		<text>Electro</text>
+	</string>
+	<string id="encyclopedia_anomalies_electro_text"> 	
+		<text>
+			• Nombre: %c[d_cyan]Electro%c[ui_gray_1] \n• Tipo: %c[d_orange]Electrico%c[ui_gray_1] \n \n%c[d_green]Informaci&#243;n%c[ui_gray_1] \nUna formaci&#243;n an&#243;mala de unos 10 metros de di&#225;metro que contiene grandes cantidades de electricidad est&#225;tica. Cuando se activa, la anomal&#237;a estalla en una tormenta de electricidad circulante casi siempre letal para todos los seres vivos. F&#225;cilmente reconocible por el gas azul que emite, junto con el interminable efecto de peque&#241;os rayos de electricidad en la cercan&#237;a, el Electro no tiene distinci&#243;n por lo que cruza el horizonte, ya sea un humano, un mutante o un objeto inanimado, sin ser detectado facilmente, y se descarga tan pronto como algo se acerca demasiado. \n \nEl Electro siempre est&#225; en grupos y a menudo se encuentra en espacios reducidos, aunque tambi&#233;n se han registrado grupos al aire libre con un espacio de un metro o m&#225;s entre Electros vecinos. Se evitan f&#225;cilmente cuando est&#225;n al aire libre, y son m&#225;s peligrosos en &#225;reas confinadas. Por la noche, el Electro puede ser revelado usando el detector Svarog o lanzando tornillos en &#233;l, punto en el que se descargar&#225;. En Call of Pripyat, cualquier electro que se descargue formar&#225; una reacci&#243;n en cadena y descargar&#225; a cualquier vecino, llevando a la activaci&#243;n de todo el grupo. \n \nSu potencia y velocidad de recarga podr&#237;a significar que es un generador natural, como una nube de tormenta el&#233;ctrica o un rel&#225;mpago. Su poder significa que un solo electro puede ser capaz de almacenar un m&#237;nimo de 5000 voltios de tensi&#243;n, hasta varios cientos de miles, con una corriente de cientos o incluso miles de amperios, lo que le permite matar casi cualquier cosa en la Zona en s&#243;lo unas pocas sacudidas. La letalidad var&#237;a de un juego a otro, siendo la de Call of Pripyat la que presenta las variantes m&#225;s peligrosas.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_tesla">
+		<text>Tesla</text>
+	</string>
+	<string id="encyclopedia_anomalies_tesla_text"> 	
+		<text>
+			• Nombre: %c[d_cyan]Tesla%c[ui_gray_1] \n• Tipo: %c[d_orange]El&#233;ctrico%c[ui_gray_1] \n \n%c[d_green]Informaci&#243;n%c[ui_gray_1] \nLa anomal&#237;a Tesla funciona de manera muy parecida a la anomal&#237;a Electro y causa da&#241;os el&#233;ctricos, con la diferencia de que la Tesla es m&#243;vil. En ese sentido, es el equivalente del Electro al Cometa. Tiene la apariencia de una bola de movimiento r&#225;pido de pura electricidad. \n \nSe puede decir que el Tesla es la forma evolucionada o superior de un Electro. Es posible que una anomal&#237;a Electro particularmente grande o intensa no haya sido perturbada o haya acumulado una carga excesiva por un largo tiempo y se haya vuelto m&#243;vil como resultado, ya sea para descargar su energ&#237;a acumulada o para "cazar" objetivos o presas. \n \nA menos que uno est&#233; equipado con unos pocos artefactos absorbentes de electricidad y/o lleve un traje con alta protecci&#243;n el&#233;ctrica, el simple hecho de ser rozado por esta anomal&#237;a reduce significativamente la salud del jugador y lo mata si es golpeado directamente por ella. \n \nEsta anomal&#237;a no produce ning&#250;n tipo de artefacto.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_space">
+		<text>Espacio</text>
+	</string>
+	<string id="encyclopedia_anomalies_space_text"> 	
+		<text>
+			• Nombre: %c[d_cyan]Espacio%c[ui_gray_1] \n• Tipo: %c[d_orange]Distorcionador%c[ui_gray_1] \n \n%c[d_green]Informaci&#243;n%c[ui_gray_1] \nEs realmente el resultado final de la inestabilidad de la Zona, ya que altera el tejido mismo de la realidad y distorsiona el tiempo y el espacio, creando aparentemente agujeros de gusano en miniatura, que teletransportan al jugador y cualquier cosa que se arroje en &#233;l a otro lugar. \n \nEsta teor&#237;a de teletransportaci&#243;n parece probada al hablar con un stalker en el Cord&#243;n junto al puente ferroviario. Preguntarle sobre el "agujero negro" te dirigir&#225; a la anomal&#237;a espacial de all&#237;, junto con sus detalles sobre ella. Aparentemente &#233;l y sus amigos han estado tirando basura en &#233;l, y recuerda haber visto la basura en un viejo t&#250;nel, lo que significa que la anomal&#237;a espacial teletransporta cualquier cosa que se tire en ella. \n \nEl hecho de que los stalkers puedan quedar "atrapados" es un testimonio de la inestabilidad de la Zona, d&#225;ndole a esta anomal&#237;a alg&#250;n tipo de voluntad propia. \n \nAdem&#225;s, aunque no produce artefactos al azar como la mayor&#237;a de las anomal&#237;as, Forester afirma que encontr&#243; un artefacto Br&#250;jula atrapado en una Anomal&#237;a Espacial, insinuando que esos raros artefactos s&#243;lo pueden producir desde el interior del bucle temporal de la anomal&#237;a. Esto est&#225; impl&#237;cito adem&#225;s en el hecho de que Noah, que utiliza la anomal&#237;a espacial en la granja quemada de Zaton para viajar a la meseta sur, posee dos de ellas a pesar de su rareza.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_teleport">
+		<text>Teletransportador</text>
+	</string>
+	<string id="encyclopedia_anomalies_teleport_text"> 	
+		<text>
+			• Nombre: %c[d_cyan]Teletransportador%c[ui_gray_1] \n• Tipo: %c[d_orange]Distorcionador%c[ui_gray_1] \n \n%c[d_green]Informaci&#243;n%c[ui_gray_1] \nUna rara anomal&#237;a encontrada en unos pocos lugares de la Zona. De naturaleza inofensiva, al entrar en contacto con un Teletransportador, hace que se teletransporte a otro lugar.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_anomalies_pulse">
+		<text>Pulso</text>
+	</string>
+	<string id="encyclopedia_anomalies_pulse_text"> 	
+		<text>
+			• Nombre: %c[d_cyan]Pulso%c[ui_gray_1] \n• Tipo: %c[d_orange]El&#233;ctrico%c[ui_gray_1] \n \n%c[d_green]Informaci&#243;n%c[ui_gray_1] \nLos cient&#237;ficos creen que el "Pulso" es una formaci&#243;n &#250;nica de rayos bajo el efecto din&#225;mico de las ondas ps&#237;quicas dentro de los l&#237;mites de la zona. Comenzando con una neblina azul, toma muy poco tiempo para que se forme un pulso y se descargue en el suelo, llevando a la muerte instant&#225;nea de cualquier humano lo suficientemente cerca del punto de descarga. La frecuencia de esta anomal&#237;a est&#225; directamente conectada al clima, ya que tiene m&#225;s posibilidades de formarse durante la lluvia y las tormentas de manera similar a los rayos. \n \nAunque su radio de acci&#243;n no es tan amplio como el de una tormenta ps&#237;quica, el Pulso sigue siendo una amenaza cre&#237;ble. Si un Pulso se empieza a formar cerca de ti, corre tan r&#225;pido como puedas. La anomal&#237;a puede ser identificada por su sonido distintivo, que puede ser considerado como una se&#241;al de advertencia. \n \nSi el equipo de un stalker le da al portador una gran protecci&#243;n contra el da&#241;o ps&#237;quico y el&#233;ctrico, es posible sobrevivir a la descarga sin ponerse a cubierto. \n \nDe esta anomal&#237;a no se sabe que deje ning&#250;n artefacto.
+		</text>
+	</string>
+	
+</string_table>
