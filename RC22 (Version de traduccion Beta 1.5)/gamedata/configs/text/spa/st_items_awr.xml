@@ -101,7 +101,7 @@
 		<text>%sEl tiempo se ha acabado%s</text>
 	</string>
 	<string id="st_awr_dead_mechanic">
-		<text>%sEl t&#233;cnico %s ha sido muerto por %s.%s \nYa no necesitas permiso para usar su taller.</text>
+		<text>%sEl t&#233;cnico %s fue asesinado por %s.%s \nYa no necesitas permiso para usar su taller.</text>
 	</string>
 	<string id="st_by_unknown">
 		<text>Desconocido</text>
