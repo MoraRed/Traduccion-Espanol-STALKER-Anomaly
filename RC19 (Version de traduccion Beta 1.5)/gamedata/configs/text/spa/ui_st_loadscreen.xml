@@ -70,13 +70,13 @@
 		<text>A Cold, Spore y al resto de los personajes principales de Cielo Despejado se les puede preguntar sobre su historia. Hacerlo puede ayudar a arrojar luz sobre la supervivencia general de su facci&#243;n.</text>
 	</string>
 	<string id="ls_tip_22">
-		<text>Libertad ocupa por completo la estacion de Yanov en Jupiter despues de que Shulga se fuera para luchar contra el resurgente Monolito. Muchos stalkers que habian abandonado Libertad anteriormente se habian unido para ayudar a reforzar su posici&#243;n.</text>
+		<text>Libertad ocupa por completo la estacion de Yanov en Jupiter despues de que Shulga se fuera para luchar contra el Monolito que resurg&#237;a. Muchos stalkers que habian abandonado Libertad se habian unido para ayudar a reforzar su posici&#243;n.</text>
 	</string>
 	<string id="ls_tip_23">
 		<text>El logro 'Finalista' se recibe por desbloquear todos los otros logros disponibles. La cantidad de logros disponibles depende de tu facci&#243;n y de si el modo historia esta habilitado.</text>
 	</string>
 	<string id="ls_tip_24">
-		<text>Es mucho m&#225;s facil evitar la detecci&#243;n cuando se viaja durante la noche o cuando llueve mucho. Sin embargo, corres el riesgo de encontrarte con feroces mutantes nocturnos.</text>
+		<text>Es mucho m&#225;s facil evitar que te detecten cuando viajas de noche o cuando llueve con fuerza. Sin embargo, corres el riesgo de encontrarte con feroces mutantes nocturnos.</text>
 	</string>
 	<string id="ls_tip_25">
 		<text>Es un buen habito comparar precios de los alimentos limpios y saludables que venden los cantineros, y llevarlos contigo. No olvides conseguir algo para calmar la sed mientras lo haces.</text>
@@ -112,13 +112,13 @@
 		<text>Confia en tus oidos. El sonido sobrepasa las colinas y los densos arbustos. Un sonido debil pero familiar puede ser todo lo que necesites para que te prepares a recibir un ataque furtivo.</text>
 	</string>
 	<string id="ls_tip_36">
-		<text>No tires tu pistola, guardala como respaldo. Ligera, facil de manejar y economica de mantener; s&#237; la cuidas, tu pistola seguramente te cuidara a ti.</text>
+		<text>No tires tu pistola, guardala como respaldo. Ligera, facil de manejar y economica de mantener; si la cuidas, tu pistola seguramente te cuidara a ti.</text>
 	</string>
 	<string id="ls_tip_37">
 		<text>Los comerciantes te daran tareas m&#225;s dificiles a medida que ganes m&#225;s reputaci&#243;n con sus facciones. A pesar de ser bien pagadas, son m&#225;s peligrosas que el resto y pondran a prueba tus habilidades.</text>
 	</string>
 	<string id="ls_tip_38">
-		<text>Considera conservar algunos de los artefactos que encuentres, sus propiedades podrian abrir la puerta para obtener otros nuevos m&#225;s adelante.</text>
+		<text>Considera conservar algunos de los artefactos que encuentres, sus propiedades podrian abrirte la puerta para obtener otros nuevos m&#225;s adelante.</text>
 	</string>
 	<string id="ls_tip_39">
 		<text>Si terminas superado en n&#250;mero, intenta escapar. No solo te salvar&#225; vida, sino que tambien te ahorrar&#225; dinero y medicamentos.</text>
@@ -127,7 +127,7 @@
 		<text>Si te disparan: manten la calma, cuenta sus balas y dispara cuando est&#233;n recargando.</text>
 	</string>
 	<string id="ls_tip_41">
-		<text>Ll&#233;vate siempre algo que pueda detener el sangrado. Luego, un m&#233;dico podr&#237;a sanar tus heridas a bajo costo, pero solo si no te desangras por el camino.</text>
+		<text>Lleva siempre algo que pueda detener el sangrado. Luego, un m&#233;dico podr&#237;a sanar tus heridas a bajo costo, pero solo si no te desangras por el camino.</text>
 	</string>
 	<string id="ls_tip_42">
 		<text>Considera usar un silenciador y ser sigiloso cuando vayas contra multiples enemigos: no te volver&#225; invisible, pero ciertamente te har&#225; ganar algo de tiempo hasta que te vean.</text>
@@ -175,7 +175,7 @@
 		<text>Usar munici&#243;n vieja degradar&#225; tu arma m&#225;s r&#225;pido, a largo plazo. Pero no la tires, ya que podria salvarte en un apuro.</text>
 	</string>
 	<string id="ls_tip_57">
-		<text>Recuerda verificar los PDA de los stalkers muertos, puedes obtener informaci&#243;n util sobre ellos. Si no puedes abrirlas, intenta pedirle a alguien experto en tecnolog&#237;a que las desbloquee para t&#237;.</text>
+		<text>Recuerda verificar los PDA de los stalkers muertos, puedes obtener informaci&#243;n &#250;til sobre ellos. Si estan bloqueadas, intenta pedirle a alguien experto en tecnolog&#237;a que las desbloquee para t&#237;.</text>
 	</string>
 	<string id="ls_tip_58">
 		<text>Puedes acceder al menu de detalles de un elemento haciendo clic derecho sobre &#233;l. Esta ventana de detalles mostrar&#225; una descripci&#243;n del art&#237;culo, su durabilidad y, en el caso de armas y atuendos, sus posibles actualizaciones junto con los art&#237;culos que requieren.</text>
@@ -235,7 +235,7 @@
 		<text>Mantente sano. Si puedes, evita las drogas, come alimentos limpios, bebe agua purificada y duerme regularmente.</text>
 	</string>
 	<string id="ls_tip_77">
-		<text>Las herramientas se desgastan por el uso. Algunas de ellos, como los cuchillos, pueden repararse. Sin embargo, la mayoria no se pueden, as&#237; que ten a mano las de repuesto.</text>
+		<text>Las herramientas se desgastan por el uso. Algunas de ellas, como los cuchillos, pueden repararse. Sin embargo, la mayoria no se pueden, as&#237; que ten a mano las de repuesto.</text>
 	</string>
 	<string id="ls_tip_78">
 		<text>Examina un area cuidadosamente antes de pasar. Descubrir a un chupasangre antes de que te vea seguramente te salvar&#225; la vida.</text>
@@ -250,7 +250,7 @@
 		<text>Si la opci&#243;n "Tornillos limitados" esta activada, es posible que eventualmente se agoten. Para obtener m&#225;s, puedes visitar a los comerciantes y obtener paquetes de tornillos, o utilizar munici&#243;n vieja como casquillos de bala que tambien funcionan bien.</text>
 	</string>
 	<string id="ls_tip_82">
-		<text>El contador Geiger tiene tres modos diferentes: activo, muestra valores al sostenerlo; continuo, muestra valores siempre que este en tu inventario; alterno, muestra valores al presionar una tecla mientras esta en tu inventario.</text>
+		<text>El contador Geiger tiene tres modos diferentes: activo, muestra valores al sostenerlo; continuo, muestra valores siempre que este en tu inventario y alterno, muestra valores al presionar una tecla mientras esta en tu inventario.</text>
 	</string>
 	<string id="ls_tip_83">
 		<text>Los kits de fabricaci&#243;n de medicamentos se utilizan para elaborar tu propia medicina utilizando objetos que de otro modo tirarias; as&#237; ahorras dinero.</text>
