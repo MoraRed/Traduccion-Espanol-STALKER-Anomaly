@@ -316,7 +316,7 @@
 	<string id="ui_mm_lst_screen_space">
 		<text>Espacio de Pantalla</text>
 	</string>
-	<string id="ui_mm_lst_combine_sunshafts">
+	<string id="ui_mm_lst_combined">
 		<text>Ambos</text>
 	</string>
 	
@@ -383,8 +383,8 @@
 	<string id="ui_mm_video_advanced_ssample_list">
 		<text>Anti-aliasing</text>
 	</string>
-	<string id="ui_mm_video_advanced_fxaa">
-		<text>FXAA</text>
+	<string id="ui_mm_video_advanced_smaa">
+		<text>SMAA</text>
 	</string>
 	<string id="ui_mm_video_advanced_detail_bump">
 		<text>Detalle Bump</text>
@@ -397,10 +397,10 @@
 	</string>
 
 	<string id="ui_mm_header_grass">
-		<text>Grama</text>
+		<text>Hierba</text>
 	</string>
 	<string id="ui_mm_video_advanced_detail_density">
-		<text>Densidad de la grama</text>
+		<text>Densidad de la hierba</text>
 	</string>
 	<string id="ui_mm_video_advanced_detail_radius">
 		<text>Distancia de renderizado vegetaci&#243;n</text>
