@@ -1,0 +1,1765 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+
+	<string id="monster_zombied_night">
+		<text>Humanoide nocturno</text>
+	</string>
+	<string id="monster_zombied_day">
+		<text>Humanoide diurno</text>
+	</string>
+	<string id="monster_predatory_night">
+		<text>Predador nocturno</text>
+	</string>
+	<string id="monster_predatory_day">
+		<text>Diurnal predator</text>
+	</string>
+	<string id="monster_vegetarian">
+		<text>Mutante herv&#237;voro</text>
+	</string>
+	<string id="zoo_monster">
+		<text>Mutante</text>
+	</string>
+	<string id="monster_special">
+		<text>Mutante especial</text>
+	</string>
+
+	<string id="st_sq_enemy">
+		<text>Enemigo</text>
+	</string>
+	<string id="st_sq_friends">
+		<text>Aliado</text>
+	</string>
+	<string id="st_sq_neutral">
+		<text>Neutral</text>
+	</string>
+	<string id="st_sq_count">
+		<text>Recuento = </text>
+	</string>
+	<string id="st_sq_count_companions">
+		<text>Recuento de compa&#241;eros: </text>
+	</string>
+	<string id="st_sq_target">
+		<text>Objetivo</text>
+	</string>
+	<string id="st_sq_type">
+		<text>Especies:</text>
+	</string>
+
+
+	<string id="st_sm_faction">
+		<text>Faccion:</text>
+	</string>
+	<string id="st_sm_squad_count">
+		<text>Capacidad=</text>
+	</string>
+	<string id="st_sm_max_population">
+		<text>of_</text>
+	</string>
+	<string id="st_sm_respawn">
+		<text>Tiempo de aparici&#243;n %d h %d min %.0f seg</text>
+	</string>
+
+
+	<string id="st_squad_show_1">
+		<text>cielo_despejado_1</text>
+	</string>
+	<string id="st_squad_show_2">
+		<text>cielo_despejado_2</text>
+	</string>
+	<string id="st_squad_show_3">
+		<text>warfare_1</text>
+	</string>
+	<string id="st_squad_show_4">
+		<text>warfare_2</text>
+	</string>
+	<string id="st_squad_show_5">
+		<text>solo_natural</text>
+	</string>
+	<string id="st_squad_show_0">
+		<text>ocultar</text>
+	</string>
+	<string id="ui_mm_squad_on_map">
+		<text>Escuadrones en el mapa</text>
+	</string>
+	<string id="ui_mm_smarts_on_map">
+		<text>Ver smarts</text>
+	</string>
+
+
+
+
+	<string id="st_esc_smart_terrain_3_16_name">
+		<text>Cordon. Punto de control Sur</text>
+	</string>
+	<string id="st_esc_smart_terrain_2_12_name">
+		<text>Cordon. Campamento de Novatos</text>
+	</string>
+	<string id="st_esc_smart_terrain_4_13_name">
+		<text>Cordon. Tiendas de Campa&#241;a</text>
+	</string>
+	<string id="st_esc_smart_terrain_2_14_name">
+		<text>Cordon. Fogata bajo un &#193;rbol</text>
+	</string>
+	<string id="st_esc_smart_terrain_4_11_name">
+		<text>Cordon. Aparcadero</text>
+	</string>
+	<string id="st_esc_smart_terrain_1_11_name">
+		<text>Cordon. Campamento Secreto</text>
+	</string>
+	<string id="st_esc_smart_terrain_5_12_name">
+		<text>Cordon. Tienda Solitaria</text>
+	</string>
+	<string id="st_esc_smart_terrain_7_11_name">
+		<text>Cordon. Estacion de Vehiculos</text>
+	</string>
+	<string id="st_esc_smart_terrain_5_9_name">
+		<text>Cordon. Elevador de Grano</text>
+	</string>
+	<string id="st_esc_smart_terrain_4_9_name">
+		<text>Cordon. Subterraneo</text>
+	</string>
+	<string id="st_esc_smart_terrain_6_8_name">
+		<text>Cordon. Puente Colapsado</text>
+	</string>
+	<string id="st_esc_smart_terrain_8_10_name">
+		<text>Cordon. Campamento de la Colina</text>
+	</string>
+	<string id="st_esc_smart_terrain_8_9_name">
+		<text>Cordon. Fogata en el Bosque</text>
+	</string>
+	<string id="st_esc_smart_terrain_9_7_name">
+		<text>Cordon. Aparcadero</text>
+	</string>
+	<string id="st_esc_smart_terrain_6_6_name">
+		<text>Cordon. Casas Abandonadas</text>
+	</string>
+	<string id="st_esc_smart_terrain_5_7_name">
+		<text>Cordon. Vieja Granja</text>
+	</string>
+	<string id="st_esc_smart_terrain_3_7_name">
+		<text>Cordon. Fogata entre las Rocas</text>
+	</string>
+	<string id="st_esc_smart_terrain_5_6_name">
+		<text>Cordon. Fogata en el Bosque</text>
+	</string>
+	<string id="st_esc_smart_terrain_5_4_name">
+		<text>Cordon. Fogata cerca del Camino</text>
+	</string>
+	<string id="st_esc_smart_terrain_5_2_name">
+		<text>Cordon. Puesto de Avanzada Norte</text>
+	</string>
+
+
+	<string id="st_ds_ptr4_name">
+		<text>Paisaje Oscuro. Cami&#243;n Abandonado</text>
+	</string>
+	<string id="st_ds2_lager_st_name">
+		<text>Paisaje Oscuro. Campamento del Acantilado</text>
+	</string>
+	<string id="st_ds2_st_dogs_name">
+		<text>Paisaje Oscuro. Punto de Reuni&#243;n del Bosque</text>
+	</string>
+	<string id="st_ds_grverfer2_name">
+		<text>Paisaje Oscuro. Punto de Reuni&#243;n en el Camino</text>
+	</string>
+	<string id="st_ds_ptr2_name">
+		<text>Paisaje Oscuro. Zona de Descanso</text>
+	</string>
+	<string id="st_ds_deb1_name">
+		<text>Paisaje Oscuro. Bloqueo de Carretera</text>
+	</string>
+	<string id="st_ds_kem2_name">
+		<text>Paisaje Oscuro. Gasolinera</text>
+	</string>
+	<string id="st_ds2_domik_st_name">
+		<text>Darkscape. Forest Hideout</text>
+	</string>
+	<string id="st_ds_boars_nest_name">
+		<text>Paisaje Oscuro. Campamento en el Camino</text>
+	</string>
+	<string id="st_ds2_st_hoofs_name">
+		<text>Paisaje Oscuro. Sitio de Emboscada</text>
+	</string>
+	<string id="st_ds_ptr_name">
+		<text>Paisaje Oscuro. Puente Ferroviario Destruido</text>
+	</string>
+	<string id="st_ds_ptr3_name">
+		<text>Paisaje Oscuro. Estacionamiento de Camiones Radioativos</text>
+	</string>
+	<string id="st_ds_kem3_name">
+		<text>Paisaje Oscuro. Peque&#241;o Puente</text>
+	</string>
+	<string id="st_ds_kem1_name">
+		<text>Paisaje Oscuro. Pasaje a Valle Oscuro</text>
+	</string>
+
+
+	<string id="st_mar_smart_terrain_base_name">
+		<text>Grandes Pantanos. Base Oculta</text>
+	</string>
+	<string id="st_mar_smart_terrain_5_12_name">
+		<text>Grandes Pantanos. Aldea de Pescadores</text>
+	</string>
+	<string id="st_mar_smart_terrain_6_11_name">
+		<text>Grandes Pantanos. Torre de Vigilancia</text>
+	</string>
+	<string id="st_mar_smart_terrain_8_11_name">
+		<text>Grandes Pantanos. Iglesia Destruida</text>
+	</string>
+	<string id="st_mar_smart_terrain_11_11_name">
+		<text>Grandes Pantanos. Aldea Sur</text>
+	</string>
+	<string id="st_mar_smart_terrain_10_10_name">
+		<text>Grandes Pantanos. Fogata cerca Estanque</text>
+	</string>
+	<string id="st_mar_smart_terrain_8_9_name">
+		<text>Grandes Pantanos. Campamento al Borde de la Carretera</text>
+	</string>
+	<string id="st_mar_smart_terrain_6_10_name">
+		<text>Grandes Pantanos. Peque&#241;o Estanque</text>
+	</string>
+	<string id="st_mar_smart_terrain_3_10_name">
+		<text>Grandes Pantanos. Puesto de Avanzada</text>
+	</string>
+	<string id="st_mar_smart_terrain_doc_2_name">
+		<text>Grandes Pantanos. Mirador Abandonado</text>
+	</string>
+	<string id="st_mar_smart_terrain_5_8_name">
+		<text>Grandes Pantanos. Estaci&#243;n de Bombeo</text>
+	</string>
+	<string id="st_mar_smart_terrain_6_8_name">
+		<text>Grandes Pantanos. Cementerio de Botes</text>
+	</string>
+	<string id="st_mar_smart_terrain_8_8_name">
+		<text>Grandes Pantanos. Aldea Quemada</text>
+	</string>
+	<string id="st_mar_smart_terrain_10_7_name">
+		<text>Grandes Pantanos. Fogata cerca de la Carretera</text>
+	</string>
+	<string id="st_mar_smart_terrain_3_7_name">
+		<text>Grandes Pantanos. Campamento</text>
+	</string>
+	<string id="st_mar_smart_terrain_4_7_name">
+		<text>Great Swamp. Eery Bonfire</text>
+	</string>
+	<string id="st_mar_smart_terrain_6_7_name">
+		<text>Grandes Pantanos. Barricada de Tuber&#237;as</text>
+	</string>
+	<string id="st_mar_smart_terrain_7_7_name">
+		<text>Grandes Pantanos. Fogata al aire Libre</text>
+	</string>
+	<string id="st_mar_smart_terrain_10_5_name">
+		<text>Grandes Pantanos. Patio de M&#225;quinas</text>
+	</string>
+	<string id="st_mar_smart_terrain_8_4_name">
+		<text>Grandes Pantanos. Fogata en la Carretera</text>
+	</string>
+	<string id="st_mar_smart_terrain_6_4_name">
+		<text>Grandes Pantanos. Campamento Improvisado</text>
+	</string>
+	<string id="st_mar_smart_terrain_4_5_name">
+		<text>Grandes Pantanos. Aldea en Ruinas</text>
+	</string>
+	<string id="st_mar_smart_terrain_3_3_name">
+		<text>Grandes Pantanos. Muelles de Pesca</text>
+	</string>
+	<string id="st_mar_smart_terrain_doc_name">
+		<text>Grandes Pantanos. Trinchera</text>
+	</string>
+	<string id="st_mar_smart_terrain_12_2_name">
+		<text>Grandes Pantanos. Aldea del Norte</text>
+	</string>
+	<string id="st_mar_smart_terrain_11_3_name">
+		<text>Grandes Pantanos. Fogata cerca del Cami&#243;n</text>
+	</string>
+	<string id="st_mar_smart_terrain_7_3_name">
+		<text>Great Swamp. Encampment near Trainwreck</text>
+	</string>
+
+
+	<string id="st_gar_smart_terrain_3_7_name">
+		<text>Vertedero. Cementerio de Veh&#237;culos</text>
+	</string>
+	<string id="st_gar_smart_terrain_6_7_name">
+		<text>Vertedero. Mirador</text>
+	</string>
+	<string id="st_gar_smart_terrain_5_6_name">
+		<text>Vertedero. Grua derrumbada</text>
+	</string>
+	<string id="st_gar_smart_terrain_6_6_name">
+		<text>Vertedero. Escondite en el Bosque</text>
+	</string>
+	<string id="st_gar_smart_terrain_1_7_name">
+		<text>Vertedero. Puesto de Avanzada Improvisado</text>
+	</string>
+	<string id="st_gar_smart_terrain_3_5_name">
+		<text>Vertedero. Almacen de Trenes</text>
+	</string>
+	<string id="st_gar_smart_terrain_2_4_name">
+		<text>Vertedero. Escondite detr&#225;s de las Tuber&#237;as</text>
+	</string>
+	<string id="st_gar_smart_terrain_1_5_name">
+		<text>Vertedero. Bloqueo de Carretera</text>
+	</string>
+	<string id="st_gar_smart_terrain_4_5_name">
+		<text>Vertedero. Parada de Autob&#250;s</text>
+	</string>
+	<string id="st_gar_smart_terrain_5_5_name">
+		<text>Vertedero. Campamento en la Basura</text>
+	</string>
+	<string id="st_gar_smart_terrain_7_4_name">
+		<text>Vertedero. Peque&#241;o Puesto de Avanzada</text>
+	</string>
+	<string id="st_gar_smart_terrain_6_3_name">
+		<text>Vertedero. Mercado de Pulgas</text>
+	</string>
+	<string id="st_gar_smart_terrain_6_1_name">
+		<text>Vertedero. Campamento Oculto</text>
+	</string>
+	<string id="st_gar_smart_terrain_5_2_name">
+		<text>Vertedero. Puesto de Avanzada Fortificado</text>
+	</string>
+	<string id="st_gar_smart_terrain_4_2_name">
+		<text>Vertedero. Gravera</text>
+	</string>
+	<string id="st_gar_smart_terrain_5_4_name">
+		<text>Vertedero. Puesto en la Carretera</text>
+	</string>
+	<string id="st_gar_smart_terrain_8_3_name">
+		<text>Vertedero. Puesto de Avanzada Oeste</text>
+	</string>
+	<string id="st_gar_smart_terrain_8_5_name">
+		<text>Vertedero. Campamento en el Bosque</text>
+	</string>
+	<string id="st_gar_smart_terrain_5_8_name">
+		<text>Vertedero. Paso Fronterizo</text>
+	</string>
+
+
+	<string id="st_agr_smart_terrain_6_4_name">
+		<text>Agroprom. Guarida en Tunel</text>
+	</string>
+	<string id="st_agr_smart_terrain_5_3_name">
+		<text>Agroprom. Vagon de Tren Fortificado</text>
+	</string>
+	<string id="st_agr_smart_terrain_5_2_name">
+		<text>Agroprom. Campamento en la Colina</text>
+	</string>
+	<string id="st_agr_smart_terrain_2_2_name">
+		<text>Agroprom. Fogata cerca de las Rocas</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_2_name">
+		<text>Agroprom. Campamento del Pantano</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_3_name">
+		<text>Agroprom. Puesto de radio</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_6_near_1_name">
+		<text>Agroprom. Entrada norte</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_6_name">
+		<text>Agroprom. Instituto de Investigaci&#243;n</text>
+	</string>
+	<string id="st_agr_smart_terrain_1_6_near_2_name">
+		<text>Agroprom. Entrada Este</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_6_name">
+		<text>Agroprom. Punto de control de carretera</text>
+	</string>
+	<string id="st_agr_smart_terrain_5_7_name">
+		<text>Agroprom. Campamento cerca del Subterraneo</text>
+	</string>
+	<string id="st_agr_smart_terrain_7_5_name">
+		<text>Agroprom. Fogata Peligrosa</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_name">
+		<text>Agroprom. Complejo Industrial</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_near_3_name">
+		<text>Agroprom. Entrada a la F&#225;brica</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_2_name">
+		<text>Agroprom. Salida Trasera</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_near_1_name">
+		<text>Agroprom. Muelle de carga</text>
+	</string>
+	<string id="st_agr_smart_terrain_4_4_near_2_name">
+		<text>Agroprom. Agroprom, Escape</text>
+	</string>
+
+
+	<string id="st_val_smart_terrain_7_4_name">
+		<text>Valle Oscuro. F&#225;brica Norte</text>
+	</string>
+	<string id="st_val_smart_terrain_7_3_name">
+		<text>Valle Oscuro. Dep&#243;sito de la F&#225;brica</text>
+	</string>
+	<string id="st_val_smart_terrain_9_4_name">
+		<text>Valle Oscuro. Edificio Encantado</text>
+	</string>
+	<string id="st_val_smart_terrain_7_5_name">
+		<text>Valle Oscuro. Bloque de Administraci&#243;n</text>
+	</string>
+	<string id="st_val_smart_terrain_8_6_name">
+		<text>Valle Oscuro. Puesto de Avanzada de la F&#225;brica</text>
+	</string>
+	<string id="st_val_smart_terrain_9_2_name">
+		<text>Valle Oscuro. &#193;rbol Desarraigado</text>
+	</string>
+	<string id="st_val_smart_terrain_6_4_name">
+		<text>Valle Oscuro. Puesto de Avanzada en la Colina</text>
+	</string>
+	<string id="st_val_smart_terrain_6_5_name">
+		<text>Valle Oscuro. Campamento en Ravine</text>
+	</string>
+	<string id="st_val_smart_terrain_8_7_name">
+		<text>Valle Oscuro. Campamento de Remolques</text>
+	</string>
+	<string id="st_val_smart_terrain_7_8_name">
+		<text>Valle Oscuro. Radio Island</text>
+	</string>
+	<string id="st_val_smart_terrain_8_9_name">
+		<text>Valle Oscuro. Isla Solitaria</text>
+	</string>
+	<string id="st_val_smart_terrain_1_2_name">
+		<text>Valle Oscuro. Patio Trasero de la F&#225;brica</text>
+	</string>
+	<string id="st_val_smart_terrain_9_6_name">
+		<text>Valle Oscuro. Campamento cerca de la F&#225;brica</text>
+	</string>
+	<string id="st_val_smart_terrain_9_10_name">
+		<text>Valle Oscuro. Fogata en la Ladera</text>
+	</string>
+	<string id="st_val_smart_terrain_4_0_name">
+		<text>Valle Oscuro. Granja Porcina</text>
+	</string>
+	<string id="st_val_smart_terrain_5_10_name">
+		<text>Valle Oscuro. Punto de Reuni&#243;n</text>
+	</string>
+	<string id="st_val_smart_terrain_3_0_name">
+		<text>Valle Oscuro. Campamento Improvisado</text>
+	</string>
+	<string id="st_val_smart_terrain_7_11_name">
+		<text>Valle Oscuro. Pasaje a Paisaje Oscuro</text>
+	</string>
+
+
+	<string id="st_yan_smart_terrain_6_4_name">
+		<text>Yantar. B&#250;nker de Sakharov</text>
+	</string>
+	<string id="st_yan_smart_terrain_3_6_name">
+		<text>Yantar. Tierras Bajas</text>
+	</string>
+	<string id="st_yan_smart_terrain_4_5_name">
+		<text>Yantar. Subestaci&#243;n</text>
+	</string>
+	<string id="st_yan_smart_terrain_2_5_name">
+		<text>Yantar. Entrada a la f&#225;brica</text>
+	</string>
+	<string id="st_yan_smart_terrain_1_6_name">
+		<text>Yantar. Campamento de Anomal&#237;as</text>
+	</string>
+	<string id="st_yan_smart_terrain_3_4_name">
+		<text>Yantar. Cobertizo de la F&#225;brica</text>
+	</string>
+	<string id="st_yan_smart_terrain_zombi_spawn_name">
+		<text>Yantar. Gr&#250;a de F&#225;brica Colapsada</text>
+	</string>
+	<string id="st_yan_smart_terrain_2_4_name">
+		<text>Yantar. F&#225;brica Misteriosa</text>
+	</string>
+	<string id="st_yan_smart_terrain_5_5_name">
+		<text>Yantar. Entrada de Drenaje</text>
+	</string>
+	<string id="st_yan_smart_terrain_4_4_name">
+		<text>Yantar. Hilltop</text>
+	</string>
+	<string id="st_yan_smart_terrain_5_3_name">
+		<text>Yantar. Lago Yantar</text>
+	</string>
+	<string id="st_yan_smart_terrain_6_2_name">
+		<text>Yantar. Mirador</text>
+	</string>
+	<string id="st_yan_smart_terrain_4_2_name">
+		<text>Yantar. Campamento de Anomal&#237;as de Fogatas</text>
+	</string>
+	<string id="st_yan_smart_terrain_snork_u_name">
+		<text>Yantar. Yantar, Guarida del Snork</text>
+	</string>
+
+
+	<string id="st_ros_smart_stalker_killers1_name">
+		<text>Territorio salvaje. Sitio de construcci&#243;n</text>
+	</string>
+	<string id="st_ros_smart_monster7_name">
+		<text>Territorio salvaje. Paso subterr&#225;neo</text>
+	</string>
+	<string id="st_ros_smart_snork1_name">
+		<text>Territorio salvaje. Cobertizo radioactivo</text>
+	</string>
+	<string id="st_ros_smart_killers1_name">
+		<text>Territorio salvaje. Entrada</text>
+	</string>
+	<string id="st_ros_smart_stalker1_name">
+		<text>Territorio salvaje. Materiales de Construcci&#243;n Abandonados</text>
+	</string>
+	<string id="st_ros_smart_poltergeist2_name">
+		<text>Territorio salvaje. Estaci&#243;n de Tren de Rundown</text>
+	</string>
+	<string id="st_ros_smart_monster5_name">
+		<text>Territorio salvaje. T&#250;nel Colapsado</text>
+	</string>
+	<string id="st_ros_smart_monster4_name">
+		<text>Territorio salvaje. Tren del Carb&#243;n</text>
+	</string>
+
+
+	<string id="st_bar_zastava_2_name">
+		<text>Rostok. Puesto de Avanzada Oeste</text>
+	</string>
+	<string id="st_bar_zastava_dogs_lair_2_name">
+		<text>Rostok. Guarida Mutante</text>
+	</string>
+	<string id="st_bar_visitors_name">
+		<text>Rostok. Bar 100 Rads</text>
+	</string>
+	<string id="st_bar_dolg_general_name">
+		<text>Rostok. Entrada a la Base</text>
+	</string>
+	<string id="st_bar_dolg_bunker_name">
+		<text>Rostok. Cuarteles Improvisados</text>
+	</string>
+	<string id="st_bar_zastava_name">
+		<text>Rostok. Puesto de Avanzada Sur</text>
+	</string>
+	<string id="st_bar_zastava_dogs_lair_name">
+		<text>Rostok. Foso de Rostok</text>
+	</string>
+
+
+	<string id="st_trc_sim_20_name">
+		<text>Cementerio de camiones. Punto de control Este</text>
+	</string>
+	<string id="st_trc_sim_17_name">
+		<text>Cementerio de camiones. Campamento Detr&#225;s de los Escombros</text>
+	</string>
+	<string id="st_trc_sim_7_name">
+		<text>Cementerio de camiones. Mirador en el Bosque</text>
+	</string>
+	<string id="st_trc_sim_21_name">
+		<text>Cementerio de camiones. Backwoods</text>
+	</string>
+	<string id="st_trc_sim_4_name">
+		<text>Cementerio de camiones. Colina cerca de la Casa Quemada</text>
+	</string>
+	<string id="st_trc_sim_18_name">
+		<text>Cementerio de camiones. Campamento entre Camiones</text>
+	</string>
+	<string id="st_trc_sim_1_name">
+		<text>Cementerio de camiones. Puesto de Observaci&#243;n</text>
+	</string>
+	<string id="st_trc_sim_2_name">
+		<text>Cementerio de camiones. Campamento cerca de Contenedores</text>
+	</string>
+	<string id="st_trc_sim_3_name">
+		<text>Cementerio de camiones. Bifurcaci&#243;n del Camino</text>
+	</string>
+	<string id="st_trc_sim_12_name">
+		<text>Cementerio de camiones. Escondite del Bosque</text>
+	</string>
+	<string id="st_trc_sim_10_name">
+		<text>Cementerio de camiones. Rinc&#243;n del Bosque</text>
+	</string>
+	<string id="st_trc_sim_11_name">
+		<text>Cementerio de camiones. Desguace de Veh&#237;culos Militares</text>
+	</string>
+	<string id="st_trc_sim_14_name">
+		<text>Cementerio de camiones. Desguace de Camiones de Bomberos</text>
+	</string>
+	<string id="st_trc_sim_15_name">
+		<text>Cementerio de camiones. Desguace de Helic&#243;pteros</text>
+	</string>
+	<string id="st_trc_sim_6_name">
+		<text>Cementerio de camiones. Torre de Vigilancia</text>
+	</string>
+	<string id="st_trc_sim_19_name">
+		<text>Cementerio de camiones. Desguace de Camiones</text>
+	</string>
+	<string id="st_trc_sim_5_name">
+		<text>Cementerio de camiones. Cruce</text>
+	</string>
+	<string id="st_trc_sim_16_name">
+		<text>Cementerio de camiones. Afueras del Desguace</text>
+	</string>
+	<string id="st_trc_sim_9_name">
+		<text>Cementerio de camiones. Hilltop</text>
+	</string>
+	<string id="st_trc_sim_13_name">
+		<text>Cementerio de camiones. Punto de Encuentro cerca de Ravine</text>
+	</string>
+	<string id="st_trc_sim_8_name">
+		<text>Cementerio de camiones. Desguace de Camiones Cisterna</text>
+	</string>
+
+
+	<string id="st_cit_bandits_2_name">
+		<text>Ciudad de los Muertos. Casas Aisladas</text>
+	</string>
+	<string id="st_cit_kanaliz1_name">
+		<text>La Ciudad Muerta. City Vantage Point</text>
+	</string>
+	<string id="st_cit_bandits_name">
+		<text>Ciudad de los Muertos. Escuela Abandonada</text>
+	</string>
+	<string id="st_cit_killers_name">
+		<text>Ciudad de los Muertos. Centro Deportivo</text>
+	</string>
+	<string id="st_cit_killers_vs_bandits_name">
+		<text>Ciudad de la Muerte . Monobloque Abandonado</text>
+	</string>
+	<string id="st_cit_killers_2_name">
+		<text>Ciudad de la Muerte. Casas Destruidas</text>
+	</string>
+	<string id="st_cit_kanaliz2_name">
+		<text>Ciudad de la Muerte. Depresi&#243;n del Terreno</text>
+	</string>
+	<string id="st_zombie_smart_ds_mlr_1_name">
+		<text>Ciudad de los Muertos. Muerto Yard</text>
+	</string>
+	<string id="st_zombie_smart_ds_mlr_2_name">
+		<text>Ciudad de la Muerte. Apartamentos</text>
+	</string>
+
+
+	<string id="st_mil_smart_terrain_7_4_name">
+		<text>Almacenes Militares. Pueblo Abandonado</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_12_name">
+		<text>Almacenes Militares. Base Militar</text>
+	</string>
+	<string id="st_mil_smart_terrain_8_3_name">
+		<text>Almacenes Militares. Refugio Escondido</text>
+	</string>
+	<string id="st_mil_smart_terrain_2_10_name">
+		<text>Almacenes Militares. Pueblo Chupasangre</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_3_name">
+		<text>Almacenes Militares. Torre de Vigilancia</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_2_name">
+		<text>Almacenes Militares. Servicios B&#225;sicos del Pueblo</text>
+	</string>
+	<string id="st_mil_smart_terrain_2_2_name">
+		<text>Almacenes Militares. Puesto de Avanzada Fortificado</text>
+	</string>
+	<string id="st_mil_smart_terrain_2_4_name">
+		<text>Almacenes Militares. Granja Abandonada</text>
+	</string>
+	<string id="st_mil_smart_terrain_2_1_name">
+		<text>Almacenes Militares. Escondite</text>
+	</string>
+	<string id="st_mil_smart_terrain_2_6_name">
+		<text>Almacenes Militares. Helic&#243;ptero Derribado</text>
+	</string>
+	<string id="st_mil_smart_terrain_3_8_name">
+		<text>Almacenes Militares. La Barrera</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_8_name">
+		<text>Almacenes Militares. Mirador de la Barrera</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_7_name">
+		<text>Almacenes Militares. Campamento en la Carretera</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_8_name">
+		<text>Almacenes Militares. Entrada a la Base Militar</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_10_name">
+		<text>Almacenes Militares. Subestaci&#243;n Destru&#237;da</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_name">
+		<text>Almacenes Militares. Bases Militares de uso Com&#250;n</text>
+	</string>
+	<string id="st_mil_smart_terrain_4_5_name">
+		<text>Almacenes Militares. Campamento a la Interperie</text>
+	</string>
+
+
+	<string id="st_rad_entrance_name">
+		<text>Radar. Punto de Control Arruinado</text>
+	</string>
+	<string id="st_rad_valley_name">
+		<text>Radar. Tanque Abandonado</text>
+	</string>
+	<string id="st_rad_after_valley_name">
+		<text>Radar. Veh&#237;culos Abandonados</text>
+	</string>
+	<string id="st_rad2_prip_teleport_name">
+		<text>Radar. Instalaci&#243;n Secreta</text>
+	</string>
+	<string id="st_rad2_loner_0001_name">
+		<text>Radar. Bloqueo de Carreteras</text>
+	</string>
+	<string id="st_rad_snork1_name">
+		<text>Radar. Escondite en el Suelo</text>
+	</string>
+	<string id="st_rad_zombied1_name">
+		<text>Radar. Guarida Mutante</text>
+	</string>
+	<string id="st_rad_snork2_name">
+		<text>Radar. Pasaje</text>
+	</string>
+	<string id="st_rad_pseudodogs_name">
+		<text>Radar. Escondite cerca del Helic&#243;ptero</text>
+	</string>
+	<string id="st_rad_bloodsucker_name">
+		<text>Radar. Punto de reuni&#243;n junto a la Valla</text>
+	</string>
+	<string id="st_rad_zombied2_name">
+		<text>Radar. Lonesome Spot</text>
+	</string>
+	<string id="st_rad_antenna_patrol_name">
+		<text>Radar. Cauterizador Cerebral </text>
+	</string>
+	<string id="st_rad_antenna_monolith_name">
+		<text>Radar. Entrada al Cauterizador Cerebral </text>
+	</string>
+	<string id="st_rad_antenna_camper_name">
+		<text>Radar. Entrada del T&#250;nel</text>
+	</string>
+	<string id="st_rad2_loner_0002_name">
+		<text>Radar. Bolsas de Arena</text>
+	</string>
+	<string id="st_rad2_loner_0000_name">
+		<text>Radar. Puesto de Avanzada</text>
+	</string>
+	<string id="st_rad_valley_dogs_name">
+		<text>Radar. Radar, A la Guarida del Perro</text>
+	</string>
+
+
+	<string id="st_red_smart_terrain_6_3_name">
+		<text>Bosque rojo. Campamento diab&#243;lico</text>
+	</string>
+	<string id="st_red_smart_terrain_monsters_name">
+		<text>Bosque rojo. Tanque abandonado</text>
+	</string>
+	<string id="st_red_smart_terrain_monsters_2_name">
+		<text>Bosque rojo. Eje Minero</text>
+	</string>
+	<string id="st_red_smart_terrain_6_6_name">
+		<text>Bosque rojo. Fogata en el Bosque</text>
+	</string>
+	<string id="st_red_smart_terrain_bridge_name">
+		<text>Bosque rojo. Puente Limansk</text>
+	</string>
+	<string id="st_red_smart_terrain_5_5_name">
+		<text>Bosque rojo. Escondite cerca de las Rocas</text>
+	</string>
+	<string id="st_red_smart_terrain_5_6_name">
+		<text>Bosque rojo. Claro del bosque</text>
+	</string>
+	<string id="st_red_smart_terrain_monsters_3_name">
+		<text>Bosque rojo. Guarida Conocida</text>
+	</string>
+	<string id="st_red_smart_terrain_4_5_name">
+		<text>Bosque rojo. Viejo Campamento del Bosque</text>
+	</string>
+	<string id="st_red_smart_terrain_4_3_name">
+		<text>Bosque rojo. Claro</text>
+	</string>
+	<string id="st_red_smart_terrain_3_3_name">
+		<text>Bosque rojo. Punto de Encuentro</text>
+	</string>
+	<string id="st_red_smart_terrain_4_2_name">
+		<text>Bosque rojo. Campamento en la Entrada</text>
+	</string>
+	<string id="st_red_smart_terrain_3_1_name">
+		<text>Bosque rojo. Punto de control Abandonado</text>
+	</string>
+	<string id="st_red_smart_terrain_3_2_name">
+		<text>Bosque rojo. Barracas de la Mina</text>
+	</string>
+	<string id="st_red_bridge_bandit_smart_skirmish_name">
+		<text>Bosque rojo. T&#250;nel Limansk</text>
+	</string>
+
+
+	<string id="st_lim_smart_terrain_1_name">
+		<text>Limansk. Campamento cerca de Casa Destruida</text>
+	</string>
+	<string id="st_lim_smart_terrain_3_name">
+		<text>Limansk. Punto de control</text>
+	</string>
+	<string id="st_lim_smart_terrain_4_name">
+		<text>Limansk. Barrera de Anomal&#237;as</text>
+	</string>
+	<string id="st_lim_smart_terrain_5_name">
+		<text>Limansk. Pasaje dentro de la Casa</text>
+	</string>
+	<string id="st_lim_smart_terrain_6_name">
+		<text>Limansk. Edificio Abandonado</text>
+	</string>
+	<string id="st_lim_smart_terrain_7_name">
+		<text>Limansk. Puente Destruido</text>
+	</string>
+	<string id="st_lim_smart_terrain_8_name">
+		<text>Limansk. Subestaci&#243;n cerca de los Cobertizos</text>
+	</string>
+	<string id="st_lim_smart_terrain_9_name">
+		<text>Limansk. Obra en Construcci&#243;n Antigua </text>
+	</string>
+	<string id="st_lim_smart_terrain_10_name">
+		<text>Limansk. Casa de la Calle Run Down</text>
+	</string>
+
+	<string id="st_katacomb_smart_terrain_name">
+		<text>Hospital Abandonado</text>
+	</string>
+
+	<string id="st_pri_smart_neutral_stalker1_name">
+		<text>Pripyat. Campamento en Burned Pit</text>
+	</string>
+	<string id="st_pri_smart_monolith_stalker2_name">
+		<text>Pripyat. Campamento cerca de los Monobloques</text>
+	</string>
+	<string id="st_pri_smart_monster_lair1_name">
+		<text>Pripyat. Puesto de Guardia cerca del Remolque</text>
+	</string>
+	<string id="st_pri_smart_monolith_stalker3_name">
+		<text>Pripyat. Carretera Principal</text>
+	</string>
+	<string id="st_pri_smart_controler_lair1_name">
+		<text>Pripyat. Edificio Desierto</text>
+	</string>
+	<string id="st_pri_smart_monolith_stalker4_name">
+		<text>Pripyat. Puesto de avanzada cerca de la Estatua</text>
+	</string>
+	<string id="st_pri_depot_name">
+		<text>Pripyat. Estaci&#243;n de Autobuses</text>
+	</string>
+	<string id="st_pri_smart_controler_lair2_name">
+		<text>Pripyat. Campamento cerca de Autobuses Oxidados</text>
+	</string>
+	<string id="st_pri_smart_snork_lair2_name">
+		<text>Pripyat. Estatua Colapsada de Lenin</text>
+	</string>
+	<string id="st_pri_smart_tushkano_lair1_name">
+		<text>Pripyat. Hotel Pripyat</text>
+	</string>
+	<string id="st_pri_smart_snork_lair1_name">
+		<text>Pripyat. Campamento cerca de las ruinas Radiactivas</text>
+	</string>
+	<string id="st_pri_monolith_name">
+		<text>Pripyat. Centro Cultural</text>
+	</string>
+	<string id="st_pri_smart_monolith_stalker6_name">
+		<text>Pripyat. Entrada del estadio</text>
+	</string>
+	<string id="st_pri_smart_pseudodog_lair1_name">
+		<text>Pripyat. Campamento Solitario</text>
+	</string>
+	<string id="st_pri_smart_giant_lair1_name">
+		<text>Pripyat. Estadio Arena</text>
+	</string>
+	<string id="st_pri_smart_bloodsucker_lair1_name">
+		<text>Pripyat. Antiguo Mercado</text>
+	</string>
+
+
+	<string id="st_gen_smart_terrain_cemetery_name">
+		<text>Generadores. Cementerio</text>
+	</string>
+	<string id="st_gen_smart_terrain_junk_name">
+		<text>Generadores. Gr&#250;a Colapsada</text>
+	</string>
+	<string id="st_gen_smart_terrain_lab_entrance_2_name">
+		<text>Generadores. Subestaci&#243;n Abandonada</text>
+	</string>
+	<string id="st_gen_smart_terrain_lab_entrance_name">
+		<text>Generadores. Superficie del Laboratorio de Guerra</text>
+	</string>
+	<string id="st_gen_smart_terrain_forest_name">
+		<text>Generadores. Eery Forest Hideout</text>
+	</string>
+	<string id="st_gen_smart_terrain_urod_name">
+		<text>Generadores. Mirador</text>
+	</string>
+	<string id="st_gen_smart_terrain_military_name">
+		<text>Generadores. Punto de Control Abandonado</text>
+	</string>
+
+	<string id="st_warlab_common_consciousness_smart_terrain_name">
+		<text>Laboratorio de Guerra Monolito</text>
+	</string>
+
+	<string id="st_pri_b36_smart_terrain_name">
+		<text>Las afueras. Puerto del R&#237;o</text>
+	</string>
+	<string id="st_pri_sim_2_name">
+		<text>Las afueras. Camino sin salida</text>
+	</string>
+	<string id="st_pri_a28_heli_name">
+		<text>Las afueras. Patio del Teatro</text>
+	</string>
+	<string id="st_pri_sim_1_name">
+		<text>Las afueras. Cine Prometeo</text>
+	</string>
+	<string id="st_pri_b303_name">
+		<text>Las afueras. Antiguo centro de Servicios</text>
+	</string>
+	<string id="st_pri_a28_evac_name">
+		<text>Las afueras. Aparcamiento del Edificio de Apartamentos</text>
+	</string>
+	<string id="st_pri_b302_name">
+		<text>Las afueras. Escondite</text>
+	</string>
+	<string id="st_pri_sim_6_name">
+		<text>Las afueras. Callej&#243;n del Hospital</text>
+	</string>
+	<string id="st_pri_a17_name">
+		<text>Las afueras. Hospital</text>
+	</string>
+	<string id="st_pri_b301_name">
+		<text>Las afueras. Escuela Destruida</text>
+	</string>
+	<string id="st_pri_a28_school_name">
+		<text>Las afueras. Puerta de la Escuela</text>
+	</string>
+	<string id="st_pri_b306_name">
+		<text>Las afueras. Centro de Servicios Yubileiny</text>
+	</string>
+	<string id="st_pri_sim_10_name">
+		<text>Las afueras. Carretera del Diablo</text>
+	</string>
+	<string id="st_pri_sim_12_name">
+		<text>Las afueras. Guarida Mutante</text>
+	</string>
+	<string id="st_pri_a16_name">
+		<text>Las afueras. Lavander&#237;a</text>
+	</string>
+	<string id="st_pri_a28_base_name">
+		<text>Las afueras. Lavander&#237;a Frontyard</text>
+	</string>
+	<string id="st_pri_b35_military_name">
+		<text>Las afueras. Mirador de la ciudad</text>
+	</string>
+	<string id="st_pri_sim_5_name">
+		<text>Las afueras. Pasaje del Monobloque</text>
+	</string>
+	<string id="st_pri_a28_shop_name">
+		<text>Las afueras. Tienda Abandonada</text>
+	</string>
+	<string id="st_pri_a28_arch_name">
+		<text>Las afueras. Edificio del Arco</text>
+	</string>
+	<string id="st_pri_a22_smart_terrain_name">
+		<text>Las afueras. Campamento entre apartamentos</text>
+	</string>
+	<string id="st_pri_sim_3_name">
+		<text>Las afueras. Puerta del Jard&#237;n de Infancia</text>
+	</string>
+	<string id="st_pri_a25_smart_terrain_name">
+		<text>Las afueras. Jard&#237;n de Infancia</text>
+	</string>
+	<string id="st_pri_b307_name">
+		<text>Las afueras. Parque de Bomberos</text>
+	</string>
+	<string id="st_pri_sim_7_name">
+		<text>Las afueras. Rinc&#243;n solitario</text>
+	</string>
+	<string id="st_pri_sim_9_name">
+		<text>Las afueras. Campamento cerca de la Subestaci&#243;n</text>
+	</string>
+	<string id="st_pri_a21_smart_terrain_name">
+		<text>Las afueras. Tienda de Comestibles</text>
+	</string>
+	<string id="st_pri_sim_8_name">
+		<text>Las afueras. Guarida del Perro</text>
+	</string>
+	<string id="st_pri_sim_11_name">
+		<text>Las afueras. Campamento Abierto</text>
+	</string>
+	<string id="st_pri_a18_smart_terrain_name">
+		<text>Las afueras. Librer&#237;a</text>
+	</string>
+	<string id="st_pri_b304_monsters_smart_terrain_name">
+		<text>Las afueras. Tienda por Departamentos</text>
+	</string>
+	<string id="st_pri_sim_4_name">
+		<text>Las afueras. Estaci&#243;n de Autobuses</text>
+	</string>
+	<string id="st_pri_b35_mercs_name">
+		<text>Las afueras. Complejo de apartamentos</text>
+	</string>
+	<string id="st_pri_b305_dogs_name">
+		<text>Las afueras. Complejo de Apartamentos Patio trasero</text>
+	</string>
+	<string id="st_pri_a15_name">
+		<text>Las afueras. Entrada de Alcantarilla</text>
+	</string>
+
+
+	<string id="st_jup_a12_name">
+		<text>J&#250;piter. Almac&#233;n de Contenedores</text>
+	</string>
+	<string id="st_jup_sim_10_name">
+		<text>J&#250;piter. Lair</text>
+	</string>
+	<string id="st_jup_a12_merc_name">
+		<text>J&#250;piter. Puesto de Carretera cerca del Auto</text>
+	</string>
+	<string id="st_jup_sim__name">
+		<text>J&#250;piter. T&#250;nel de Tren Colapsado</text>
+	</string>
+	<string id="st_jup_b203_name">
+		<text>J&#250;piter. Complejo de Ventilaci&#243;n Subterr&#225;nea</text>
+	</string>
+	<string id="st_jup_b212_name">
+		<text>J&#250;piter. Complejo de Ventilaci&#243;n</text>
+	</string>
+	<string id="st_jup_b32_name">
+		<text>J&#250;piter. Estacionamiento</text>
+	</string>
+	<string id="st_jup_sim_1_name">
+		<text>J&#250;piter. Campamento Cerca de las V&#237;as</text>
+	</string>
+	<string id="st_jup_b205_smart_terrain_name">
+		<text>J&#250;piter. Complejo AA de Volkhov</text>
+	</string>
+	<string id="st_jup_sim_16_name">
+		<text>J&#250;piter. Campamento Cerca del Lago</text>
+	</string>
+	<string id="st_jup_sim_9_name">
+		<text>J&#250;piter. Territorio Zombie</text>
+	</string>
+	<string id="st_jup_b19_name">
+		<text>J&#250;piter. Pueblo Kopachy</text>
+	</string>
+	<string id="st_jup_b6_anom_2_name">
+		<text>J&#250;piter. Kopachy Lookout</text>
+	</string>
+	<string id="st_jup_b1_name">
+		<text>J&#250;piter. T&#250;nel del Noroeste</text>
+	</string>
+	<string id="st_jup_b46_name">
+		<text>J&#250;piter. Torre de Refrigeraci&#243;n</text>
+	</string>
+	<string id="st_jup_sim_21_name">
+		<text>J&#250;piter. Escondite Solitario</text>
+	</string>
+	<string id="st_jup_sim_8_name">
+		<text>J&#250;piter. Marsh</text>
+	</string>
+	<string id="st_jup_sim_14_name">
+		<text>J&#250;piter. Guarida Mutante</text>
+	</string>
+	<string id="st_jup_b202_name">
+		<text>J&#250;piter. Estaci&#243;n de Tren</text>
+	</string>
+	<string id="st_jup_a6_name">
+		<text>J&#250;piter. Estaci&#243;n Yanov</text>
+	</string>
+	<string id="st_jup_b211_name">
+		<text>J&#250;piter. Campamento Cerca del Pantano</text>
+	</string>
+	<string id="st_jup_sim_20_name">
+		<text>J&#250;piter. Puente Destruido</text>
+	</string>
+	<string id="st_jup_b200_name">
+		<text>J&#250;piter. J&#250;piter Lookout</text>
+	</string>
+	<string id="st_jup_b200_tushkan_smart_terrain_name">
+		<text>J&#250;piter. F&#225;brica de Cemento</text>
+	</string>
+	<string id="st_jup_sim_7_name">
+		<text>J&#250;piter. Mirador de la Cantera</text>
+	</string>
+	<string id="st_jup_b25_name">
+		<text>J&#250;piter. Cantera</text>
+	</string>
+	<string id="st_jup_b207_name">
+		<text>J&#250;piter. Puesto de Avanzada Improvisado</text>
+	</string>
+	<string id="st_jup_b207_depot_attack_name">
+		<text>J&#250;piter. Llanuras Abiertas</text>
+	</string>
+	<string id="st_jup_sim_15_name">
+		<text>J&#250;piter. Cima de la colina</text>
+	</string>
+	<string id="st_jup_b206_name">
+		<text>J&#250;piter. Campamento al Borde del Camino</text>
+	</string>
+	<string id="st_jup_a10_smart_terrain_name">
+		<text>J&#250;piter. Punto de Control</text>
+	</string>
+	<string id="st_jup_b41_name">
+		<text>J&#250;piter. B&#250;nker de Hermann</text>
+	</string>
+	<string id="st_jup_sim_6_name">
+		<text>J&#250;piter. Pendiente de la cantera</text>
+	</string>
+	<string id="st_jup_b209_name">
+		<text>J&#250;piter. Entrada a Anomal&#237;a del bet&#250;n</text>
+	</string>
+	<string id="st_jup_sim_5_name">
+		<text>J&#250;piter. Bifurcaci&#243;n del Camino</text>
+	</string>
+	<string id="st_jup_sim_4_name">
+		<text>J&#250;piter. Maquinaria Abandonada</text>
+	</string>
+	<string id="st_jup_b204_name">
+		<text>J&#250;piter. Puesto de avanzada del Canal</text>
+	</string>
+	<string id="st_jup_sim_11_name">
+		<text>J&#250;piter. Backwoods</text>
+	</string>
+	<string id="st_jup_sim_12_name">
+		<text>J&#250;piter. Campamento frente al complejo</text>
+	</string>
+	<string id="st_jup_sim_18_name">
+		<text>J&#250;piter. Dep&#243;sito de f&#225;brica de J&#250;piter</text>
+	</string>
+	<string id="st_jup_sim_17_name">
+		<text>J&#250;piter. Canal Seco</text>
+	</string>
+	<string id="st_jup_a9_name">
+		<text>J&#250;piter. Entrada a la F&#225;brica</text>
+	</string>
+	<string id="st_jup_b47_name">
+		<text>J&#250;piter. Carreteras Interiores</text>
+	</string>
+	<string id="st_jup_sim_19_name">
+		<text>J&#250;piter. F&#225;brica de Chatarra</text>
+	</string>
+	<string id="st_jup_b8_smart_terrain_name">
+		<text>J&#250;piter. Helic&#243;ptero Ca&#237;do</text>
+	</string>
+	<string id="st_jup_b219_name">
+		<text>J&#250;piter. F&#225;brica</text>
+	</string>
+	<string id="st_jup_b4_name">
+		<text>J&#250;piter. Escondite bajo el Puente</text>
+	</string>
+	<string id="st_jup_sim_3_name">
+		<text>J&#250;piter. Pantano poco Profundo</text>
+	</string>
+	<string id="st_jup_sim_13_name">
+		<text>J&#250;piter. Campamento peligroso</text>
+	</string>
+	<string id="st_jup_b205_smart_terrain_tushkano_name">
+		<text>J&#250;piter. Metro Volkhov</text>
+	</string>
+	<string id="st_jup_sim_2_name">
+		<text>J&#250;piter. T&#250;nel del Oeste</text>
+	</string>
+	<string id="st_jup_b208_name">
+		<text>J&#250;piter. T&#250;nel del Este</text>
+	</string>
+	<string id="st_depo_terrain_name">
+		<text>J&#250;piter. F&#225;brica Subterr&#225;nea</text>
+	</string>
+
+
+	<string id="st_aes_smart_terrain_monolit_blockpost4_name">
+		<text>CNPP Sur. Estaci&#243;n de Energ&#237;a</text>
+	</string>
+	<string id="st_aes_smart_terrain_monolit_blockpost2_name">
+		<text>CNPP Sur. Tanques</text>
+	</string>
+	<string id="st_aes_smart_terrain_monolit_blockpost_name">
+		<text>CNPP Sur. Entrada a la Central El&#233;ctrica</text>
+	</string>
+	<string id="st_aes_smart_terrain_soldier2_name">
+		<text>CNPP Sur. Complejo de Oficinas</text>
+	</string>
+	<string id="st_aes_smart_terrain_monsters1_name">
+		<text>CNPP Sur. Carretera principal</text>
+	</string>
+	<string id="st_aes_smart_terrain_monsters2_name">
+		<text>CNPP Sur. Campamento Distante</text>
+	</string>
+	<string id="st_aes_smart_terrain_monsters3_name">
+		<text>CNPP Sur. Torres de Transmisi&#243;n</text>
+	</string>
+	<string id="st_aes_smart_terran_soldier_name">
+		<text>CNPP Sur. Puesto de Avanzada</text>
+	</string>
+	<string id="st_aes_smart_terrain_monsters4_name">
+		<text>CNPP Sur. Campamento Solitario</text>
+	</string>
+
+
+	<string id="st_sar_monolith_general_name">
+		<text>Sarc&#243;fago</text>
+	</string>
+	<string id="st_sar_monolith_sklad_name">
+		<text>Sarc&#243;fago</text>
+	</string>
+	<string id="st_sar_monolith_bloodsuckers_name">
+		<text>Sarc&#243;fago</text>
+	</string>
+	<string id="st_sar_monolith_poltergeists_name">
+		<text>Sarc&#243;fago</text>
+	</string>
+	<string id="st_sar_monolith_guard_name">
+		<text>Sarc&#243;fago</text>
+	</string>
+	<string id="st_sar_monolith_zombies_name">
+		<text>Sarc&#243;fago</text>
+	</string>
+
+
+	<string id="st_aes2_monolith_snipers_2_name">
+		<text>CNPP Norte. Campo interno</text>
+	</string>
+	<string id="st_aes2_monolith_snipers_1_name">
+		<text>CNPP Norte. Tejados</text>
+	</string>
+	<string id="st_aes2_monolith_camp1_name">
+		<text>CNPP Norte. Gran campamento</text>
+	</string>
+	<string id="st_aes2_monolith_camp2_name">
+		<text>CNPP Norte. Mirador interno</text>
+	</string>
+	<string id="st_aes2_monsters2_name">
+		<text>CNPP Norte. Zona de Aterrizaje</text>
+	</string>
+	<string id="st_aes2_monolith_camp3_name">
+		<text>CNPP Norte. Campamento en la azotea</text>
+	</string>
+	<string id="st_aes2_monsters1_name">
+		<text>CNPP Norte. Salida Trasera</text>
+	</string>
+	<string id="st_aes2_monolith_snipers_3_name">
+		<text>CNPP Norte. Dep&#243;sito de la Central El&#233;ctrica</text>
+	</string>
+	<string id="st_aes2_monolith_camp4_name">
+		<text>CNPP Norte. Almacen en la Azotea</text>
+	</string>
+
+
+	<string id="st_zat_b40_smart_terrain_name">
+		<text>Zaton. Estaci&#243;n de Procesamiento</text>
+	</string>
+	<string id="st_zat_sim_10_name">
+		<text>Zaton. Bosques del Diablo</text>
+	</string>
+	<string id="st_zat_sim_14_name">
+		<text>Zaton. Meseta Sur</text>
+	</string>
+	<string id="st_zat_b12_name">
+		<text>Zaton. Puente Preobrazhensky</text>
+	</string>
+	<string id="st_zat_sim_11_name">
+		<text>Zaton. Campamento improvisado</text>
+	</string>
+	<string id="st_zat_b54_name">
+		<text>Zaton. Campamento de Scar</text>
+	</string>
+	<string id="st_zat_sim_24_name">
+		<text>Zaton. Cruce del r&#237;o</text>
+	</string>
+	<string id="st_zat_b5_smart_terrain_name">
+		<text>Zaton. Estaci&#243;n de Forester</text>
+	</string>
+	<string id="st_zat_sim_28_name">
+		<text>Zaton. Escondite cerca del Puente</text>
+	</string>
+	<string id="st_zat_sim_16_name">
+		<text>Zaton. Guarida Mutante</text>
+	</string>
+	<string id="st_zat_b14_smart_terrain_name">
+		<text>Zaton. Estaci&#243;n de Dragado</text>
+	</string>
+	<string id="st_zat_sim_18_name">
+		<text>Zaton. Colinas Solitarias</text>
+	</string>
+	<string id="st_zat_sim_1_name">
+		<text>Zaton. Lair in the Hills</text>
+	</string>
+	<string id="st_zat_b53_name">
+		<text>Zaton. Campo de anomal&#237;a Calderas</text>
+	</string>
+	<string id="st_zat_sim_29_name">
+		<text>Zaton. Wooded Hill</text>
+	</string>
+	<string id="st_zat_a1_name">
+		<text>Zaton. Lugar de Campamento Remoto</text>
+	</string>
+	<string id="st_zat_sim_15_name">
+		<text>Zaton. Mirador Noreste del R&#237;o </text>
+	</string>
+	<string id="st_zat_b42_smart_terrain_name">
+		<text>Zaton. Viejo Muelle</text>
+	</string>
+	<string id="st_zat_sim_2_name">
+		<text>Zaton. Campamento de la costa</text>
+	</string>
+	<string id="st_zat_sim_30_name">
+		<text>Zaton. Colinas Olvidadas</text>
+	</string>
+	<string id="st_zat_sim_3_name">
+		<text>Zaton. Mirador Norte del R&#237;o</text>
+	</string>
+	<string id="st_zat_sim_19_name">
+		<text>Zaton. Cima Peligrosa de la Colina</text>
+	</string>
+	<string id="st_zat_sim_4_name">
+		<text>Zaton. Carretera Norte</text>
+	</string>
+	<string id="st_zat_b104_zombied_name">
+		<text>Zaton. Aserradero Abandonado</text>
+	</string>
+	<string id="st_zat_sim_5_name">
+		<text>Zaton. Escondite detr&#225;s de las rocas</text>
+	</string>
+	<string id="st_zat_b101_name">
+		<text>Zaton. Campamento Mortal</text>
+	</string>
+	<string id="st_zat_sim_6_name">
+		<text>Zaton. Puesto de Vigilancia Anomalias del Pantano</text>
+	</string>
+	<string id="st_zat_b38_name">
+		<text>Zaton. Complejo de Antenas Krug</text>
+	</string>
+	<string id="st_zat_b38u_name">
+		<text>Zaton. Complejo de Ventilaci&#243;n</text>
+	</string>
+	<string id="st_zat_sim_7_name">
+		<text>Zaton. Complejo de Bosques</text>
+	</string>
+	<string id="st_zat_sim_8_name">
+		<text>Zaton. Guarida Mutante</text>
+	</string>
+	<string id="st_zat_sim_26_name">
+		<text>Zaton. Campamento del Bosque Antiguo</text>
+	</string>
+	<string id="st_zat_b39_name">
+		<text>Zaton. Campamento de Anomal&#237;as de Oakpine</text>
+	</string>
+	<string id="st_zat_sim_25_name">
+		<text>Zaton. Estaci&#243;n de combustible</text>
+	</string>
+	<string id="st_zat_sim_13_name">
+		<text>Zaton. Campamento al Borde del Camino</text>
+	</string>
+	<string id="st_zat_b33_name">
+		<text>Zaton. Guarida Snork</text>
+	</string>
+	<string id="st_zat_b55_name">
+		<text>Zaton. Campamento de Anomal&#237;a Garra</text>
+	</string>
+	<string id="st_zat_b100_name">
+		<text>Zaton. Bosque de Hierro</text>
+	</string>
+	<string id="st_zat_a23_smart_terrain_name">
+		<text>Zaton. Helic&#243;ptero Estrellado</text>
+	</string>
+	<string id="st_zat_sim_9_name">
+		<text>Zaton. Bosque de Hierro Backwoods</text>
+	</string>
+	<string id="st_zat_b103_merc_smart_name">
+		<text>Zaton. Talleres de la Subestaci&#243;n</text>
+	</string>
+	<string id="st_zat_b56_name">
+		<text>Zaton. Campamento de Anomal&#237;a Circo</text>
+	</string>
+	<string id="st_zat_stalker_base_smart_name">
+		<text>Zaton. Naufragio del Skadovsk</text>
+	</string>
+	<string id="st_zat_sim_20_name">
+		<text>Zaton. Entrada al Subterr&#225;neo</text>
+	</string>
+	<string id="st_zat_b20_smart_terrain_name">
+		<text>Zaton. Burnt Farmstead</text>
+	</string>
+	<string id="st_zat_b28_name">
+		<text>Zaton. Cueva secreta</text>
+	</string>
+	<string id="st_zat_b106_smart_terrain_name">
+		<text>Zaton. Izumrudnoye</text>
+	</string>
+	<string id="st_zat_sim_17_name">
+		<text>Zaton. Entrada Secreta al Subterr&#225;neo</text>
+	</string>
+	<string id="st_zat_sim_21_name">
+		<text>Zaton. Mirador Central</text>
+	</string>
+	<string id="st_zat_sim_27_name">
+		<text>Zaton. R&#237;o poco Profundo</text>
+	</string>
+	<string id="st_zat_b7_stalker_raider_name">
+		<text>Zaton. Sala de m&#225;quinas Shevchenko</text>
+	</string>
+	<string id="st_zat_b7_name">
+		<text>Zaton. Naufragio del Shevchenko</text>
+	</string>
+	<string id="st_zat_sim_23_name">
+		<text>Zaton. R&#237;o Pantanoso</text>
+	</string>
+	<string id="st_zat_b18_name">
+		<text>Zaton. Vieja Barcaza</text>
+	</string>
+	<string id="st_zat_medic_home_start_name">
+		<text>Zaton. Campamento del Muelle</text>
+	</string>
+	<string id="st_zat_b52_name">
+		<text>Zaton. Gr&#250;as de Muelle</text>
+	</string>
+	<string id="st_zat_sim_12_name">
+		<text>Zaton. Picnic al Borde del Camino</text>
+	</string>
+	<string id="st_zat_sim_22_name">
+		<text>Zaton. Hill</text>
+	</string>
+	<string id="st_zat_medic_home_smart_name">
+		<text>Zaton. Hogar abandonado</text>
+	</string>
+
+
+	<string id="st_agr_u_monsters_name">
+		<text>Agroprom bajo tierra</text>
+	</string>
+	<string id="st_agr_u_bloodsucker_name">
+		<text>Agroprom bajo tierra</text>
+	</string>
+	<string id="st_agr_u_bloodsucker_2_name">
+		<text>Agroprom bajo tierra</text>
+	</string>
+	<string id="st_agr_u_bandits_name">
+		<text>Agroprom bajo tierra</text>
+	</string>
+	<string id="st_agr_u_soldiers_name">
+		<text>Agroprom bajo tierra</text>
+	</string>
+
+
+	<string id="st_lx8_smart_terrain_name">
+		<text>Laboratorio X-8</text>
+	</string>
+
+	<string id="st_bun2_st_bloodsucker_name">
+		<text>Laboratorio X-19</text>
+	</string>
+	<string id="st_bun_krovosos_nest_name">
+		<text>Laboratorio X-19</text>
+	</string>
+	<string id="st_bun2_tushkano_lair_name">
+		<text>Laboratorio X-19</text>
+	</string>
+
+
+	<string id="st_dar_control_poltergeist_name">
+		<text>Laboratorio X-18</text>
+	</string>
+	<string id="st_dar_angar_name">
+		<text>Laboratorio X-18</text>
+	</string>
+	<string id="st_dar_smart_snork_name">
+		<text>Laboratorio X-18</text>
+	</string>
+	<string id="st_dar_poltergeist_ring_name">
+		<text>Laboratorio X-18</text>
+	</string>
+	<string id="st_dar_poltergeist_tele_name">
+		<text>Laboratorio X-18</text>
+	</string>
+	<string id="st_dar_military_scout_name">
+		<text>Laboratorio X-18</text>
+	</string>
+	<string id="st_dar_poltergeist_tele_round_name">
+		<text>Laboratorio X-18</text>
+	</string>
+
+
+	<string id="st_x162_st_snork_name">
+		<text>Laboratorio X-16</text>
+	</string>
+	<string id="st_x162_st_gigant_name">
+		<text>Laboratorio X-16</text>
+	</string>
+	<string id="st_x162_st_burer_name">
+		<text>Laboratorio X-16</text>
+	</string>
+	<string id="st_x162_st_poltergeist_name">
+		<text>Laboratorio X-16</text>
+	</string>
+
+
+	<string id="st_pas_b400_canalisation_name">
+		<text>Subterraneo de J&#250;piter</text>
+	</string>
+	<string id="st_pas_b400_downstairs_name">
+		<text>Subterraneo de J&#250;piter</text>
+	</string>
+	<string id="st_pas_b400_elevator_name">
+		<text>Subterraneo de J&#250;piter</text>
+	</string>
+	<string id="st_pas_b400_fake_name">
+		<text>Subterraneo de J&#250;piter</text>
+	</string>
+	<string id="st_pas_b400_hall_name">
+		<text>Subterraneo de J&#250;piter</text>
+	</string>
+	<string id="st_pas_b400_track_name">
+		<text>Subterraneo de J&#250;piter</text>
+	</string>
+	<string id="st_pas_b400_tunnel_name">
+		<text>Subterraneo de J&#250;piter</text>
+	</string>
+	<string id="st_pas_b400_way_name">
+		<text>Subterraneo de J&#250;piter</text>
+	</string>
+
+<!-- MLR -->
+	<string id="ui_st_red_forest_vagon_csky">
+		<text>Campamento de la Marca (Bosque Rojo)</text>
+	</string>
+	<string id="ui_st_truck_cemetery_bandits_post">
+		<text>Campamento en las afueras (Cementerio de camiones)</text>
+	</string>
+	<string id="ui_st_yanov_depo_monolith">
+		<text>T&#250;nel del Este (J&#250;piter)</text>
+	</string>
+	<string id="ui_st_bridge_red_forest_mon">
+		<text>Puente a Limansk (Bosque Rojo)</text>
+	</string>
+	<string id="ui_st_farm_base_neytral">
+		<text>Base Bandida (Cord&#243;n)</text>
+	</string>
+	<string id="ui_st_kbo_monolith">
+		<text>Centro de Servicio Yubileiny (Las afueras)</text>
+	</string>
+	<string id="ui_st_store_books_a18">
+		<text>Librer&#237;a (Pripyat)</text>
+	</string>
+	<string id="ui_st_fo_cordon">
+		<text>Punto de Control del Sur (Cord&#243;n)</text>
+	</string>
+	<string id="ui_st_dasc_sawwill">
+		<text>Aserradero (Paisaje Oscuro)</text>
+	</string>
+	<string id="ui_st_l13_generators">
+		<text>Laboratorio Militar (Generadores)</text>
+	</string>
+
+	<string id="st_bar100rent_name">
+		<text>Bar 100 Rads</text>
+	</string>
+	<string id="st_gar_baraholka_name">
+		<text>Mercado de pulgas</text>
+	</string>
+	<string id="st_gar_outpost_name">
+		<text>Punto de control de Rostok</text>
+	</string>
+	<string id="st_gar_angar_name">
+		<text>Hangar de Trenes</text>
+	</string>
+	<string id="st_yanbunker_name">
+		<text>Instalaci&#243;n de Investigaci&#243;n</text>
+	</string>
+	<string id="st_yancomplex_name">
+		<text>Complejo Industrial</text>
+	</string>
+	<string id="st_novice_village_name">
+		<text>Campamento de Novatos</text>
+	</string>
+	<string id="st_south_blokpost_name">
+		<text>Punto de Control Sur</text>
+	</string>
+	<string id="st_ATP_name">
+		<text>Estaci&#243;n de Veh&#237;culos</text>
+	</string>
+	<string id="st_elevator_name">
+		<text>Ascensor</text>
+	</string>
+	<string id="st_tunnel_electr_name">
+		<text>T&#250;nel con Anomal&#237;as El&#233;ctricas</text>
+	</string>
+	<string id="st_neut_base_name">
+		<text>Granja</text>
+	</string>
+	<string id="st_north_blockpost_name">
+		<text>Puesto militar</text>
+	</string>
+	<string id="st_dar_farm_name">
+		<text>Granja</text>
+	</string>
+	<string id="st_dar_complex_name">
+		<text>Complejo Industrial</text>
+	</string>
+	<string id="st_bs_village_name">
+		<text>Pueblo Chupasangre</text>
+	</string>
+	<string id="st_base_freedom_name">
+		<text>Almac&#233;n del Ej&#233;rcito</text>
+	</string>
+	<string id="st_border_name">
+		<text>Barrera</text>
+	</string>
+	<string id="st_mon_base_name">
+		<text>Palacio de Cultura</text>
+	</string>
+	<string id="st_hotel_poless_name">
+		<text>Hotel</text>
+	</string>
+	<string id="st_big_bus_station_name">
+		<text>Estaci&#243;n de Autobuses</text>
+	</string>
+	<string id="st_ds_administration_name">
+		<text>Administraci&#243;n</text>
+	</string>
+	<string id="st_ds_market_name">
+		<text>Mercado</text>
+	</string>
+	<string id="st_ds_HoC_name">
+		<text>Casa de la Cultura</text>
+	</string>
+	<string id="st_lim_zastava_name">
+		<text>Puesto de Avanzada del Frente</text>
+	</string>
+	<string id="st_lim_bubbles_name">
+		<text>Anomal&#237;as Espaciales</text>
+	</string>
+	<string id="st_lim_nonbuild_name">
+		<text>Sitio de construcci&#243;n</text>
+	</string>
+	<string id="st_lim_dyga_name">
+		<text>Instalaci&#243;n Radar Duga</text>
+	</string>
+	<string id="st_lim_old_church_name">
+		<text>Vieja Iglesia</text>
+	</string>
+	<string id="st_lim_village_csky_name">
+		<text>Base de Cielo Despejado </text>
+	</string>
+	<string id="st_lim_water_pump_station_name">
+		<text>Estaci&#243;n de Bombeo de Agua</text>
+	</string>
+	<string id="st_lim_mechanic_yard_name">
+		<text>Patio de M&#225;quinas</text>
+	</string>
+	<string id="st_lim_bridge_name">
+		<text>Puente a Limansk</text>
+	</string>
+	<string id="st_lim_house_lesnik_name">
+		<text>Edificio de Forester</text>
+	</string>
+	<string id="st_lim_post_vishka_name">
+		<text>Puesto de Observaci&#243;n</text>
+	</string>
+	<string id="st_agr_SRI_name">
+		<text>Instituto de Investigaci&#243;n Agroprom</text>
+	</string>
+	<string id="st_red_crap_name">
+		<text>Campamento Diab&#243;lico</text>
+	</string>
+	<string id="st_red_dark_yar_name">
+		<text>Banco Oscuro</text>
+	</string>
+	<string id="st_red_central_mine_name">
+		<text>Mina</text>
+	</string>
+	<string id="st_tc_bandit_base_name">
+		<text>Campamento en las afueras</text>
+	</string>
+	<string id="st_tc_kpp_name">
+		<text>Puesto de Control de J&#250;piter</text>
+	</string>
+	<string id="st_tc_vert_name">
+		<text>Helic&#243;ptero en el Bosque Rojo</text>
+	</string>
+	<string id="st_radar_first_zastava_name">
+		<text>Primer puesto de Avanzada</text>
+	</string>
+	<string id="st_rad_bunker_name">
+		<text>B&#250;nker</text>
+	</string>
+	<string id="st_dasc_treesucker_state_name">
+		<text>Aserradero</text>
+	</string>
+
+<!-- Missing Smarts -->
+
+	<string id="st_esc_smart_terrain_9_10_name">
+		<text>Cord&#243;n. Fogata cerca del T&#250;nel</text>
+	</string>	
+
+	<string id="st_agr_smart_terrain_7_4_name">
+		<text>Agroprom. Camino al Vertedero</text>
+	</string>
+	<string id="st_agr_smart_terrain_5_4_name">
+		<text>Agroprom. Bifurcaci&#243;n en la Carretera</text>
+	</string>	
+	<string id="st_agr_smart_terrain_6_6_name">
+		<text>Agroprom. Campamento improvisado</text>
+	</string>	
+
+	<string id="st_pol_sim_1_name">
+		<text>El Prado. Patio de F&#225;brica</text>
+	</string>
+	<string id="st_pol_smart_terrain_1_1_name">
+		<text>El Prado. Pueblo</text>
+	</string>
+	<string id="st_pol_smart_terrain_1_2_name">
+		<text>El Prado. Cantina №14</text>
+	</string>
+	<string id="st_pol_smart_terrain_1_3_name">
+		<text>El Prado. Aparcamiento Viejo</text>
+	</string>
+	<string id="st_pol_smart_terrain_2_1_name">
+		<text>El Prado. Administraci&#243;n de la F&#225;brica</text>
+	</string>
+	<string id="st_pol_smart_terrain_2_2_name">
+		<text>El Prado. Talleres de la f&#225;brica</text>
+	</string>
+	
+	<string id="st_val_smart_terrain_5_8_name">
+		<text>Valle Oscuro. Campamento en el Campo</text>
+	</string>	
+	<string id="st_val_smart_terrain_5_7_name">
+		<text>Valle Oscuro. &#218;ltimo Puesto de Avanzada</text>
+	</string>	
+	
+	<string id="st_rad_prip_road_name">
+		<text>Radar. Losas de hormig&#243;n</text>
+	</string>
+	<string id="st_rad_rusty_forest_center_name">
+		<text>Radar. Bosque muerto</text>
+	</string>
+	<string id="st_rad_freedom_vs_duty_name">
+		<text>Radar. Camino a Pripyat</text>
+	</string>
+	<string id="st_rad2_rad_prip_road_name">
+		<text>Radar. Cruce</text>
+	</string>
+	
+	<string id="st_hotel_poless_smart_alife_name">
+		<text>Pripyat. Patio trasero del Hotel</text>
+	</string>
+	<string id="st_mlr_terrain_name">
+		<text>Pripyat. Sala de Teatro</text>
+	</string>
+	<string id="st_monolith_snipers_smart_1_mlr_name">
+		<text>Pripyat. Callej&#243;n de la Maldici&#243;n</text>
+	</string>
+	
+	<string id="st_kbo_terrain_name">
+		<text>Las afueras. Entrada del centro de servicios</text>
+	</string>
+	<string id="st_pri_a16_mlr_copy_name">
+		<text>Las afueras. Entrada a la Lavander&#237;a</text>
+	</string>
+
+	<string id="st_gen_undeground_smart_mlr_burers_name">
+		<text>Generadores. Guarida de Quemadores</text>
+	</string>
+	<string id="st_gen_undeground_smart_mlr_giant_name">
+		<text>Generadores. Guarida de Pseudogigantes</text>
+	</string>
+	<string id="st_gen_undeground_smart_mlr_controller_name">
+		<text>Generadores. Guarida de Controladores</text>
+	</string>
+
+</string_table>

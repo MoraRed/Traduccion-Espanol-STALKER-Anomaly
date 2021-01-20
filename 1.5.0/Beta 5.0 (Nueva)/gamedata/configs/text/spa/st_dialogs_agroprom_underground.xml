@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- (Bandit ground leader) -->
+	<string id="st_agr_u_bandit_boss_dialog_start_0">
+		<text>ЎїQuien eres... y que cojones estas haciendo aqui?!</text>
+	</string>
+	<string id="st_agr_u_bandit_boss_dialog_start_1a">
+		<text>їBuscando tesoros, has encontrado alguno?</text>
+	</string>
+		<string id="st_agr_u_bandit_boss_dialog_start_1a_1">
+			<text>No, no he encontrado ningun "tesoro". їEs esto una especie de broma? Primero escucha los ruidos que suenan ahi abajo, luego puedes pensar en los putos tesoros.</text>
+		</string>
+	<string id="st_agr_u_bandit_boss_dialog_start_1b">
+		<text>Exploraciуn. Nunca sabes lo que puedes encontrar aqui.</text>
+	</string>
+		<string id="st_agr_u_bandit_boss_dialog_start_1b_1">
+			<text>De todos los lugares que podrias explorar en la Zona, terminaste aqui... que tio..</text>
+		</string>
+	<string id="st_agr_u_bandit_boss_dialog_start_1c">
+		<text>Estoy en una misiуn.</text>
+	</string>
+		<string id="st_agr_u_bandit_boss_dialog_start_1c_1">
+			<text>Uh, ya veo... Debes tener mala suerte para terminar aqui. Estamos en el mismo barco.</text>
+		</string>
+
+	<string id="st_agr_u_bandit_boss_dialog_ask_0">
+		<text>їY que me dices de ti? їComo llegasteis aqui?</text>
+	</string>
+	<string id="st_agr_u_bandit_boss_dialog_ask_1">
+		<text>Me llamo Reefer. Los chicos y yo llegamos aqui hace un par de dias, todo gracias a Sultan. "Esta bien chicos, ese lugar fue abandonado hace mucho tiempo", "No hay nada de que temer". Nos abandono... Casi nos mataron anoche cuando esas cosas cabreadas aparecieron de la nada. Nos retiramos aqui y no nos movimos desde entonces.
+		\nSe supone que debemos buscar cualquier objeto util en el lugar. Segun los rumores, Strelok tenia un escondite en algun lugar aqui donde guardaba sus cosas. їPor que le importa tanto a Sultan? Realmente no lo se. Dijo que nos lanza a los Pseudoperros si no le traemos nada util.</text>
+	</string>
+	<string id="st_agr_u_bandit_boss_dialog_ask_2">
+		<text>Suena como una mala situacion. їTal vez puedo ayudar?</text>
+	</string>
+		<string id="st_agr_u_bandit_boss_dialog_ask_5">
+			<text>Bueno... puedo usar otro hombre pero es muy arriesgado, tio.</text>
+		</string>
+			<string id="st_agr_u_bandit_boss_dialog_ask_6">
+				<text>Ya veremos, que tal si buscamos juntos</text>
+			</string>
+				<string id="st_agr_u_bandit_boss_dialog_ask_7">
+					<text>Joder... no se tio... no quiero ver esas malditas cosas nunca mas...
+					\n...</text>
+				</string>
+					<string id="st_agr_u_bandit_boss_dialog_ask_72">
+						<text>...</text>
+					</string>
+					<string id="st_agr_u_bandit_boss_dialog_ask_73">
+						<text>Maldita sea... No puedo volver con las manos vacias de todos modos. Hagamoslo.</text>
+					</string>
+					<string id="st_agr_u_bandit_boss_dialog_ask_71">
+						<text>Vamonos.</text>
+					</string>
+			<string id="st_agr_u_bandit_boss_dialog_ask_8">
+				<text>Echare un vistazo a mi alrededor. Si encuentro algo, te lo hare saber.</text>
+			</string>
+				<string id="st_agr_u_bandit_boss_dialog_ask_81">
+					<text>Estas loco, їlo sabes? Buena suerte con tu busqueda.</text>
+				</string>
+	<string id="st_agr_u_bandit_boss_dialog_ask_3">
+		<text>Ya veo, buena suerte en tu busqueda.</text>
+	</string>
+	
+	<string id="st_agr_u_bandit_boss_dialog_ask_4">
+		<text>їEstas hablando de estos documentos?</text>
+	</string>
+
+	<string id="st_agr_u_bandit_boss_dialog_give_docs_0">
+		<text>Mira, aqui encontre este maletin.</text>
+	</string>
+	
+	<string id="st_agr_u_bandit_boss_dialog_ask_9">
+			<text>Pero que... Ўїde verdad?!</text>
+		</string>
+			<string id="st_agr_u_bandit_boss_dialog_ask_10">
+				<text>No lo pienses demasiado. Toma, miralo.</text>
+			</string>
+			<string id="st_agr_u_bandit_boss_dialog_ask_11">
+				<text>Desafortunadamente, este maletin se quedara conmigo.</text>
+			</string>
+				<string id="st_agr_u_bandit_boss_dialog_ask_12">
+					<text>Estas... Estas seguro de tu decision?</text>
+				</string>
+					<string id="st_agr_u_bandit_boss_dialog_ask_13">
+						<text>Sip.</text>
+					</string>
+					<string id="st_agr_u_bandit_boss_dialog_ask_14">
+						<text>Solo bromeo, puedes tenerlos.</text>
+					</string>
+						<string id="st_agr_u_bandit_boss_dialog_ask_15">
+							<text>No tengo tiempo para tus mierdas tio.</text>
+						</string>
+					
+	<string id="st_agr_u_bandit_boss_dialog_give_docs_1">
+		<text>Tio, no se que decir honestamente. Finalmente podemos dejar esta mierda. Regresare a Sultan con estos documentos, los chicos aqui se quedaran un rato una vez que arreglemos todo.
+		\nїQue pasa contigo? їQuieres venir conmigo? Me asegurare de que Sultan te pague bien.</text>
+	</string>
+		<string id="st_agr_u_bandit_boss_dialog_give_docs_2">
+			<text>Tengo otros asuntos. Nos vemos.</text>
+		</string>
+			<string id="st_agr_u_bandit_boss_dialog_give_docs_3">
+				<text>Eh, antes de que te vayas ... Toma esto. Lo encontre en una de esas brillantes anomalias cuando estabamos explorando el lugar. Consideralo como una recompensa por tu ayuda. Tal vez puedas hacer un buen uso de el.</text>
+			</string>
+			<string id="st_agr_u_bandit_boss_dialog_give_docs_4">
+				<text>Muy bien, gracias.</text>
+			</string>
+		<string id="st_agr_u_bandit_boss_dialog_give_docs_5">
+			<text>Nada, vamonos.</text>
+		</string>
+
+	<string id="st_agr_u_bandit_boss_dialog_reask">
+		<text>Vale, te ayudare a buscar.</text>
+	</string>
+	
+	<string id="st_agr_u_bandit_boss_dialog_arrived_0">
+		<text>Alla vamos.</text>
+	</string>
+	<string id="st_agr_u_bandit_boss_dialog_arrived_1">
+		<text>Gracias amigo, no olvidare tu ayuda. Toma esto, encontre este artefacto brillante en una de las anomalias brillantes cuando estabamos explorando ese agujero de mierda. Y este es un pago por tus molestias.</text>
+	</string>
+	<string id="st_agr_u_bandit_boss_dialog_arrived_2">
+		<text>Gracias. їQue vas a hacer ahora?</text>
+	</string>
+	<string id="st_agr_u_bandit_boss_dialog_arrived_3">
+		<text>Llevare este maletin a Sultan y le informare sobre el lugar. Me alegra que haya terminado. Me encontraras cerca si quieres pasar el rato mas tarde.</text>
+	</string>
+	<string id="st_agr_u_bandit_boss_dialog_arrived_4">
+		<text>De acuerdo. Ten cuidado.</text>
+	</string>
+
+	<string id="st_agr_u_bandit_boss_news_on_going">
+		<text>Muy bien muchachos, nuestro amigo y yo vamos por los tuneles. Quedaros aqui y vigileis el lugar.</text>
+	</string>
+	<string id="st_agr_u_bandit_boss_news_on_going_reply">
+		<text>Ten cuidado, tio.</text>
+	</string>
+	
+	<string id="agr_u_bandit_boss_task_1_name">
+		<text>Expedicion subterranea</text>
+	</string>
+	<string id="agr_u_bandit_boss_task_1_desc_0">
+		<text>Reefer necesita ayuda para encontrar documentos dentro de los Tuneles de Agroprom, ya sean documentos de investigacion originales del instituto o las notas de stalkers famosos como Strelok. Busca en cada rincon y grieta informaciуn valiosa.</text>
+	</string>
+	<string id="agr_u_bandit_boss_task_1_desc_1">
+		<text>Regresa con tu hallazgo a Reefer.</text>
+	</string>
+	<string id="agr_u_bandit_boss_task_1_desc_2">
+		<text>Escolta a Reefer a la base de los Bandidos en el Valle Oscuro.</text>
+	</string>
+	<string id="agr_u_bandit_boss_task_1_desc_3">
+		<text>Habla con Reefer.</text>
+	</string>
+</string_table>

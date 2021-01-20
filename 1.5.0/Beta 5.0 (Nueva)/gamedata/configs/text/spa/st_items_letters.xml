@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Notes + Recipes
+-->
+
+<string_table>
+
+	<string id="st_recipe_basic_1">
+		<text>Guia de supervivencia (problema #1)</text>
+	</string>
+	<string id="st_recipe_basic_2">
+		<text>Guia de supervivencia (problema #2)</text>
+	</string>
+	<string id="st_recipe_basic_3">
+		<text>Guia de supervivencia (problema #3)</text>
+	</string>
+	<string id="st_recipe_basic_4">
+		<text>Guia de supervivencia (problema #4)</text>
+	</string>
+	<string id="st_recipe_basic_descr">
+		<text>Esta gu&#237;a detalla las habilidades b&#225;sicas de supervivencia y proporciona una visi&#243;n general de los kits de supervivencia m&#225;s comunes. Los cap&#237;tulos posteriores describen la creaci&#243;n de equipos b&#225;sicos a partir de materiales comunes.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_green] • %c[ui_gray_2] informativo\n %c[d_blue] • %c[ui_gray_2] r&#233;cipe de fabricaci&#243;n\n %c[d_blue] • %c[ui_gray_2] valioso\n</text>
+	</string>
+	
+	<string id="st_recipe_advanced_1">
+		<text>Manual de mec&#225;nica (1era edici&#243;n)</text>
+	</string>
+	<string id="st_recipe_advanced_2">
+		<text>Manual de mec&#225;nica (2da edici&#243;n)</text>
+	</string>
+	<string id="st_recipe_advanced_3">
+		<text>Manual de mec&#225;nica (3era edici&#243;n)</text>
+	</string>
+	<string id="st_recipe_advanced_4">
+		<text>Manual de mec&#225;nica (4ta edici&#243;n)</text>
+	</string>
+	<string id="st_recipe_advanced_descr">
+		<text>Manual de ingenier&#237;a mec&#225;nica. Algunas personas leen estos libros para ampliar su experiencia y aprender m&#225;s sobre las instalaciones y f&#225;bricas en la Zona. Contains detalles acerca de equipos b&#225;sicos mecanicos y el&#233;ctricos. \n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_green] • %c[ui_gray_2] informativo\n %c[d_blue] • %c[ui_gray_2] r&#233;cipe de fabricaci&#243;n\n %c[d_blue] • %c[ui_gray_2] valioso\n</text>
+	</string>
+	
+	<string id="st_recipe_expert_1">
+		<text>Manual de ingenier&#237;a (1era edici&#243;n)</text>
+	</string>
+	<string id="st_recipe_expert_2">
+		<text>Manual de mec&#225;nica (2da edici&#243;n)</text>
+	</string>
+	<string id="st_recipe_expert_3">
+		<text>Manual de mec&#225;nica (3era edici&#243;n)</text>
+	</string>
+	<string id="st_recipe_expert_4">
+		<text>Manual de mec&#225;nica (4ta edici&#243;n)</text>
+	</string>
+	<string id="st_recipe_expert_descr">
+		<text>Manual de ingenier&#237;a industrial. Bastante informativo. Describe el funcionamiento de la electr&#243;nica moderna: amplificadores operacionales, diodos semiconductores, transistores de uni&#243;n bipolares y transistores de efecto de campo. La segunda parte de este manual trata de la resoluci&#243;n de problemas de los dispositivos el&#233;ctricos.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_green] • %c[ui_gray_2] informativo\n %c[d_blue] • %c[ui_gray_2] r&#233;cipe de fabricaci&#243;n\n %c[d_blue] • %c[ui_gray_2] valioso\n</text>
+	</string>
+	
+	<string id="st_recipe_drug_1">
+		<text>Receta de droga #1</text>
+	</string>
+	<string id="st_recipe_drug_2">
+		<text>Receta de droga #2</text>
+	</string>
+	<string id="st_recipe_drug_3">
+		<text>Receta de droga #3</text>
+	</string>
+	<string id="st_recipe_drug_4">
+		<text>Receta de droga #4</text>
+	</string>
+	<string id="st_recipe_drug_descr">
+		<text>Un par de p&#225;ginas arrancadas de un libro. Escrita a mano con tinta azul que se emborron&#243; a causa del efecto de los factores ambientales, lo que hace que el texto sea extremadamente dif&#237;cil de entender. Las notas escritas describen la creaci&#243;n de varios tipos de drogas y medicinas usando suministros m&#233;dicos comunes. \n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_green] • %c[ui_gray_2] informativo\n %c[d_blue] • %c[ui_gray_2] r&#233;cipe de fabricaci&#243;n\n %c[d_blue] • %c[ui_gray_2] valioso\n</text>
+	</string>
+	
+	<string id="st_recipe_ammo_1">
+		<text>Gu&#237;a de seguridad sobre municiones (1era edici&#243;n)</text>
+	</string>
+	<string id="st_recipe_ammo_2">
+		<text>Gu&#237;a de seguridad sobre municiones (2da edici&#243;n)</text>
+	</string>
+	<string id="st_recipe_ammo_3">
+		<text>Gu&#237;a de seguridad sobre municiones (3era edici&#243;n)</text>
+	</string>
+	<string id="st_recipe_ammo_4">
+		<text>Gu&#237;a de seguridad sobre municiones (4ta edici&#243;n)</text>
+	</string>
+	<string id="st_recipe_ammo_descr">
+		<text>Todo stalker deber&#237;a aprender a elegir un arma, pero tambi&#233;n saber c&#243;mo elegir la munici&#243;n para ella. Esta gu&#237;a proporciona informaci&#243;n sobre varios tipos de munici&#243;n, adem&#225;s de una visi&#243;n en profundidad sobre los componentes b&#225;sicos de las municiones. \n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_green] • %c[ui_gray_2] informativo\n %c[d_blue] • %c[ui_gray_2] r&#233;cipe de fabricaci&#243;n\n %c[d_blue] • %c[ui_gray_2] valioso\n</text>
+	</string>
+	
+	<string id="st_recipe_cooking_1">
+		<text>Notas de cocinero</text>
+	</string>
+	<string id="st_recipe_cooking_descr">
+		<text>Un par de p&#225;ginas escritas a mano, contienen recetas detalladas sobre el marinado de carne mutante en alcohol a ciertas temperaturas. Seg&#250;n las notas, reduce los efectos da&#241;inos de la carne irradiada. Parece que el autor es un experimentado stalker. \n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_green] • %c[ui_gray_2] informativo\n %c[d_blue] • %c[ui_gray_2] cooking recipe\n %c[d_blue] • %c[ui_gray_2] valioso\n</text>
+	</string>
+	
+	<string id="st_memoirs_1_of_2_name">
+		<text>Un diario de stalker (parte 1 de 2)</text>
+	</string>
+	<string id="st_memoirs_1_of_2_desc">
+		<text>Un viejo y descolorido cuaderno se introdujo en la funda de una carta para protegerlo del desgaste. Sin embargo, no resisti&#243; bien el paso del tiempo y s&#243;lo una peque&#241;a parte del texto es legible. \n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] objetos personales\n
+		</text>
+	</string>
+	<string id="st_memoirs_2_of_2_name">
+		<text>Un diario de stalker (parte 2 de 2)</text>
+	</string>
+	<string id="st_memoirs_2_of_2_desc">
+		<text>Un viejo y descolorido cuaderno se introdujo en la funda de una carta para protegerlo del desgaste. Sin embargo, no resisti&#243; bien el paso del tiempo y s&#243;lo una peque&#241;a parte del texto es legible. \n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] objetos personales\n
+		</text>
+	</string>
+	<string id="st_freedom_manual_1_of_2_name">
+		<text>M&#233;todos de interrogaci&#243;n: los conceptos b&#225;sicos (parte 1 de 2)</text>
+	</string>
+	<string id="st_freedom_manual_1_of_2_desc">
+		<text>Un folleto de instrucciones con un gran emblema de Libertad en la esquina superior derecha y un simple dibujo de una pistola apuntando a una figura humana arrodillada. Se titula "T&#233;cnicas de interrogaci&#243;n: Lo b&#225;sico" y est&#225; escrito con la t&#237;pica y relajada jerga de la facci&#243;n. \n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] objetos personales\n
+		</text>
+	</string>
+	<string id="st_freedom_manual_2_of_2_name">
+		<text>M&#233;todos de interrogaci&#243;n: los conceptos b&#225;sicos (parte 2 de 2)</text>
+	</string>
+	<string id="st_freedom_manual_2_of_2_desc">
+		<text>Un folleto de instrucciones con un gran emblema de Libertad en la esquina superior derecha y un simple dibujo de una pistola apuntando a una figura humana arrodillada. Se titula "T&#233;cnicas de interrogaci&#243;n: Lo b&#225;sico" y est&#225; escrito con la t&#237;pica y relajada jerga de la facci&#243;n. \n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] objetos personales\n
+		</text>
+	</string>
+	<string id="st_stalker_letter_1_of_2_name">
+		<text>Memorias (parte 1 de 2)</text>
+	</string>
+	<string id="st_stalker_letter_1_of_2_desc">
+		<text>Un par de p&#225;ginas arrancadas de unas notas. Escrita a mano con tinta azul que se emborron&#243; por el efecto del medio ambiente, lo que hace que el texto sea extremadamente dif&#237;cil de entender. Autor desconocido. \n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] objetos personales\n
+		</text>
+	</string>
+	<string id="st_stalker_letter_2_of_2_name">
+		<text>Memorias (parte 2 de 2)</text>
+	</string>
+	<string id="st_stalker_letter_2_of_2_desc">
+		<text>Un par de p&#225;ginas arrancadas de unas notas. Escrita a mano con tinta azul que se emborron&#243; por el efecto del medio ambiente, lo que hace que el texto sea extremadamente dif&#237;cil de entender. Autor desconocido. \n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] objetos personales\n
+		</text>
+	</string>
+	<string id="st_ecologist_report_1_of_3_name">
+		<text>Informe de campo de Hallazgos de Muertos Vivientes 39B rev. 2 (parte 1)</text>
+	</string>
+	<string id="st_ecologist_report_1_of_3_desc">
+		<text>Un documento mecanografiado con el emblema del equipo de investigaci&#243;n ecologista. Clasificado como estrictamente confidencial y firmado por:%c[ui_gray_1]Arkady Cvetkovsky.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] art&#237;culo cient&#237;fico\n %c[d_cyan] • %c[ui_gray_2] objetos personales\n
+		</text>
+	</string>
+	<string id="st_ecologist_report_2_of_3_name">
+		<text>Informe de campo de Hallazgos de Muertos Vivientes 39B rev. 2 (parte 2)</text>
+	</string>
+	<string id="st_ecologist_report_2_of_3_desc">
+		<text>Un documento mecanografiado con el emblema del equipo de investigaci&#243;n ecologista. Clasificado como estrictamente confidencial y firmado por:%c[ui_gray_1]Arkady Cvetkovsky.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] art&#237;culo cient&#237;fico\n %c[d_cyan] • %c[ui_gray_2] objetos personales\n
+		</text>
+	</string>
+	<string id="st_ecologist_report_3_of_3_name">
+		<text>Informe de campo de Hallazgos de Muertos Vivientes 39B rev. 2 (parte 3)</text>
+	</string>
+	<string id="st_ecologist_report_3_of_3_desc">
+		<text>Un documento mecanografiado con el emblema del equipo de investigaci&#243;n ecologista. Clasificado como estrictamente confidencial y firmado por:%c[ui_gray_1]Arkady Cvetkovsky.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] art&#237;culo cient&#237;fico\n %c[d_cyan] • %c[ui_gray_2] objetos personales\n
+		</text>
+	</string>
+	<string id="st_monolith_prayer_1_of_3_name">
+		<text>Oraci&#243;n "Monolito" (parte 1 de 3)</text>
+	</string>
+	<string id="st_monolith_prayer_1_of_3_desc">
+		<text>Un documento sin t&#237;tulo que comprende unos pocos p&#225;rrafos, uno debajo del otro. Las frecuentes referencias al Monolito indican la naturaleza religiosa del texto escrito. El papel se conserva muy bien, lo que sugiere que ha sido tratado con gran cuidado y respeto para que su condici&#243;n no se deteriore. \n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] objetos personales\n
+		</text>
+	</string>
+	<string id="st_monolith_prayer_2_of_3_name">
+		<text>Oraci&#243;n "Monolito" (parte 2 de 3)</text>
+	</string>
+	<string id="st_monolith_prayer_2_of_3_desc">
+		<text>Un documento sin t&#237;tulo que comprende unos pocos p&#225;rrafos, uno debajo del otro. Las frecuentes referencias al Monolito indican la naturaleza religiosa del texto escrito. El papel se conserva muy bien, lo que sugiere que ha sido tratado con gran cuidado y respeto para que su condici&#243;n no se deteriore. \n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] objetos personales\n
+		</text>
+	</string>
+	<string id="st_monolith_prayer_3_of_3_name">
+		<text>Oraci&#243;n "Monolito" (parte 3 de 3)</text>
+	</string>
+	<string id="st_monolith_prayer_3_of_3_desc">
+		<text>Un documento sin t&#237;tulo que comprende unos pocos p&#225;rrafos, uno debajo del otro. Las frecuentes referencias al Monolito indican la naturaleza religiosa del texto escrito. El papel se conserva muy bien, lo que sugiere que ha sido tratado con gran cuidado y respeto para que su condici&#243;n no se deteriore. \n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] objetos personales\n
+		</text>
+	</string>
+	<string id="st_monolithian_thoughts_name">
+		<text>Diario de un fanatico Monolito</text>
+	</string>
+	<string id="st_monolithian_thoughts_desc">
+		<text>Una hoja de papel escrita a mano. Al principio, la escritura de la nota es extremadamente ca&#243;tica y desordenada, como si la persona que la escribe sufriera un grave trastorno mental. Curiosamente, cuanto m&#225;s se baja en la hoja, el texto se vuelve m&#225;s sencillo, las letras mucho m&#225;s claras y las &#250;ltimas palabras se escriben con una precisi&#243;n casi perfecta, como la de una m&#225;quina. \n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] objetos personales\n
+		</text>
+	</string>
+	<string id="st_letter_to_outside_name">
+		<text>Una carta a Natalie</text>
+	</string>
+	<string id="st_letter_to_outside_desc">
+		<text>Una carta aparentemente escrita por un stalker a alguien fuera de la Zona, probablemente su esposa o amante. El hecho de que la tenga en sus manos sugiere que nunca lleg&#243; a su destinatario. \n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] objetos personales\n
+		</text>
+	</string>
+	<string id="st_letter_military_stalker_name">
+		<text>Nota de stalker Militar</text>
+	</string>
+	<string id="st_letter_military_stalker_desc">
+		<text>Una nota encontrada en un escondite. Es dif&#237;cil determinar por qu&#233; fue escrita en primer lugar. Lo m&#225;s probable es que alguien estuviera matando el tiempo durante una larga y aburrida noche y luego decidiera dejar el resultado de su trabajo en lugar de tirarlo a la hoguera. \n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] objetos personales\n
+		</text>
+	</string>
+	<string id="st_letter_mercenary_name">
+		<text>Nota de mercenario</text>
+	</string>
+	<string id="st_letter_mercenary_desc">
+		<text>Una nota escrita por uno de los Mercenarios. Parece que decidi&#243; escribir algunos pensamientos sobre sus actividades en la Zona. El prop&#243;sito de esto no est&#225; claro. \n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] objetos personales\n
+		</text>
+	</string>
+	<string id="st_letter_military_log_name">
+		<text>Registro de comunicacion / Operaci&#243;n MSRC / 05.04.2014 18:36:21</text>
+	</string>
+	<string id="st_letter_military_log_desc">
+		<text>Una transcripci&#243;n impresa de la transmisi&#243;n de radio entre las unidades militares estacionadas en la Zona. El hecho de que estuviera en posesi&#243;n de uno de los miembros de la unidad de SKAT indica que debe haber estado involucrado en una operaci&#243;n clandestina, muy probablemente relacionada con la extracci&#243;n de datos de vigilancia. \n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] at&#237;culo militar\n %c[d_cyan] • %c[ui_gray_2] objetos personales\n
+		</text>
+	</string>
+	<string id="st_letter_stalker_letter_3_name">
+		<text>Carta a Nikolai</text>
+	</string>
+	<string id="st_letter_stalker_letter_3_desc">
+		<text>Una carta escrita a mano dirigida a Nikolai. Probablemente parte de una conversaci&#243;n escrita m&#225;s larga entre dos stalkers. Aunque la correspondencia en la Zona se lleva a cabo principalmente por medio de mensajes PDA, algunos prefieren una forma tradicional de comunicaci&#243;n, especialmente en el caso de asuntos m&#225;s privados y entre amigos. Estas cartas se entregan a mensajeros que, como gu&#237;as, se encargan de algunas de las tareas m&#225;s dif&#237;ciles y peligrosas. A menudo transcurren algunos d&#237;as antes de que una carta llegue a su destinatario, pero a&#250;n as&#237; la probabilidad de interceptar el mensaje es mucho menor que en el caso de la comunicaci&#243;n por PDA. La profesi&#243;n de mensajero est&#225; muy bien considerada entre los compa&#241;eros stalkers y conlleva una posici&#243;n de influencia significativa en la comunidad. \n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] objetos personales\n
+		</text>
+	</string>
+</string_table>

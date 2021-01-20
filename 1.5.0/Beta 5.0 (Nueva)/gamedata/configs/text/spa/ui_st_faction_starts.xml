@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="ui_st_abandoned_sawmill">
+		<text>Aserradero (Zaton)</text>
+	</string>
+	<string id="ui_st_abandoned_school">
+		<text>Colegio Abandonado (Ciudad de la Muerte)</text>
+	</string>
+	<string id="ui_st_abandoned_village">
+		<text>Villa Abandonada (Almacenes Militares)</text>
+	</string>
+	<string id="ui_st_brain_scorcher">
+		<text>Cauterizador Cerebral (Radar)</text>
+	</string>
+	<string id="ui_st_car_park">
+		<text>Aparcamiento (Cordon)</text>
+	</string>
+	<string id="ui_st_construction_site">
+		<text>Construcci&#243;n (Territorio Salvaje)</text>
+	</string>
+	<string id="ui_st_container_warehouse">
+		<text>Almacen de Contenedores (Jupiter)</text>
+	</string>
+	<string id="ui_st_cultural_center">
+		<text>Palacio de Cultura (Pripyat)</text>
+	</string>
+	<string id="ui_st_eastern_factory">
+		<text>Fabrica del Este (Valle Oscuro)</text>
+	</string>
+	<string id="ui_st_factory_complex">
+		<text>Fabrica (Agroprom)</text>
+	</string>
+	<string id="ui_st_hermanns_bunker">
+		<text>Bunker de Hermann (Jupiter)</text>
+	</string>
+	<string id="ui_st_hidden_base">
+		<text>Base Escondida (Grandes Pantanos)</text>
+	</string>
+	<string id="ui_st_kopachy_village">
+		<text>Villa de Kopachy (Jupiter)</text>
+	</string>
+	<string id="ui_st_lodging_house">
+		<text>Casa de alojamiento (Rostok)</text>
+	</string>
+	<string id="ui_st_makeshift_barracks">
+		<text>Cuarteles Improvisados (Rostok)</text>
+	</string>
+	<string id="ui_st_military_base">
+		<text>Base Militar (Almacenes Militares)</text>
+	</string>
+	<string id="ui_st_northern_factory">
+		<text>Fabrica del Norte (Valle Oscuro)</text>
+	</string>
+	<string id="ui_st_river_port">
+		<text>Puerto del Rio (Afueras)</text>
+	</string>
+	<string id="ui_st_rookie_village">
+		<text>Campamento de Novatos (Cordon)</text>
+	</string>
+	<string id="ui_st_research_institute">
+		<text>Instituto de Investigacion (Agroprom)</text>
+	</string>
+	<string id="ui_st_sakharovs_bunker">
+		<text>Bunker de Sakharov (Yantar)</text>
+	</string>
+	<string id="ui_st_skadovsk_shipwreck">
+		<text>Skadovsk (Zaton)</text>
+	</string>
+	<string id="ui_st_southern_checkpoint">
+		<text>Punto de Control del Sur (Cordon)</text>
+	</string>
+	<string id="ui_st_sports_center">
+		<text>Centro Deportivo (Ciudad de la Muerte)</text>
+	</string>
+	<string id="ui_st_train_hanger">
+		<text>Hangar de Trenes (Vertedero)</text>
+	</string>
+	<string id="ui_st_tunnel_entrance">
+		<text>Entrada del Tunel (Jupiter)</text>
+	</string>
+	<string id="ui_st_tunnel_refuge">
+		<text>Refugio del Tunel (Tuneles de Agroprom)</text>
+	</string>
+	<string id="ui_st_tuzla_outpost">
+		<text>Puesto Avanzado Tuzla (Grandes Pantanos)</text>
+	</string>
+	<string id="ui_st_yanov_station">
+		<text>Estacion de Yanov (Jupiter)</text>
+	</string>
+	<string id="ui_st_pripyat_hospital">
+		<text>Hospital (Afueras)</text>
+	</string>
+	<string id="ui_st_red_forest_old_mine">
+		<text>Cuartel de Minas (Bosque Rojo)</text>
+	</string>
+	
+
+	<!-- Last Day -->
+	<string id="ui_st_atp">
+		<text>Estacion de Vehiculos (Cordon)</text>
+	</string>
+	<string id="ui_st_barricades_at_the_car">
+		<text>Barricada de Coches (Agroprom)</text>
+	</string>
+	<string id="ui_st_camp_at_crane">
+		<text>Campamento Grua (Central Nuclear Chernobyl)</text>
+	</string>
+	<string id="ui_st_camp_on_a_hillock">
+		<text>Campamento de la Colina (Cementerio de Camiones)</text>
+	</string>
+	<string id="ui_st_check_point">
+		<text>Punto de Control (Jupiter)</text>
+	</string>
+	<string id="ui_st_crossroads">
+		<text>Interseccion (Cementerio de Camiones)</text>
+	</string>
+	<string id="ui_st_curve_beam">
+		<text>La Barranca (Army Warehouses)</text>
+	</string>
+	<string id="ui_st_deadlock_of_a_tunnel">
+		<text>Tunel (Agroprom)</text>
+	</string>
+	<string id="ui_st_destroyed_bridge">
+		<text>Puente Estropeado (Valle Oscuro)</text>
+	</string>
+	<string id="ui_st_eastern_checkpoint">
+		<text>Punto de Control Este (Cementerio de Camiones)</text>
+	</string>
+	<string id="ui_st_fallen_helicopter">
+		<text>Helicoptero Estrellado (Almacenes Militares)</text>
+	</string>
+	<string id="ui_st_farm_base_neytral">
+		<text>Granja (Cordon)</text>
+	</string>
+	<string id="ui_st_filling_station">
+		<text>Gasolinera (Valle Oscuro)</text>
+	</string>
+	<string id="ui_st_flea_market">
+		<text>Mercado (Vertedero)</text>
+	</string>
+	<string id="ui_st_forest_area">
+		<text>Silvicultura (Zaton)</text>
+	</string>
+	<string id="ui_st_halt_behind_a_dump">
+		<text>Alto (Cementerio de Camiones)</text>
+	</string>
+	<string id="ui_st_hideout">
+		<text>Escondite (Afueras)</text>
+	</string>
+	<string id="ui_st_house_on_the_hill">
+		<text>Casa en la Colina</text>
+	</string>
+	<string id="ui_st_kbo_monolith">
+		<text>Centro de Servicio Yubileiny (Afueras)</text>
+	</string>
+	<string id="ui_st_machine_yard">
+		<text>Patio de Maquinas (Grandes Pantanos)</text>
+	</string>
+	<string id="ui_st_military_base_two">
+		<text>Base Militar (Generadores)</text>
+	</string>
+	<string id="ui_st_mine_koper">
+		<text>Cabecera (Bosque Rojo)</text>
+	</string>
+	<string id="ui_st_outpost_of_dolg">
+		<text>Puesto Avanzado de Deber (Vertedero)</text>
+	</string>
+	<string id="ui_st_parking_at_kamaz">
+		<text>Aparcamiento (Territorio Salvaje)</text>
+	</string>
+	<string id="ui_st_parking_on_a_farm">
+		<text>Aparcamiento de la Granja (Valle Oscuro)</text>
+	</string>
+	<string id="ui_st_parking_under_an_embankment">
+		<text>Debajo del Terraplen (Grandes Pantanos)</text>
+	</string>
+	<string id="ui_st_pole_bandit_base">
+		<text>Parque de Bandidos (El Prado)</text>
+	</string>
+	<string id="ui_st_pole_stalker_village">
+		<text>Khutorok (El Prado)</text>
+	</string>
+	<string id="ui_st_post_of_mercenaries">
+		<text>Punto de Control Mercenario (Almacenes Militares)</text>
+	</string>
+	<string id="ui_st_power_station">
+		<text>Patio Exterior (Central Nuclear Chernobyl)</text>
+	</string>
+	<string id="ui_st_small_village">
+		<text>Villa (Valle Oscuro)</text>
+	</string>
+	<string id="ui_st_prachechnya">
+		<text>Lavanderia (Afueras)</text>
+	</string>
+	<string id="ui_st_processing_station">
+		<text>Planta de Tratamiento de Basura (Zaton)</text>
+	</string>
+	<string id="ui_st_ruins">
+		<text>Restos (Hospital Abandonado)</text>
+	</string>
+	<string id="ui_st_store_books_a18">
+		<text>Papeleria (Afueras)</text>
+	</string>
+	<string id="ui_st_yard">
+		<text>Patio (Limansk)</text>
+	</string>
+	<string id="ui_st_yard_with_a_terrace">
+		<text>Terraza en el Patio (Limansk)</text>
+	</string>
+</string_table> 

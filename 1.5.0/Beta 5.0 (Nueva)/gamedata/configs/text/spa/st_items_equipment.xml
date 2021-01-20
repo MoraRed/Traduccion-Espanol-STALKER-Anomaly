@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--
+	Basic items (Some are not used anymore)
+-->
+
+<string_table>
+
+	<string id="st_itm_campfire">
+		<text>Fogata</text>
+	</string>
+	<string id="st_itm_campfire_descr">
+		<text>Las fogatas no son objetos que puedas llevar contigo, no deberias haber visto esto joder!\n \n %c[ui_gray_3]PROPIEDADES:\n %c[0,100,255,255] • %c[ui_gray_2] el lugar favorito de los stalkers\n %c[0,100,255,255] • %c[ui_gray_2] util para cocinar\n %c[0,100,255,255] • %c[ui_gray_2] hora de contar cuentos\n %c[0,100,255,255] • %c[ui_gray_2] se puede usar con la guitarra y el vodka\n
+		</text>
+	</string>
+	
+	<string id="st_poxod_rukzak">
+		<text>Mochila anomala</text>
+	</string>
+	<string id="st_poxod_rukzak_descr">
+		<text>A primera vista, esta mochila parece no tener propiedades sobresalientes. Sin embargo, los art&#237;culos colocados dentro pierden su peso con el tiempo. Se rumorea que es el resultado de un envio de mochilas para el ejercito, que quedo atrapado accidentalmente en una anomalia. Los intentos de los cientificos de recrear sus propiedades unicos han fallado. Las personas influyentes de la Zona han comprado lotes de mochilas anomalas, que han seguido exportandolos a todo el mundo.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] objeto unico\n
+		</text>
+	</string>
+
+	<string id="st_bolt">
+		<text>Tornillo</text>
+	</string>
+	<string id="st_bolt_descr">
+		<text>Un tornillo com&#250;n y corriente, utilizado a menudo por novatos y tambien stalkers experimentados para encontrar caminos seguros entre anomalias.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[ui_gray_2] • %c[ui_gray_2] objeto de uso diario\n %c[ui_gray_2] • %c[ui_gray_2] cantidad ilimitada (dependiendo de la configuraci&#243;n)\n
+		</text>
+	</string>
+	
+	<string id="st_bolty">
+		<text>Tornillo</text>
+	</string>
+	<string id="st_bolty_descr">
+		<text>Un tornillo normal y corriente, utilizado a menudo por novatos y tambien stalkers experimentados para encontrar caminos seguros entre anomalias.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[ui_gray_2] • %c[ui_gray_2] objeto de uso diario\n
+		</text>
+	</string>
+	
+	<string id="st_bolt_bullet">
+		<text>Cartucho vacio</text>
+	</string>
+	<string id="st_bolt_bullet_descr">
+		<text>A veces los stalkers hacen uso de los cartuchos vacios que tienen como alternativa a los tornillos para encontrar caminos seguros entre las anomalias.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[ui_gray_2] • %c[ui_gray_2] objeto de uso diario\n
+		</text>
+	</string>
+	
+	<string id="st_identity_card">
+		<text>Tarjeta de identificacion personal USS</text>
+	</string>
+	<string id="st_identity_card_descr">
+		<text>Esta es tu tarjeta de identificacion personal que revela su verdadera identidad. Mantenlo escondido. Como USS Assaulter, estas especializado en rifles de asalto y armas pesadas. Tambien esta especializado en el control del retroceso de armas. Velocidad de carrera lenta.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] personal belongings\n
+		</text>
+	</string>
+	<string id="st_identity_card_assaulter_descr">
+		<text>Como Asaltante de la USS tienes fortalezas y debilidades &#250;nicas.\n\n %c[d_cyan]EQUIPAMIENTO\n %c[default]Agilidad armaduras pesadas: %c[d_red_1]A+\n %c[d_blue] • %c[default]Agilidad respiracion cerrada: %c[d_red_1]C\n %c[d_blue] • %c[default]Manejo de artefactos: %c[d_red_1]C\n\n %c[d_cyan]ARMAS\n %c[d_blue] • %c[default]Pelea con cuchillo: %c[d_red_1]A+\n %c[d_blue] • %c[default]Especialidad de manejo: %c[d_red_1]Altos retrocesos\n %c[d_blue] • %c[default]Especialidad de mantenimiento: %c[d_red_1]Armas pesadas\n\n %c[d_cyan]MEDICINA\n %c[d_blue] • %c[default]Destreza de vendajes/medkits: %c[d_red_1]B\n %c[d_blue] • %c[default]Habilidad m&#233;dica: %c[d_red_1]C\n %c[d_blue] • %c[default]Habilidad Manejo de drogas: %c[d_red_1]C\n\n %c[d_cyan]ATLETICAS\n %c[d_blue] • %c[default]Resistencia: %c[ui_gray_1] %c[d_red_1]muy alto\n %c[d_blue] • %c[default]Velocidad de carrera: %c[d_red_1]lento\n %c[d_blue] • %c[default]Altura de salto: %c[d_red_1]bajo\n %c[d_blue] • %c[default]Agilidad de ca&#237;da/salto: %c[d_red_1]bajo\n %c[d_blue] • %c[default]Estamina base: %c[d_red_1]bajo\n %c[d_blue] • %c[default]Peso Maximo de Carga: %c[ui_gray_1] %c[d_red_1]alto\n\n %c[d_cyan]PERFIL DE SALUD\n %c[d_blue] • %c[default]Tasa de consumo alimenticio: %c[d_red_1]alto\n %c[d_blue] • %c[default]Necesidad de sue&#241;o: %c[d_red_1]alto\n\n %c[d_cyan]RESISTENCIA DE SISTEMA INMUNE\n %c[d_blue] • %c[default]Drogas/alcohol: %c[d_red_1]A+\n %c[d_blue] • %c[default]Comida insana: %c[d_red_1]B\n %c[d_blue] • %c[default]Artefactos: %c[d_red_1]C\n %c[d_blue] • %c[default]Radiaci&#243;n: %c[ui_gray_1] %c[d_red_1]C\n
+		</text>
+	</string>
+	<string id="st_identity_card_recon_descr">
+		<text>Como Asaltante de la USS tienes fortalezas y debilidades &#250;nicas.\n\n %c[d_cyan]EQUIPAMIENTO\n %c[default]Agilidad armaduras pesadas: %c[d_red_1]C\n %c[d_blue] • %c[default]Agilidad respiracion cerrada: %c[d_red_1]A+\n %c[d_blue] • %c[default]Manejo de artefactos: %c[d_red_1]A+\n\n %c[d_cyan]ARMAS\n %c[d_blue] • %c[default]Pelea con cuchillo: %c[d_red_1]A\n %c[d_blue] • %c[default]Especialidad de manejo: %c[d_red_1]SMG's\n %c[d_blue] • %c[default]Especialidad de mantenimiento: %c[d_red_1]SMG's\n\n %c[d_cyan]MEDICINA\n %c[d_blue] • %c[default]Destreza de vendajes/medkits: %c[d_red_1]B\n %c[d_blue] • %c[default]Habilidad m&#233;dica: %c[d_red_1]C\n %c[d_blue] • %c[default]Habilidad Manejo de drogas: %c[d_red_1]C\n\n %c[d_cyan]ATLETICAS\n %c[d_blue] • %c[default]Resistencia: %c[ui_gray_1] %c[d_red_1]muy alto\n %c[d_blue] • %c[default]Velocidad de carrera: %c[d_red_1]lento\n %c[d_blue] • %c[default]Altura de salto: %c[d_red_1]bajo\n %c[d_blue] • %c[default]Agilidad de ca&#237;da/salto: %c[d_red_1]bajo\n %c[d_blue] • %c[default]Estamina base: %c[d_red_1]bajo\n %c[d_blue] • %c[default]Peso Maximo de Carga: %c[ui_gray_1] %c[d_red_1]alto\n\n %c[d_cyan]PERFIL DE SALUD\n %c[d_blue] • %c[default]Tasa de consumo alimenticio: %c[d_red_1]alto\n %c[d_blue] • %c[default]Necesidad de sue&#241;o: %c[d_red_1]alto\n\n %c[d_cyan]RESISTENCIA DE SISTEMA INMUNE\n %c[d_blue] • %c[default]Drogas/alcohol: %c[d_red_1]A+\n %c[d_blue] • %c[default]Comida insana: %c[d_red_1]B\n %c[d_blue] • %c[default]Artefactos: %c[d_red_1]C\n %c[d_blue] • %c[default]Radiaci&#243;n: %c[ui_gray_1] %c[d_red_1]C\n
+		</text>
+	</string>
+	<string id="st_identity_card_sniper_descr">
+		<text>Como Asaltante de la USS tienes fortalezas y debilidades &#250;nicas.\n\n %c[d_cyan]EQUIPAMIENTO\n %c[default]Agilidad armaduras pesadas: %c[d_red_1]B\n %c[d_blue] • %c[default]Agilidad respiracion cerrada: %c[d_red_1]B\n %c[d_blue] • %c[default]Manejo de artefactos: %c[d_red_1]B\n\n %c[d_cyan]ARMAS\n %c[d_blue] • %c[default]Pelea con cuchillo: %c[d_red_1]B\n %c[d_blue] • %c[default]Especialidad de manejo: %c[d_red_1]Rifles francotirador\n %c[d_blue] • %c[default]Especialidad de mantenimiento: %c[d_red_1]Rifles francotirador\n\n %c[d_cyan]MEDICINA\n %c[d_blue] • %c[default]Destreza de vendajes/medkits: %c[d_red_1]B\n %c[d_blue] • %c[default]Habilidad m&#233;dica: %c[d_red_1]B\n %c[d_blue] • %c[default]Habilidad Manejo de drogas: %c[d_red_1]B+\n\n %c[d_cyan]ATLETICAS\n %c[d_blue] • %c[default]Resistencia: %c[ui_gray_1] %c[d_red_1]media\n %c[d_blue] • %c[default]Velocidad de carrera: %c[d_red_1]media\n %c[d_blue] • %c[default]Altura de salto: %c[d_red_1]media\n %c[d_blue] • %c[default]Agilidad de ca&#237;da/salto: %c[d_red_1]media\n %c[d_blue] • %c[default]Estamina base: %c[d_red_1]alta\n %c[d_blue] • %c[default]Peso Maximo de Carga: %c[ui_gray_1] %c[d_red_1]medio\n\n %c[d_cyan]PERFIL DE SALUD\n %c[d_blue] • %c[default]Tasa de consumo alimenticio: %c[d_red_1]medio\n %c[d_blue] • %c[default]Necesidad de sue&#241;o: %c[d_red_1]bajo\n\n %c[d_cyan]RESISTENCIA DE SISTEMA INMUNE\n %c[d_blue] • %c[default]Drogas/alcohol: %c[d_red_1]B\n %c[d_blue] • %c[default]Comida insana: %c[d_red_1]A+\n %c[d_blue] • %c[default]Artefactos: %c[d_red_1]B\n %c[d_blue] • %c[default]Radiaci&#243;n: %c[ui_gray_1] %c[d_red_1]B\n
+		</text>
+	</string>
+	
+	<string id="st_energy">
+		<text>ninguno</text>
+	</string>
+	<string id="st_energy_descr">
+		<text>La energ&#237;a almacenada se mide en amperios-hora (Ah).</text>
+	</string>
+
+	<string id="green_bug_name">
+		<text>Escarabajo verde</text>
+	</string>
+	<string id="green_bug_description">
+		<text>El escarabajo verde es un companero inseparable de cada stalker. Ni una sola persona en la Zona nunca lo ha encontrado en su camino. Si se ve solo una o dos veces a lo largo de su vida, debe considerarse afortunado. Su estado de animo cae en proporcion directa con cada reunion posterior con el escarabajo verde ... \n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] greatly increases chance of crashing game\n %c[d_blue] • %c[ui_gray_2] cannot be discarded\n %c[d_blue] • %c[ui_gray_2] cannot be sold\n
+		</text>
+	</string>
+	
+	<string id="sleep_itm_warning_blowout">
+		<text>&#161;Justo ahora no es seguro dormir!</text>
+	</string>
+	
+</string_table>

@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- UI STRINGS FOR CLOSED CAPTION MODS -->
+	<string id="ui_mm_cc_icc">
+		<text>Subt&#237;tulos</text>
+	</string>
+	<string id="ui_mm_cc_icc_chktext">
+		<text>Activar efectos de sonido</text>
+	</string>
+	<string id="ui_mm_cc_captioning">
+		<text>Subt&#237;tulos</text>
+	</string>
+	<string id="ui_mm_cc_none">
+		<text>Sin subt&#237;tulos</text>
+	</string>
+	<string id="ui_mm_cc_storyonly">
+		<text>S&#243;lo subt&#237;tulos importantes</text>
+	</string>
+	<string id="ui_mm_cc_all">
+		<text>Todos los subt&#237;tulos</text>
+	</string>
+
+	<!-- STRING TABLE ADDITIONS FOR GAME -->
+	<string id="st_sending_msg">
+		<text>Enviando mensaje</text>
+	</string>
+	<string id="st_memo">
+		<text>Memo</text>
+	</string>
+	<string id="st_msgfrom_err1">
+		<text>[remitente desconocido]</text>
+	</string>
+	<string id="st_msgfrom_err2">
+		<text>&lt;!DATA_ERROR!&gt;</text>
+	</string>
+	<string id="st_msgfrom_err3">
+		<text>=?Fallo de la red</text>
+	</string>
+	<string id="st_joker_name">
+		<text>Joker</text>
+	</string>
+	<string id="st_soldier_name">
+		<text>Soldado</text>
+	</string>
+	<string id="st_hq_general_name">
+		<text>General</text>
+	</string>
+	<string id="st_ssu_commander_name">
+		<text>Comando del USS</text>
+	</string>
+
+	<!-- CLOSED CAPTIONS FOR GAME -->
+	<string id="cc_effect-ambient-blowout_begin">
+		<text>[emisi&#243;n comenzando]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b38_bloodsucker_roar">
+		<text>[chupasangre ruge]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b38_electro_box_door">
+		<text>[caja el&#233;ctrica se abre]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b38_electro_box_switch">
+		<text>[interruptor hace clic]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b38_elevator_door">
+		<text>[puerta del ascensor se abre]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b38_lock_sound">
+		<text>[puerta se desbloquea]</text>
+	</string>
+	<string id="cc_effect-ambient-zaton-zat_b57_bloodsucker_roar">
+		<text>[rugidos de chupasangre]</text>
+	</string>
+	<string id="cc_effect-ambient-jupiter-jup_b16_oasis_noise">
+		<text>[extra&#241;o ruido crepitante de alg&#250;n lugar cercano]</text>
+	</string>
+	<string id="cc_effect-ambient-jupiter-jup_b41_steam">
+		<text>[sistema de descontaminaci&#243;n de flujo activo]</text>
+	</string>
+	<string id="cc_effect-ambient-jupiter-jup_b46_spatial_bubble_idle">
+		<text>[burbuja espacial retumba]</text>
+	</string>
+	<string id="cc_effect-ambient-jupiter-jup_b46_spatial_bubble_rupture">
+		<text>[explosiones de burbujas espaciales abriendose]</text>
+	</string>
+	<string id="cc_effect-ambient-jupiter-jup_b219_generator_start">
+		<text>[generador de energ&#237;a arranca]</text>
+	</string>
+	<string id="cc_effect-device-door_start">
+		<text>[puerta se abre]</text>
+	</string>
+	<string id="cc_effect-device-door_closing">
+		<text>[puerta se cierra]</text>
+	</string>
+	<string id="cc_effect-device-door_stop">
+		<text>[puerta se cierra de golpe]</text>
+	</string>
+	<string id="cc_effect-device-metal_small_open">
+		<text>[puerta de metal se abre]</text>
+	</string>
+	<string id="cc_effect-device-wood_large_open">
+		<text>[puerta de madera se abre]</text>
+	</string>
+	<string id="cc_effect-device-wood_large_close_start">
+		<text>[puerta de madera cierra]</text>
+	</string>
+
+	<string id="cc_effect-anomaly-steam_blowout">
+		<text>[silbido de vapor]</text>
+	</string>
+	<string id="cc_effect-weapons-n_desert_eagle_shot">
+		<text>[disparo de pistola]</text>
+	</string>
+
+	<string id="cc_effect-music-guitar_">
+		<text>[m&#250;sica de guitarra]</text>
+	</string>
+	<string id="cc_effect-music-harmonica_">
+		<text>[m&#250;sica de arm&#243;nica]</text>
+	</string>
+	<string id="cc_effect-laughter_">
+		<text>[risa]</text>
+	</string>
+
+	<string id="cc_wounded-bandit-help">
+		<text>[bandido herido pide ayuda]</text>
+	</string>
+	<string id="cc_wounded-dolg-help">
+		<text>[Deber herido pide ayuda]</text>
+	</string>
+	<string id="cc_wounded-freedom-help">
+		<text>[Libertad herido pide ayuda]</text>
+	</string>
+	<string id="cc_wounded-killer-help">
+		<text>[Mercenario herido pide ayuda]</text>
+	</string>
+	<string id="cc_wounded-military-help">
+		<text>[Soldado herido pide ayuda]</text>
+	</string>
+	<string id="cc_wounded-monolith-help">
+		<text>[Monolito herido pide ayuda]</text>
+	</string>
+	<string id="cc_wounded-stalker-help">
+		<text>[Stalker herido pide ayuda]</text>
+	</string>
+
+	<string id="cc_fight-bandit-attack">
+		<text>[bandido ataca]</text>
+	</string>
+	<string id="cc_fight-dolg-attack">
+		<text>[Deber ataca]</text>
+	</string>
+	<string id="cc_fight-freedom-attack">
+		<text>[Libertad ataca]</text>
+	</string>
+	<string id="cc_fight-killer-attack">
+		<text>[Mercenario ataca]</text>
+	</string>
+	<string id="cc_fight-military-attack">
+		<text>[Soldado ataca]</text>
+	</string>
+	<string id="cc_fight-monolith-attack">
+		<text>[Monolito ataca]</text>
+	</string>
+	<string id="cc_fight-stalker-attack">
+		<text>[Stalker ataca]</text>
+	</string>
+
+	<!-- CLOSED CAPTIONS FOR 'CALL OF PRIPYAT' -->
+	<!-- Zaton -->
+	<string id="zat_a2_base_alarm">
+		<text>&#161;Atenci&#243;n stalkers, el Skadovsk est&#225; siendo atacado! Nos hemos visto obligados a cerrar las escotillas hasta que las cosas se calmen.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_after_surge">
+		<text>Stalkers, la emision finalmente ha terminado. Espero que hayais salido todos vivos.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_farewell_1">
+		<text>Visitanos si surge algo interesante. Skadovsk no ira a ninguna parte, eso te lo aseguro ...</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_farewell_2">
+		<text>Visitanos si encuentras algun artefacto, y veremos que podemos hacer.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_greeting_1">
+		<text>ЎHola! їQue te trae a nuestro humilde barco?</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_greeting_2">
+		<text>Bienvenido a bordo!</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_surge_phase_1">
+		<text>ЎAtencion stalkers! ЎSe acerca una emision! ЎRepito, se acerca una emision! Busquen un refugio de inmediato.</text>
+	</string>
+	<string id="zat_a2_stalker_barmen_surge_phase_2">
+		<text>ЎAtencion stalkers! ЎUna emision comenzara en cualquier momento. Encuentren un refugio si quieres sobrevivir!</text>
+	</string>
+	<string id="zat_b103_merc_hide_weapon_1">
+		<text>&#161;Guarda el arma!</text>
+	</string>
+	<string id="zat_b103_merc_hide_weapon_2">
+		<text>Te dije que alejaras guardaras tu arma. &#161;Voy a contar hasta tres, y si no lo haces, te volar&#233; la maldita cabeza!</text>
+	</string>
+	<string id="zat_b103_merc_talk_to_commander_1">
+		<text>No tengo ganas de golpear enc&#237;as. &#161;Habla con el comandante!</text>
+	</string>
+	<string id="zat_b103_merc_talk_to_commander_2">
+		<text>El comandante es el &#250;nico con el que se puede hablar si surge algo.</text>
+	</string>
+	<string id="zat_b106_garmata_refuse_talk">
+		<text>Habla con el jefe. Me interesa mas matar a gente que hablar.</text>
+	</string>
+	<string id="zat_b14_scene_1_stalker_bye">
+		<text>Gracias. Si tienes mas trabajo, sabes donde encontrarme.</text>
+	</string>
+	<string id="zat_b18_noah_breakdown">
+		<text>Aah... &#161;Esto es todo! &#161;Este es el final! Es aqu&#237;... Mutantes... mutantes por todas partes!</text>
+	</string>
+	<string id="zat_b18_noah_gave_first_artefact">
+		<text>Esta mierda no te salvar&#225; cuando los mutilados salgan de la carpinter&#237;a. &#161;Toma esto y sal de mi vista!</text>
+	</string>
+	<string id="zat_b18_noah_gave_second_artefact">
+		<text>&#161;Ja! &#191;Crees que eso te proteger&#225; de una emisi&#243;n? Ten, toma esto y corre. &#161;Salva tu pellejo!</text>
+	</string>
+	<string id="zat_b18_noah_go_away">
+		<text>&#161;Entonces l&#225;rgate, rarito!</text>
+	</string>
+	<string id="zat_b18_noah_greetings_1">
+		<text>&#161;&#161;V&#225;yanse al infierno, malditos mutis!!</text>
+	</string>
+	<string id="zat_b18_noah_greetings_2">
+		<text>&#161;Salgan de aqu&#237;, bastardos, o los matar&#233; a todos!</text>
+	</string>
+	<string id="zat_b18_noah_greetings_3">
+		<text>Mutantes imb&#233;ciles... &#161;V&#225;yanse a la mierda!</text>
+	</string>
+	<string id="zat_b18_noah_no_talk_1">
+		<text>D&#233;jame en paz.</text>
+	</string>
+	<string id="zat_b18_noah_no_talk_2">
+		<text>Sigue movi&#233;ndote.</text>
+	</string>
+	<string id="zat_b18_noah_no_talk_3">
+		<text>Desaparece.</text>
+	</string>
+	<string id="zat_b20_noah_jumped">
+		<text>ЎBuen trabajo! Siempre seras bienvenido aqui.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_farewell_1">
+		<text>ЎBien, buena suerte!</text>
+	</string>
+	<string id="zat_b215_stalker_guide_farewell_2">
+		<text>ЎDisfruta de la caza!</text>
+	</string>
+	<string id="zat_b215_stalker_guide_greeting_1">
+		<text>Hola.</text>
+	</string>
+	<string id="zat_b215_stalker_guide_greeting_2">
+		<text>Hey, stalker. їComo estas?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_farewell_1">
+		<text>Si, por supuesto. Adios.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_farewell_2">
+		<text>Adios.</text>
+	</string>
+	<string id="zat_b22_stalker_medic_greeting_1">
+		<text>їQue pasa? їEstas herido, o estas contaminado de radiacion?</text>
+	</string>
+	<string id="zat_b22_stalker_medic_greeting_2">
+		<text>No, ahora no... їSi?</text>
+	</string>
+	<string id="zat_b3_tech_drink_no_more">
+		<text>&#191;C&#243;mo te va, stalker?</text>
+	</string>
+	<string id="zat_b3_tech_drunk">
+		<text>Uhh... &#191;Qu&#233; quieres...?</text>
+	</string>
+	<string id="zat_b3_tech_drunk_discount">
+		<text>Uhm... &#191;Olvidaste algo?</text>
+	</string>
+	<string id="zat_b3_tech_no_sleep_1">
+		<text>&#191;Mm? &#191;Qu&#233;...? D&#233;jame dormir...</text>
+	</string>
+	<string id="zat_b3_tech_no_sleep_2">
+		<text>Vamos, d&#233;jame en paz...!</text>
+	</string>
+	<string id="zat_b3_tech_no_sleep_3">
+		<text>Est&#225; por ah&#237;... &#161;S&#237;rvete un trago!</text>
+	</string>
+	<string id="zat_b3_tech_realy_drunk">
+		<text>Que... &#191;Qu&#233; puedo hacer por ti...?</text>
+	</string>
+	<string id="zat_b3_tech_realy_drunk_discount">
+		<text>Aah... Eh, eres t&#250;... &#161;Entra!</text>
+	</string>
+	<string id="zat_b3_tech_sleep_1">
+		<text>[dormido]</text>
+	</string>
+	<string id="zat_b3_tech_sleep_2">
+		<text>...te digo que no hay suficiente jugo...</text>
+	</string>
+	<string id="zat_b3_tech_sleep_3">
+		<text>[dormido]</text>
+	</string>
+	<string id="zat_b3_tech_sleep_4">
+		<text>Oigan, chicos, &#191;a d&#243;nde van...? No, yo... Me quedar&#233; aqu&#237;...</text>
+	</string>
+	<string id="zat_b3_tech_sober">
+		<text>Hola…</text>
+	</string>
+	<string id="zat_b3_tech_take_first_dose">
+		<text>&#161;Por una mano firme!</text>
+	</string>
+	<string id="zat_b3_tech_take_second_dose">
+		<text>&#161;Por un buen d&#237;a de trabajo!</text>
+	</string>
+	<string id="zat_b3_tech_take_third_dose">
+		<text>&#161;Por nuestro objetivo com&#250;n!</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_farewell_1">
+		<text>ЎEso es, largo de aqui!</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_farewell_2">
+		<text>Cierra la puerta al salir...</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_greeting_1">
+		<text>їEntonces, tienes algo nuevo?</text>
+	</string>
+	<string id="zat_b30_owl_stalker_trader_greeting_2">
+		<text>їQue eres, una estatua? ЎSi tienes algo, dimelo. Si no, largate!</text>
+	</string>
+	<string id="zat_b40_merc_combat">
+		<text>&#161;Bien, suelta a ese retrasado!</text>
+	</string>
+	<string id="zat_b40_merc_go_away_1">
+		<text>&#161;Regresate, stalker! &#161;Este lugar no es para ti!</text>
+	</string>
+	<string id="zat_b40_merc_go_away_2">
+		<text>&#161;Stalker! &#161;Vete, mientras a&#250;n tengas piernas!</text>
+	</string>
+
+	<string id="zat_b5_stalkers_refuse_talk">
+		<text>Preguntale al jefe.</text>
+	</string>
+	<string id="zat_b5_stalkers_watch_out_sentry">
+		<text>No dejes que el centinela te vea.</text>
+	</string>
+	<string id="zat_b52_port_bandits_kill_actor_snd_1">
+		<text>ЎBasta ya, gilipollas!</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_farewell_1">
+		<text>Hasta luego... Si eres capaz de seguir con vida, eso si.</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_farewell_2">
+		<text>Pasate por aqui alguna vez. ЎNos divertiremos!</text>
+	</string>
+	<string id="zat_b7_bandit_boss_sultan_greeting_1">
+		<text>ЎEl mismisimo!</text>
+	</string>
+
+	<!-- Jupiter -->
+	<string id="jup_a6_freedom_leader_farewell_1">
+		<text>&#161;Buena suerte!</text>
+	</string>
+	<string id="jup_a6_freedom_leader_farewell_2">
+		<text>Cu&#237;date.</text>
+	</string>
+	<string id="jup_a6_freedom_leader_greeting_1">
+		<text>Hey, hombre. &#191;Qu&#233; pasa?</text>
+	</string>
+	<string id="jup_a6_freedom_leader_greeting_2">
+		<text>Entra, hombre, rel&#225;jate. Qu&#237;tate el peso de encima.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_farewell_1">
+		<text>Pasa un rato. Puede ser divertido por aqu&#237;.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_farewell_2">
+		<text>&#161;Nos vemos!</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_greeting_1">
+		<text>&#161;Ven aqu&#237;, hermano! Tengo toda la mierda que vas a necesitar.</text>
+	</string>
+	<string id="jup_a6_stalker_barmen_greeting_2">
+		<text>&#161;Aloha!</text>
+	</string>
+	<string id="jup_a6_stalker_medik_after_surge">
+		<text>La emisi&#243;n ha terminado. Espero que todos est&#233;n bien. Si est&#225;s herido, ven a Yanov y te curaremos.</text>
+	</string>
+	<string id="jup_a6_stalker_medik_farewell_1">
+		<text>&#161;Siguiente! ...ehhhh... Quiero decir... &#161;cu&#237;dese y mant&#233;ngase saludable!</text>
+	</string>
+	<string id="jup_a6_stalker_medik_farewell_2">
+		<text>&#161;No te metas en l&#237;os!</text>
+	</string>
+	<string id="jup_a6_stalker_medik_greeting_1">
+		<text>Est&#225;s un poco p&#225;lido, amigo. &#191;Qu&#233; tal una peque&#241;a inyecci&#243;n o dos?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_greeting_2">
+		<text>&#191;Herido otra vez? No pierdes el tiempo, &#191;verdad?</text>
+	</string>
+	<string id="jup_a6_stalker_medik_phase_1">
+		<text>&#161;Atenci&#243;n, atenci&#243;n! Se aproxima una emisi&#243;n. &#161;Encuentren refugio inmediatamente!</text>
+	</string>
+	<string id="jup_a6_stalker_medik_phase_2">
+		<text>ЎAtencion, atencion! ЎLa emision esta a punto de llegar! ЎPoneros a salvo inmediatamente!</text>
+	</string>
+	<string id="jup_b217_stalker_tech_farewell_1">
+		<text>&#161;Hasta luego!</text>
+	</string>
+	<string id="jup_b217_stalker_tech_farewell_2">
+		<text>Nos vemos por ah&#237;.</text>
+	</string>
+	<string id="jup_b217_stalker_tech_greeting_1">
+		<text>&#161;Hola!</text>
+	</string>
+	<string id="jup_b217_stalker_tech_greeting_2">
+		<text>&#161;Sup!</text>
+	</string>
+	<string id="jup_b220_trapper_farewell_1">
+		<text>&#161;Que te vaya bien!</text>
+	</string>
+	<string id="jup_b220_trapper_farewell_2">
+		<text>&#161;Feliz cacer&#237;a!</text>
+	</string>
+	<string id="jup_b220_trapper_greeting_1">
+		<text>&#191;Hola?</text>
+	</string>
+	<string id="jup_b220_trapper_greeting_2">
+		<text>&#191;C&#243;mo va la caza?</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_farewell_1">
+		<text>&#161;Hasta la pr&#243;xima!</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_farewell_2">
+		<text>&#161;No seas un extra&#241;o!</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_greeting_1">
+		<text>&#161;Hola! Siempre es agradable ver una nueva cara en nuestro b&#250;nker.</text>
+	</string>
+	<string id="jup_b6_scientist_biochemist_greeting_2">
+		<text>Oh... &#161;hola!</text>
+	</string>
+	<string id="jup_b6_scientist_medic_farewell_1">
+		<text>&#161;Buena suerte!</text>
+	</string>
+	<string id="jup_b6_scientist_medic_farewell_2">
+		<text>Adi&#243;s.</text>
+	</string>
+	<string id="jup_b6_scientist_medic_greeting_1">
+		<text>Hola.</text>
+	</string>
+	<string id="jup_b6_scientist_medic_greeting_2">
+		<text>Hey</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_farewell_1">
+		<text>Gracias por tu tiempo.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_farewell_2">
+		<text>&#191;Eso es todo? Nos vemos entonces.</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_greeting_1">
+		<text>Ehh... muy bien, tu de nuevo. &#191;Qu&#233; puedo hacer por ti?</text>
+	</string>
+	<string id="jup_b6_scientist_nuclear_physicist_greeting_2">
+		<text>S&#237;, tienes toda mi atenci&#243;n.</text>
+	</string>
+	<string id="jup_b6_stalker_1_first_measurement_begin">
+		<text>Bien, hag&#225;moslo r&#225;pido. Cuanto m&#225;s r&#225;pido terminemos, m&#225;s posibilidades tenemos de seguir vivos.</text>
+	</string>
+
+	<!-- Underpass -->
+
+
+	<!-- Pripyat -->
+	<string id="pri_a18_monolith_pray_1">
+		<text>Monolito, no te escuchamos.</text>
+	</string>
+	<string id="pri_a18_monolith_pray_2">
+		<text>їPor que nos has dejado, Monolito?</text>
+	</string>
+	<string id="pri_a18_monolith_pray_3">
+		<text>Esperamos tus ordenes, Monolito.</text>
+	</string>
+
+	<!-- CLOSED CAPTIONS FOR CALL OF CHERNOBYL -->
+	<string id="bar_barman_hello_1">
+		<text>ЎHola!</text>
+	</string>
+	<string id="bar_barman_hello_2">
+		<text>їQue tal, tio? їComo te va?</text>
+	</string>
+	<string id="bar_barman_hello_3">
+		<text>їSigues vivo? Cojonudo.</text>
+	</string>
+	<string id="bar_barman_hello_4">
+		<text>їComo va la cosa?</text>
+	</string>
+	<string id="bar_barman_hello_5">
+		<text>їQue pasa?</text>
+	</string>
+	<string id="bar_barman_wait_1">
+		<text>їPor que tardas tanto, eh?</text>
+	</string>
+	<string id="bar_barman_wait_2">
+		<text>Venga. Ven aqui.</text>
+	</string>
+	<string id="bar_barman_wait_3">
+		<text>Que haces ahi de pie? Venga, ven aqui.</text>
+	</string>
+	<string id="bar_barman_wait_4">
+		<text>Vente pa ca. No nos queda mucho tiempo.</text>
+	</string>
+	<string id="bar_guard_prohodi_1">
+		<text>ЎVen aqui, he dicho! No te quedes ahi parado.</text>
+	</string>
+	<string id="bar_guard_stop_1">
+		<text>ЎAhi no te puedes ir!</text>
+	</string>
+	<string id="bar_guard_stop_2">
+		<text>Habla con Tabernero.</text>
+	</string>
+	<string id="bar_guard_stop_3">
+		<text>ЎAlto! No puedo dejarte pasar ahora.</text>
+	</string>
+	<string id="duty_hangar_1">
+		<text>Sal de aqui, stalker.</text>
+	</string>
+	<string id="esc_mech_meet_1">
+		<text>їBueno? їQue quieres?</text>
+	</string>
+	<string id="esc_mech_meet_2">
+		<text>їQue querias?</text>
+	</string>
+	<string id="esc_mech_meet_3">
+		<text>їCuando me vas a dejar en paz? Todos pensais que me encanta que me molesteis constantemente, їno?</text>
+	</string>
+	<string id="esc_mech_meet_bye_1">
+		<text>Vale, adios.</text>
+	</string>
+	<string id="esc_mech_meet_bye_2">
+		<text>їAsi que eres uno? Por fin.</text>
+	</string>
+	<string id="esc_mech_meet_bye_3">
+		<text>Por fin, me dejas en paz. Que felicidad.</text>
+	</string>
+	<string id="esc_nimble_greeting_1">
+		<text>Hola, stalker. їPiensas hacer un pedido?</text>
+	</string>
+	<string id="esc_nimble_greeting_2">
+		<text>їQue tal? їHas decidido hacer un pedido?</text>
+	</string>
+	<string id="esc_nimble_greeting_3">
+		<text>ЎHey! їNecesitas algo?</text>
+	</string>
+	<string id="esc_nimble_greeting_order_not_ready_1">
+		<text>No te preocupes. Recibiras el pedido dentro de poco.</text>
+	</string>
+	<string id="esc_nimble_greeting_order_not_ready_2">
+		<text>Vuelve dentro de un rato. Aun no tengo tu pedido.</text>
+	</string>
+	<string id="esc_nimble_greeting_order_not_ready_3">
+		<text>Acercate luego. Tendre su pedido para entonces.</text>
+	</string>
+	<string id="esc_nimble_greeting_order_ready_1">
+		<text>Aqui tienes tu pedido al completo.</text>
+	</string>
+	<string id="esc_nimble_greeting_order_ready_2">
+		<text>Ya tengo el pedido. ЎAqui lo tienes!</text>
+	</string>
+	<string id="esc_nimble_greeting_order_ready_3">
+		<text>ЎToma, stalker! Como veras, siempre cumplo con mi palabra.</text>
+	</string>
+	<string id="esc_nimble_order">
+		<text>El trabajo esta hecho. Puedes recoger tu pedido.</text>
+	</string>
+	<string id="esc_fanat_farewell_1">
+		<text>Hasta luego, entonces.</text>
+	</string>
+	<string id="esc_fanat_farewell_2">
+		<text>Buena suerte.</text>
+	</string>
+	<string id="esc_fanat_farewell_3">
+		<text>Un placer hablar contigo.</text>
+	</string>
+	<string id="esc_fanat_farewell_4">
+		<text>Adios.</text>
+	</string>
+	<string id="esc_fanat_farewell_5">
+		<text>Buena caza, stalker.</text>
+	</string>
+	<string id="esc_fanat_greeting_1">
+		<text>Hola.</text>
+	</string>
+	<string id="esc_fanat_greeting_2">
+		<text>їQue pasa?</text>
+	</string>
+	<string id="esc_fanat_greeting_3">
+		<text>Muy buenas.</text>
+	</string>
+	<string id="esc_fanat_greeting_4">
+		<text>Ey.</text>
+	</string>
+	<string id="red_forester_greet_1">
+		<text>Hola. їQue te trae por aqui?</text>
+	</string>
+	<string id="red_forester_hello_bye_0">
+		<text>Adios, muchacho.</text>
+	</string>
+	<string id="red_forester_hello_bye_1">
+		<text>No te olvides del viejo.</text>
+	</string>
+	<string id="red_forester_hello_bye_2">
+		<text>Te deseo un camino recto, chico.</text>
+	</string>
+	<string id="red_forester_meet_hello_0">
+		<text>Buenas, alma viviente.</text>
+	</string>
+	<string id="red_forester_meet_hello_1">
+		<text>їQue te pasa, joven? їQue es lo que estas buscando por aqui?</text>
+	</string>
+	<string id="red_forester_meet_hello_2">
+		<text>їFue por casualidad lo que te trajo a este lugar, o que?</text>
+	</string>
+	<string id="val_bandit_trader_meet_1">
+		<text>...</text>
+	</string>
+	<string id="val_bandit_trader_meet_2">
+		<text>...</text>
+	</string>
+	<string id="yan_sakharov_meet_1">
+		<text>ЎMuy buenas, joven!</text>
+	</string>
+	<string id="yan_sakharov_meet_2">
+		<text>ЎTe doy la bienvenida a nuestra base cientifica!</text>
+	</string>
+	<string id="yan_sakharov_meet_3">
+		<text>їQue traes a mi humilde laboratorio?</text>
+	</string>
+	<string id="yan_sakharov_meet_4">
+		<text>їSi-si?</text>
+	</string>
+	<string id="yan_sakharov_meet_bye_1">
+		<text>ЎMis mejores deseos para ti!</text>
+	</string>
+	<string id="yan_sakharov_meet_bye_2">
+		<text>Encantando de conocerte.</text>
+	</string>
+	<string id="yan_sakharov_meet_bye_3">
+		<text>ЎVuelve si necesitas cualquier cosa!</text>
+	</string>
+</string_table>

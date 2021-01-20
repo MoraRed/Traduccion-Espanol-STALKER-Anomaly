@@ -1,0 +1,480 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	
+	<string id="encyclopedia__notes">
+		<text>Notas</text>
+	</string>
+	
+	<string id="encyclopedia__notes__state">
+		<text>Estado del equipo</text>
+	</string>
+	<string id="encyclopedia__notes__state_text">
+		<text>
+			Condici&#243;n del equipo.\n \n
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes__ironman">
+		<text>Estado Ironman</text>
+	</string>
+	<string id="encyclopedia__notes__ironman_text">
+		<text>
+			Estados Ironman:\n
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_mysteries_of_the_zone">
+		<text>Misterios de la Zona</text>
+	</string>
+	<string id="encyclopedia__notes_mysteries_of_the_zone_text">
+		<text>
+			Un viejo amigo de Strelok est&#225; escondido en alg&#250;n lugar por aqu&#237;. Podr&#237;a ser una gran oportunidad para conocerlo y aprender m&#225;s sobre la Zona. El &#250;nico problema es que no tengo ni idea de su ubicaci&#243;n. \nEl viejo del Bosque Rojo, Forester, podr&#237;a saber qui&#233;n es y d&#243;nde est&#225;. Tienen alg&#250;n tipo de conexi&#243;n con &#233;l, por lo que parece.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_living_legend">
+		<text>&#191;Strelok regres&#243;?</text>
+	</string>
+	<string id="encyclopedia__notes_living_legend_text">
+		<text>
+			Seg&#250;n los rumores, un legendario stalker regres&#243; hace poco. Fue uno de los pocos que lleg&#243; al centro de la Zona. \nLa gente est&#225; haciendo un gran esc&#225;ndalo por esto. %s probablemente querr&#225; verme.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_mortal_sin">
+		<text>&#191;Nuevo clan?</text>
+	</string>
+	<string id="encyclopedia__notes_mortal_sin_text">
+		<text>
+			La tensi&#243;n est&#225; en el aire. Se ha visto a misteriosos stalkers deambulando, predicando y convenciendo a otros de unirse a su "clan", pero se sabe poco sobre sus verdaderos motivos y objetivos. \nParece que se est&#225; gestando una tormenta. Debo ver %s.
+		</text>
+	</string>
+
+	<string id="encyclopedia__notes_recipe_cooking_1">
+		<text>Notas de cocinero</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_cooking_1_text">
+		<text>
+			Un par de p&#225;ginas escritas a mano, contienen recetas detalladas sobre el marinado de carne mutante en alcohol a ciertas temperaturas. Seg&#250;n las notas, reduce los efectos da&#241;inos de la carne irradiada. Parece que el autor es un experimentado stalker.
+		</text>
+	</string>
+
+	<string id="encyclopedia__notes_letter_memoirs_1_of_2">
+		<text>Diario #1 de un stalker</text>
+	</string>
+	<string id="encyclopedia__notes_letter_memoirs_1_of_2_text">
+		<text>
+			Un viejo y descolorido cuaderno se introdujo en la funda de una carta para protegerlo del desgaste. Sin embargo, no resisti&#243; bien el paso del tiempo y s&#243;lo una peque&#241;a parte del texto es legible:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_memoirs_1_of_2_text2">
+		<text>
+			\n \n"Tengo que escribir esto, de alguna manera siento que aliviar&#225; mi presi&#243;n, y s&#243;lo puedo esperar que alguien lo lea para que mi legado permanezca despu&#233;s de que me vaya y nadie cometa los mismos errores que yo. \nNo tengo muchos amigos, o m&#225;s bien no tengo ninguno aqu&#237; en la Zona. Todos los comerciantes me miran como si fuera una especie de desterrado. Ese barbudo de Zaton se rie sarc&#225;sticamente cada vez que me ve, y el comerciante hawaiano se burla de m&#237; con actitud despreocupada. Que se jodan esos bastardos, todo lo que necesito de ellos es algo de munici&#243;n, comida y agua de vez en cuando. \n \nEmpec&#233; a escribir esto para que al menos alguien supiera por lo que pas&#233; esa noche, lo que pas&#243;, y tal vez entender por qu&#233; prefiero estar solo en todo momento. Vine aqu&#237; por mi cuenta, pero inmediatamente me junt&#233; con este novato. Result&#243; ser un entusiasta de los minerales. \nTen&#237;a el hobby de coleccionar rocas, y ten&#237;a muchas de ellas, as&#237; que naturalmente los artefactos, rocas extra&#241;as, &#250;nicas de la Zona, eran su siguiente nivel. Consigui&#243; tantas de ellas que s&#243;lo puedo asumir que fue gracias a ellas que contrajo ese gordo tumor en su est&#243;mago. V&#243;mitos frecuentes, diarrea, estr&#233;s y cosas as&#237;, ya sabes. Era como una mujer embarazada, pero en lugar de un beb&#233; ten&#237;a este tumor maligno y gigantesco. Incluso le puso el nombre de su primer perrito que ten&#237;a de mascota. \nNo me opuse, era una buena compa&#241;&#237;a, y la necesitaba en ese momento. Nunca atacamos a los bandidos, evitamos a la mayor&#237;a de los mutantes, y s&#243;lo nos quedamos cerca de las anomal&#237;as, recogiendo piedras interesantes y a veces agarrando algunos artefactos si ten&#237;amos suerte".
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_memoirs_2_of_2">
+		<text>Diario #2 de un stalker</text>
+	</string>
+	<string id="encyclopedia__notes_letter_memoirs_2_of_2_text">
+		<text>
+			Un viejo y descolorido cuaderno se introdujo en la funda de una carta para protegerlo del desgaste. Sin embargo, no resisti&#243; bien el paso del tiempo y s&#243;lo una peque&#241;a parte del texto es legible:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_memoirs_2_of_2_text2">
+		<text>
+			\n \n"Se hablaba de esta anomal&#237;a, que seg&#250;n se informa se encuentra en lo profundo de una cueva o grieta en el suelo. Se supon&#237;a que hab&#237;a una gran cantidad de artefactos, pero por alguna raz&#243;n nadie quer&#237;a ir all&#237;. \n"Tontos cobardes", pensabamos. &#191;Por qu&#233; diablos nadie aprovechar&#237;a la oportunidad de hacerse rico y vivir la vida f&#225;cil por siempre? \nAs&#237; que sentimos esta repentina oleada de valor, empacamos, y fuimos directamente a la cueva. Ni siquiera pudimos mirar dentro de la cueva, y esta oscura sombra vol&#243; sobre nosotros. Me tropec&#233;, me golpe&#233; la cabeza al moverme, y me desmay&#233;. \nDespu&#233;s de un rato volv&#237; en m&#237;, y o&#237; algo o alguien gimiendo. "Animales", pens&#233; al principio, pero luego me di cuenta de que era mi amigo el que estaba delante de m&#237;. Vi su piel desgarrada, sus m&#250;sculos sangrando por todas partes y los huesos saliendo de las horribles heridas. Estaba sosteniendo torpemente con la mano sus tripas ahora desparramadas, mientras se arrastraba fuera de la cueva. Fue un milagro que no muriera en el acto. \n"&#191;Qu&#233; diablos pas&#243;?", no pude encontrarle sentido a nada. Todav&#237;a ten&#237;a mi pistola de reserva, y por alg&#250;n tipo de mecanismo de defensa empec&#233; a disparar hacia la oscuridad de la cueva. Ten&#237;a 20 balas en esa pistola, y cambi&#233; a un solo disparo. Cuando todav&#237;a ten&#237;a 7 balas, algo me agarr&#243; la mano y me hizo apretar el gatillo. \nEn ese momento ni siquiera me di cuenta de ad&#243;nde apuntaba mi pistola y ad&#243;nde disparaba, pero no pude detenerme. Y de repente la fuerza me solt&#243;, pero estaba en tal estado de shock que segu&#237; apretando el gatillo unos minutos despu&#233;s que el cargador ya estaba vac&#237;o. Sab&#237;a que si me hubiera detenido, habr&#237;a tenido que enfrentarme a lo que le pas&#243; a mi amigo. Ni siquiera tuve el valor para quitarle la placa de identificaci&#243;n. Simplemente corr&#237;. \n \n&#191;C&#243;mo pod&#237;a hablar con alguien o tener otro amigo, cuando la Zona tambi&#233;n pod&#237;a agarrarlos? Es mejor estar solo. La amistad tiene un precio y un riesgo. El calor ef&#237;mero de la amistad no vale la pena si puedes perderla de la peor manera posible. Ahora tengo este chich&#243;n en la cabeza como recordatorio de eso".
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_freedom_manual_1_of_2">
+		<text>T&#233;cnicas de interrogaci&#243;n: lo b&#225;sico # 1</text>
+	</string>
+	<string id="encyclopedia__notes_letter_freedom_manual_1_of_2_text">
+		<text>
+			Un folleto de instrucciones con un gran emblema de Libertad en la esquina superior derecha y un simple dibujo de una pistola apuntando a una figura humana arrodillada. Se titula "T&#233;cnicas de interrogaci&#243;n: Lo b&#225;sico" y est&#225; escrito con la t&#237;pica y relajada jerga de la facci&#243;n:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_freedom_manual_1_of_2_text2">
+		<text>
+			\n \n"Ni siquiera deber&#237;a decir esto porque es muy obvio, pero realmente, no corras la voz, no muestres este manual por ah&#237;, no lo vendas. \nT&#237;ralo, qu&#233;malo o d&#225;selo s&#243;lo a aquellos en los que conf&#237;es m&#225;s. No quieres que todos sepan esto. &#191;Y si lo usan en tu contra? &#191;Tienes un alijo? Entonces hazte un favor y gu&#225;rdatelo. No digas que no te lo advert&#237;. \n \nTodo el mundo tiene un alijo. Incluso el m&#225;s pobre y miserable bandido que ha vivido en la Zona tiene un par de raciones de comida y algunas municiones. Es la forma en que las cosas funcionan aqu&#237;. Recolectas algo de dinero, vendes algunos artefactos o partes mutantes, saqueas algunos cuerpos muertos a&#250;n calientes, y compras comida o armas para que cuando la mierda llegue al ventilador no tengas que mirarlo directamente con una est&#250;pida sonrisa en tu cara, sino que tengas algunas cosas bajo la manga que puedan salvar tu lamentable trasero. \n \nSon tiempos dif&#237;ciles y este es un lugar dif&#237;cil, y cuando fallas aqu&#237;, nadie te va a ayudar".
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_freedom_manual_2_of_2">
+		<text>T&#233;cnicas de interrogaci&#243;n: lo b&#225;sico # 2</text>
+	</string>
+	<string id="encyclopedia__notes_letter_freedom_manual_2_of_2_text">
+		<text>
+			Un folleto de instrucciones con un gran emblema de Libertad en la esquina superior derecha y un simple dibujo de una pistola apuntando a una figura humana arrodillada. Se titula "T&#233;cnicas de interrogaci&#243;n: Lo b&#225;sico" y est&#225; escrito con la t&#237;pica y relajada jerga de la facci&#243;n:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_freedom_manual_2_of_2_text2">
+		<text>
+			\n \n"Pero adivina qu&#233;, puedes aprovechar esa actitud de "mejor seguro que lamentable". Si quieres obtener buena y jugosa informaci&#243;n sobre el paradero del escondite de alguien, recuerda elegir a tu v&#237;ctima con cuidado. \nCuando eso est&#233; hecho y cuando todos los preparativos est&#233;n completos, ya sabes, el lugar, que no haya nadie cerca y el tipo, s&#243;lo joderlo psicol&#243;gicamente. Disp&#225;rales en las piernas o brazos, haz que se caguen encima, haz que sientan dolor hasta que te vean como su amigo m&#225;s cercano en todo el mundo. Y en un momento ellos tirar&#225;n sus armas y se arrodillar&#225;n ante ti. \nHabla con ellos, s&#233; amable pero firme, &#250;til pero persuasivo. No los mates, son seres humanos despu&#233;s de todo y los mutantes son muy numerosos, as&#237; que no hagamos que la Zona sea peor de lo que ya es. Adem&#225;s, todav&#237;a quieres el alijo, &#191;no? Diles que les cortar&#225;s la cara, los asustas, les haces creer que es el fin, as&#237; que no necesitar&#225;n el alijo cuando acabes con ellos. Normalmente lo dan inmediatamente y huyen."
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_stalker_letter_1_of_2">
+		<text>Memorias # 1</text>
+	</string>
+	<string id="encyclopedia__notes_letter_stalker_letter_1_of_2_text">
+		<text>
+			Un par de p&#225;ginas arrancadas de unas notas. Escrita a mano con tinta azul que se emborron&#243; por el efecto del medio ambiente, lo que hace que el texto sea extremadamente dif&#237;cil de entender. Autor desconocido.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_stalker_letter_1_of_2_text2">
+		<text>
+			\n \n"Todav&#237;a puedo sentir el calor de esa anomal&#237;a en mi espalda. Quema incluso cuando estoy sentado en Skadovsk, en un lugar seguro, lejos del peligro y tan lejos de cualquiera de esos malditos hornos como se pueda. As&#237; que, en realidad, s&#243;lo puedes imaginar lo que tengo que pasar cuando me acerco a una anomal&#237;a. \nAh, diablos, quema a&#250;n m&#225;s, por supuesto. Ahora es mi detector de anomal&#237;as org&#225;nicas, por el amor de Dios. Cuando te golpea una anomal&#237;a del Quemador o te envenena una t&#243;xica, esa mierda no se quita f&#225;cilmente o ni siquiera se quita del todo. Es como si hubieras recibido una parte de la Zona dentro de ti, de por vida. "Marcado por la Zona", supongo. \n \nPero las pesadillas... Son lo peor. Cuando experimentas esas abominaciones de las leyes de la f&#237;sica, pierdes cada gota de confianza que has tenido. \nImagina esto: Puedo manejar diez chupasangres que aparezcan frente a m&#237; en plena noche. Es f&#225;cil, soy un guerrero empedernido, ya ves. Pero el hecho de que estas anomal&#237;as violen cada una de las leyes de la ciencia es simplemente aterrador. &#191;Es posible? &#191;Lo que s&#233; que es real, es real en absoluto? No puedo dejar de pensar que la Zona en s&#237; es un mal sue&#241;o y quiero despertar tanto que me despierto en otra pesadilla, justo en la Zona otra vez. Eso se repite unas cuantas veces hasta que mi coraz&#243;n empieza a palpitar y salgo de la cama gritando y todo sudado. \nTe ir&#225;s a lo profundo de la madriguera del conejo si sigues esa l&#243;gica".
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_stalker_letter_2_of_2">
+		<text>Memorias # 2</text>
+	</string>
+	<string id="encyclopedia__notes_letter_stalker_letter_2_of_2_text">
+		<text>
+			Un par de p&#225;ginas arrancadas de unas notas. Escrita a mano con tinta azul que se emborron&#243; por el efecto del medio ambiente, lo que hace que el texto sea extremadamente dif&#237;cil de entender. Autor desconocido.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_stalker_letter_2_of_2_text2">
+		<text>
+			\n \n"Cada vez que pienso en ello, mi espalda tiembla de dolor y se convierte en este desastre rojo. \nNi siquiera he estado cerca de una anomal&#237;a en los &#250;ltimos 4 meses, tratando de ganarme la vida a trav&#233;s de la caza, pero sabes que nunca es una opci&#243;n a largo plazo para aquellos como nosotros. \nEsa maldita cosa todav&#237;a reacciona como si tuviera una mente propia. A veces desear&#237;a no haber escapado de esa granja en llamas. Tal vez hubiera sido m&#225;s &#250;til para todos si me hubiera convertido en comida para esos jabal&#237;es. Probablemente no... Pero los jabal&#237;es, tambi&#233;n son unos est&#250;pidos cabrones, que se topan con los quemadores por docenas. \nSi esa granja no existiera, Skadovsk ser&#237;a invadida por jabal&#237;es en cuesti&#243;n de d&#237;as. Ninguna cantidad de munici&#243;n podr&#237;a mantenerlos a raya, si no fuera por la Granja Quemada, una f&#225;brica de barbacoas. Y los jabal&#237;es son tan in&#250;tiles, la carne es horrible, tan carbonizada que ning&#250;n cocinero puede hacerla ni remotamente comestible. \n \nA veces voy a Zaton a ver los fuegos artificiales, aunque la piel de mi espalda me duele tanto que apenas puedo sostener mi mochila. Vuelvo porque siento que he dejado algo all&#237;, algo que me llama de vez en cuando. Debido a esa miserable cicatriz en mi espalda y a la sensaci&#243;n de ardor, tengo que dormir boca abajo o de lado. \nOdio dormir de costado, siempre he dormido de espaldas. La Zona te obliga a cambiar y no pide permiso".
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_ecologist_report_1_of_3">
+		<text>Informe de campo de Hallazgos de Muertos Vivientes 39B rev. 2 (parte 1)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_ecologist_report_1_of_3_text">
+		<text>
+			Un documento mecanografiado con el emblema del equipo de investigaci&#243;n ecologista. Clasificado como estrictamente confidencial y firmado por: %c[pda_white]Arkady Cvetkovsky%c[ui_gray_1] \nOficial Cient&#237;fico Junior del B&#250;nker del Laboratorio e Investigaci&#243;n RX12 \n \nInforme de Muertos Vivientes 39B rev. 2 \n \n• Fecha: %c[pda_white]19.03.2014%c[ui_gray_1] \n• Paquete: %c[pda_white]34%c[ui_gray_1] \n• P&#225;gina: %c[pda_white]1%c[ui_gray_1] de %c[pda_white]3%c[ui_gray_1]
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_ecologist_report_1_of_3_text2">
+		<text>
+			  \n \n"Estos "zombis", que es el t&#233;rmino que usan los locales para referirse a los espec&#237;menes, son escasamente un ser vivo, y mucho menos sensible. \nLos datos cient&#237;ficos indican que sus cerebros no llevan a cabo ning&#250;n proceso de pensamiento y su actividad neurol&#243;gica es virtualmente inexistente, lo que los hace fundamentalmente muertos cerebralmente. Sin embargo, las pruebas de campo han demostrado que, por razones a&#250;n desconocidas para la ciencia, son capaces de reacciones mec&#225;nicas simples (que recuerdan al instinto, pero su l&#243;gica difiere sustancialmente). \n \nUna teor&#237;a afirma que esto es el resultado de un interminable bombardeo neuroqu&#237;mico que obliga al cuerpo a moverse de una manera espec&#237;fica en respuesta a ciertos est&#237;mulos. Cuando son amenazados, demuestran un comportamiento extremadamente violento, por lo que es aconsejable acercarse a ellos con mucho cuidado y precauci&#243;n. \n \nEn lo que respecta a su fisiolog&#237;a, nuestras pruebas han revelado una peculiar, y potencialmente fruct&#237;fera cient&#237;ficamente, capacidad de auto-sostenimiento de las partes del cuerpo, lo que significa que dichas partes son capaces de funcionar incluso cuando est&#225;n separadas del cuerpo principal y sin acceso a ning&#250;n tipo de nutrientes. Uno de los esfuerzos m&#225;s exitosos del equipo cient&#237;fico consisti&#243; en mantener en funcionamiento un h&#237;gado y un coraz&#243;n durante m&#225;s de tres meses a pesar de que no estaban conectados a otros &#243;rganos y al torrente sangu&#237;neo. \nLos an&#225;lisis posteriores no sugieren ninguna peculiaridad molecular o subat&#243;mica."
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_ecologist_report_2_of_3">
+		<text>Informe de campo de Hallazgos de Muertos Vivientes 39B rev. 2 (parte 2)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_ecologist_report_2_of_3_text">
+		<text>
+			Un documento mecanografiado con el emblema del equipo de investigaci&#243;n ecologista. Clasificado como estrictamente confidencial y firmado por: %c[pda_white]Arkady Cvetkovsky%c[ui_gray_1] \nOficial Cient&#237;fico Junior del B&#250;nker del Laboratorio e Investigaci&#243;n RX12 \n \nInforme de Muertos Vivientes 39B rev. 2 \n \n• Fecha: %c[pda_white]21.03.2014%c[ui_gray_1] \n• Paquete: %c[pda_white]34%c[ui_gray_1] \n• P&#225;gina: %c[pda_white]2%c[ui_gray_1] de %c[pda_white]3%c[ui_gray_1]
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_ecologist_report_2_of_3_text2">
+		<text>
+			\n \n"Nuestros hallazgos podr&#237;an servir de base para explicar v&#225;lidamente por qu&#233;, tras recibir numerosos disparos en sus miembros o pelvis, en sus &#243;rganos perif&#233;ricos y en otras zonas, son capaces de funcionar casi indefinidamente sin graves dificultades. \nCaminar suele tener impedimentos, correr es completamente imposible, pero el reflejo de apuntar con las armas y apretar el gatillo parece no verse afectado. Esto tambi&#233;n se aplica al uso de otras herramientas y algunos de los dispositivos menos complicados. \n \nPor favor, abst&#233;ngase de usar los t&#233;rminos "matar" o "destruir" cuando se refiera a la desactivaci&#243;n de un esp&#233;cimen. Esto se deriva del argumento psicol&#243;gico de que el t&#233;rmino "desactivaci&#243;n" es m&#225;s neutro que "destrucci&#243;n", y puede servir para distanciarse de la forma aparentemente humana que logran mantener y para suprimir el sentimiento de remordimiento despu&#233;s de "desactivar" un esp&#233;cimen. \nLa desactivaci&#243;n requiere cortar f&#237;sicamente el enlace con su sistema motor. Esto implicar&#237;a infligir da&#241;os en el cerebro o en la zona de la columna vertebral, preferiblemente por medio de un traumatismo bal&#237;stico. \n \nCada miembro del equipo cient&#237;fico debe tener en cuenta que sus extremidades permanecer&#225;n m&#243;viles incluso despu&#233;s de la desactivaci&#243;n, por lo que se aconsejan precauciones especiales. Especialmente eficaz es la extracci&#243;n f&#237;sica de las v&#233;rtebras cervicales o del tronco cerebral con instrumentos quir&#250;rgicos o, en caso de no disponer de ellos, con cualquier objeto punzante".
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_ecologist_report_3_of_3">
+		<text>Informe de campo de Hallazgos de Muertos Vivientes 39B rev. 2 (parte 3)</text>
+	</string>
+	<string id="encyclopedia__notes_letter_ecologist_report_3_of_3_text">
+		<text>
+			Un documento mecanografiado con el emblema del equipo de investigaci&#243;n ecologista. Clasificado como estrictamente confidencial y firmado por: %c[pda_white]Arkady Cvetkovsky%c[ui_gray_1] \nOficial Cient&#237;fico Junior del B&#250;nker del Laboratorio e Investigaci&#243;n RX12 \n \nInforme de Muertos Vivientes 39B rev. 2 \n \n• Fecha: %c[pda_white]29.03.2014%c[ui_gray_1] \n• Paquete: %c[pda_white]34%c[ui_gray_1] \n• P&#225;gina: %c[pda_white]3%c[ui_gray_1] de %c[pda_white]3%c[ui_gray_1]
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_ecologist_report_3_of_3_text2">
+		<text>
+			\n \n"En casos extremadamente raros, ciertos "zombis" muestran un comportamiento que recuerda al de animales m&#225;s sofisticados: \nDejan caer sus armas o se niegan a participar en una pelea. Estos espec&#237;menes son de gran valor para nuestra investigaci&#243;n, por lo que no se aconseja su desactivaci&#243;n. \nEl aislamiento y el an&#225;lisis en los laboratorios es de suma importancia. Los neuropsic&#243;logos est&#225;n especialmente interesados debido al potencial de los transplantes de tronco cerebral que te&#243;ricamente podr&#237;an ayudar a los pacientes en las &#250;ltimas etapas del Alzheimer y otras enfermedades. \n \nSiempre que sea posible, evitar da&#241;ar los ri&#241;ones y el coraz&#243;n al desactivarlos, ya que estos &#243;rganos poseen un inmenso potencial siempre que los transplantes sean viables. Cosechar &#243;rganos de "zombis" inm&#243;viles tambi&#233;n es una posibilidad, sin embargo se recomienda tener cuidado con los stalkers locales que podr&#237;an tener lazos emocionales con algunos espec&#237;menes. \nSi el encuentro con un stalker es inevitable durante la recolecci&#243;n, hay dos cursos de acci&#243;n que uno puede tomar para minimizar la posibilidad de combate. \nPrimero, cuando se trata de stalkers inexpertos mostrarles los ojos de un determinado esp&#233;cimen ha demostrado ser muy eficaz, sobre todo porque las pupilas no responden en absoluto y los ojos como tales parecen inhumanos. \nEn segundo lugar, con los stalkers m&#225;s experimentados suele ser m&#225;s f&#225;cil razonar ya que pueden reprimir mejor las emociones. Sin embargo, todav&#237;a es aconsejable hacernos expertos en psicolog&#237;a cuando se trata de la poblaci&#243;n humana local, ya que en algunos casos la comunicaci&#243;n racional es completamente imposible."
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_monolith_prayer_1_of_3">
+		<text>Rezo al Monolito #1</text>
+	</string>
+	<string id="encyclopedia__notes_letter_monolith_prayer_1_of_3_text">
+		<text>
+			Un documento sin t&#237;tulo que comprende unos pocos p&#225;rrafos, uno debajo del otro. Las frecuentes referencias al Monolito indican la naturaleza religiosa del texto escrito. El papel se conserva muy bien, lo que sugiere que ha sido tratado con gran cuidado y respeto para que su condici&#243;n no se deteriore. El texto de la oraci&#243;n dice:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_monolith_prayer_1_of_3_text2">
+		<text>
+			\n \n"&#161;Oh Monolito! \nTe rezamos a T&#237;! \n&#161;Oh Monolito! \nNuestra &#250;nica Luz en al oscuridad \n&#161;Oh Monolito! \n&#161;Con esperanza en nuestros corazones marchamos! \n&#161;Marchamos hacia los infieles! \n \n&#161;Oh Monolito! \n&#161;Perdona nuestros pecados! \n&#161;Oh Monolito! \n&#161;Mu&#233;stranos nuestro destino! \n&#161;Oh Monolito! \n&#161;Danos el poder para cumplir nuestro prop&#243;sito! \n&#161;Oh Monolito! \n&#161;Danos la Esperanza para matar a Tus enemigos! \n&#161;Oh Monolito! \nComparte Tu Luz con nosotros\n \n&#161;Oh Monolito! \n&#161;Te rezamos a T&#237; \n&#161;Oh Monolito! \n&#161;Somos Tus hijos! \n&#161;Oh Monolito! \n&#161;Nuestra &#250;nica esperanza de redenci&#243;n! \n&#161;Oh Monolito! \nTu Nombre en nuestros corazones!"
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_monolith_prayer_2_of_3">
+		<text>Rezo al Monolito #2</text>
+	</string>
+	<string id="encyclopedia__notes_letter_monolith_prayer_2_of_3_text">
+		<text>
+			Un documento sin t&#237;tulo que comprende unos pocos p&#225;rrafos, uno debajo del otro. Las frecuentes referencias al Monolito indican la naturaleza religiosa del texto escrito. El papel se conserva muy bien, lo que sugiere que ha sido tratado con gran cuidado y respeto para que su condici&#243;n no se deteriore. El texto de la oraci&#243;n dice:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_monolith_prayer_2_of_3_text2">
+		<text>
+			\n \n"&#161;Guerreros del Monolito, estamos de pie! \n&#161;Oh Monolito, nuestra Luz! \nToma nuestras almas, nuestras mentes \n&#161;Y limpialas! \n&#161;Lib&#233;ralos de dudas y vacilaciones! \n&#161;Oh Monolito, nuestra esperanza \n&#161;Somos Tus soldados! \nQueremos dar nuestras vidas por Ti. \nQueremos dar nuestras almas por ti. \n&#161;Y queremos ser uno contigo! \n&#161;Oh Monolito, eliminaremos todos los obst&#225;culos de Tu camino! \n&#161;Toma nuestra carne! \n&#161;Toma nuestra sangre! \n&#161;Toma nuestras almas! \n&#161;Y hazlas puras de nuevo! \nEst&#225;s en nosotros, oh Monolito".
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_monolith_prayer_3_of_3">
+		<text>Rezo al Monolito #3</text>
+	</string>
+	<string id="encyclopedia__notes_letter_monolith_prayer_3_of_3_text">
+		<text>
+			Un documento sin t&#237;tulo que comprende unos pocos p&#225;rrafos, uno debajo del otro. Las frecuentes referencias al Monolito indican la naturaleza religiosa del texto escrito. El papel se conserva muy bien, lo que sugiere que ha sido tratado con gran cuidado y respeto para que su condici&#243;n no se deteriore. El texto de la oraci&#243;n dice:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_monolith_prayer_3_of_3_text2">
+		<text>
+			\n \n"&#161;Oh Monolito! \nEres nuestro destino. \nY nosotros somos hermanos. \nSomos hermanos de la Luz Monolita. \nMoriremos por tu causa. \nMoriremos en Tu Nombre. \nMoriremos por Tu Luz. \nLa muerte es s&#243;lo el comienzo \nMarchamos con Tu nombre en nuestros labios, &#161;Oh Monolito!"
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_monolithian_thoughts">
+		<text>Diario de un fanatico Monolito</text>
+	</string>
+	<string id="encyclopedia__notes_letter_monolithian_thoughts_text">
+		<text>
+			Una hoja de papel escrita a mano. Al principio, la escritura de la nota es extremadamente ca&#243;tica y desordenada, como si la persona que la escribe sufriera un grave trastorno mental. Curiosamente, cuanto m&#225;s se baja en la hoja, el texto se vuelve m&#225;s sencillo, las letras mucho m&#225;s claras y las &#250;ltimas palabras se escriben con una precisi&#243;n casi perfecta, como la de una m&#225;quina. El texto de la nota se lee:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_monolithian_thoughts_text2">
+		<text>
+			\n \n"Hasta donde puedo recordar, hab&#237;a oscuridad a mi alrededor, y no pod&#237;a ver nada. Nada... Durante horas. &#161;Pero de repente vi una luz! Una luz tan brillante, una luz tan acogedora... Quer&#237;a tocarla, quer&#237;a sentirla. Sab&#237;a que trataba de ayudarme, de salvarme. Sab&#237;a que... \n \nY despu&#233;s de tocar esa luz, me olvid&#233; de todo. No hab&#237;a vida detr&#225;s de m&#237;, s&#243;lo hab&#237;a oscuridad detr&#225;s de m&#237;. La &#250;nica luz estaba delante de m&#237;. \nSu nombre es Monolito. Me salv&#243;, y estoy eternamente agradecido. \nA veces puedo ver las caras, caras del pasado... Una mujer y un ni&#241;o... &#191;Mi familia? Estoy vestido con un mono blanco... Tal vez era un cient&#237;fico... Esta extra&#241;a palabra... Radar... &#161;NO! &#161;Esta es esa oscuridad! &#161;Quiere que muera! &#161;NO DEJAR&#201; QUE ME MATE! \n&#161;No hay forma de volver! &#161;S&#243;lo hay luz delante de m&#237;! &#161;Hacia la luz! &#161;Por el Monolito!"
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_letter_to_outside">
+		<text>Una carta a Natalie</text>
+	</string>
+	<string id="encyclopedia__notes_letter_letter_to_outside_text">
+		<text>
+			Una carta aparentemente escrita por un stalker a alguien fuera de la Zona, probablemente su esposa o amante. El hecho de que la tenga en sus manos sugiere que nunca lleg&#243; a su destinatario.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_letter_to_outside_text2">
+		<text>
+			\n \n"&#161;Hola, Natalie! \n \n&#191;C&#243;mo est&#225;s? &#191;C&#243;mo est&#225;n los ni&#241;os? \nDile a Sanya que si no te escucha, le dar&#233; una buena bofetada cuando regrese a casa. \n \n&#191;Qu&#233; hay de m&#237;? Bueno, no creo que lo entiendas. La Zona... Este lugar es... &#250;nico. S&#243;lo aqu&#237; puedo sentir realmente los lazos con otras personas. S&#243;lo aqu&#237; puedo verlos por lo que realmente son. \nAqu&#237; no hay m&#225;scaras, s&#243;lo la verdad. Pero, como dije, te dir&#233; m&#225;s la pr&#243;xima vez que nos encontremos. \n&#161;He ganado un buen dinero aqu&#237;! Finalmente podemos comprarte ese collar que tanto quer&#237;as. \nOh, y gracias por tus cartas. Realmente me levantan el &#225;nimo. Cuando pienso en ti, todo parece mucho mejor. Nos encontraremos pronto. &#161;Saluda a los ni&#241;os de mi parte! \n \nMucho amor. \n - Tu Michail. Tu valiente stalker".
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_military_stalker">
+		<text>Nota de stalker Militar</text>
+	</string>
+	<string id="encyclopedia__notes_letter_military_stalker_text">
+		<text>
+			Una nota encontrada en un escondite. Es dif&#237;cil determinar por qu&#233; fue escrita en primer lugar. Lo m&#225;s probable es que alguien estuviera matando el tiempo durante una larga y aburrida noche y luego decidiera dejar el resultado de su trabajo en lugar de tirarlo a la hoguera. El texto de la nota dice:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_military_stalker_text2">
+		<text>
+			\n \n"Oh, s&#237;. Soy un stalker militar. \nEso es incre&#237;ble. El mejor equipo. Los mejores objetivos. Las mejores armas. &#161;El mejor todo! Finalmente, hemos llamado a una tregua entre los militares y los stalkers. No tenemos que dispararnos entre nosotros por una vez. Y eso es genial, todos somos eslavos, as&#237; que debemos permanecer unidos. \n \n&#191;Qu&#233; hay de los merodeadores? &#161;Que se jodan esos hijos de puta! Siempre es genial meterles una bala entre los ojos. Yo s&#243;lo soy un novato aqu&#237;, en este escuadr&#243;n, pero ya siento que me he convertido en un hombre de verdad, fuerte e importante. Y eso es bueno".
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_mercenary">
+		<text>Nota de mercenario</text>
+	</string>
+	<string id="encyclopedia__notes_letter_mercenary_text">
+		<text>
+			Una nota escrita por uno de los Mercenarios. Parece que decidi&#243; escribir algunos pensamientos sobre sus actividades en la Zona. El prop&#243;sito de esto no est&#225; claro.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_mercenary_text2">
+		<text>
+			\n \n"As&#237; que, por lo que puedo ver, no hay nada especial aqu&#237;. \nSeguimos siendo mercenarios, seguimos siendo soldados de la fortuna. Sin embargo, podemos elegir lo que hacemos y lo que no. A veces ni siquiera hacemos un trabajo determinado porque es demasiado "sucio" para nosotros. Si el cliente quiere matar a gente buena que se gana la vida con sudor y trabajo, que se joda este bastardo. Siempre pueden ir a la Zona y ocuparse de sus problemas ellos mismos. \n&#191;Qu&#233; hay de los merodeadores, desertores y otras escorias? seremos tuyos. En cualquier momento y lugar. Cuando tenemos que PROTEGERNOS, es otro asunto. Pero si quieres matar a un hombre inocente, preg&#250;ntale a esos mu&#241;ecos americanos. No son tan exigentes como para saber a qui&#233;n matar. \n \nSomos diferentes. Tengan esto en cuenta la pr&#243;xima vez que nos den su dinero".
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_military_log">
+		<text>Registro de comunicacion / Operaci&#243;n MSRC / 05.04.2014 18:36:21</text>
+	</string>
+	<string id="encyclopedia__notes_letter_military_log_text">
+		<text>
+			Una transcripci&#243;n impresa de la transmisi&#243;n de radio entre las unidades militares estacionadas en la Zona. El hecho de que estuviera en posesi&#243;n de uno de los miembros de la unidad de SKAT indica que debe haber estado involucrado en una operaci&#243;n clandestina, muy probablemente relacionada con la extracci&#243;n de datos de vigilancia. La transcripci&#243;n dice:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_military_log_text2">
+		<text>
+			\n \n"- Cuartel general, aqu&#237; MSRC 1-03. Tenemos fotos del NII. 240 fotos de una anomal&#237;a en los pantanos, unas 1400 fotos de la base principal. &#191;Cu&#225;ndo regresamos? \n- MSRC 1-03, aqu&#237; el cuartel general. No vuelvan por ahora. Hay algunos problemas en los Almacenes Militares. MSRC 4-07 est&#225; pidiendo ayuda. De nuevo. Esta vez, sin embargo, su se&#241;al de SOS es fuerte, as&#237; que al menos sabemos que est&#225;n vivos. \n -Entendido, Cuartel General. &#191;Helic&#243;ptero? \n- Negativo. Hay demasiados campos de anomal&#237;as en el NII Agroprom ahora, es demasiado peligroso. Ve a Yantar, nuestro MI-24 te recoger&#225; all&#237;. \n- Entendido. &#191;Alguna informaci&#243;n sobre la pr&#243;xima emisi&#243;n? \Positivo. Sacharov dijo que quedan dos d&#237;as por lo menos. Pero date prisa de todos modos. Su informaci&#243;n nunca ha sido fiable. \n-Entendido. Estamos en camino, dile al P&#225;jaro que est&#233; en Yantar en 7 horas. MSRC 1-03 fuera. \n- Espere, 1-03. &#191;Qu&#233; hay del subterr&#225;neo en N-2? &#191;Encontraste algo all&#237;? \n- Positivo. Hemos encontrado esa nueva anomal&#237;a. Parece una especie de transportador. Esto deber&#237;a ser interesante para esos cabezones de Yantar, nuestros detectores se fundieron cuando intentamos medir los campos psi. No s&#233; por qu&#233;, posiblemente por las ondas electromagn&#233;ticas. \n -Entendido, MSRC 1-03. Buena suerte en su camino a Yantar. Tendr&#233; noticias tuyas en 7 horas. Cuartel General fuera".
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_letter_stalker_letter_3">
+		<text>Carta a Nikolai</text>
+	</string>
+	<string id="encyclopedia__notes_letter_stalker_letter_3_text">
+		<text>
+			Una carta escrita a mano dirigida a Nikolai. Probablemente parte de una conversaci&#243;n escrita m&#225;s larga entre dos stalkers. Aunque la correspondencia en la Zona se lleva a cabo principalmente por medio de mensajes PDA, algunos prefieren una forma tradicional de comunicaci&#243;n, especialmente en el caso de asuntos m&#225;s privados y entre amigos. Estas cartas se entregan a mensajeros que, como gu&#237;as, se encargan de algunas de las tareas m&#225;s dif&#237;ciles y peligrosas. A menudo transcurren algunos d&#237;as antes de que una carta llegue a su destinatario, pero a&#250;n as&#237; la probabilidad de interceptar el mensaje es mucho menor que en el caso de la comunicaci&#243;n por PDA. La profesi&#243;n de mensajero est&#225; muy bien considerada entre los compa&#241;eros stalkers y conlleva una posici&#243;n de influencia significativa en la comunidad. La carta dice:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_letter_stalker_letter_3_text2">
+		<text>
+			\n \n"Nikolai, \n \nAcabo de volver de mi viaje al centro de la Zona. Fue un infierno. \nEl Monolito y el ej&#233;rcito siguen empe&#241;ados en exterminarse mutuamente sin motivo alguno. En un momento parec&#237;a que iban a llegar a un alto el fuego, pero al final no sali&#243; nada. \nEl caos y la destrucci&#243;n siguieron y no tuve otra opci&#243;n que escapar de ese alli. Casi me matan una vez, malditos psic&#243;patas bastardos. \nPero no los culpo, es mi culpa, no estaba prestando atenci&#243;n cuando m&#225;s importaba. De esta manera u otra, despu&#233;s de algunas dificultades, me dirig&#237; a Pripyat y planeo quedarme aqu&#237; por un tiempo. \n \nVolviendo a lo que discutimos anteriormente, parece que tendremos que posponer nuestra misi&#243;n hasta que sea m&#225;s seguro ah&#237; fuera. No dorm&#237; ni un momento despu&#233;s de volver, pero quer&#237;a que supieras que estoy bien, al menos f&#237;sicamente. Nos mantendremos en contacto. \n \nCu&#237;date mucho, Rua".
+		</text>
+	</string>
+
+	
+	<string id="encyclopedia__notes_recipe_basic_1_text">
+		<text>
+			Esta gu&#237;a detalla las habilidades b&#225;sicas de supervivencia y proporciona una visi&#243;n general de los kits de supervivencia m&#225;s comunes. Los cap&#237;tulos posteriores describen la creaci&#243;n de equipos b&#225;sicos a partir de materiales comunes.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_basic_2_text">
+		<text>
+			Esta gu&#237;a detalla las habilidades b&#225;sicas de supervivencia y proporciona una visi&#243;n general de los kits de supervivencia m&#225;s comunes. Los cap&#237;tulos posteriores describen la creaci&#243;n de equipos b&#225;sicos a partir de materiales comunes.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_basic_3_text">
+		<text>
+			Esta gu&#237;a detalla las habilidades b&#225;sicas de supervivencia y proporciona una visi&#243;n general de los kits de supervivencia m&#225;s comunes. Los cap&#237;tulos posteriores describen la creaci&#243;n de equipos b&#225;sicos a partir de materiales comunes.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_basic_4_text">
+		<text>
+			Esta gu&#237;a detalla las habilidades b&#225;sicas de supervivencia y proporciona una visi&#243;n general de los kits de supervivencia m&#225;s comunes. Los cap&#237;tulos posteriores describen la creaci&#243;n de equipos b&#225;sicos a partir de materiales comunes.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_recipe_advanced_1_text">
+		<text>
+			Manual de ingenier&#237;a mec&#225;nica. Algunas personas leen estos libros para ampliar su experiencia y aprender m&#225;s sobre las instalaciones y f&#225;bricas en la Zona. Contains detalles acerca de equipos b&#225;sicos mecanicos y el&#233;ctricos.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_advanced_2_text">
+		<text>
+			Manual de ingenier&#237;a mec&#225;nica. Algunas personas leen estos libros para ampliar su experiencia y aprender m&#225;s sobre las instalaciones y f&#225;bricas en la Zona. Contains detalles acerca de equipos b&#225;sicos mecanicos y el&#233;ctricos.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_advanced_3_text">
+		<text>
+			Manual de ingenier&#237;a mec&#225;nica. Algunas personas leen estos libros para ampliar su experiencia y aprender m&#225;s sobre las instalaciones y f&#225;bricas en la Zona. Contains detalles acerca de equipos b&#225;sicos mecanicos y el&#233;ctricos.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_advanced_4_text">
+		<text>
+			Manual de ingenier&#237;a mec&#225;nica. Algunas personas leen estos libros para ampliar su experiencia y aprender m&#225;s sobre las instalaciones y f&#225;bricas en la Zona. Contains detalles acerca de equipos b&#225;sicos mecanicos y el&#233;ctricos.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_recipe_expert_1_text">
+		<text>
+			Manual de ingenier&#237;a industrial. Bastante informativo. Describe el funcionamiento de la electr&#243;nica moderna: amplificadores operacionales, diodos semiconductores, transistores de uni&#243;n bipolares y transistores de efecto de campo. La segunda parte de este manual trata de la resoluci&#243;n de problemas de los dispositivos el&#233;ctricos.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_expert_2_text">
+		<text>
+			Manual de ingenier&#237;a industrial. Bastante informativo. Describe el funcionamiento de la electr&#243;nica moderna: amplificadores operacionales, diodos semiconductores, transistores de uni&#243;n bipolares y transistores de efecto de campo. La segunda parte de este manual trata de la resoluci&#243;n de problemas de los dispositivos el&#233;ctricos.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_expert_3_text">
+		<text>
+			Manual de ingenier&#237;a industrial. Bastante informativo. Describe el funcionamiento de la electr&#243;nica moderna: amplificadores operacionales, diodos semiconductores, transistores de uni&#243;n bipolares y transistores de efecto de campo. La segunda parte de este manual trata de la resoluci&#243;n de problemas de los dispositivos el&#233;ctricos.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_expert_4_text">
+		<text>
+			Manual de ingenier&#237;a industrial. Bastante informativo. Describe el funcionamiento de la electr&#243;nica moderna: amplificadores operacionales, diodos semiconductores, transistores de uni&#243;n bipolares y transistores de efecto de campo. La segunda parte de este manual trata de la resoluci&#243;n de problemas de los dispositivos el&#233;ctricos.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_recipe_drug_1_text">
+		<text>
+			Un par de p&#225;ginas arrancadas de un libro. Escrita a mano con tinta azul que se emborron&#243; a causa del efecto de los factores ambientales, lo que hace que el texto sea extremadamente dif&#237;cil de entender. Las notas escritas describen la creaci&#243;n de varios tipos de drogas y medicinas usando suministros m&#233;dicos comunes.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_drug_2_text">
+		<text>
+			Un par de p&#225;ginas arrancadas de un libro. Escrita a mano con tinta azul que se emborron&#243; a causa del efecto de los factores ambientales, lo que hace que el texto sea extremadamente dif&#237;cil de entender. Las notas escritas describen la creaci&#243;n de varios tipos de drogas y medicinas usando suministros m&#233;dicos comunes.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_drug_3_text">
+		<text>
+			Un par de p&#225;ginas arrancadas de un libro. Escrita a mano con tinta azul que se emborron&#243; a causa del efecto de los factores ambientales, lo que hace que el texto sea extremadamente dif&#237;cil de entender. Las notas escritas describen la creaci&#243;n de varios tipos de drogas y medicinas usando suministros m&#233;dicos comunes.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_drug_4_text">
+		<text>
+			Un par de p&#225;ginas arrancadas de un libro. Escrita a mano con tinta azul que se emborron&#243; a causa del efecto de los factores ambientales, lo que hace que el texto sea extremadamente dif&#237;cil de entender. Las notas escritas describen la creaci&#243;n de varios tipos de drogas y medicinas usando suministros m&#233;dicos comunes.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_recipe_ammo_1_text">
+		<text>
+			Todo stalker deber&#237;a aprender a elegir un arma, pero tambi&#233;n saber c&#243;mo elegir la munici&#243;n para ella. Esta gu&#237;a proporciona informaci&#243;n sobre varios tipos de munici&#243;n, adem&#225;s de una visi&#243;n en profundidad sobre los componentes b&#225;sicos de las municiones.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_ammo_2_text">
+		<text>
+			Todo stalker deber&#237;a aprender a elegir un arma, pero tambi&#233;n saber c&#243;mo elegir la munici&#243;n para ella. Esta gu&#237;a proporciona informaci&#243;n sobre varios tipos de munici&#243;n, adem&#225;s de una visi&#243;n en profundidad sobre los componentes b&#225;sicos de las municiones.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_ammo_3_text">
+		<text>
+			Todo stalker deber&#237;a aprender a elegir un arma, pero tambi&#233;n saber c&#243;mo elegir la munici&#243;n para ella. Esta gu&#237;a proporciona informaci&#243;n sobre varios tipos de munici&#243;n, adem&#225;s de una visi&#243;n en profundidad sobre los componentes b&#225;sicos de las municiones.
+		</text>
+	</string>
+	<string id="encyclopedia__notes_recipe_ammo_4_text">
+		<text>
+			Todo stalker deber&#237;a aprender a elegir un arma, pero tambi&#233;n saber c&#243;mo elegir la munici&#243;n para ella. Esta gu&#237;a proporciona informaci&#243;n sobre varios tipos de munici&#243;n, adem&#225;s de una visi&#243;n en profundidad sobre los componentes b&#225;sicos de las municiones.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_note_from_spirit">
+		<text>Nota de Spirit</text>
+	</string>
+	<string id="encyclopedia__notes_note_from_spirit_text">
+		<text>
+			Spirit tiene un mal h&#225;bito - est&#225; dispuesto a darme suministros militares a cambio de vodka. \nVeamos:\n \n• 4 cargadores de 9x18 mm por 5 botellas de vodka \n• 2 cargadores de 5.45 mm por 5 botellas de vodka \n• 4 cargadores de 5.45 mm por 10 botellas de vodka \n • 3 cajas de 12x70 cartuchos por 10 botellas de vodka \n• 1 cargador de 7. 62mm 7N1 por 10 botellas de vodka \n• 3 mags de 7.62x54 mm PP por 15 botellas de vodka + 7000 RU \n• Traje blindado Berill-5M por 20 botellas de vodka. 
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_note_from_aslan">
+		<text>Nota de Aslan</text>
+	</string>
+	<string id="encyclopedia__notes_note_from_aslan_text">
+		<text>
+			Aslan tiene un pasatiempo cuestionable. Es un coleccionista de parches, "es un m&#233;todo &#243;ptimo para que nuestros chicos ganen algunos botines de guerra" dice. \nEsto es lo que dijo:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_note_from_aslan_text2">
+		<text>
+			\n \n"Me traes parches de los stalkers, consigues algo de equipo o nada en absoluto. Todo por 25 parches de cualquier facci&#243;n, aparte de los de los ecologistas y el Monolito, tienes la oportunidad de conseguir un artefacto defectuoso, o no conseguir una mierda. Con cincuenta parches, tendr&#225;s la oportunidad de conseguir un artefacto decente y un equipo bastante s&#243;lido, pero tambi&#233;n hay una posibilidad de que no consigas nada. Y por veinticinco parches de Monolito o Ecologista, obtendr&#225;s un artefacto bastante bueno con la misma oportunidad que por cincuenta parches de cualquier otra facci&#243;n. Cincuenta parches de Monolito o Ecologista te garantizar&#225;n un art&#237;culo excepcional y un buen equipo dedicado s&#243;lo a los stalkers m&#225;s experimentados, sin posibilidades de perder. Podr&#237;as preguntarte, "&#191;por qu&#233; tan generoso?"... Porque mucha gente prefiere quedarse con los parches para s&#237;, como trofeos de combate".
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_note_from_trunk">
+		<text>Nota de Trunk</text>
+	</string>
+	<string id="encyclopedia__notes_note_from_trunk_text">
+		<text>
+			Trunk dice que puede proporcionarme municiones a cambio de otros tipos. Probablemente est&#225;n intercambiando rondas de excedentes por municiones que realmente necesitan. \nEsto es lo que le interesa:\n \n• Cambiar&#225; 100 mags de 9x18 mm +P+ rondas por 100 mags de rondas 9x19 mm FMJ . \n• Cambiar&#225; 100 cartuchos de 5.45x39 mm por 100 cartuchos de 5.56x45 mm. \n• Cambiar&#225; 20 granadas M209 por 10 granadas F1. \n• Cambiar&#225; 3 ojivas RPG por 10 granadas RGD-5.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_note_from_meeker">
+		<text>Nota de Meeker</text>
+	</string>
+	<string id="encyclopedia__notes_note_from_meeker_text">
+		<text>
+			A pesar de la mala situaci&#243;n en la que se encuentra el grupo de Griffin, Meeker tiene acceso a alg&#250;n equipo especial. Necesito hacer un pedido primero para conseguir lo que quiero. \nSeg&#250;n &#233;l, puedo hacer un pedido a la vez, y &#233;l trabaja sin prepago. Una vez que el env&#237;o est&#233; listo, recibir&#233; un mensaje de &#233;l. As&#237; que esto es lo que puedo pedir:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_note_from_meeker_text2">
+		<text>
+			\n• La Steppe Eagle - una pistola hecha a mano basada en el dise&#241;o del &#193;guila del Desierto. Finamente ajustada para lograr una incre&#237;ble precisi&#243;n. Me costar&#225; 8.000 RU. \n• Alpine - una SIG P220 modificada con un cargador extendido. Me costar&#225; 65.000 RU. \n• UDP compacto modificado, de alto calibre y de disparo r&#225;pido. Me costar&#225; 7.000 RU. \n• La Frasier, una subametralladora hecha a mano basada en el MP5. Calibre aumentado, caracter&#237;sticas mejoradas sobre la contraparte est&#225;ndar. Me costar&#225; 9.500. \n• El Mosquet&#243;n - un SPAS-12 modificado por el ej&#233;rcito con retroceso reducido y modo de disparo autom&#225;tico. Costar&#225; 11.000 RU. \n• La Armsel Protecta, una escopeta basada en el dise&#241;o de la escopeta Striker. Me costar&#225; 17.000 RU. \n• Storm, un Groza OTs-14 modificado, fabricado para las fuerzas especiales Spetsnaz, se filtr&#243; en secreto a las masas. Una de las ventajas que vale la pena destacar es el aumento de la capacidad del cargador. Me costar&#225; 19.000 RU. \n• El H&amp;K G36 - un espect&#225;culo raro en la zona. Me costar&#225; 14.000 RU. \n• La FN F2000. Una rareza belga y un rifle de asalto decente. Me costar&#225; 17.000 RU. \n• El Tide, una modificaci&#243;n exclusiva del VSS Vintorez. Menor velocidad de disparo, pero mayor poder de parada. Me costar&#225; 20.000 RU. \n• El SVU2-A, una evoluci&#243;n del rifle de francotirador SVUmk-2. Esta arma sol&#237;a pertenecer a Max, el legendario guardi&#225;n de Libertad. Me costar&#225; 24.000 RU. \n• El SVD Lynx, una modificaci&#243;n del ej&#233;rcito que combina mayor precisi&#243;n y poder de detenci&#243;n. Me costar&#225; 18.000 RU. \n• El rifle Gauss. Un arma trofeo - puedes contar el n&#250;mero de estos en la Zona con los dedos. Precisi&#243;n absoluta y da&#241;o sin casi ning&#250;n retroceso incluido. El precio es de 150.000 RU. \n• Un exoesqueleto Monol&#237;tico, la mejor combinaci&#243;n de caracter&#237;sticas de protecci&#243;n. Adem&#225;s, no conseguir&#225;s esto en ning&#250;n otro lugar, a menos que seas un cierto representante de la hermandad. El precio es de 100.000 RU. \n• Un exoesqueleto mercenario, quiz&#225;s uno de los medios de protecci&#243;n m&#225;s fiables. Me costar&#225; 75.000 RU. \n• Una Exoesqueleto de bandido. Exclusividad en su forma m&#225;s pura. Me costar&#225; 65.000 RU. \n• Un traje Monol&#237;tico con un sistema de respiraci&#243;n de ciclo cerrado, como el exoesqueleto, es poco probable que lo veas en otro lugar. Me costar&#225; 70.000 RU. \n• Un traje Mercenary con un sistema de respiraci&#243;n cerrado. Excelente protecci&#243;n contra las anomal&#237;as y una verdadera rareza para el stalker promedio. Me costar&#225; 50.000 RU.
+		</text>
+	</string>
+	
+	<string id="encyclopedia__notes_note_from_grifon">
+		<text>Nota de Griffin</text>
+	</string>
+	<string id="encyclopedia__notes_note_from_grifon_text">
+		<text>
+			Griffin y su equipo est&#225;n atrapados en las afueras por un tiempo, y no puede volver con las manos vac&#237;as. Uno de los laboratorios ocultos (X-8) est&#225; en alg&#250;n lugar alrededor del lado norte, los mercenarios esperan encontrar documentos importantes all&#237;. \nOfrece una buena recompensa si le consigo cualquier cosa que pueda encontrar all&#237;. Sus palabras:
+		</text>
+	</string>
+	<string id="encyclopedia__notes_note_from_grifon_text2">
+		<text>
+			"En realidad vinimos aqu&#237; para recuperar informaci&#243;n del Laboratorio X-8, que se encuentra cerca del centro de servicio de Yubileiny al norte de aqu&#237;; dentro hab&#237;a un ascensor que nos permit&#237;a bajar al 'menos el primer piso', pero nos intercept&#243; el maldito Monolito. Es por ellos que hemos terminado tan metidos en la mierda. Dushman nos va a matar de todos modos, pero tal vez queden algunos documentos... tendr&#237;amos algo &#250;til con lo que salir, al menos. Ir&#237;a all&#237; de nuevo con los chicos, pero no quedamos muchos y ser&#237;a demasiado para manejar, ya que preferimos no gastar m&#225;s mano de obra de lo necesario para intentar de alguna manera alejarnos del centro de la puta Zona. Tal vez podr&#237;as bajar al X-8 - podr&#237;a quedar algo, y, bueno... ganar&#225;s un buen dinero al mismo tiempo."
+		</text>
+	</string>
+	
+</string_table>

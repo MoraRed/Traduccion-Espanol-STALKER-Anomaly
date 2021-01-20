@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	
+	<string id="encyclopedia_achievements">
+		<text>Logros</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_bookworm_food">
+		<text>Traga Libros</text>
+	</string>
+	<string id="encyclopedia_achievements_bookworm_food_text">
+		<text>
+			%c[pda_white]Traga Libros%c[ui_gray_1] requiere que desbloquee todos los art&#237;culos de la gu&#237;a del juego.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLos art&#237;culos pueden desbloquearse de muchas maneras, como hablando con personajes importantes o descargando datos de tarjetas de memoria.\n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nTodos los futuros datos de memoria que se encontrar&#237;an en los cuerpos de los stalkers muertos ser&#225;n reemplazados por raros PDAs.\n \nSi se a&#241;aden art&#237;culos extra despu&#233;s de desbloquear este logro, como por ejemplo a trav&#233;s de un parche o un mod, entonces este efecto se desactivar&#225; temporalmente para que se puedan obtener nuevamente los datos de memoria.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_completionist">
+		<text>Finalista</text>
+	</string>
+	<string id="encyclopedia_achievements_completionist_text">
+		<text>
+			%c[pda_white]Finalista%c[ui_gray_1] requiere que desbloquees todos los dem&#225;s logros disponibles.\n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nEl doble de puntos de rango comparado con cuando normalmente desbloqueas un logro.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_down_to_earth">
+		<text>Bajo Tierra</text>
+	</string>
+	<string id="encyclopedia_achievements_down_to_earth_text">
+		<text>
+			%c[pda_white]Bajo Tierra%c[ui_gray_1] requiere que destruyas 3 helic&#243;pteros con armas peque&#241;as, o s&#243;lo 1 si usas un arma explosiva como el RPG o RG-6.\n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nLos helic&#243;pteros Mi-24 "Hind" ser&#225;n reemplazados gradualmente por el m&#225;s d&#233;bil Mi-2 "Hoplite".
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_duga_free">
+		<text>Duga Libre</text>
+	</string>
+	<string id="encyclopedia_achievements_duga_free_text">
+		<text>
+			%c[pda_white]Duga Libre%c[ui_gray_1] requiere que deshabilites tanto la M&#225;quina Milagrosa como el Cauterizador Cerebral.\n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nYantar y Radar ser&#225; mucho m&#225;s f&#225;cil de recorrer despu&#233;s de que los emisores de campos ps&#237;quicos sean desactivados.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_geologist">
+		<text>Ge&#243;logo</text>
+	</string>
+	<string id="encyclopedia_achievements_geologist_text">
+		<text>
+			%c[pda_white]Ge&#243;logo%c[ui_gray_1] requiere que detectes un m&#237;nimo de 50 artefactos.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLa detecci&#243;n de artefactos requiere un detector, que son vendidos por la mayor&#237;a de los comerciantes.\nUs&#225;ndolos cerca de una anomal&#237;a, hay posibilidad de detectar un artefacto.\n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nLas tasas de reproducci&#243;n de los artefactos encontrados en las anomal&#237;as se incrementar&#225;n ligeramente.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_heavy_pockets">
+		<text>Bolsillos pesados</text>
+	</string>
+	<string id="encyclopedia_achievements_heavy_pockets_text">
+		<text>
+			%c[pda_white]Bolsillos pesados%c[ui_gray_1] requiere que poseas 1.000.000 de RU en cualquier momento.\n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nLa mayor&#237;a de los comerciantes comenzar&#225;n a ofrecerte suministros especiales que s&#243;lo estar&#237;an disponibles si tuvieras grandes relaciones con su facci&#243;n.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_infopreneur">
+		<text>Infopreneur</text>
+	</string>
+	<string id="encyclopedia_achievements_infopreneur_text">
+		<text>
+			%c[pda_white]Infopreneur%c[ui_gray_1] requiere que entregues un m&#237;nimo de 50 PDAs a los agentes de informaci&#243;n.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLos PDAs pueden ser encontrados en los cuerpos de los stalkers muertos, y pueden ser comercializados a los agentes de informaci&#243;n dici&#233;ndoles que tienes informaci&#243;n para vender.\n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nLos agentes de informaci&#243;n le ofrecer&#225;n una recompensa ligeramente mayor por cualquier PDA que les traigas en el futuro.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_mechanized_warfare">
+		<text>Guerra Mecanizada</text>
+	</string>
+	<string id="encyclopedia_achievements_mechanized_warfare_text">
+		<text>
+			%c[pda_white]Guerra Mecanizada%c[ui_gray_1] requiere que entregues 3 juegos de herramientas a un solo t&#233;cnico.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLas herramientas b&#225;sicas, avanzadas y expertas se pueden encontrar principalmente en los escondites, pero en ocasiones tambi&#233;n se pueden encontrar por medio de otros stalkers.\n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nLos art&#237;culos de bonificaci&#243;n utilizados en las reparaciones son m&#225;s efectivos.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_patriarch">
+		<text>Patriarca</text>
+	</string>
+	<string id="encyclopedia_achievements_patriarch_text">
+		<text>
+			%c[pda_white]Patriarca%c[ui_gray_1] requiere que alcances el rango m&#225;s alto posible.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nEl rango se puede ganar a trav&#233;s de casi todas las acciones que puedes hacer en la Zona. \nUn art&#237;culo que explica los rangos y c&#243;mo funcionan se puede encontrar en la categor&#237;a de Rasgos.\n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nPodr&#225;s reclutar 2 compa&#241;eros adicionales por encima del l&#237;mite regular.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_radiotherapy">
+		<text>Radioterapia</text>
+	</string>
+	<string id="encyclopedia_achievements_radiotherapy_text">
+		<text>
+			%c[pda_white]Radioterapia%c[ui_gray_1] requiere que sobrevivas a 25 emisiones y 25 psi-tormentas.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLas emisiones y las tormentas psi se producen a intervalos aleatorios, que pueden ser alterados a trav&#233;s de la secci&#243;n de opciones meteorol&#243;gicas del men&#250; principal.\n \nAmbas caracter&#237;sticas pueden ser activadas en cualquier momento durante el juego, pero tendr&#225;n que ser activadas para que puedas obtener este logro.\n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nHay una peque&#241;a posibilidad de que sobrevivas a una emisi&#243;n o a un v&#243;rtice psi sin ponerte a cubierto.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_rag_and_bone">
+		<text>Trapo Y Hueso</text>
+	</string>
+	<string id="encyclopedia_achievements_rag_and_bone_text">
+		<text>
+			%c[pda_white]Trapo Y Hueso%c[ui_gray_1] requiere que saquees (al menos parcialmente) un m&#237;nimo de 100 escondites.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLos alijos pueden ser encontrados casi en cualquier lugar de la Zona en cualquier momento, pero recibir sus coordenadas despu&#233;s de completar las tareas los marcar&#225; en tu mapa.\n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nEl valor total m&#225;ximo de los art&#237;culos encontrados en los nuevos alijos generados se incrementar&#225; ligeramente.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_silver_or_lead">
+		<text>Plata o Plomo</text>
+	</string>
+	<string id="encyclopedia_achievements_silver_or_lead_text">
+		<text>
+			%c[pda_white]Plata o Plomo%c[ui_gray_1] requiere que mates a 500 stalkers o que hagas que 50 stalkers se rindan.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLos requisitos para este logro probablemente se cumplir&#225;n a partir de un juego regular, pero si intentas desbloquearlo deliberadamente, ten cuidado de no matar a stalkers neutrales o amistosos si valoras tu reputaci&#243;n.\n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nLa rendici&#243;n de los stalkers a veces puede darte las coordenadas de un escondite adicional.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_tourist">
+		<text>Turista</text>
+	</string>
+	<string id="encyclopedia_achievements_tourist_text">
+		<text>
+			%c[pda_white]Turista%c[ui_gray_1] requiere que visites los 33 mapas de la Zona.\n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nRecibir&#225;n las coordenadas de 3 escondites &#250;nicos.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_well_dressed">
+		<text>Buen Carnicero</text>
+	</string>
+	<string id="encyclopedia_achievements_well_dressed_text">
+		<text>
+			%c[pda_white]Buen Carnicero%c[ui_gray_1] requiere que mates a 500 mutantes, o que desarmes 250 partes de mutantes.\n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nPuedes desmembrar a los mutantes m&#225;s r&#225;pido.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_wishful_thinking">
+		<text>Pensamiento Deseado</text>
+	</string>
+	<string id="encyclopedia_achievements_wishful_thinking_text">
+		<text>
+			%c[pda_white]Pensamiento Deseado%c[ui_gray_1] requiere que completes la historia "Leyenda viviente".\n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nDesbloquear&#225;s los "Renegados" como una facci&#243;n jugable.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_infantile_pleasure">
+		<text>Placer Infantil</text>
+	</string>
+	<string id="encyclopedia_achievements_infantile_pleasure_text">
+		<text>
+			%c[pda_white]Placer Infantil%c[ui_gray_1] requiere que rompas 200 cajas. \n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLos requisitos para este logro se cumplir&#225;n probablemente a trav&#233;s de un juego normal. Se pueden encontrar cajas en casi todos los lugares de la Zona. Las ubicaciones industriales tienen muchas de ellas. \n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nLas cajas tendr&#225;n un 25% de posibilidades de contener m&#225;s art&#237;culos.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_recycler">
+		<text>Reciclador</text>
+	</string>
+	<string id="encyclopedia_achievements_recycler_text">
+		<text>
+			%c[pda_white]Reciclador%c[ui_gray_1] requiere que desarmes 200 art&#237;culos \n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLa mayor&#237;a de los art&#237;culos pueden ser desarmados para obtener materiales base. Para el proceso se utiliza una herramienta espec&#237;fica como la navaja suiza o la multiherramienta. \Se puede encontrar un art&#237;culo sobre el tema en la categor&#237;a Caracter&#237;sticas. \n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nTendr&#225;s un 33% de posibilidades de obtener una pieza extra al desarmarla.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_artificer_eagerness">
+		<text>Af&#225;n Art&#237;fice</text>
+	</string>
+	<string id="encyclopedia_achievements_artificer_eagerness_text">
+		<text>
+			%c[pda_white]Af&#225;n Art&#237;fice%c[ui_gray_1] requiere que fabriques 50 art&#237;culos. \n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLos juegos de herramientas de fabricaci&#243;n pueden encontrarse en escondites o con las pertenencias de otros stalkers; algunos tienen recetas y/o gu&#237;as que proporcionan informaci&#243;n para un conjunto m&#225;s amplio de equipo para fabricar. \n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nLas recetas de artesan&#237;a avanzada requerir&#225;n menos componentes en general.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_unforeseen_guest">
+		<text>Invitado Imprevisto</text>
+	</string>
+	<string id="encyclopedia_achievements_unforeseen_guest_text">
+		<text>
+			%c[pda_white]Invitado Imprevisto%c[ui_gray_1] requiere que tengas un total de 5 horas disfrazado mientras te observan. \n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nPuedes disfrazarte usando trajes de otras facciones. Se puede encontrar un art&#237;culo sobre el tema en la categor&#237;a Caracter&#237;sticas. \n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nEl comportamiento inesperado que puedas tener mientras est&#225;s disfrazado ser&#225; menos sospechoso.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_absolver">
+		<text>Absolutor</text>
+	</string>
+	<string id="encyclopedia_achievements_absolver_text">
+		<text>
+			%c[pda_white]Absolutor%c[ui_gray_1] requiere que completes la historia "Pecado Mortal". \n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nEste logro est&#225; disponible s&#243;lo para el modo Historia. \n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nDesbloquear&#225;s a "Pecado" como una facci&#243;n jugable.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_collaborator">
+		<text>Colaborador</text>
+	</string>
+	<string id="encyclopedia_achievements_collaborator_text">
+		<text>
+			%c[pda_white]Colaborador%c[ui_gray_1] requiere que completes la historia "Operaci&#243;n Resplandor". \n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nEste logro est&#225; disponible s&#243;lo para el modo Historia. \n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nDesbloquear&#225;s a "UNISG" como una facci&#243;n jugable.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_iron_curtain">
+		<text>Cortina de Hierro</text>
+	</string>
+	<string id="encyclopedia_achievements_iron_curtain_text">
+		<text>
+			%c[pda_white]Cortina de Hierro%c[ui_gray_1] requiere que tu facci&#243;n tenga la ventaja en la Zona al capturar la mitad de los territorios. \n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nEste logro est&#225; disponible s&#243;lo para el modo Warfare. \nLos mapas subterr&#225;neos no cuentan. \n \n%c[pda_blue]Recompensas%c[ui_gray_1] \nRecibir&#225;s una gran recompensa monetaria por tu contribuci&#243;n.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_murky_spirit">
+		<text>Esp&#237;ritu Turbio</text>
+	</string>
+	<string id="encyclopedia_achievements_murky_spirit_text">
+		<text>
+			%c[pda_white]Esp&#237;ritu Turbio%c[ui_gray_1] requiere que completes las tres historias de "Lost to the Zone" en modo Ironman. \n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nEste logro est&#225; disponible s&#243;lo para el modo Historia. Pero lo m&#225;s importante es que el modo Ironman debe estar activo a lo largo de todo el juego.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_achievements_invictus">
+		<text>Invictus</text>
+	</string>
+	<string id="encyclopedia_achievements_invictus_text">
+		<text>
+			%c[pda_white]Invictus%c[ui_gray_1] requiere que hagas lo imposible:\n%c[d_red] • %c[ui_gray_1]Jugar en el modo Historia, completar las tres historias de "Lost to the Zone" \n%c[d_red] • %c[ui_gray_1]El modo Ironman debe estar activo desde el d&#237;a 1 en la Zona, hasta que se completen las l&#237;neas de historia. \n%c[d_red] • %c[ui_gray_1]Juega con las dificultades de juego y de progresi&#243;n m&#225;s dif&#237;ciles, sin cambiar ninguno de sus ajustes. \n%c[d_red] • %c[ui_gray_1]No mueras ni una sola vez. \n%c[d_red] • %c[ui_gray_1]No utilices nunca el modo de desarrollador. \n \nDiviertete.
+		</text>
+	</string>
+	
+</string_table>

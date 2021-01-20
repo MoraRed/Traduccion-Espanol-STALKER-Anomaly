@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Cold (Clear Sky Leader) -->
+	<string id="find_blackbox_mlr_reward_csky_0">
+		<text>Encontr&#233; una caja negra.</text>
+	</string>
+	<string id="find_blackbox_mlr_reward_csky_1">
+		<text>&#161;Ah, excelente hallazgo! Tal vez al fin encontremos la causa de los ataques a&#233;reos en los pantanos.</text>
+	</string>
+
+
+<!-- Librarian (Clear Sky Barman) -->
+	<string id="story_b_cs_0">
+		<text>&#191;Qu&#233; puedes decirme sobre Cold?</text>
+	</string>
+	<string id="story_b_cs_1">
+		<text>&#191;Qu&#233; puedo de qu&#233;? Se ha ganado bastante respeto como el actual l&#237;der de nuestra organizaci&#243;n.</text>
+	</string>
+	<string id="story_b_cs_2">
+		<text>&#191;C&#243;mo se lo gan&#243;?</text>
+	</string>
+	<string id="story_b_cs_3">
+		<text>Ver&#225;s, hubo cierta controversia con respecto a Lebedev, nuestro antiguo l&#237;der - que, por cierto, yo personalmente nunca conoc&#237; - y no parec&#237;a tener en cuenta las opiniones de los miembros de la facci&#243;n durante su cruzada hacia la CNPP. Ese mercenario ciertamente nos ayud&#243;, pero al final, no vali&#243; la pena. Los que permanecieron en la base fueron incapaces de luchar contra el resurgimiento de los Renegados. La fuerza de nuestra lucha en los pantanos se redujo a cero... y los sacrificios de camino a la CNPP de Chern&#243;bil, as&#237; como en los pantanos, terminaron siendo en vano.</text>
+	</string>
+	<string id="story_b_cs_4">
+		<text>Parece que el resentimiento de la facci&#243;n hacia su l&#237;der en ese momento ten&#237;a sentido.</text>
+	</string>
+	<string id="story_b_cs_5">
+		<text>Hay algo m&#225;s... Despu&#233;s de que nuestras tropas regresaron, tuvimos que empezar una larga guerra para recuperar todo. No eramos capaces de arregl&#225;rnoslas en el d&#237;a a d&#237;a sin Cold. &#201;l recibi&#243; ayuda de stalkers aunque no eran nuestros y se puso en contacto con gente de todo el Vertedero y el Cord&#243;n. Los stalkers libres nos ayudaron, y tener un l&#237;der carism&#225;tico ciertamente no doli&#243;. Adem&#225;s, dio la orden a todos los luchadores - sin excepciones - de no salir de aqu&#237;. Aceptaremos cualquier ayuda, pero no arriesgaremos las vidas de nuestros hombres.</text>
+	</string>
+	<string id="story_b_cs_6">
+		<text>Quienquiera que haya sido Lebedev y lo que hizo, no son la misma facci&#243;n que sol&#237;an ser.</text>
+	</string>
+	<string id="story_b_cs_7">
+		<text>Esa es tu opini&#243;n. Ciertamente tiene alg&#250;n valor. En este momento, no tenemos objetivos a gran escala, excepto quiz&#225;s... eh... De todos modos, probablemente es hora de que dejemos de contar historias y comencemos a negociar.</text>
+	</string>
+	<string id="story_b_cs_8">
+		<text>Trato.</text>
+	</string>
+
+	<string id="story_dog_0">
+		<text>&#191;De qui&#233;n es ese pseudoperro?</text>
+	</string>
+	<string id="story_dog_1">
+		<text>Ese es Buddy, el perro del Doctor. Doctor le pidi&#243; a Cold que lo mantuviera a salvo, ya que est&#225; empezando a envejecer.</text>
+	</string>
+	<string id="story_dog_2">
+		<text>Bueno, por lo que parece, no puedo decir que lo necesite.</text>
+	</string>
+	<string id="story_dog_3">
+		<text>Las apariencias enga&#241;an a veces. Esta mascota es una criatura de buen coraz&#243;n. Ahora, &#191;puedo decirte algo interesante sobre este tipo de perro?</text>
+	</string>
+	<string id="story_dog_4">
+		<text>Adelante.</text>
+	</string>
+	<string id="story_dog_5">
+		<text>Los pseudoperros no descienden en absoluto de los perros, aunque comparten el mismo ancestro antiguo. Ellos como que se originan de los lobos - Deber descubri&#243; eso mientras los investigaba.</text>
+	</string>
+	<string id="story_dog_6">
+		<text>&#191;Y c&#243;mo te enteraste tu?</text>
+	</string>
+	<string id="story_dog_7">
+		<text>Por mi profesi&#243;n, colecciono todo tipo de historias. Al norte, hay un lugar similar a nuestros pantanos llamado Zaton. He o&#237;do que hay un viejo loco que vive en la vieja barcaza, y al parecer, tambi&#233;n tiene un pseudoperro. Tal vez puedas averiguar si es verdad, si la distancia no te molesta.</text>
+	</string>
+	<string id="story_dog_8">
+		<text>Es s&#243;lo la longitud total de la Zona. Tal vez vaya all&#237; alguna vez.</text>
+	</string>
+	
+	<string id="about_dog_marsh_part_two_0">
+		<text>Habl&#233; con Noah, ese "viejo loco" del que me hablaste.</text>
+	</string>
+	<string id="about_dog_marsh_part_two_1">
+		<text>Oh, se me habia olvidado eso. Entonces, &#191;es cierto que tambi&#233;n ha domesticado a un pseudoperro?</text>
+	</string>
+	<string id="about_dog_marsh_part_two_2">
+		<text>S&#237;. La llama Lassie. Tiene dos cachorros, y no han mostrado ning&#250;n tipo de comportamiento agresivo.</text>
+	</string>
+	<string id="about_dog_marsh_part_two_3">
+		<text>&#191;Cachorros? Nunca pens&#233; saber eso en la Zona. Bueno, gracias, ahora s&#233; que hay m&#225;s pseudoperros amistosos cri&#225;ndose en la Zona. Aqu&#237; hay algunas provisiones para tus proximos viajes... y, si lo necesitas, puedes tener alguna informaci&#243;n sobre una ruta entre los almacenes del ej&#233;rcito y el Bosque Rojo. Ha permanecido con nosotros como un eco del pasado.</text>
+	</string>
+
+	
+<!-- (Clear Sky guide) -->
+	<string id="meet_guid_marsh_csky_0">
+		<text>Oye, &#191;que haces parado ah&#237;?</text>
+	</string>
+	<string id="meet_guid_marsh_csky_1">
+		<text>Si quiero estar parado es problema mio... Es broma. Tengo que estar a la vista siempre, soy gu&#237;a local. Puedo llevarte a varios lugares si quieres, lo que sea, el puesto de observaci&#243;n aqu&#237; en el pantano, as&#237; como la estaci&#243;n de bombeo, la vieja iglesia y el patio de m&#225;quinas. Tambi&#233;n ofrezco viajes al campamento de novatos en el Cord&#243;n, as&#237; como a Agroprom y al Bar. Todo eso te costar&#225;, claro.</text>
+	</string>
+
+	<string id="meet_guid_marsh_csky_list_0">
+		<text>&#191;Puedes repetir tus rutas?</text>
+	</string>
+	<string id="meet_guid_marsh_csky_list_1">
+		<text>Estas son las rutas que tomo: el puesto de observaci&#243;n por trescientos rublos, la estaci&#243;n de bombeo y la vieja iglesia por quinientos, el patio de m&#225;quinas por ochocientos, el campamento de vovatos en el Cord&#243;n por mil quinientos, Agroprom por dos mil y el Bar por cuatro mil.</text>
+	</string>
+
+	<string id="travel_guid_marsh_csky_0">
+		<text>Me gustar&#237;a usar tus servicios.</text>
+	</string>
+	<string id="travel_guid_marsh_csky_1">
+		<text>Bien, &#191;a d&#243;nde?</text>
+	</string>
+	<string id="travel_guid_marsh_csky_2">
+		<text>Al puesto de obsevaci&#243;n. %c[d_orange][300 RU]</text>
+	</string>
+	<string id="travel_guid_marsh_csky_3">
+		<text>Al la estaci&#243;n de bombeo. %c[d_orange][500 RU]</text>
+	</string>
+	<string id="travel_guid_marsh_csky_4">
+		<text>A la vieja iglesia. %c[d_orange][500 RU]</text>
+	</string>
+	<string id="travel_guid_marsh_csky_5">
+		<text>Al patio de m&#225;quinas. %c[d_orange][800 RU]</text>
+	</string>
+	<string id="travel_guid_marsh_csky_6">
+		<text>Al campamento de los novatos en el Cord&#243;n. %c[d_orange][1500 RU]</text>
+	</string>
+	<string id="travel_guid_marsh_csky_7">
+		<text>Agroprom. %c[d_orange][2000 RU]</text>
+	</string>
+	<string id="travel_guid_marsh_csky_8">
+		<text>Al Bar. %c[d_orange][4000 RU]</text>
+	</string>
+	<string id="travel_guid_marsh_csky_9">
+		<text>He cambiado de opinion.</text>
+	</string>
+
+	<string id="mar_csky_guide_background_1">
+		<text>&#191;Yo? Bueno, he sido gu&#237;a de Cielo Despejado por m&#225;s de siete a&#241;os. Dicho eso, durante mis primeros a&#241;os, por alla por el 2011, me qued&#233; en los pantanos, pero rara vez llevo a los stalkers mucho m&#225;s lejos. Pero eso fue en otra &#233;poca, antes de que encontraran a ese maldito mercenario en los juncos con la boca llena de agua de pantano. \nNuestros l&#237;deres no confiaban en &#233;l, le vendaban los ojos cada vez que quer&#237;a entrar o salir de nuestra base. Y luego, en pocas semanas, de alguna manera se las arregl&#243; para convencerlos, junto con la mayor&#237;a de nuestros hombres, para entrar en la central. \nNo hace falta decir que ni &#233;l ni gran parte de nuestra facci&#243;n regresaron de esa locura. Todo por culpa de ese maldito mercenario loco.</text>
+	</string>
+	<string id="mar_csky_guide_background_2">
+		<text>&#191;Est&#225;s hablando de Scar?</text>
+	</string>
+	<string id="mar_csky_guide_background_3">
+		<text>El legendario, s&#237;. Aunque m&#225;s que su cicatriz, recuerdo sus espeluznantes ojos. Ese tipo me asustaba mucho. El profesor Kalancha nos dijo que de alguna manera era resistente a las emisiones. No s&#243;lo eso, se hac&#237;a m&#225;s fuerte cada vez que una le golpeaba. Tambi&#233;n se le fri&#243; el cerebro. Parece que no sobrevivi&#243; al gigante de la fiesta de la CNPP, en todo caso. Se lo merece.</text>
+	</string>
+	<string id="mar_csky_guide_background_4">
+		<text>Bueno, descansa en pedazos, supongo.</text>
+	</string>
+	
+	
+<!-- (Clear Sky Mechanic) -->
+	<string id="marsh_stalker_tech_pragmatic_research_0">
+		<text>Cielo Despejado es bueno en la investigaci&#243;n, &#191;verdad?</text>
+	</string>
+	<string id="marsh_stalker_tech_pragmatic_research_1">
+		<text>Claro que s&#237;. Como los ecologistas, intentamos entender mejor la Zona, pero no nos limitamos a observar. Preferimos usar el conocimiento que obtenemos para aplicaciones pr&#225;cticas. Por ejemplo, los fragmentos de un artefacto Gravi incrustados en una armadura corporal reducen significativamente su peso. El coagulante del chupasangre puede ser implementado en un sistema de soporte de vida que evita la p&#233;rdida de sangre durante el combate. Y la capacidad de resoluci&#243;n del ojo de un Carnes nos ayud&#243; a desarrollar sistemas avanzados de punter&#237;a. &#201;sas son s&#243;lo algunas de las muchas ideas que se nos han ocurrido.</text>
+	</string>
+
+	
+	<string id="cit_doctor_hello_dialog_11">
+        <text>&#191;S&#237;? &#191;Qu&#233; es lo que quieres?</text>
+    </string>
+    <string id="cit_doctor_hello_dialog_21">
+        <text>Te he dicho todo lo que s&#233;.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_0">
+        <text>He o&#237;do que tienes informaci&#243;n sobre la Zona.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_1">
+        <text>Oh... Puede que tenga la informaci&#243;n que buscas, pero quiero que hagas algo a cambio.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_11">
+        <text>Claro. &#191;Qu&#233; quieres que haga?</text>
+    </string>
+    <string id="cit_doctor_main_dialog_2">
+        <text>La Zona me ha pasado factura a lo largo de los a&#241;os, as&#237; que paso mis &#250;ltimos d&#237;as aqu&#237; donde hay tranquilidad, pero prefiero disfrutar viendo a mis viejos amigos una vez m&#225;s. Temo que Strelok y Guia est&#233;n muertos, pero me gustar&#237;a mucho hablar con Fang y Fantasma mientras quede tiempo. Si puedes encontrarlos y traerlos aqu&#237;, apreciar&#237;a mucho tus esfuerzos.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_21">
+        <text>&#191;Cu&#225;nto tiempo has vivido aqu&#237;? Fang y Fantasma son stalkers legendarios, pero ambos llevan mucho tiempo muertos. Fang fue asesinado por un mercenario llamado Scar en los almacenes del ej&#233;rcito, y Fantasma lo encontraron debajo de Yantar en el laboratorio X-16 un a&#241;o despu&#233;s. &#191;Realmente no lo sab&#237;as?</text>
+    </string>
+    <string id="cit_doctor_main_dialog_3">
+        <text>&#191;Ambos est&#225;n muertos? &#191;Est&#225;s seguro? Yo s&#243;lo... Oh, est&#225; bien... &#191;Qu&#233; es lo que quieres saber?</text>
+    </string>
+    <string id="cit_doctor_main_dialog_31">
+        <text>&#191;En serio, ahora me lo dir&#225;s tan f&#225;cilmente? Siento que me est&#225;s haciendo perder el tiempo, viejo.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_4">
+        <text>&#161;Espera! No te vayas... No esperaba que terminaran mal. La &#250;ltima vez que Strelok vino de visita, me dio una llave y las coordenadas de un escondite en Pripyat. \nNo lo ha visitado en a&#241;os, as&#237; que supongo que no le ha ido tan bien. Estaba diciendo algo sobre el Monolito, no entend&#237; mucho de &#233;l y no estoy muy seguro de que lo haya hecho. Aqu&#237;, t&#243;malo. Una cosa m&#225;s... Pas&#243; mucho tiempo buscando pistas de una conspiraci&#243;n en los laboratorios subterr&#225;neos, alg&#250;n tipo de encubrimiento secreto, creo. Tal vez encuentres respuestas all&#237;.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_41">
+        <text>Ya veo. Gracias, aprecio tu ayuda.</text>
+    </string>
+    <string id="cit_doctor_main_dialog_5">
+        <text>Ahora vete, deja a este viejo en paz.</text>
+    </string>
+
+	<string id="mar_base_owl_stalker_trader_start_dialog_1">
+		<text>&#191;Necesita suministros o equipo? &#191;Informaci&#243;n?... &#191;O tal vez quieres vender informaci&#243;n?</text>
+	</string>
+	    <string id="mar_smart_terrain_base_doctor_need_health_care_0">
+        <text>Necesito asistencia medica</text>
+    </string>
+    <string id="mar_smart_terrain_base_doctor_need_health_care_1">
+        <text>De acuerdo, d&#233;jame realizar los primeros auxilios.</text>
+    </string>
+    <string id="mar_smart_terrain_base_doctor_need_health_care_11">
+        <text>[Continuar...]</text>
+    </string>
+    <string id="mar_smart_terrain_base_doctor_need_health_care_111">
+        <text>Muy bien, he terminado. Deber&#237;as estar listo para irte.</text>
+    </string>
+    <string id="mar_smart_terrain_base_doctor_need_health_care_2">
+        <text>D&#233;jame ver... No hay heridas. Tampoco muestras signos de enfermedad por radiaci&#243;n. Creo que todo est&#225; en orden, ya puedes irte.</text>
+    </string>
+    <string id="mar_smart_terrain_base_doctor_start_1">
+        <text>Hm, &#191;s&#237;?</text>
+    </string>
+	<string id="marsh_stalker_barmen_start_dialog_1">
+		<text>&#161;Una cara nueva! La gente de aqu&#237; me llama Bibliotecario. Soy el barman local. Estar&#233; encantado de responder cualquier pregunta que tengas. A veces publico ofertas de trabajo o escucho rumores interesantes, as&#237; que ven a menudo.</text>
+	</string>
+	<string id="marsh_stalker_barmen_start_dialog_2">
+		<text>Oye, stalker. &#191;Que necesitas?</text>
+	</string>
+	<string id="marsh_stalker_tech_start_1">
+		<text>Hola stalker. &#191;Puedo ayudarte en algo? Las buenas herramientas son dif&#237;ciles de conseguir aqui en la Zona, pero a&#250;n as&#237; puedo reparar tu equipo y hacer peque&#241;as mejoras.</text>
+	</string>
+	<string id="marsh_stalker_medic_background_0">
+        <text>Cu&#233;ntame sobre ti.</text>
+    </string>
+    <string id="marsh_stalker_medic_background_1">
+        <text>Bueno, soy el profesor E.F. Kalancha. Junto con Lebedev y Suslov fui uno de los miembros fundadores de Cielo Despejado. A diferencia de ellos, que descansen en paz, yo me qued&#233; en la Base Oculta durante su fat&#237;dica incursi&#243;n en la central nuclear de Chernobyl. Soy el investigador principal de la facci&#243;n. La mayor&#237;a de las veces hago experimentos con artefactos, estudio muestras de tejido mutante y observo anomal&#237;as. A veces coopero con Novikov para encontrar aplicaciones pr&#225;cticas para los resultados de mi trabajo. Adem&#225;s, por necesidad tambi&#233;n me he convertido en el m&#233;dico local. Si regresa herido de una excursi&#243;n o, preferiblemente, con alg&#250;n esp&#233;cimen raro en su bolsa, bueno, ya sabe d&#243;nde encontrarme.</text>
+    </string>
+
+    <string id="marsh_stalker_medic_about_people_0">
+        <text>&#191;Qu&#233; piensas de los stalkers?</text>
+    </string>
+    <string id="marsh_stalker_medic_about_people_1">
+        <text>Mucha gente cree que entiende lo que la Zona realmente es. Lamentablemente, todos est&#225;n equivocados. Algunos piensan que es una manifestaci&#243;n de pura maldad, otros lo llaman un milagro, mientras que ciertas personas s&#243;lo pueden pensar en todas las riquezas que podr&#237;an obtener... Todos est&#225;n equivocados por los prejuicios humanos b&#225;sicos. La Zona es un fen&#243;meno incomprensible cuando se mira a trav&#233;s del prisma de la percepci&#243;n humana. Es demasiado pronto para que lo intentemos. Tanto los stalkers como el gobierno act&#250;an imprudentemente en su ignorancia. Nosotros tambi&#233;n lo hicimos, una vez, pensando que nuestro conocimiento era superior al de los dem&#225;s, y pagamos caro por ello.</text>
+    </string>
+
+    <string id="marsh_stalker_medic_about_zone_0">
+        <text>&#191;Qu&#233; sabes de la Zona?</text>
+    </string>
+    <string id="marsh_stalker_medic_about_zone_1">
+        <text>Joven, hemos estado estudiando la Zona durante varios a&#241;os, pero no nos hemos dado cuenta. Puedo decirle que la Zona no es un fen&#243;meno natural sino el resultado de... un esfuerzo in&#250;til ideado por gente demasiado ambiciosa. No podemos revertir sus efectos. La Zona no puede ser destruida, ni desaparecer&#225; por s&#237; misma. Adem&#225;s, la experiencia nos ha ense&#241;ado que cualquier intento de frenarla o contenerla tendr&#225; consecuencias catastr&#243;ficas. Actualmente nosotros, Cielo Despejado, creemos que s&#243;lo hay una forma de reconciliar al hombre con la Zona: la coexistencia.</text>
+    </string>
+    <string id="marsh_stalker_medic_about_zone_2">
+        <text>Eso ser&#237;a m&#225;s f&#225;cil sin las emisiones que asolan la zona cada pocos d&#237;as. Hablando de eso, &#191;qu&#233; las est&#225; causando, en primer lugar?</text>
+    </string>
+    <string id="marsh_stalker_medic_about_zone_3">
+        <text>&#191;C&#243;mo puedo explicarlo de la mejor forma? Dig&#225;moslo as&#237;: cualquier sistema complicado de la naturaleza, y eso incluye la Zona, busca autom&#225;ticamente el equilibrio en ausencia de factores externos desestabilizadores. Ese fue el caso aqu&#237; hace unos a&#241;os - la Zona era estable y no hab&#237;a desviaciones significativas de la norma... &#191;y ahora? Como has dicho, las emisiones devastadoras barren regularmente la Zona. El sistema se volvi&#243; inestable, distorsionado... una especie de fallo. La Zona expulsa emisi&#243;n tras emisi&#243;n y se llena de energ&#237;a con cada una de ellas, &#161;tanto que las lecturas de mis sensores oscilan a una velocidad incre&#237;ble! Desafortunadamente, Lebedev y Suslov fueron incapaces de revertir esta tendencia permanentemente, a pesar de su tr&#225;gico sacrificio. La lecci&#243;n m&#225;s importante de todo esto es que este "fallo" tampoco es producto de causas naturales. Todo esto es obra del hombre.</text>
+    </string>
+	<string id="marsh_stalker_barman_background">
+		<text>Soy Tabernero. Sirvo bebidas, comida y mantengo la radio encendida. No es un trabajo emocionante, pero es preferible a estar fuera de aqu&#237;. Llevo trabajando aqu&#237; desde hace unos a&#241;os; qued&#233; atrapado en el interior de los pantanos cuando la emisi&#243;n lleg&#243;, as&#237; que estaba m&#225;s o menos atrapado aqu&#237;. Me dirig&#237; al sur como la mayor&#237;a de la gente lo intent&#243;, pero fui uno de los pocos que no fue secuestrado por los bandidos en el camino. Busqu&#233; en esta base y me un&#237; a Cielo Despejado. Era eso o morir en un charco en alg&#250;n lugar. Pas&#233; las primeras semanas como un gru&#241;&#243;n repeliendo a los anarquistas de nuestros puestos de observaci&#243;n y luego consegu&#237; el trabajo como nuevo camarero cuando Cold fue ascendido. Naturalmente, acept&#233;, ya que prefer&#237;a disparar bebidas que balas. &#161;Pero basta de hablar! &#191;Qu&#233; tal una buena cerveza bien fr&#237;a?</text>
+	</string>
+	<string id="marsh_stalker_trader_background">
+		<text>Spore es mi apodo. Me hice cargo de este trabajo hace un a&#241;o. Vine a la Zona en busca de riqueza como todo el mundo y me encontr&#233; con un stalker llamado Nimble. Descubr&#237; que compart&#237;amos muchas habilidades: ambos teniamos muchos contactos externos, buenos en el tr&#225;fico de bienes dentro y fuera de la Zona, y en la venta de informaci&#243;n. As&#237; que cuando el resurgimiento del Monolito pas&#243; y el negocio se fue al sur, lo seguimos. Me las arregl&#233; para conseguir un buen trabajo aqu&#237; despu&#233;s de que Nimble me recomendara a Cold. Era miembro de Cielo Despejado en sus d&#237;as, &#191;sabes? Por supuesto, Nimble ha vuelto a Zaton para ayudar en el Skadovsk, el loco, pero me ha dejado con una peque&#241;a organizaci&#243;n aqu&#237;. Ahora tengo acceso a una ruta de contrabando sin el ej&#233;rcito a trav&#233;s de los pantanos, y Cielo Despejado es el primero en elegir todo lo que traigo. Hazle una visita a Nimble si alguna vez te encuentras al norte de la Barrera. Incluso ahora, probablemente siga vendiendo s&#243;lo las armas y armaduras m&#225;s raras a sus compa&#241;eros stalkers. Por el precio adecuado, te dar&#225; el mejor equipo de la Zona.</text>
+	</string>
+	<string id="marsh_stalker_tech_background">
+		<text>Me llamo Novikov, pero algunos me llaman Grey. Soy el t&#233;cnico que mantiene todo en funcionamiento, y la &#250;nica persona a la que acude un buen stalker si su arma empieza a fallar. Sol&#237;a trabajar aqu&#237; hace mucho tiempo hasta justo antes de que Cold se hiciera cargo. Cuando todo se fue a la mierda, busqu&#233; un lugar m&#225;s prospero y me contrataron los cient&#237;ficos cerca de J&#250;piter. Estuve all&#237; unos cuantos a&#241;os, hasta que un d&#237;a o&#237; que de alguna manera estos tipos se recuperaron, y tan pronto como mi contrato termin&#243;, volv&#237;. Me acogieron sin dudarlo; mis habilidades con un banco de trabajo y mis contactos con los cient&#237;ficos eran muy necesarios. Hice contactos para trabajar con sus hombres y poder continuar con nuestra antigua investigaci&#243;n. Si te gusta el trabajo, siempre est&#225;n buscando gu&#237;as para visitar las anomal&#237;as cercanas. Habla con Spore sobre eso si est&#225;s interesado.</text>
+	</string>
+	<string id="marsh_stalker_leader_background">
+		<text>&#191;Por d&#243;nde empiezo? Me llaman Cold por aqu&#237;. Soy el l&#237;der de Cielo Despejado. Sol&#237;a ser el viejo barman de aqu&#237; hace mucho tiempo hasta que entregu&#233; ese honor a Bibliotecario una vez que nos enteramos de lo que le pas&#243; a Lebedev, Suslov, y el resto de nuestros comandantes. Despu&#233;s de largas e intensas negociaciones con el &#250;ltimo cargamento de vodka contrabandeado, la fuerza local decidi&#243; que yo era el m&#225;s adecuado para tomar las riendas, y me he aferrado a ellas desde entonces.</text>
+	</string>
+	<string id="marsh_csky_history_ask1">
+		<text>H&#225;blame de Cielo Despejado.</text>
+	</string>
+	<string id="marsh_csky_history_ask2">
+		<text>&#191;Qu&#233; es lo que quieres saber?</text>
+	</string>
+	<string id="marsh_csky_history_destroyed1">
+		<text>&#191;La facci&#243;n no habia sido destruida?</text>
+	</string>
+	<string id="marsh_csky_history_destroyed2">
+		<text>Casi, pero nos las arreglamos para salir adelante. Aunque la mayor&#237;a de nuestros chicos fueron asesinados en la planta, no todos lo fuimos. Un buen n&#250;mero estaba todav&#237;a en nuestros otros territorios, que m&#225;s tarde fueron separados del resto de la Zona por anomal&#237;as despu&#233;s de la emisi&#243;n. Cuando se hizo evidente para los que estaban en los pantanos de que estaban casi atrapados aqu&#237; sin facil escapatoria, todo se fue al infierno. Los stalkers honestos se convirtieron en bandidos de la noche a la ma&#241;ana, mientras que el resto trat&#243; de huir a nuestra base, o vivir de los mutantes de la zona. Recibimos muchos hombres, y nuestras reservas de comida aseguraron su lealtad, y despu&#233;s de un tiempo, se hizo obvio que necesitar&#237;amos un nuevo l&#237;der. Asum&#237; la carga y le ped&#237; a Bibliotecario que se ocupara del bar en mi lugar; se hab&#237;a ganado un buen nombre en el corto tiempo transcurrido desde que se uni&#243;. Despu&#233;s de unos meses de incursi&#243;n de los bandidos, logramos repeler a la mayor&#237;a, pero eso no impidi&#243; que el ej&#233;rcito sintiera la necesidad de mudarse y terminar el trabajo. Incluso ahora, todav&#237;a tienen a ese p&#225;jaro suyo observando las &#225;reas que tomaron.</text>
+	</string>
+	<string id="marsh_csky_history_goal1">
+		<text>&#191;Cu&#225;l es su objetivo actual?</text>
+	</string>
+	<string id="marsh_csky_history_goal2">
+		<text>La cosa es que no tenemos un solo objetivo. El pobre Lebedev era un hombre ambicioso. Pens&#243; que pod&#237;amos descubrir todos los peque&#241;os secretos sucios de la Zona y usar el conocimiento para domesticarlos o contenerlos. Sin embargo, no result&#243; as&#237; exactamente. Ahora hacemos b&#225;sicamente lo mismo sol&#237;amos hacer. Cazamos mutantes, recolectamos artefactos y los investigamos. De vez en cuando recuperamos algunos documentos interesantes de un viejo laboratorio subterr&#225;neo. Pero no nos involucramos en guerras territoriales con otras facciones y definitivamente no planeamos otra campa&#241;a al coraz&#243;n de la Zona a corto plazo. A diferencia de Deber, no intentamos destruirla, y tampoco queremos abrir un parque de atracciones aqu&#237; como la gente de Libertad. Por ahora, coexistimos. Mejor mantener un perfil bajo, como en los viejos tiempos antes del asalto final.</text>
+	</string>
+	<string id="marsh_csky_history_goal3">
+		<text>Entonces, &#191;B&#225;sicamente los miembros de Cielo Despejado ahora hacen lo que quieren?</text>
+	</string>
+	<string id="marsh_csky_history_goal4">
+		<text>Por decirlo de alguna forma. Todos somos personas de ideas parecidas con intereses similares, as&#237; que los chicos se mantienen en sus tareas sin que yo les diga qu&#233; hacer todo el tiempo. Hasta ahora nos ha ido bien.</text>
+	</string>
+	
+	<string id="cit_doctor_health_care_0">
+		<text>Doctor, necesito asistencia m&#233;dica.</text>
+	</string>
+	<string id="cit_doctor_health_care_1">
+		<text>Ya veo. Ven aqu&#237; y te echar&#233; un vistazo.</text>
+	</string>
+	<string id="cit_doctor_health_care_11">
+		<text>&#191;Es grave?</text>
+	</string>
+	<string id="cit_doctor_health_care_111">
+		<text>Parece que necesitas ser cosido. No puedo quitarte la radiaci&#243;n, pero me ocupar&#233; de las heridas.</text>
+	</string>
+	<string id="cit_doctor_health_care_112">
+		<text>No hay heridas ni radiaci&#243;n, parece. Todo est&#225; bien, muchacho.</text>
+	</string>
+	<string id="cit_doctor_health_care_1111">
+		<text>Muy bien, doctor. Por favor, ay&#250;deme.</text>
+	</string>
+	<string id="cit_doctor_health_care_1112">
+		<text>Gracias por la ayuda.</text>
+	</string>
+	<string id="cit_doctor_health_care_11111">
+		<text>Un momento, por favor... Todo deber&#237;a estar bien ahora. Eres libre de irte.</text>
+	</string>
+	
+	
+	
+	<string id="st_psd_end_1">
+		<text>Finalmente se acab&#243;, limpiemos este desastre y descansemos un poco. Gracias por la ayuda stalker.</text>
+	</string>
+	<string id="st_psd_end_2">
+		<text>Bueno, mierda, el jefe muri&#243;, yo estoy tomando el mando. Gracias por la ayuda stalker.</text>
+	</string>
+	<string id="st_psd_intro">
+		<text>&#161;Cuidado, alguien viene hacia aqui! ...no importa, no es un bandido. Stalker, si tienes alg&#250;n asunto aqu&#237; hazlo r&#225;pido, el mierdero llegar&#225; pronto.</text>
+	</string>
+	<string id="st_psd_start">
+		<text>&#161;Aqu&#237; vamos! &#161;Todos en posici&#243;n, ya vienen!</text>
+	</string>
+	<string id="st_psd_warning">
+		<text>Si te pasas de la raya, los stalkers de Cielo Despejado pueden pensar que est&#225;s huyendo.</text>
+	</string>
+	<string id="st_psd_escape">
+		<text>Escapaste y dejastes a Cielo Despejado cuando se defend&#237;a de los bandidos.</text>
+	</string>
+	
+	
+	<string id="st_psd_stage_0"><text>Llega a la estaci&#243;n de bombeo.</text></string>
+	<string id="st_psd_stage_1"><text>Habla con el comandante de los guardias.</text></string>
+	<string id="st_psd_stage_2"><text>Toma la posici&#243;n del francotirador ca&#237;do.</text></string>
+	<string id="st_psd_stage_3"><text>&#161;Sobrevive!</text></string>
+	<string id="st_psd_stage_5"><text>Rep&#243;rtate al comandante.</text></string>
+	<string id="st_psd_stage_6"><text>Regresa a Cold por la recompensa.</text></string>
+	
+
+	<string id="st_psd_dialog_1"><text>Ser&#225; mejor que te muevas stalker, pronto todo se volver&#225; un desastre.</text></string>
+	<string id="st_psd_dialog_2"><text>Cold me envi&#243; a ayudar contra los bandidos.</text></string>
+	<string id="st_psd_dialog_3"><text>Genial, realmente necesitamos cualquier ayuda que podamos conseguir. Nuestro francotirador muri&#243; en el &#250;ltimo ataque, necesitamos que alguien suba a reventar algunas cabezas.</text></string>
+	<string id="st_psd_dialog_4"><text>Ok, subir&#233;.</text></string>
+	<string id="st_psd_dialog_5"><text>Gracias por la advertencia, estoy fuera.</text></string>
+	<string id="st_psd_dialog_6"><text>Sal de aqu&#237;, stalker.</text></string>
+	<string id="st_psd_dialog_7"><text>Voy en camino, solo preparo mis cosas.</text></string>
+	<string id="st_psd_dialog_8"><text>Bueno, eso es todo por este dia, tu ayuda fue cr&#237;tica. Nos vemos por ah&#237;.</text></string>
+	<string id="st_psd_dialog_9"><text>Muy bien, adi&#243;s.</text></string>
+	<string id="st_psd_dialog_10"><text>Quer&#237;a ser el comandante del equipo de ataque, pero no as&#237;...</text></string>
+	<string id="st_psd_dialog_11"><text>Qu&#233; l&#225;stima.</text></string>
+	
+</string_table>
