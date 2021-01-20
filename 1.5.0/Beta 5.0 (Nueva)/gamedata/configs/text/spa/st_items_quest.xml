@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!--===========================================================
+<
+< QUEST ITEMS TEXT  STRINGS
+<	CoC 1.4.07 - DoctorX Questlines 1.6
+<
+<	Modified by: DoctorX
+<	Last revised: October 06, 2016
+<
+<===========================================================-->
+
+
+<string_table>
+
+	<!-- DRX Storyline Documents Quest Item -->
+	<string id="drx_sl_quest_item_1_name">
+		<text>Documentos</text>
+	</string>
+	<string id="drx_sl_quest_item_1_desc">
+		<text>Documentos sellados. Uno s&#243;lo puede preguntarse qu&#233; secretos cruciales, mundanos o terribles pueden tener. Desafortunadamente, nunca lo sabr&#225;s. Devu&#233;lvelos para tener tu recompensa.</text>
+	</string>
+
+	<!-- DRX Storyline Locked Case Quest Item -->
+	<string id="drx_sl_quest_item_2_name">
+		<text>Estuche cerrado</text>
+	</string>
+	<string id="drx_sl_quest_item_2_desc">
+		<text>A estuche cerrado. No estoy seguro de lo que hay dentro, pero es pesado. Mejor ser&#237;a arrastrar esto.</text>
+	</string>
+
+	<!-- DRX Storyline PDA Quest Item -->
+	<string id="drx_sl_quest_item_3_name">
+		<text>PDA</text>
+	</string>
+	<string id="drx_sl_quest_item_3_desc">
+		<text>Un PDA encriptado. Te prometieron una recompensa por regresarlo.</text>
+	</string>
+
+	<string id="bad_psy_helmet_desc">
+		<text>Prototipo desarrollado por cient&#237;ficos para proteger a las personas de las emisiones psi. Necesita ajustes.</text>
+	</string>
+	<string id="bad_psy_helmet_name">
+		<text>Casco psi sin calibrar</text>
+	</string>
+
+	<string id="good_psy_helmet_desc">
+		<text>Prototipo desarrollado por cient&#237;ficos para proteger a las personas de las emisiones psi.</text>
+	</string>
+	<string id="good_psy_helmet_name">
+		<text>Casco Psi</text>
+	</string>
+
+	<string id="cit_doctors_key_short_desc">
+		<text>Llave de Medico para un alijo secreto en Pripyat</text>
+	</string>
+	<string id="cit_doctors_key_name">
+		<text>Llave de Medico</text>
+	</string>
+	<string id="cit_doctors_key_desc">
+		<text>Una llave con 'Hotel Polissya - Habitacion 26' grabado en el lateral.</text>
+	</string>
+
+	<string id="item_docs_hiden_pri_name">
+		<text>Manuscrito de Strelok</text>
+	</string>
+	<string id="item_docs_hiden_pri_desc">
+		<text>Manuscrito gastado en encuadernaci&#243;n de cuero. Escrito por el mismo Strelok.\nA juzgar por los encabezados, podr&#237;a explicar algunos de los secretos de la Zona.</text>
+	</string>
+
+	<string id="cit_doctors_pda_name">
+		<text>Notas de Doctor</text>
+	</string>
+	<string id="cit_doctors_pda_desc">
+		<text>"Solo algunas notas sobre las teor&#237;as conspirativas de los viejos".\n \nHay rumores de que el Instituto Agroprom fue utilizado como fachada de un laboratorio no oficial en los a&#241;os anteriores al accidente del a&#241;o 2006. Este laboratorio organiz&#243; una serie de experimentos muy inusuales. Los comerciantes han desenterrado mucha informaci&#243;n sobre estos laboratorios. Me reun&#237; con el Tabernero, &#233;l dice que envi&#243; exploradores Deber para entrar en las b&#243;vedas subterr&#225;neas de Valle Oscuro, llamado X-18, pero desaparecieron. Hay otros rumores sobre un mecanismo de "cerebro ps&#237;quico". Todo el vecindario en Yantar est&#225; bajo la influencia de esa basura: zombific&#243; a todos los que estuvieron dentro del alcance. Hay otro mecanismo en el subsuelo del radar Red Forest, llamado laboratorio X19, y es lo que probablemente sea el Cauterizador. Hay evidencia para sugerir que la presencia del Cauterizador bloquea intencionalmente el camino hacia el norte, pero nadie sabe exactamente qu&#233; es. Tabernero cree que el Cauterizador fue hecho por el hombre, y estos mecanismos no siempre funcionan con toda su potencia. &#201;l piensa que hay per&#237;odos en los que se reduce su potencia para enfriar el aparato. Es hora de visitar todos los laboratorios subterr&#225;neos de la Zona y descubrir qu&#233; tipo de secretos ocultan. L&#225;stima, que soy demasiado viejo para esta mierda. Desear&#237;a que Strelok a&#250;n estuviera all&#237;, pero maldita sea, desapareci&#243; hace a&#241;os.</text>
+	</string>
+
+	<string id="item_decoder_desc">
+		<text>Una poderosa cerradura electr&#243;nica. Por extra&#241;o que parezca, no parece ser un instrumento de ladrones, todo uso. Por el contrario, parece haber sido creado con un bloqueo electr&#243;nico espec&#237;fico en mente y no puede utilizarse para anular nada m&#225;s.</text>
+	</string>
+	<string id="item_decoder_name">
+		<text>Descifrador</text>
+	</string>
+
+	<string id="pri_decoder_docs_conclusion_txt">
+		<text>El manuscrito contiene un breve informe sobre c&#243;mo Fang y Strelok se infiltraron en un laboratorio oculto y su viaje hasta all&#237;. Hace menci&#243;n de la gran presencia de monolitos en y alrededor de la central nuclear de Chernobyl. M&#225;s espec&#237;ficamente debajo del sarc&#243;fago concreto, sugiriendo tambi&#233;n que puede ser su base de operaciones pero con la intenci&#243;n de ocultar algo. Leyendo m&#225;s, afirma que descubrieron que el laboratorio estaba oculto m&#225;s al norte debajo de los generadores, sin embargo, no pudieron obtener acceso en el momento de la redacci&#243;n, ya que requer&#237;an el uso de un decodificador.</text>
+	</string>
+
+	<string id="item_quest_case_02_desc">
+		<text>Un malet&#237;n a prueba de fuego que contiene documentos militares e informes sobre investigaciones realizadas cerca de Agroprom. Los informes hablan en detalle sobre c&#243;mo la maquinaria y el equipo se han perdido en el instituto, y c&#243;mo los resultados de las investigaciones sobre su paradero fueron aparentemente falsificados.</text>
+	</string>
+	<string id="item_quest_case_02_name">
+		<text>Documentos militares</text>
+	</string>
+
+	<string id="item_doc_x18_name">
+		<text>Informe de investigaci&#243;n biol&#243;gica</text>
+	</string>
+	<string id="item_doc_x18_desc">
+		<text>El informe detalla el estudio de muestras biol&#243;gicas enviadas desde el laboratorio X-18. Las muestras se sometieron a efectos de campo informativos de intensidades variables. El informe describe meticulosamente la mutaci&#243;n de los seres vivos despu&#233;s de la exposici&#243;n a las emisiones.</text>
+	</string>
+
+	<string id="item_doc_x16_desc">
+		<text>Los documentos se refieren a uno de los descubrimientos secundarios de la bioinvestigaci&#243;n, espec&#237;ficamente el descubrimiento de que los seres vivos son capaces de generar psicoemisiones dirigidas. Un emisor de campo biol&#243;gico, esencialmente un cerebro gigante, se cultiv&#243; como parte de la investigaci&#243;n realizada en el laboratorio X16.</text>
+	</string>
+	<string id="item_doc_x16_name">
+		<text>Documentos de investigaci&#243;n ps&#237;quica</text>
+	</string>
+
+	<string id="item_doc_x10_desc">
+		<text>Los documentos describen las caracter&#237;sticas t&#233;cnicas de una antena y c&#243;mo se desv&#237;an de sus dise&#241;os planificados. Hay una nota en el reverso que indica que estos documentos fueron preparados en el laboratorio X19.</text>
+	</string>
+	<string id="item_doc_x10_name">
+		<text>Documentos del emisor arcoiris</text>
+	</string>
+
+	<string id="item_doc_x8_desc">
+		<text>El documento se refiere a la transferencia del equipo de investigaci&#243;n y todos los materiales a otro laboratorio lejos en el norte, que se utilizar&#225; para investigar asuntos relacionados con la influencia de la noosfera. Para ingresar al laboratorio, use la fecha del accidente como el c&#243;digo (ddmmyyyy).\n \nEl equipo de investigaci&#243;n estaba compuesto por: N.A. Lebedev, E.F. Kalancha y V.I. Suslov.</text>
+	</string>
+	<string id="item_doc_x8_name">
+		<text>Orden de transferencia</text>
+	</string>
+
+	<string id="item_doc_jup_ug_desc">
+		<text>El cuaderno contiene una descripci&#243;n detallada de un experimento que eval&#250;a el efecto de un campo psi en un objeto en otro hemisferio. Un grupo de cient&#237;ficos en el Caribe recibi&#243; la se&#241;al, pero estaba distorsionada. La se&#241;al fue alterada de una manera extra&#241;a, como si alguien la hubiera corregido. Una posible explicaci&#243;n es que la teor&#237;a de la noosfera es correcta y los cambios fueron hechos por la noosfera.</text>
+	</string>
+	<string id="item_doc_jup_ug_name">
+		<text>Cuaderno de experimentos</text>
+	</string>
+
+	<string id="item_doc_mon_con_name">
+		<text>Informe de prototipo de arma</text>
+	</string>
+	<string id="item_doc_mon_con_name_desc">
+		<text>Documentos que describen el mecanismo operativo y las principales caracteristicas tecnicas de un dispositivo electromagnetico m&#225;s avanzado.\nHay una nota dentro de los documentos que dice: 'Los documentos deben devolverse a X-8, el laboratorio central. Estare ocupado, as&#237; que entregalo tu mismo. - N. Lebedev'</text>
+	</string>
+
+	<string id="quest_package_name">
+		<text>Paquete</text>
+	</string>
+	<string id="quest_package_desc">
+		<text>Se desconoce el contenido de este paquete.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] &#8226; %c[ui_gray_2] pertenencias personales\n %c[d_blue] &#8226; %c[ui_gray_2] valioso\n
+		</text>
+	</string>
+	
+	<string id="st_jup_b32_scanner_device_name">
+		<text>Esc&#225;ner de Actividad An&#243;mala</text>
+	</string>
+	<string id="st_jup_b32_scanner_device_desc">
+		<text>Este caso combina un detector de artefactos, una bater&#237;a y un potente transmisor. El dispositivo escanear&#225; anomal&#237;as para determinar la cantidad y el tipo de artefactos que aparecen. Toda esta informaci&#243;n se transmitir&#225; autom&#225;ticamente al b&#250;nker de los cient&#237;ficos.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] &#8226; %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	
+
+	<!-- MLR -->
+	<string id="mlr_strelok_item_01">
+		<text>Cuaderno desgastado</text>
+	</string>
+	<string id="mlr_strelok_item_01_desc">
+		<text>Un cuaderno, que probablemente pertenece al propio Strelok. Describe en detalle como entrar en un complejo subterraneo llamado X-18.</text>
+	</string>
+	
+	<string id="blackbox_mlr">
+		<text>Caja Negra</text>
+	</string>
+	<string id="blackbox_mlr_descr">
+		<text>Una grabadora de datos de vuelo, o una "caja negra". Las grabadoras de vuelo se utilizan para registrar el estado de los sistemas internos y las conversaciones de la tripulaci&#243;n, y pueden proporcionar informaci&#243;n vital en caso de accidente. En la Zona, tanto los stalkers como el personal militar est&#225;n interesados en estos dispositivos.</text>
+	</string>
+	
+	<string id="item_pda_map_mlr_name">
+		<text>PDA</text>
+	</string>
+	<string id="item_pda_map_mlr_descr">
+		<text>Un PDA que contiene informaci&#243;n posible sobre rutas entre diferentes areas.</text>
+	</string>
+	
+	
+	<!-- Strelok notes -->
+	<string id="strelok_notes_name">
+		<text>Cuaderno de Strelok</text>
+	</string>
+	<string id="strelok_notes_desc">
+		<text>Este cuaderno sol&#237;a pertenecer a Strelok. Una lectura r&#225;pida revela muchas notas bastante desarticuladas y cr&#237;pticas. Parece que el stalker tuvo una crisis sobre una decision importante que tomo hace un tiempo, y que queria verificar sus elecciones buscando respuestas en el norte de la Zona.</text>
+	</string>
+	
+	
+	<!-- DRX -->
+	<string id="drx_x8_documents_name">
+		<text>Documentos de instalacion de antenas</text>
+	</string>
+	<string id="drx_x8_documents_desc">
+		<text>El documento se refiere a lo que parece ser una instalacion de radar gigantesca. Es probable que la estructura y el sistema operativo del Cauterizador Cerebral.</text>
+	</string>
+	
+	<string id="drx_x16_documents_name">
+		<text>Investigacion biologica</text>
+	</string>
+	<string id="drx_x16_documents_desc">
+		<text>Un conjunto de documentos antiguos que se refieren a experimentos realizados en ratas y otros animales.</text>
+	</string>
+	
+	<string id="drx_x18_documents_name">
+		<text>Informe del experimento: B0-D4</text>
+	</string>
+	<string id="drx_x18_documents_desc">
+		<text>Documentos antiguos que se refieren a un experimento relacionado con la resonancia y emision de ondas psiquicas.</text>
+	</string>
+	
+	<string id="drx_x19_documents_name">
+		<text>Log de comunicacion / 21.03.2006</text>
+	</string>
+	<string id="drx_x19_documents_desc">
+		<text>Una transcripcion impresa de la transmision de radio entre grupos de cientificos del Instituto.</text>
+	</string>
+	
+	<string id="drx_agr_u_documents_name">
+		<text>Documentacion del instituto Agroprom</text>
+	</string>
+	<string id="drx_agr_u_documents_desc">
+		<text>Un monton de apuntes, fotos y un solo mapa marcado con respecto a Agroprom. Probablemente escrito por el propio Strelok mientras estaba cerca.</text>
+	</string>
+	
+	<string id="drx_jup_u_documents_name">
+		<text>Registros de transporte</text>
+	</string>
+	<string id="drx_jup_u_documents_desc">
+		<text>Estos documentos se refieren a registros antiguos de transporte de equipos y herramientas mecanicas a la fabrica en Jupiter. Tambien incluye esquemas geometricos para los tuneles hacia el lado este.</text>
+	</string>
+	
+	<string id="lx8_history_documents_name">
+		<text>Experimentacion (11.04.2005)</text>
+	</string>
+	<string id="lx8_history_documents_desc">
+		<text>Este registro documenta los resultados de un experimento ocurrido hace muchos a&#241;os con respecto a los nuevos tipos de emisores psiquicos.</text>
+	</string>
+	<string id="lx8_history_2_documents_name">
+		<text>Experimentacion (24.09.2005)</text>
+	</string>
+	<string id="lx8_history_2_documents_desc">
+		<text>Este registro documenta los resultados de un experimento ocurrido hace muchos a&#241;os con respecto a las aplicaciones de ondas ps&#237;quicas.</text>
+	</string>
+	<string id="lx8_history_3_documents_name">
+		<text>Experimentacion (02.05.2006)</text>
+	</string>
+	<string id="lx8_history_3_documents_desc">
+		<text>Este registro documenta los resultados de un experimento biologico..</text>
+	</string>
+</string_table> 

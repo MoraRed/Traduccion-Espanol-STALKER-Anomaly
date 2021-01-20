@@ -36,10 +36,10 @@
 		<text>Era una especie de agente de una facci&#243;n llamada Pecado. Afirmaba que los de su facci&#243;n son los verdaderos guardianes de la Zona, y que est&#225;n reclutando para su causa, preparandose para una redada masiva.</text>
 	</string>
 	<string id="voronin_mortal_sin_envoy_3">
-		<text>Lo has hecho bien, pero esto es un algo preocupante. Ha habido informes recientes de conflictos con una facci&#243;n de stalkers desconocidos. Muy hostil, se enfrentan indiscriminadamente a otros grupos de stalkers en una serie de ataques de guerrilla. El &#250;ltimo informe vino del Bosque Rojo. Quiero que vayas a ver a Forester, ya que &#233;l conoce ese lugar mejor que nadie. Despu&#233;s de eso, eval&#250;a la amenaza. Verifica si esos atacantes son de esa facci&#243;n "Pecado" de la que te han hablado. Mientras tanto, arreglar&#233; el "alojamiento" para nuestro invitado no deseado.</text>
+		<text>Lo has hecho bien, pero esto es un algo preocupante. Ha habido informes recientes de conflictos con una facci&#243;n de stalkers desconocidos. Muy hostil, se enfrentan indiscriminadamente a otros grupos de stalkers en una serie de ataques guerrilla. El &#250;ltimo informe vino del Bosque Rojo. Quiero que vayas a ver a Forester, &#233;l conoce ese lugar mejor que nadie. Despu&#233;s de eso, eval&#250;a la amenaza. Verifica si los atacantes son de esa facci&#243;n "Pecado" de la que te han hablado. Mientras tanto, arreglar&#233; el "alojamiento" para nuestro invitado no deseado.</text>
 	</string>
 	<string id="voronin_mortal_sin_envoy_31">
-		<text>Lo has hecho bien, pero esto es un algo preocupante. Ha habido informes recientes de conflictos con una facci&#243;n de stalkers desconocidos. Muy hostil, se enfrentan indiscriminadamente a otros grupos de stalkers en una serie de ataques de guerrilla. El &#250;ltimo informe vino del Bosque Rojo. Quiero que vayas a ver a Forester, ya que &#233;l conoce ese lugar mejor que nadie. Despu&#233;s de eso, eval&#250;a la amenaza. Verifica si esos atacantes son de esa facci&#243;n "Pecado" de la que te han hablado.</text>
+		<text>Lo has hecho bien, pero esto es un algo preocupante. Ha habido informes recientes de conflictos con una facci&#243;n de stalkers desconocidos. Muy hostil, se enfrentan indiscriminadamente a otros grupos de stalkers en una serie de ataques guerrilla. El &#250;ltimo informe vino del Bosque Rojo. Quiero que vayas a ver a Forester, &#233;l conoce ese lugar mejor que nadie. Despu&#233;s de eso, eval&#250;a la amenaza. Verifica si esos atacantes son de esa facci&#243;n "Pecado" de la que te han hablado.</text>
 	</string>
 	<string id="voronin_mortal_sin_envoy_4">
 		<text>&#161;Se&#241;or, s&#237; se&#241;or!</text>
@@ -74,7 +74,7 @@
 		<text>Elige el que quieras defender personalmente, conf&#237;o en tu experiencia en el asunto. Yo reunir&#233; una fuerza para defender la otra. Date prisa, tenemos poco tiempo para actuar.</text>
 	</string>
 	<string id="voronin_mortal_sin_ambush_4">
-		<text>Defender&#233; El Genio. Es una ubicaci&#243;n remota, as&#237; que mi ayuda es m&#225;s necesaria all&#237;.</text>
+		<text>Defender&#233; la M&#225;quina Milagrosa. Es una ubicaci&#243;n remota, as&#237; que mi ayuda es m&#225;s necesaria all&#237;.</text>
 	</string>
 	<string id="voronin_mortal_sin_ambush_41">
 		<text>Defender&#233; el Cauterizador. No podemos dejar que el enemigo recupere una fortaleza tan formidable.</text>
@@ -134,7 +134,7 @@
 		<text>Era una especie de agente de una facci&#243;n llamada Pecado. Afirmaba que ellos saben m&#225;s sobre la Zona que nadie, y aparentemente planean apoderarse del mundo. Adem&#225;s, estaba buscando reclutas para unirse a su causa.</text>
 	</string>
 	<string id="dushman_mortal_sin_envoy_3">
-		<text>Pecado, dices. Eso me suena. He tenido algunos informes sobre stalkers de una facci&#243;n misteriosa que se dedican a hacer ataques rapidos a otros stalkers. De acuerdo. Podr&#237;a valer la pena hacer entrar en raz&#243;n a nuestro invitado de honor. Mientras tanto, quiero que investigues una situaci&#243;n reciente del Bosque Rojo. Es uno de los lugares donde los stalkers misteriosos, tal vez de este "Pecado" del que acabas de enterarte, supuestamente est&#225;n acechando. Empieza por hablar con Forester, &#233;l sabr&#225; m&#225;s sobre esto.</text>
+		<text>Pecado, dices. Eso me suena. He tenido algunos informes sobre stalkers de una facci&#243;n misteriosa que se dedican a hacer ataques rapidos a otros stalkers. De acuerdo. Podr&#237;a valer la pena hacer entrar en raz&#243;n a nuestro invitado de honor. Mientras tanto, quiero que investigues una situaci&#243;n reciente del Bosque Rojo. Es uno de los lugares donde los stalkers misteriosos, tal vez estos "Pecado" del que acabas de enterarte, supuestamente est&#225;n cazando. Empieza por hablar con Forester, &#233;l sabr&#225; m&#225;s sobre esto.</text>
 	</string>
 	<string id="dushman_mortal_sin_envoy_31">
 		<text>Pecado, dices. Eso me suena. He tenido algunos informes sobre stalkers de una facci&#243;n misteriosa que se dedican a hacer ataques guerilleros a otros stalkers. De acuerdo. Digamos que me ocupar&#233; de los restos mortales de nuestro honorable invitado. Mientras tanto, quiero que investigues una situaci&#243;n reciente del Bosque Rojo. Es uno de los lugares donde los stalkers misteriosos, tal vez de este "Pecado" del que acabas de enterarte, supuestamente est&#225;n acechando. Empieza por hablar con Forester, &#233;l sabr&#225; m&#225;s sobre esto.</text>
@@ -163,7 +163,7 @@
 		<text>Les he pateado el culo.</text>
 	</string>
 	<string id="dushman_mortal_sin_ambush_1">
-		<text>No est&#225; mal. Ciertamente te has ganado tu reputaci&#243;n. A&#250;n as&#237;, no podemos dejar que esos cabrones hagan lo que quieran. Los exploradores mercenarios han revelado que este asalto es una distracci&#243;n. Las principales fuerzas de Pecado se nos han escapado y se dirigen al Cauterizador y El Genio mientras hablo. Probablemente quieren que esas defensas ps&#237;quicas vuelvan a estar en l&#237;nea. Por supuesto, no dejaremos que eso suceda.</text>
+		<text>No est&#225; mal. Ciertamente te has ganado tu reputaci&#243;n. A&#250;n as&#237;, no podemos dejar que esos cabrones hagan lo que quieran. Los exploradores mercenarios han revelado que este asalto es una distracci&#243;n. Las principales fuerzas de Pecado se nos han escapado y se dirigen al Cauterizador y la M&#225;quina Milagrosa mientras hablo. Probablemente quieren que esas defensas ps&#237;quicas vuelvan a estar en l&#237;nea. Por supuesto, no dejaremos que eso suceda.</text>
 	</string>
 	<string id="dushman_mortal_sin_ambush_2">
 		<text>Puedo matar a todos los fan&#225;ticos de Pecado que quieras, pero s&#243;lo hay uno de m&#237;.</text>
@@ -172,7 +172,7 @@
 		<text>Uno de ti es suficiente. Reunir&#233; un grupo de combate para defender una de las instalaciones. Puedes elegir la que quieras para protegerte. Ser&#225; mejor que te apresures, estamos trabajando en un horario muy apretado.</text>
 	</string>
 	<string id="dushman_mortal_sin_ambush_4">
-		<text>La Genio. Est&#225; muy cerca, as&#237; que podr&#237;a mantener nuestro vecindario seguro.</text>
+		<text>La M&#225;quina Milagrosa. Est&#225; muy cerca, as&#237; que podr&#237;a mantener nuestro vecindario seguro.</text>
 	</string>
 	<string id="dushman_mortal_sin_ambush_41">
 		<text>El Cauterizador. No podemos dejar que el enemigo recupere una fortaleza tan formidable.</text>
@@ -270,7 +270,7 @@
 		<text>No hay problema. Usar&#233; mis contactos para reunir un equipo para defender una de las instalaciones. Te conf&#237;o la defensa de la otra. En cualquier caso, escoge una y vete r&#225;pido, no nos queda mucho tiempo.</text>
 	</string>
 	<string id="sidorovich_mortal_sin_ambush_4">
-		<text>Defender&#233; El Genio. Es una ubicaci&#243;n remota, as&#237; que mi ayuda es m&#225;s necesaria all&#237;.</text>
+		<text>Defender&#233; la M&#225;quina Milagrosa. Es una ubicaci&#243;n remota, as&#237; que mi ayuda es m&#225;s necesaria all&#237;.</text>
 	</string>
 	<string id="sidorovich_mortal_sin_ambush_41">
 		<text>El Cauterizador. No podemos dejar que el enemigo recupere una fortaleza tan formidable.</text>
@@ -368,7 +368,7 @@
 		<text>Ya los has desactivado ambos, as&#237; que te dejo la elecci&#243;n a ti. T&#250; y quienquiera que traigas contigo defender&#225; al que t&#250; elijas. Organizar&#233; un grupo de trabajo para defender el otro. Confiar&#233; en tu juicio, pero no tenemos mucho tiempo para decidir. Ve tan pronto como est&#233;s listo.</text>
 	</string>
 	<string id="cold_mortal_sin_ambush_4">
-		<text>Defender&#233; El Genio. Es una ubicaci&#243;n remota, as&#237; que mi ayuda es m&#225;s necesaria all&#237;.</text>
+		<text>Defender&#233; M&#225;quina Milagrosa. Es una ubicaci&#243;n remota, as&#237; que mi ayuda es m&#225;s necesaria all&#237;.</text>
 	</string>
 	<string id="cold_mortal_sin_ambush_41">
 		<text>Defender&#233; el Cauterizador. No podemos dejar que el enemigo recupere una fortaleza tan formidable.</text>
@@ -469,7 +469,7 @@
 		<text>Ah, eso no ser&#225; necesario. Puedo enviar un equipo para proteger una de las instalaciones, as&#237; que no te llevar&#225;s toda la gloria esta vez. A&#250;n as&#237;, elige al que quieras defender personalmente. Y mejor que te des prisa, es de mala educaci&#243;n llegar tarde a una fiesta.</text>
 	</string>
 	<string id="lukash_mortal_sin_ambush_4">
-		<text>Defender&#233; El Genio. Es una ubicaci&#243;n remota, as&#237; que mi ayuda es m&#225;s necesaria all&#237;.</text>
+		<text>Defender&#233; la M&#225;quina Milagrosa. Es una ubicaci&#243;n remota, as&#237; que mi ayuda es m&#225;s necesaria all&#237;.</text>
 	</string>
 	<string id="lukash_mortal_sin_ambush_41">
 		<text>El Cauterizador. Est&#225; cerca y es bastante importante.</text>
@@ -564,10 +564,10 @@
 		<text>Estoy de acuerdo, profesor. Pero simplemente no tenemos el personal para hacer esto. &#191;C&#243;mo vamos a defender adecuadamente ambos lugares a la vez?</text>
 	</string>
 	<string id="sakharov_mortal_sin_ambush_3">
-		<text>Hablar&#233; con el Coronel Kuznetsov. Aunque seguramente fortificar&#225; las fronteras de la Zona para asegurar que Pecado no salga, estoy seguro de que puede organizar una fuerza suficiente para proteger al menos una de las instalaciones. Pero usted tendr&#225; que organizar la defensa de la otra, y r&#225;pido, porque nuestro enemigo no parece estar dispuesto a esperar mucho m&#225;s. Por favor, &#161;date prisa!</text>
+		<text>Hablar&#233; con el Mayor Kuznetsov. Estoy seguro de que puede organizar una fuerza adecuada para proteger al menos una de las instalaciones. Pero usted tendr&#225; que organizar la defensa de la otra, y r&#225;pido, porque nuestro enemigo no parece estar dispuesto a esperar mucho m&#225;s. Por favor, &#161;date prisa!</text>
 	</string>
 	<string id="sakharov_mortal_sin_ambush_4">
-		<text>Defender&#233; Genio. Est&#225; a lado nuestro, as&#237; que es la amenaza m&#225;s inmediata.</text>
+		<text>Defender&#233; M&#225;quina Milagrosa. Est&#225; a lado nuestro, as&#237; que es la amenaza m&#225;s inmediata.</text>
 	</string>
 	<string id="sakharov_mortal_sin_ambush_41">
 		<text>Defender&#233; el Cauterizador. No podemos dejar que el enemigo recupere una fortaleza tan formidable.</text>
@@ -621,7 +621,7 @@
 		<text>Tengan cuidado de no juzgar demasiado r&#225;pido. Los rumores y las impresiones pueden ser enga&#241;osos. Todo lo que quiero es compartir mi conocimiento con usted y sus amigos. Pregunte y le responder&#233;. Puede que lo encuentres muy beneficioso.</text>
 	</string>
 	<string id="greh_envoy_dialog_4">
-		<text>&#191;Qui&#233;n eres?</text>
+		<text>&#191;Quien eres?</text>
 	</string>
 	<string id="greh_envoy_dialog_5">
 		<text>No soy m&#225;s que un humilde enviado de nuestro Padre. Hace mucho tiempo yo sol&#237;a ser como cualquier otro stalker. Pero entonces me mostraron la verdad sobre la Zona. Fue entonces cuando cambi&#233;, me convert&#237; en una persona completamente diferente. Mi identidad ya no importa. Todo lo que importa es mi mensaje.</text>
@@ -634,9 +634,6 @@
 	</string>
 	<string id="greh_envoy_dialog_511">
 		<text>&#191;Pecado? Creo que nunca he o&#237;do hablar ustedes antes.</text>
-	</string>
-	<string id="greh_envoy_dialog_5111">
-		<text>Escuch&#233; algunas historias acerca de "stalkers oscuros", pero nada en concreto.</text>
 	</string>
 	<string id="greh_envoy_dialog_512">
 		<text>Durante todo el tiempo que la Zona ha existido, hemos mantenido un perfil bajo. En lugar de participar en guerras territoriales o recorrer la Zona en busca de riquezas, preferimos recoger silenciosamente el conocimiento. Hacernos m&#225;s fuertes. Donde dos luchan, el tercero gana. Pero ahora, estamos casi listos para salir de las sombras... y entrar en la luz de Vyraj. Espero que te acerques a ella con nosotros.</text>
@@ -1228,7 +1225,7 @@
 		<text>&#191;…?</text>
 	</string>
 	<string id="kat_greh_sabaoth_mortal_sin_4">
-		<text>Considera la Zona: una s&#237;ntesis de la noosfera y la biosfera. Considere cu&#225;n destructiva, cu&#225;n... hambrienta... es la noosfera. Eso es simplemente un reflejo de la naturaleza humana. Pero la Zona... la Zona podr&#237;a ser el remedio a nuestro descarrilamiento. Si se extendiera por todo el mundo, todo el mundo podr&#237;a verse a s&#237; mismo como lo que realmente es. No m&#225;s enga&#241;os... ni ilusiones. Entonces, la curaci&#243;n podr&#237;a comenzar. Necesito que dejes de matar a mis hijos. Necesito que les dejes traer la paz a este mundo inquieto.</text>
+		<text>S&#237;... Considera la Zona: una s&#237;ntesis de la noosfera y la biosfera. Considere cu&#225;n destructiva, cu&#225;n... hambrienta... es la noosfera. Eso es simplemente un reflejo de la naturaleza humana. Pero la Zona... la Zona podr&#237;a ser el remedio a nuestro descarrilamiento. Si se extendiera por todo el mundo, todo el mundo podr&#237;a verse a s&#237; mismo como lo que realmente es. No m&#225;s enga&#241;os... ni ilusiones. Entonces, la curaci&#243;n podr&#237;a comenzar. Necesito que dejes de matar a mis hijos. Necesito que les dejes traer la paz a este mundo inquieto.</text>
 	</string>
 	<string id="kat_greh_sabaoth_mortal_sin_5">
 		<text>Lamento haber frustado tus planes, supongo, pero tus hombres felices empezaron a matarnos primero.</text>
@@ -1255,7 +1252,7 @@
 		<text>...te detendras aqu&#237; mismo.</text>
 	</string>
 	<string id="kat_greh_sabaoth_mortal_sin_11">
-		<text>Hug... &#191;Que?... &#191;&#161;Que es esto!?</text>
+		<text>Ugh... &#191;qu&#233;... es esto...?</text>
 	</string>
 	<string id="kat_greh_sabaoth_mortal_sin_12">
 		<text>Ese pat&#233;tico casco que llevas no te proteger&#225;. O vendr&#225;n a oir la verdad en mis palabras, o morir&#225;n aqu&#237;... todos ustedes.</text>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+  <string id="st_underground">
+      <text>Estas en el subsuelo, no puedes sentir el clima actual</text>
+  </string>
+
+   <string id="st_weather_is">
+      <text>El tiempo est&#225;</text>
+  </string>
+
+  <string id="st_wind_power_no_wind">
+      <text>No sientes brisa. El aire est&#225; quieto.</text>
+  </string>
+
+  <string id="st_wind_power_slight_breeze">
+      <text>Sientes una ligera brisa.</text>
+  </string>
+
+  <string id="st_wind_power_weak">
+      <text>Sientes un poco de viento.</text>
+  </string>
+
+  <string id="st_wind_power_moderate">
+      <text>Sientes un viento moderado</text>
+  </string>
+
+  <string id="st_wind_power_strong">
+      <text>Sientes un fuerte viento.</text>
+  </string>
+
+  <string id="st_wind_power_very_strong">
+      <text>El viento sopla verdaderamente fuerte.</text>
+  </string>
+
+  <string id="st_wind_power_storm">
+      <text>El viento es tormentoso, y silba con fuerza.</text>
+  </string>
+
+  <string id="st_wind_power_storm">
+      <text>El viento es tormentoso, y silba con fuerza.</text>
+  </string>
+
+  <string id="st_direction">
+      <text>Est&#225; soplando desde el</text>
+  </string>
+
+  <string id="st_direction_north">
+      <text>norte.</text>
+  </string>
+
+  <string id="st_direction_north_east">
+      <text>noreste.</text>
+  </string>
+
+  <string id="st_direction_east">
+      <text>este.</text>
+  </string>
+
+  <string id="st_direction_south_east">
+      <text>sur este.</text>
+  </string>
+
+  <string id="st_direction_south">
+      <text>sur.</text>
+  </string>
+
+  <string id="st_direction_south_west">
+      <text>suroeste.</text>
+  </string>
+
+  <string id="st_direction_west">
+      <text>oeste.</text>
+  </string>
+
+  <string id="st_direction_north_west">
+      <text>noreste.</text>
+  </string>
+
+  <string id="st_clear">
+      <text>despejado</text>
+  </string>
+
+  <string id="st_partly_clear">
+      <text>parcialmente despejado</text>
+  </string>
+
+  <string id="st_foggy">
+      <text>brumoso</text>
+  </string>
+
+  <string id="st_cloudy">
+      <text>nublado</text>
+  </string>
+
+  <string id="st_rain">
+      <text>lluvioso</text>
+  </string>
+
+  <string id="st_storm">
+      <text>tormentoso</text>
+  </string>
+</string_table>

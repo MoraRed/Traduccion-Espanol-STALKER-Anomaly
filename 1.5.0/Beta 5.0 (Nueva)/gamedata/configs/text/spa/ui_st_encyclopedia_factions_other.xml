@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	
+	<string id="encyclopedia_factions_other">
+		<text>Facciones (Otras)</text>
+	</string>
+	
+	<string id="encyclopedia_factions_other_zombified">
+		<text>Zombificado</text>
+	</string>
+	<string id="encyclopedia_factions_other_zombified_text">
+		<text>
+			Los %c[pda_white]Zombificados%c[ui_gray_1] son stalkers que han ca&#237;do bajo los efectos de un fuerte campo ps&#237;quico.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nEstas criaturas carecen de las funciones m&#225;s avanzadas del cerebro y act&#250;an &#250;nicamente por reflejos y habilidades de tipo residual, siendo incapaces de realizar actividades conscientes y teniendo un alto l&#237;mite de dolor. La salud mental y f&#237;sica de un stalker zombificado se ir&#225; deteriorando gradualmente con el tiempo, llegando a perder lo &#250;ltimo de su humanidad, y convirti&#233;ndose en el mutante conocido como zombi. Sin embargo, a diferencia de los zombis cl&#225;sicos, los stalkers zombificados son capaces de usar armas y herramientas, y se les ve frecuentemente trabajando juntos en grupos, o arreados por soldados del Monolito.\n \n%c[pda_green]Estadisticas%c[ui_gray_1]\n \n• Lideres: Desconocido\n• Cuartel general: Desconocido\n• Colores: Varios\n
+		</text>
+	</string>
+	
+</string_table>

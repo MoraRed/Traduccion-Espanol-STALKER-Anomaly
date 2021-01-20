@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+
+<!-- Lukash (Freedom Leader) -->
+	<string id="about_freedom_lider_miklyha_0">
+		<text>&#191;Tu eres el stalker que se abri&#243; paso al Cauterizador y vivi&#243; all&#237; durante medio a&#241;o?</text>
+	</string>
+	<string id="about_freedom_lider_miklyha_1">
+		<text>Bueno, uno de ellos. Y no fue en medio a&#241;o, fue un poco m&#225;s de un mes. Pero s&#237;, me llamo Lukash. Encantado de conocerte.</text>
+	</string>
+	<string id="about_freedom_lider_miklyha_2">
+		<text>&#191;Como fue?</text>
+	</string>
+	<string id="about_freedom_lider_miklyha_3">
+		<text>Mira amigo. S&#233; que ese lugar es interesante y todo eso, pero prefiero no empezar a recordar. Lo que m&#225;s importa es que sal&#237; sano y salvo.</text>
+	</string>
+	<string id="about_freedom_lider_miklyha_4">
+		<text>Entiendo. Gracias de todas maneras.</text>
+	</string>
+	
+	<string id="monolith_eidolon_start_0">
+		<text>Alabado sea el Monolito, hermano.</text>
+	</string>
+	
+	<string id="find_blackbox_mlr_reward_freedom_0">
+		<text>Encontr&#233; una caja negra.</text>
+	</string>
+	<string id="find_blackbox_mlr_reward_freedom_1">
+		<text>Oh, &#191;en serio? Tr&#225;ela aqu&#237;. Veamos qu&#233; est&#225;n planeando estos payasos.</text>
+	</string>
+
+
+	<string id="look_for_cs_history_part_3_1_0">
+		<text>Estoy buscando a Leshiy, &#191;est&#225; contigo?</text>
+	</string>
+	<string id="look_for_cs_history_part_3_1_1">
+		<text>Seguro que s&#237;. Baja al primer piso, est&#225; al final.</text>
+	</string>
+	<string id="look_for_cs_history_part_3_1_2">
+		<text>Gracias.</text>
+	</string>
+	
+	<string id="devushka_5_help_0">
+		<text>Hey Lukash, una amiga m&#237;a quer&#237;a venir a verte. Creo que la conoces.</text>
+	</string>
+	<string id="devushka_5_help_1">
+		<text>Ah, s&#237;. &#161;Entra! S&#237;rvete un poco de hierba, puede que la necesites para el viaje que tienes por delante. Eligieron bien al venir aqu&#237;, ustedes dos. El trabajo de Loki se volvi&#243; mucho m&#225;s dif&#237;cil despu&#233;s de que el Monolito tomara un segundo aire. La medicina que le llevar&#225;s ayudar&#225; a salvar a mucha gente decente.</text>
+	</string>
+	
+	<string id="devushka_help1_0">
+		<text>Aparentemente Hip nunca ha pasado antes la barrera. &#191;Cierto?</text>
+	</string>
+	<string id="devushka_help1_1">
+		<text>S&#237;. No puedo culparla. Despu&#233;s de ver a algunos de tus amigos zombificarse ante tus ojos, tiene sentido que quieras alejarte del lugar donde pas&#243;. Entre eso, y tener que luchar contra Deber... eh. Pero ahora parece decidida a hacer el viaje. Los dos ir&#225;n a la estaci&#243;n de Yanov en J&#250;piter. Dejen estas medicinas con Loki una vez que lleguen.</text>
+	</string>
+	<string id="devushka_help1_2">
+		<text>Est&#225; bien. Cuanto antes nos vayamos, mejor.</text>
+	</string>
+	<string id="devushka_help1_3">
+		<text>Espera Lukash. Necesito un minuto para reunir todo.</text>
+	</string>
+
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_ask">
+		<text>&#161;Eh, Lukash! &#191;Te gustar&#237;a hablar un poco sobre la vida en Libertad?</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_1">
+		<text>&#161;Claro que si! A los muchachos les gusta festejar el cumplea&#241;os de Bob Marley cuando lo recuerdan. As&#237; que nos aseguramos de que todos estamos abastecidos de alg&#250;n producto de calidad antes de que vuelva a llegar ese, principalmente jam&#243;n, pero tambi&#233;n recibimos peticiones de algunas hierbas fabulosas. Es gracios&#237;simo que muchos de los chicos nuevos comparen el drogarse con todo lo que hace Libertdad, pero &#191;qu&#233; puedes hacer? No estoy aqu&#237; para decirles a estos chicos c&#243;mo pueden o no vivir. Imagina esto; vienes a un lugar como la Zona, y alguien sigue intentando ser tu padre dici&#233;ndote lo que puedes o no puedes hacer. Para ese tipo de stalker que necesitan un pap&#225;, pueden unirse a Deber. Cuando se encuentren desangr&#225;ndose en una zanja, pidiendo ayuda desesperadamente, se dar&#225;n cuenta de lo in&#250;til que es su padre.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_2">
+		<text>Hace un tiempo, los militares desarrollaron un chaleco antibalas con fragmentos de artefactos encapsulados que proporcionaban capacidades de autocuraci&#243;n. Naturalmente, ten&#237;amos que conseguir uno; una vez que lo hicimos, intentamos adaptarlo a nuestros trajes.\n \nAdmito que realmente ese chaleco no fue a ninguna parte, pero a&#250;n as&#237;, pusimos los datos a disposici&#243;n del p&#250;blico en caso de que alguien m&#225;s quisiera intentarlo.\n \nEsto es algo m&#225;s de lo que se trata Libertad - el libre flujo de informaci&#243;n. Un hombre sabio me dijo una vez: "Ten cuidado con quien te niega el acceso a la informaci&#243;n, porque en su coraz&#243;n sue&#241;a ser tu due&#241;o". Nunca olvidar&#233; esas palabras y nunca olvidar&#233; Libertad.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_3">
+		<text>S&#237;, tengo un minuto.\n \nA nadie le gusta caminar por el llamado Pueblo Chupasangre que esta aqui cerca. Claro, puede parecer vac&#237;o, pero nadie quiere ser el tipo que realmente se asegurara de eso, &#191;sabes? A&#250;n as&#237;, esa es una mejor idea que la que ten&#237;an mis hombres. No puedo entender cu&#225;ntos de ellos trataron de follarse a esos mutantes en aquel momento. &#191;Como que por qu&#233;? S&#233; que una vez dije que cualquiera que sacara una foto de su pene dentro de un chupasangre vivo se convertir&#237;a en una leyenda, &#161;pero era s&#243;lo una broma! &#161;Una maldita broma! A&#250;n as&#237;, terminaron muriendo... o puede que algunos de los m&#225;s crueles hicieron una novatada a los stalkers m&#225;s j&#243;venes para que lo intentaran, o alg&#250;n imb&#233;cil se cay&#243; muy fuerte e hizo un intento enserio... Si supieras cu&#225;ntas veces he tenido que escuchar historias sobre c&#243;mo otro de Libertad muri&#243; por esto... si supieras. Mierda, hombre. Es irreal.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_4">
+		<text>Bien. Puede que estoy hoy dia sea un cuento con una linda moraleja.\nAunque Libertad es famoso por ser despreocupado a primeras, no nos atenemos a los soplones. Aqu&#237; y all&#225;, Libertad tiene una triste historia de tener que lidiar con este tipo de mierda.\n \nEstas historias empiezan de forma diferente, pero todas terminan de la misma manera - con el bastardo desangr&#225;ndose, agarrandose las heridas, y lamentando profundamente sus pobres decisiones en la vida. Nadie traiciona la confianza de Libertad de esa manera y se queda respirando por mucho tiempo.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_5">
+		<text>S&#237;, en realidad estoy de humor para filosofar un poco si es que quieres.\n&#161;Me sorprende la infinita inclinaci&#243;n de la gente a creer lo que quieren en vez de lo que la evidencia muestra! La presencia de la Zona es un milagro cient&#237;fico indiscutible que tiene un potencial incre&#237;ble para ayudar al crecimiento futuro de toda la humanidad. \n \n&#191;Y si la Zona puede ser un lugar violento e infernal de muerte y miseria? Incluso los ecologistas afirman que a&#250;n es capaz de mejorar positivamente la humanidad en formas que est&#225;n m&#225;s all&#225; de lo imaginable. Buscar destruir la Zona s&#243;lo porque podr&#237;a da&#241;arnos es tan tonto como quitarle las manos a un cirujano s&#243;lo porque puede usarlas como pu&#241;os. \n \nLibertad no enfrenta a la Zona como un enemigo, sino que acepta sus misterios como regalos a ser apreciados y desaf&#237;os a ser superados. &#191;Qui&#233;n cre&#243; la Zona? La Zona es s&#243;lo un reflejo de lo que somos como especie. Si asumes que la Zona destruir&#225; inevitablemente a la humanidad, entonces debes creer tambien que la humanidad se destruir&#225; a s&#237; misma. Esto no es lo que piensa Libertad, ni lo que pienso yo. \n \nDeber representa a ese primitivo cavern&#237;cola que prefiere apagar el fuego antes que intentar aprovecharlo para su tribu... Y es por esta raz&#243;n que nunca podr&#225; haber una paz duradera entre nosotros. Hasta que Deber no entienda nuestro razonar y adquiera un razonar b&#225;sico - o hasta que todos los de Libertad mueran - no puede haber paz.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_6">
+		<text>S&#237;, intentar&#233; explicarte la relaci&#243;n que tenemos con los mercenarios de Dushman... no intentan espiarnos o sobornar a nuestros miembros, y no los dejamos en tumbas poco profundas. Es un sistema que ha funcionado bastante bien hasta ahora. \n \nA pesar de ser asesinos, avaros y asesinos de mierda cuya confianza siempre se compra y nunca se gana, sus contratos la mayor&#237;a de las veces extienden los regalos de la Zona al mundo exterior. Incluso aun por razones ego&#237;stas, los mercenarios a menudo ayudan en nuestra misi&#243;n como Liberadores. El hecho de que los militares y sus perros falderos intenten evitar que lo hagan es la guinda del pastel. As&#237; que s&#237;, podemos trabajar con ellos.\n \nHay algunos contratiempos... pero esos contratiempos siempre se resuelven a nuestro favor. Los mercenarios est&#225;n fundamentalmente fuera de su elemento aqu&#237; - este es nuestro hogar, y no el suyo - as&#237; que siempre tendremos la ventaja, y ellos lo saben.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_7">
+		<text>&#161;Claro! &#191;Hace poco has peleado con esos lamebotas militares? Qu&#233; mont&#243;n de payasos. Ya ves lo hilarantemente incompetentes y corruptos que son. O ser&#237;a gracioso si no fueran una de las mayores amenazas contra el uso positivo de la Zona en beneficio de la humanidad. \n \nSi toman el control, &#191;qu&#233; har&#225;n? &#161;Enviar la incalculable riqueza cient&#237;fica al estado, por supuesto! &#161;Los milagros y misterios de la Zona se convertir&#225;n en otra pieza del juego de la pol&#237;tica internacional! &#161;Las tropas del gobierno nunca deben triunfar aqu&#237;, y deben oponerse siempre! \n \nLa Zona existe para que cada hombre, mujer y ni&#241;o pueda disfrutar de sus maravillosos dones. &#161;Estoy condenado si todo esto se desvia a las manos viscosas de unos pocos oligarcas corruptos! Puedo imaginarme a los gordos burocr&#225;ticos en salas de conferencias llenas de humo y espejos, engrasando ansiosamente las ruedas de todos los otros...</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_8">
+		<text>Aceptamos con gusto a cualquiera que reconozca que la Zona es el lugar donde las leyes no se aplican, donde se puede vivir bien y libremente bajo su propia moral. Esto es, despu&#233;s de todo, de lo que se trata Libertad. </text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_9">
+		<text>Somos sin lugar a dudas el grupo m&#225;s alegre de la Zona. Y la Zona es un milagro, realmente. Anomal&#237;as, artefactos, incluso mutantes, todo eso. \n \nDe todas formas, la gente deber&#237;a poder venir aqu&#237; y disfrutar de sus maravillas. Acceso abierto para todos, 24/7. "Compartir es cuidar", &#191;verdad? Ya que estamos, &#191;por qu&#233; no nos divertimos un poco? Sin c&#243;digo, sin disciplina, pero con compa&#241;eros leales con los que puedes contar cuando las cosas van mal. \n \n&#191;Quieres beber cerveza con los amigos? Adelante. &#191;Patear a los del Monolito? Claro que s&#237;. &#191;Patear algunos traseros de Deber? &#161;Date gusto! Hay muchas formas de tener una gran experiencia.</text>
+	</string>
+	<string id="st_mil_smart_terrain_7_7_freedom_leader_stalker_life_end">
+		<text>&#191;Quiz&#225; en otro momento? Hay algunos chicos que quieren verme.</text>
+	</string>
+	
+<!-- (Freedom guide) -->
+	<string id="mil_freedom_guid_meet_0">
+		<text>Hey, hombre. &#191;Qu&#233; pasa?</text>
+	</string>
+	<string id="mil_freedom_guid_meet_1">
+		<text>No mucho. Soy Leshiy, mucho gusto. Soy el gu&#237;a y explorador local.</text>
+	</string>
+	<string id="mil_freedom_guid_meet_2">
+		<text>&#191;Y c&#243;mo est&#225;n los chismes locales? Supongo que ha visitado muchos lugares.</text>
+	</string>
+	<string id="mil_freedom_guid_meet_3">
+		<text>Si, es cierto. Incluso he estado en una anomal&#237;a. Eso fue cuando todav&#237;a era mercenario... entr&#233; en una burbuja espacial con mi escuadr&#243;n. Es una larga historia. De todas formas, ofrezco gu&#237;a al Cord&#243;n, Yantar y la estaci&#243;n de Yanov en J&#250;piter. cuatro mil quinientos, cinco mil y seis mil rublos respectivamente.</text>
+	</string>
+	<string id="mil_freedom_guid_meet_4">
+		<text>Lo tendr&#233; en mente.</text>
+	</string>
+
+	<string id="mil_freedom_guid_go_0">
+		<text>Llevame a un sitio.</text>
+	</string>
+	<string id="mil_freedom_guid_go_1">
+		<text>Claro hombre. &#191;A d&#243;nde?</text>
+	</string>
+		<string id="mil_freedom_guid_go_2">
+			<text>A Yanov. %c[d_orange][6000 RU]</text>
+		</string>
+		<string id="mil_freedom_guid_go_5">
+			<text>Necesito el dinero primero.</text>
+		</string>
+		<string id="mil_freedom_guid_go_8">
+			<text>Toma, todo tuyo.</text>
+		</string>
+		<string id="mil_freedom_guid_go_3">
+			<text>Al Cordon. %c[d_orange][4500 RU] </text>
+		</string>
+		<string id="mil_freedom_guid_go_6">
+			<text>&#191;Y el dinero?</text>
+		</string>
+		<string id="mil_freedom_guid_go_9">
+			<text>Toma, aqu&#237; est&#225;.</text>
+		</string>
+		<string id="mil_freedom_guid_go_4">
+			<text>A Yantar. %c[d_orange][5000 RU]</text>
+		</string>
+		<string id="mil_freedom_guid_go_7">
+			<text>&#191;Trajiste el dinero?</text>
+		</string>
+		<string id="mil_freedom_guid_go_10">
+			<text>Por supuesto. Aqu&#237; tienes.</text>
+		</string>
+	<string id="mil_freedom_guid_go_11">
+		<text>Lo olvid&#233;.</text>
+	</string>
+	<string id="mil_freedom_guid_go_12">
+		<text>Cambi&#233; de parecer.</text>
+	</string>
+
+</string_table>
