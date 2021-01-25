@@ -1,5 +1,5 @@
 _______________________________________________________
-  Traducción al español para S.T.A.L.K.E.R: Anomaly en su versión Beta RC22
+  Traducción al español para S.T.A.L.K.E.R: Anomaly en su versión Beta RC22/23
 -------------------------------------------------------
 Version de traducción: 1.0
 Estado: 98%
