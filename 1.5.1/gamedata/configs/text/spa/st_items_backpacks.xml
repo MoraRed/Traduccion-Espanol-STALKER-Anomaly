@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--
+	Backpacks
+-->
+
+<string_table>
+	<string id="st_itm_backpack_name">
+		<text>Mochila</text>
+	</string>
+	<string id="st_itm_backpack_desc">
+		<text>Una mochila hecha con los mejores materiales para resistir las condiciones climaticas m&#225;s duras.\n \n %c[ui_gray_1]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] articulo de uso diario\n %c[d_blue] • %c[ui_gray_2] almacenamiento de articulos\n %c[0,100,255,150] • %c[ui_gray_2] utilizable como alijo\n
+			</text>
+	</string>
+	
+	<string id="st_equ_smallpack_name">
+		<text>Mochila de camping</text>
+	</string>
+	<string id="st_equ_smallpack_desc">
+		<text>Una mochila con considerable espacio de almacenamiento. El interior ha sido modificado para mantener el agua fuera. No es una bonita solucion, pero funciona. Una eleccion popular entre Stalkers y novatos.\n \n %c[ui_gray_1]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] articulo de uso diario\n %c[d_blue] • %c[ui_gray_2] almacenamiento de articulos\n %c[0,100,255,150] • %c[ui_gray_2] utilizable como alijo\n
+		</text>
+	</string>
+	
+	<string id="st_equ_smilpack_name">
+		<text>Mochila de viaje</text>
+	</string>
+	<string id="st_equ_smilpack_desc">
+		<text>Una mochila grande para viajes largos. Gracias al sistema de distribucion de peso, permite al portador llevar suficientes provisiones para un viaje de hasta 5 dias.\n \n %c[ui_gray_1]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] articulo de uso diario\n %c[d_blue] • %c[ui_gray_2] almacenamiento de articulos\n %c[0,100,255,150] • %c[ui_gray_2] utilizable como alijo\n
+		</text>
+	</string>
+	
+	<string id="st_equ_milpack_name">
+		<text>Mochila de combate</text>
+	</string>
+	<string id="st_equ_milpack_desc">
+		<text>Mochila de combate usada por los militares, usada para llevar munici&#243;n extra y suministros medicos.\n \n %c[ui_gray_1]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] articulo de uso diario\n %c[d_blue] • %c[ui_gray_2] almacenamiento de articulos\n %c[0,100,255,150] • %c[ui_gray_2] utilizable como alijo\n
+		</text>
+	</string>
+	
+	<string id="st_equ_touristpack_name">
+		<text>Mochila de turista</text>
+	</string>
+	<string id="st_equ_touristpack_desc">
+		<text>Una mochila de turista con bastante espacio. No muy popular debido a su engorroso tamano.\n \n %c[ui_gray_1]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] articulo de uso diario\n %c[d_blue] • %c[ui_gray_2] almacenamiento de articulos\n %c[0,100,255,150] • %c[ui_gray_2] utilizable como alijo\n
+		</text>
+	</string>
+	
+	<string id="st_kit_hunt">
+		<text>Kit de cazador</text>
+	</string>
+	<string id="st_kit_hunt_descr">
+		<text>Una bolsa llena de ganchos, cuchillos y otros equipos utilizados para desollar y destripar animales y mutantes. Pocos stalkers llevan equipos profesionales para la caza de mutantes. Esa es probablemente la raz&#243;n por la que tantos Zoners sufren de indigesti&#243;n despu&#233;s de comer carne mutante. Gracias a la variedad de herramientas, el kit puede mejorar efectivamente el mantenimiento de armas y armaduras.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] Item cotidiano\n %c[d_blue] • %c[ui_gray_2] Item de almacenaje\n %c[0,100,255,150] • %c[ui_gray_2] utilizable como escondite\n %c[d_orange] • %c[ui_gray_2] mejora la extracci&#243;n de partes de mutantes\n
+		</text>
+	</string>
+	
+	<string id="st_itm_actor_backpack_name">
+		<text>Sistema de liberacion rapida</text>
+	</string>
+	<string id="st_itm_actor_backpack_descr">
+		<text>Ser atrapado por sorpresa en la zona puede ser una de las peores cosas que te pueden pasar. A pesar de que el sistema de liberacion rapida no ayuda a prevenir dicha situacion, ciertamente ayuda a escapar r&#225;pido del peligro. Su funcion es simple: casi inmediatamente remueve las correas de tu mochila y te deja escapar a un sitio seguro sin la pesada mochila obstaculizando tu movimiento. Para usarlo, sconfiguralo como una tecla de acceso r&#225;pido. Presiona la tecla de acceso r&#225;pido para activar el sistema de liberacion de emergencia que instantaneamente suelta tu mochila (y todo lo que esta dentro de el) al suelo. Tus arma(s) equipadas, munici&#243;n, aramdura y accesorios de aramdura tanto como la PDU permanecion en tu poder, entonces estas listo para combatir. Puedes recuperar la mochila despues.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] articulo militar\n %c[d_blue] • %c[ui_gray_2] GPS incorporado\n %c[d_blue] • %c[ui_gray_2] uso muy r&#225;pido (abrazadera de liberacion)\n %c[d_blue] • %c[ui_gray_2] el equipo de combate permanece con el usuario\n</text>
+	</string>
+	<string id="st_itm_actor_backpack_desc_mlr">
+		<text>Frecuentemente usado por Stalkers como un plan alterno en caso de circunstancias imprevistas. Sus caracteristicas son simples, consiste en una correa que puede ser tirada junto con la mochila en cualquier momento, para huir rapidamente. Bastante espacioso y compacto. Practicamente, te permite restablecer tu mochila junto con los contenidos de la misma.</text>
+	</string>
+	
+	<string id="st_itm_backpack_stash_name">
+		<text>Mochila marcada por la PDA</text>
+	</string>
+	<string id="st_itm_backpack_stash_desc">
+		<text>Una mochila bastante resistente con un GPS integrado. Se sincroniza automaticamente con tu PDA una vez soltada para generar un alijo que esta marcado en tu PDA. La mochila esta hecha de fuertes y resistentes materiales que mantendran tu equipamiento seguro y seco sin importar las condiciones del ambiente. Su diseno de camuflaje asegura que no se destaca de los alrededores assures.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] articulo militar\n %c[d_blue] • %c[ui_gray_2] GPS incorporado\n %c[d_red] • %c[ui_gray_2] uso unico\n</text>
+	</string>
+	
+</string_table>

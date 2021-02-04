@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	
+	<string id="encyclopedia_features_options">
+		<text>Caracter&#237;sticas (Opciones)</text>
+	</string>
+	
+	<string id="encyclopedia_features_options_aoe_pickup_mode">
+		<text>Modo de recogida AoE </text>
+	</string>
+	<string id="encyclopedia_features_options_aoe_pickup_mode_text">
+		<text>
+			El %c[d_cyan]AoE modo de recogida AoE%c[ui_gray_2] permite recoger varios art&#237;culos a la vez.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_2] \nCuando est&#225; activada, esta funci&#243;n te permite tomar varios art&#237;culos y ponerlos en tu inventario con una sola pulsaci&#243;n de tecla, tal como podr&#237;as hacer en S.T.A.L.K.E.R.: Call of Pripyat.\n \nEsta funci&#243;n puede ser activada desde el men&#250; de opciones del juego y est&#225; desactivada por defecto.
+		</text>
+	</string>
+	
+	
+	<string id="encyclopedia_features_options_ai_die_in_anomaly">
+		<text>IA muere en las anomalias</text>
+	</string>
+	<string id="encyclopedia_features_options_ai_die_in_anomaly_text">
+		<text>
+			%c[d_cyan]IA muere en las anomalias%c[ui_gray_2] hace que los stalkers sean vulnerables a las anomal&#237;as, al igual que los mutantes.\n \n%c[d_red]Advertencia%c[ui_gray_2]\n \nLos stalkers tratar&#225;n de evitar los campos de anomal&#237;as, pero normalmente la IA no detecta los l&#237;mites de los campos de anomal&#237;as, por lo que termina con los stalkers muriendo.\n \nEsta caracter&#237;stica se puede cambiar desde el men&#250; de opciones del juego y est&#225; desactivada por defecto. \nCambiar la opci&#243;n en el juego requerir&#225; un reinicio del juego.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_options_artefact_degradation">
+		<text>Degradacion de artefactos</text>
+	</string>
+	<string id="encyclopedia_features_options_artefact_degradation_text">
+		<text>
+			La opci&#243;n %c[d_cyan]Degradaci&#243;n de artefactos%c[ui_gray_2] hace que las habilidades y bonificaciones del artefacto se degraden al ser activadas.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_2] \nCon esta caracter&#237;stica habilitada tener los mejores artefactos no es m&#225;s que el final de la l&#237;nea para los cazadores de artefactos. \n \nLos artefactos se debilitar&#225;n cuanto m&#225;s se utilicen, promoviendo su caza y acumulaci&#243;n, en lugar de convertirse en una r&#225;pida fuente de ingresos. \n \nEsta caracter&#237;stica se puede cambiar desde el men&#250; de opciones del juego y est&#225; activada por defecto.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_options_day_radiation">
+		<text>Radiaci&#243;n diurna</text>
+	</string>
+	<string id="encyclopedia_features_options_day_radiation_text">
+		<text>
+			\n%c[d_green]Informaci&#243;n%c[ui_gray_2]\n \nDurante el d&#237;a, el aire se irradiar&#225;. Exponerse al exterior pondr&#225; a su cuerpo bajo el efecto constante de la radiaci&#243;n circundante, que a su vez se traducir&#225; en una mala salud. \n \nNecesitas evitar salir al exterior durante el d&#237;a, o mantener algunos anti-radios alrededor para deshacerte de la radiaci&#243;n absorbida por tu cuerpo.\n \n \nEsta caracter&#237;stica se puede cambiar desde el men&#250; de opciones del juego y est&#225; desactivada por defecto.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_options_debug_hud">
+		<text>Debug HUD/Mapa</text>
+	</string>
+	<string id="encyclopedia_features_options_debug_hud_text">
+		<text>
+			%c[d_cyan]Debug HUD%c[ui_gray_2] muestra la informaci&#243;n y la ubicaci&#243;n de los terrenos inteligentes en el mapa.\n \n%c[d_cyan]Debug map HUD%c[ui_gray_2] muestra la informaci&#243;n y la ubicaci&#243;n de los artefactos y los escondites, necesitas usar las teclas como SHIFT, ALT, CTRL en el mapa.\n \nEstas 2 caracter&#237;sticas se pueden cambiar desde el men&#250; de opciones del juego y est&#225; desactivada por defecto. \nAl iniciar el juego en el modo Debug se mostrar&#225; m&#225;s informaci&#243;n sobre el uso de estas opciones.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_options_delayed_repairs">
+		<text>Reparaci&#243;nes retrasadas</text>
+	</string>
+	<string id="encyclopedia_features_options_delayed_repairs_text">
+		<text>
+			La opci&#243;n %c[d_cyan]Reparaci&#243;nes retrasadas%c[ui_gray_2] permite a los tecnicos retener tus equipos.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_2] \nCon esta caracter&#237;stica activada, las armas rotas, los trajes y otros art&#237;culos que lleves a un t&#233;cnico se mantendr&#225;n en su posesi&#243;n hasta que hayan completado todas las reparaciones.\n \nDespu&#233;s de entregar tus art&#237;culos puedes hablar con el t&#233;cnico de nuevo para preguntarle si est&#225;n listos para ser recogidos, a lo cual los devolver&#225;n o te dir&#225;n cu&#225;nto tiempo falta.\n \nEsto a&#241;ade una mejora algo realista al sistema de reparaci&#243;n tradicional, adecuado si est&#225; buscando una experiencia m&#225;s dif&#237;cil, ya que no trabajar&#225; m&#225;s instant&#225;neamente y en su lugar har&#225; hincapi&#233; en el uso de armeros y kits de costura.\n \nEsta caracter&#237;stica se puede cambiar desde el men&#250; de opciones del juego y est&#225; desactivada por defecto.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_options_dynamic_news">
+		<text>Simulator de combate offline </text>
+	</string>
+	<string id="encyclopedia_features_options_dynamic_news_text">
+		<text>
+			El %c[d_cyan]Simulator de combate offline%c[ui_gray_2] permite a los stalkers/mutantes luchar contra sus enemigos en otras partes de la Zona.\n \n%c[d_green]Informaci&#243;n%c[ui_gray_2]\n \nCuando se habilita, simular&#225; batallas entre escuadrones en otros mapas hasta cierto punto. El resultado depende de los %c[ui_gray_3]factores de poblaci&#243;n%c[ui_gray_2] tanto para los stalkers como para los mutantes. \nEl jugador puede recibir noticias sobre situaciones de tiroteo de stalkers en lugares lejanos. \nCuando la opci&#243;n %c[ui_gray_3]Relaciones Dinamicas de Facciones%c[ui_gray_2] est&#225; habilitada, las batallas entre facciones jugar&#225;n un papel en los cambios de relaci&#243;n.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_options_extended_hud">
+		<text>HUD extendido</text>
+	</string>
+	<string id="encyclopedia_features_options_extended_hud_text">
+		<text>
+			%c[d_cyan]HUD extendido%c[ui_gray_2] permite la visualizaci&#243;n de informaci&#243;n adicional en pantalla.\n \n%c[d_green]Informaci&#243;n%c[ui_gray_2]\n \nCon esta caracter&#237;stica se hace visible en la pantalla una breve informaci&#243;n complementaria y una versi&#243;n miniaturizada del cintur&#243;n de artefactos.\n \nEsta funci&#243;n se puede cambiar desde el men&#250; de opciones de UI/HUD y est&#225; desactivada de forma predeterminada.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_options_full_alife">
+		<text>Simulacion completa a-Life</text>
+	</string>
+	<string id="encyclopedia_features_options_full_alife_text">
+		<text>
+			%c[d_cyan]Simulacion completa a-Life%c[ui_gray_2] activa el sistema a-life en todos los mapas.\n \n%c[d_green]Informacion%c[ui_gray_2]\n \nNormalmente, la simulaci&#243;n a-life s&#243;lo se activa en el mapa actual del jugador y en los otros mapas conectados directamente a &#233;l. \nEsto har&#225; que los stalkers y mutantes de toda la zona se muevan, vivan y act&#250;en por su cuenta, lo que expande la experiencia din&#225;mica de la zona.\n \n%c[d_red]Atenci&#243;n: %c[ui_gray_2]Esta caracter&#237;stica aumenta la carga del ordenador. Tal vez tengas que reducir el factor de poblaci&#243;n si tienes problemas de rendimiento.\n \nEsta caracter&#237;stica se puede activar/desactivar en el men&#250; de opciones del juego y est&#225; desactivada por defecto.\n \nActivar/desactivar esta funci&#243;n, requiere reiniciar el juego.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_options_hardcore_ai_aim">
+		<text>Punteria hardcore de la IA</text>
+	</string>
+	<string id="encyclopedia_features_options_hardcore_ai_aim_text">
+		<text>
+			La %c[d_cyan]Hardcore IA%c[ui_gray_2] aumenta la previsibilidad de la punteria de la IA y disminuye los tiempos de reacci&#243;n.\n \n%c[d_green]Informaci&#243;n%c[ui_gray_2]\n \nCon esta caracter&#237;stica activada, se hace m&#225;s dif&#237;cil evitar ser alcanzado mientras corres a toda velocidad, y el uso de las coberturas se hace mucho m&#225;s esencial para tu supervivencia a largo plazo.\n \nEsta caracter&#237;stica se puede cambiar desde el men&#250; de opciones del juego y est&#225; desactivada por defecto.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_options_harcore_campfire">
+		<text>Guardado Hardcore (fogata)</text>
+	</string>
+	<string id="encyclopedia_features_options_harcore_campfire_text">
+		<text>
+			El %c[d_cyan]Guardado Hardcore (fogata)%c[ui_gray_2] te permite guardar tu progreso s&#243;lo en las fogatas!.\n \n%c[d_green]Informaci&#243;n%c[ui_gray_2]\n \nEsta caracter&#237;stica aumenta el elemento hardcore del juego y retrata la experiencia de supervivencia. \nUna vez activado, no podr&#225;s guardar tu progreso desde el men&#250; principal o usando el bot&#243;n de guardado r&#225;pido. En su lugar, necesitas usar los f&#243;sforos en las fogatas para poder guardar. \n \nEsta caracter&#237;stica se puede cambiar desde el men&#250; de opciones del juego y est&#225; desactivada por defecto.\n \nFunciona perfectamente junto con el modo de guardar (condiciones) hardcore.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_options_harcore_conditions">
+		<text>Guardado Hardcore (condiciones)</text>
+	</string>
+	<string id="encyclopedia_features_options_harcore_conditions_text">
+		<text>
+			%c[d_cyan]Guardado Hardcore (condiciones)%c[ui_gray_2] te permite guardar tu progreso cuando se cumplen determinadas condiciones.\n \n%c[d_green]Informaci&#243;n%c[ui_gray_2]\n \nEsta caracter&#237;stica aumenta el elemento hardcore del juego y encarna la experiencia de supervivencia. \Una vez activada, no podr&#225;s guardar tu progreso desde el men&#250; principal o usando el bot&#243;n de guardado r&#225;pido cuando se cumpla una de estas condiciones: \n%c[d_red]• %c[ui_gray_2]Tu salud es baja. \n%c[d_red]• %c[ui_gray_2]Estas irradiado. \n%c[d_red]• %c[ui_gray_2]Estas herido. \n%c[d_red]• %c[ui_gray_2]Estas en peligro (los enemigos te vieron). \n%c[d_red]• %c[ui_gray_2]Estas en medio de una emisi&#243;n.\n \n \nEsta caracter&#237;stica se puede cambiar desde el men&#250; de opciones del juego y est&#225; desactivada por defecto.\n \nFunciona perfectamente junto con el modo de guardado de hardcore (fogata).
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_options_helicopter_patrols">
+		<text>Patrullas de helicopteros</text>
+	</string>
+	<string id="encyclopedia_features_options_helicopter_patrols_text">
+		<text>
+			%c[d_cyan]Patrullas de helicopteros%c[ui_gray_2] permite a las facciones el uso de apoyo a&#233;reo para defender &#225;reas estrat&#233;gicas.\n \n%c[d_green]Informaci&#243;n%c[ui_gray_2]\n \nLas facciones que tienen aeronaves amigas patrullando en la zona podr&#225;n pedirles apoyo para atacar o defenderse de los stalkers enemigos (incluido t&#250;) y de los mutantes.\n \nA pesar de su apariencia intimidante, pueden ser f&#225;cilmente derribados despu&#233;s de recibir un ligero da&#241;o en el rotor de cola.\n \nEsta caracter&#237;stica se puede cambiar desde el men&#250; de opciones del juego y est&#225; activada por defecto.\n \n%c[d_green]Ubicaciones%c[ui_gray_2]\n \n• Agroprom\n• El Cordon\n• Paisaje Oscuro\n• Grandes Pantanos\n• Limansk
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_options_lootmoney">
+		<text>Encuentra dinero en cuerpos</text>
+	</string>
+	<string id="encyclopedia_features_options_lootmoney_text">
+		<text>
+			%c[d_cyan]Encontrar dinero%c[ui_gray_2] te permite encontrar dinero en los bolsillos de los que murieron.\n \n%c[d_green]Informaci&#243;n%c[ui_gray_2]\n \nLa cantidad de dinero que encuentres depende del rango del stalker muerto. Cuanto m&#225;s alto sea el rango, m&#225;s dinero podr&#225;s encontrar.\n \nEsta caracter&#237;stica se puede cambiar desde el men&#250; de opciones de juego y est&#225; desactivada por defecto.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_options_online_exclusion">
+		<text>Exclusi&#243;n Online</text>
+	</string>
+	<string id="encyclopedia_features_options_online_exclusion_text">
+		<text>
+			%c[d_cyan]Exclusi&#243;n Online%c[ui_gray_2] crea una zona de no aparici&#243;n alrededor de tu personaje.\n \n%c[d_green]Informaci&#243;n%c[ui_gray_2]\n \nA medida que exploras cerca de los bordes de los mapas y sus puntos de entrada/salida, podr&#237;as ser atacado por los enemigos que llegan de otros mapas. Con la exclusi&#243;n Online activada, estos surgimientos se retrasan hasta que te quites de en medio de forma segura.\n \nHay que tener en cuenta que este sistema gira totalmente en torno a ti; cualquier enemigo que ya se encuentre en un lugar mientras cambias de mapa no se aparecer&#225; a tu llegada.\n \nEsta caracter&#237;stica se puede ajustar desde el men&#250; de opciones del juego y est&#225; establecida en 75 por defecto.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_options_population_factors">
+		<text>Factores de poblaci&#243;n</text>
+	</string>
+	<string id="encyclopedia_features_options_population_factors_text">
+		<text>
+			Los %c[d_cyan]Factores de poblaci&#243;n%c[ui_gray_2] modifican el n&#250;mero de stalkers y mutantes encontrados en la Zona.\n \n%c[d_green]Informaci&#243;n%c[ui_gray_2]\n \nLos factores de poblaci&#243;n de stalkers y mutantes se pueden ajustar de forma independiente entre s&#237;, lo que permite decidir c&#243;mo de salvaje o poblada debe ser la Zona sin necesidad de modificar ninguno de los archivos del juego.\nHay que tener en cuenta que el efecto es mayor cuando se inicia un nuevo personaje, ya que si los factores se cambian durante una jugada en curso, s&#243;lo se realizar&#225;n a medida que mueran los stalkers y/o mutantes y luego se reproduzcan en mayor o menor n&#250;mero.\n \nEstas caracter&#237;sticas se pueden ajustar desde el men&#250; de opciones del juego.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_options_portrait_by_outfit">
+		<text>Retrato por atuendo</text>
+	</string>
+	<string id="encyclopedia_features_options_portrait_by_outfit_text">
+		<text>
+			%c[d_cyan]Retrato por atuendo%c[ui_gray_2] cambia tu retrato basado en tu ropa actual.\n \n%c[d_green]Informaci&#243;n%c[ui_gray_2]\n \nCon esta funci&#243;n activada, cada vez que equipes o te quites un traje (sin incluir el tocado) el retrato de tu personaje se actualizar&#225; para reflejar esto, imitando c&#243;mo los retratos de la IA coinciden con tu aspecto.\n \nEsta caracter&#237;stica se puede cambiar desde el men&#250; de opciones de juego y est&#225; desactivada por defecto.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_options_radio_music">
+		<text>Musica de radio</text>
+	</string>
+	<string id="encyclopedia_features_options_radio_music_text">
+		<text>
+			%c[d_cyan]Musica de radio%c[ui_gray_2] permite que las pistas de m&#250;sica personalizadas se reproduzcan en ciertos lugares.\n \n%c[d_green]Informaci&#243;n%c[ui_gray_2]\n \nCiertas &#225;reas tranquilas dentro de la Zona tienen radios instaladas cerca, cada una de ellas reproduce una selecci&#243;n de pistas musicales para mantener a los stalkers entretenidos.\n \nEsta caracter&#237;stica se puede cambiar desde el men&#250; de opciones del juego y est&#225; activada por defecto.\n \n%c[d_green]Ubicaciones%c[ui_gray_2]\n \n• Agroprom - Base Militar\n• El Cordon - Bunker Sidorovich's\n• Grandes Pantanos - Base Cielo Despejado\n• Valle Oscuro - Base bandida\n• Rostok - 100 Rads\n• Bosque rojo - Torre de Forester
+		</text>
+	</string>
+	
+	<string id="encyclopedia_features_options_thirst">
+		<text>Simulacion de sed</text>
+	</string>
+	<string id="encyclopedia_features_options_thirst_text">
+		<text>
+			\n%c[d_green]Informaci&#243;n%c[ui_gray_2]\n \nComo su nombre lo indica: esta es una opci&#243;n hardcore para simular la sed. Empuja al jugador constantemente a buscar fuentes de agua y a&#241;ade otro nivel de dificultad junto con el resto de las necesidades. \nUn indicador de sed aparecer&#225; en tu HUD para determinar el nivel de sed, cuanto m&#225;s sed tengas peor ser&#225; tu salud y tu resistencia, hasta que llegues al punto en que mueras.\n \nEsta caracter&#237;stica se puede cambiar desde el men&#250; de opciones del juego y est&#225; activada por defecto.
+		</text>
+	</string>`
+	
+	<string id="encyclopedia_features_options_sleep_deprivation">
+		<text>Privacion de sue&#241;o</text>
+	</string>
+	<string id="encyclopedia_features_options_sleep_deprivation_text">
+		<text>
+			%c[d_cyan]Privacion de sue&#241;o%c[ui_gray_2] permite que el tiempo y el uso de consumibles fatiguen a tu personaje.\n \n%c[d_green]Informaci&#243;n%c[ui_gray_2]\n \nA lo largo de la Zona encontrar&#225;s muchas camas y sacos de dormir, normalmente s&#243;lo se usan para permitirte saltarte el tiempo durmiendo, sin embargo con esta caracter&#237;stica activada se convierten en una parte esencial del juego.\n \nA medida que pase el tiempo tu personaje comenzar&#225; lentamente a sentirse cansado, con la pantalla empezando a desdibujarse y a temblar. Estos efectos empeorar&#225;n hasta que encuentres un lugar adecuado para descansar o los efectos de la privaci&#243;n del sue&#241;o te causen un colapso por agotamiento.\n \nEl cansancio puede acelerarse consumiendo art&#237;culos como botiquines m&#233;dicos y vodka, y negarse con los de bebidas energ&#233;ticas altas en cafe&#237;na - sin embargo, usar demasiados te dejar&#225; incapaz de descansar hasta que sus efectos desaparezcan.\n \nEsta caracter&#237;stica se puede cambiar desde el men&#250; de opciones del juego y est&#225; desactivada por defecto.
+		</text>
+	</string>`
+	
+	<string id="encyclopedia_features_options_use_battery">
+		<text>Usar baterias</text>
+	</string>
+	<string id="encyclopedia_features_options_use_battery_text">
+		<text>
+			La opci&#243;n %c[d_cyan]Usar bater&#237;as%c[ui_gray_2] requiere el uso de bater&#237;as para mantener los aparatos en funcionamiento.\n \n%c[d_green]Informaci&#243;n%c[ui_gray_2]\n \nLos dispositivos el&#233;ctricos como los detectores y las linternas obtienen el voltaje y la potencia el&#233;ctrica necesarios del dispositivo de alimentaci&#243;n universal (UPD) para funcionar correctamente. Debido a esto, la unidad UPD se consume constantemente. \nPara mantener la unidad UPD en funcionamiento, debes recargarla usando bater&#237;as antes de perder toda su potencia. \nEs importante tener algunas bater&#237;as en el bolsillo, puedes comprarlas o buscarlas por ah&#237;.\n \nEsta caracter&#237;stica se puede cambiar desde el men&#250; de opciones del juego y est&#225; activada por defecto.
+		</text>
+	</string>`
+	
+</string_table>

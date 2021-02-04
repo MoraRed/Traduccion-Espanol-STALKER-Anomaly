@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+
+<!--===========================================================
+<
+< TEXT STRINGS FOR LOST TO THE ZONE: OPERATION AFTERGLOW TASKS
+<	Anomaly 1.5 - Lost to the Zone: Operation Afterglow
+<
+<	Made by: SarisKhan
+<	Last revised: 04 September 2019
+<
+<===========================================================-->
+
+<string_table>
+
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operation Afterglow Task 1 -->
+	<string id="lttz_oa_encrypted_transmission_name">
+		<text>Transmisi&#243;n Encriptada</text>
+	</string>
+	
+	<string id="lttz_oa_encrypted_transmission_text">
+		<text>Interceptar las transmisiones de radio intermitentes en la anomal&#237;a del Bosque de Hierro de Zaton.</text>
+	</string>
+	<string id="lttz_oa_encrypted_transmission_text2">
+		<text>Has detectado la fuente de las transmisiones de radio. Investiga.</text>
+	</string>
+	
+	<string id="decryption_radio_name">
+		<text>Radio</text>
+	</string>
+	<string id="decryption_radio_desc">
+		<text>Esta modesta radio militar puede interceptar y descifrar las transmisiones cercanas.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operation Afterglow Task 2 -->
+	<string id="lttz_oa_rally_point_name">
+		<text>Operaci&#243;n Afterglow: Punto de reuni&#243;n</text>
+	</string>
+	
+	<string id="lttz_oa_rally_point_text">
+		<text>Elimina el escuadr&#243;n de la UNISG que ocupa la estacion ranger.</text>
+	</string>
+	<string id="lttz_oa_rally_point_text2">
+		<text>Discute lo que sigue con Degtyarev.</text>
+	</string>
+	<string id="lttz_oa_rally_point_text3">
+		<text>El resto del escuadr&#243;n de la UNISG est&#225; regresando a su base. D&#233;mosles una c&#225;lida bienvenida.</text>
+	</string>
+	<string id="lttz_oa_rally_point_text4">
+		<text>Has eliminado las fuerzas locales de la UNISG. Discute lo que sigue con Degtyarev.</text>
+	</string>
+	<string id="lttz_oa_rally_point_text5">
+		<text>Busca en los cuerpos una fuente de informaci&#243;n &#250;til.</text>
+	</string>
+	<string id="lttz_oa_rally_point_text6">
+		<text>Has encontrado la PDA del l&#237;der del escuadr&#243;n. Entr&#233;gasela a Degtyarev.</text>
+	</string>
+	
+	<string id="st_zat_b40_sarge_pda_name">
+		<text>PDA del l&#237;der del escuadr&#243;n</text>
+	</string>
+	<string id="st_zat_b40_sarge_pda_desc">
+		<text>Este PDA sol&#237;a pertenecer al l&#237;der de un equipo de reconocimiento especial de UNISG. Probablemente contiene informaci&#243;n t&#225;ctica o estrat&#233;gica importante. Obviamente, est&#225; encriptada, as&#237; que no hay forma de saberlo con seguridad.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operation Afterglow Task 3 -->
+	<string id="lttz_oa_report_name">
+		<text>Reportate</text>
+	</string>
+	
+	<string id="lttz_oa_report_text">
+		<text>Informa a tu l&#237;der sobre lo que pas&#243; en Zaton.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operation Afterglow Task 4 -->
+	<string id="lttz_oa_special_delivery_name">
+		<text>Operaci&#243;n Afterglow: Entrega Especial</text>
+	</string>
+	
+	<string id="lttz_oa_special_delivery_text">
+		<text>Entrega la caja a un oficial militar. Puedes no hacerlo para ayudar encubiertamente al UNISG.</text>
+	</string>
+	<string id="lttz_oa_special_delivery_text2">
+		<text>Informa a Degtyarev que has entregado la caja exitosamente.</text>
+	</string>
+	<string id="lttz_oa_special_delivery_text3">
+		<text>Parece que el oficial militar est&#225; muerto. Informa a Degtyarev que no puedes completar la tarea.</text>
+	</string>
+	<string id="lttz_oa_special_delivery_text4">
+		<text>Parece que no entregaste la caja a tiempo. Informa a Degtyarev que no pudiste completar la tarea.</text>
+	</string>
+	
+	<string id="special_delivery_case_name">
+		<text>Caja Cerrada</text>
+	</string>
+	<string id="special_delivery_case_desc">
+		<text>Caja sellada que contiene cosas clasificadas. Bastante pesada.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operation Afterglow Task 5 -->
+	<string id="lttz_oa_undercover_agent_name">
+		<text>Operaci&#243;n Afterglow: Agente Encubierto</text>
+	</string>
+	
+	<string id="lttz_oa_undercover_agent_text">
+		<text>Conoce al agente secreto que se infiltr&#243; en las fuerzas de UNISG y recupera informaci&#243;n &#250;til. Un comportamiento sospechoso podr&#237;a poner a la UNISG en alerta y aumentar su vigilancia.</text>
+	</string>
+	<string id="lttz_oa_undercover_agent_text2">
+		<text>Pudiste obtener la informaci&#243;n sin alertar a las fuerzas de ka UNISG. Rep&#243;rtate a Degtyarev.</text>
+	</string>
+	<string id="lttz_oa_undercover_agent_text3">
+		<text>Pudiste obtener la informaci&#243;n, pero no sin alertar a las fuerzas de ka UNISG. Reportate a Degtyarev.</text>
+	</string>
+	
+	<string id="st_army_isg_spy_pendrive_name">
+		<text>Pendrive del agente encubierto</text>
+	</string>
+	<string id="st_army_isg_spy_pendrive_descr">
+		<text>Seg&#250;n el informe algo cr&#237;ptico de Degtyarev, el esp&#237;a de la UNISG ha estado recogiendo alguna informaci&#243;n sobre sus objetivos y movimientos, as&#237; como pruebas que podr&#237;an ejercer presi&#243;n legal o pol&#237;tica sobre las tropas de la ONU para que abandonen la Zona. Obviamente todo est&#225; encriptado.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operation Afterglow Task 6 -->
+	<string id="lttz_oa_search_unit_name">
+		<text>Operaci&#243;n Afterglow: Secretos Guardados</text>
+	</string>
+	
+	<string id="lttz_oa_search_unit_text">
+		<text>Elimina las fuerzas de UNISG que est&#225;n saqueando la vieja f&#225;brica de J&#250;piter. Alternativamente, retrasa a Degtyarev para que deje escapar a la UNISG con la informaci&#243;n que buscan.</text>
+	</string>
+	<string id="lttz_oa_search_unit_text2">
+		<text>Has eliminado el escuadr&#243;n de la UNISG. Discute lo que sigue con Degtyarev.</text>
+	</string>
+	<string id="lttz_oa_search_unit_text3">
+		<text>Encuentra cualquier documento de alto secreto que quede dentro de la f&#225;brica.</text>
+	</string>
+	<string id="lttz_oa_search_unit_text4">
+		<text>Has encontrado los documentos. Habla con Degtyarev.</text>
+	</string>
+	<string id="lttz_oa_search_unit_text5">
+		<text>Llegaste demasiado tarde, y las fuerzas de la UNISG se fueron con los documentos. Habla con Degtyarev.</text>
+	</string>
+	
+	<string id="jupiter_documents_name">
+		<text>Documentos de la f&#225;brica de J&#250;piter</text>
+	</string>
+	<string id="jupiter_documents_desc">
+		<text>Presumiblemente los &#250;ltimos documentos que contienen informaci&#243;n secreta dejados en la f&#225;brica. Mejor no dejar que caigan en manos de agentes extranjeros.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operation Afterglow Task 7 -->
+	<string id="lttz_oa_strelok_name">
+		<text>Tirador de Primera</text>
+	</string>
+	
+	<string id="lttz_oa_strelok_text">
+		<text>Ayuda a Strelok a lidiar con un escuadr&#243;n de Monolitos que lo persigue.</text>
+	</string>
+	<string id="lttz_oa_strelok_text2">
+		<text>Habla con Strelok.</text>
+	</string>
+	<string id="lttz_oa_strelok_text3">
+		<text>Escolta a Strelok a la lavander&#237;a.</text>
+	</string>
+	<string id="lttz_oa_strelok_text4">
+		<text>Habla con Strelok.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operation Afterglow Task 8 -->
+	<string id="lttz_oa_rogue_name">
+		<text>Guerra Interna</text>
+	</string>
+	
+	<string id="lttz_oa_rogue_text">
+		<text>Conoce a Rogue y averigua qu&#233; pas&#243;.</text>
+	</string>
+	<string id="lttz_oa_rogue_text1">
+		<text>Ayuda a Rogue a recuperarse de los efectos de una anomal&#237;a del campo ps&#237;quico d&#225;ndole una sola dosis de Bloqueador ps&#237;quico.</text>
+	</string>
+	<string id="lttz_oa_rogue_text2">
+		<text>Dale el Bloqueador ps&#237;quico a Rogue.</text>
+	</string>
+	<string id="lttz_oa_rogue_text3">
+		<text>Escolta a Rogue a la lavander&#237;a.</text>
+	</string>
+	<string id="lttz_oa_rogue_text4">
+		<text>Rogue sucumbi&#243; a los efectos de la anomal&#237;a. Informa a Strelok sobre su destino.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operation Afterglow Task 9 -->
+	<string id="lttz_oa_stitch_name">
+		<text>Muerto Caminante</text>
+	</string>
+	
+	<string id="lttz_oa_stitch_text">
+		<text>Ayuda a Stitch a defenderse de los zombis.</text>
+	</string>
+	<string id="lttz_oa_stitch_text2">
+		<text>Has eliminado a los zombis. Habla con Stitch.</text>
+	</string>
+	<string id="lttz_oa_stitch_text3">
+		<text>Escolta a Stitch a la lavander&#237;a.</text>
+	</string>
+	<string id="lttz_oa_stitch_text4">
+		<text>Stitch no pudo lograrlo. Informa a Strelok sobre su destino.</text>
+	</string>
+	
+	<!-- ----------------------------------------------------------------------------------------- -->
+	<!-- Operation Afterglow Task 10 -->
+	<string id="lttz_oa_loose_ends_name">
+		<text>Operaci&#243;n Afterglow: Cabos Sueltos</text>
+	</string>
+	
+	<string id="lttz_oa_loose_ends_text">
+		<text>Confronta al Coronel Degtyarev sobre su misi&#243;n actual.</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text2">
+		<text>Negocia con Strelok e intenta llegar a un acuerdo.</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text21">
+		<text>ASESINA A STRELOK</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text22">
+		<text>Mata a Degtyarev.</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text3">
+		<text>Degtyarev est&#225; muerto. Informa a Strelok sobre su destino.</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text31">
+		<text>Strelok est&#225; muerto. Habla con Degtyarev.</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text4">
+		<text>Dile a Degtyarev que Strelok est&#225; dispuesto a cooperar en sus propios t&#233;rminos.</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text41">
+		<text>Has decidido ayudar a Strelok a deshacerse de Degtyarev. Mata al Coronel.</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text5">
+		<text>Una fuerza de la UNISG est&#225; tras Degtyarev. Ay&#250;dale a repeler su asalto.</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text6">
+		<text>El escuadr&#243;n de la UNISG est&#225; acabado. Habla con Degtyarev.</text>
+	</string>
+	<string id="lttz_oa_loose_ends_text7">
+		<text>Degtyarev y su equipo se han ido. D&#237;gale a Strelok que est&#225;n todos listos para irse.</text>
+	</string>
+	
+	<!-- \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\ -->
+
+</string_table>

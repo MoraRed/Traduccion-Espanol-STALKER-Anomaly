@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Upgrades descriptions
+-->
+
+<string_table>
+
+<!--
+	Outfits upgrades
+-->
+	<string id="st_up_armor_1_name">
+		<text>Placas de Kevlar</text>
+	</string>
+	<string id="st_up_armor_1_descr">
+		<text>Placas reforzadas que duran m&#225;s, pero no son m&#225;s resistentes.</text>
+	</string>
+	<string id="st_up_armor_2_name">
+		<text>Placas de policarbonato</text>
+	</string>
+	<string id="st_up_armor_2_descr">
+		<text>Las placas de policarbonato no duran mucho pero son m&#225;s fiables que Kevlar gracias a la negaci&#243;n mejorada del impulso de bala.</text>
+	</string>
+	<string id="st_up_armor_3_name">
+		<text>Duplicar la capa protectora de la placa</text>
+	</string>
+	<string id="st_up_armor_3_descr">
+		<text>Armadura con una capa interna que extiende el impacto sobre un &#225;rea mayor.</text>
+	</string>
+	<string id="st_up_armor_4_name">
+		<text>Instalaci&#243;n de placas protectoras m&#243;viles para juntas</text>
+	</string>
+	<string id="st_up_armor_4_descr">
+		<text>Las placas m&#243;viles protegen las articulaciones de las heridas de bala.</text>
+	</string>
+	
+	
+	<string id="st_up_damage_1_name">
+		<text>Protecci&#243;n segmentada</text>
+	</string>
+	<string id="st_up_damage_1_descr">
+		<text>Las capas de armadura m&#225;s finas se superponen para aumentar la resistencia al desgaste de la armadura.</text>
+	</string>
+	<string id="st_up_damage_2_name">
+		<text>Placas adicionales de aluminio/titanio</text>
+	</string>
+	<string id="st_up_damage_2_descr">
+		<text>Un mayor n&#250;mero de placas de titanio mejora considerablemente la durabilidad de la armadura corporal.</text>
+	</string>
+	<string id="st_up_damage_3_name">
+		<text>Capa m&#243;vil de reserva</text>
+	</string>
+	<string id="st_up_damage_3_descr">
+		<text>Las placas m&#243;viles protegen las articulaciones de las heridas de bala.</text>
+	</string>
+	
+	
+	<string id="st_up_durability_1_name">
+		<text>Insertos de cuero de engrosamiento</text>
+	</string>
+	<string id="st_up_durability_1_descr">
+		<text>Si bien estos insertos no significan una mejor protecci&#243;n, s&#237; garantizan una mayor durabilidad.</text>
+	</string>
+	<string id="st_up_durability_2_name">
+		<text>Escudo de protecci&#243;n de alta durabilidad</text>
+	</string>
+	<string id="st_up_durability_2_descr">
+		<text>Utilizado en trajes para mejorar la durabilidad de los trajes.</text>
+	</string>
+	<string id="st_up_durability_3_name">
+		<text>Placas e insertos de kevlar reforzados</text>
+	</string>
+	<string id="st_up_durability_3_descr">
+		<text>Placas reforzadas que duran m&#225;s para mejorar la durabilidad del equipo.</text>
+	</string>
+	
+	
+	<string id="st_up_weight_1_name">
+		<text>Componentes de carbono s&#243;lido</text>
+	</string>
+	<string id="st_up_weight_1_descr">
+		<text>Reemplazar el metal con fibra de carbono permite reducir el peso de la armadura corporal sin sacrificar la fiabilidad.</text>
+	</string>
+	<string id="st_up_weight_2_name">
+		<text>Un armaz&#243;n de aluminio m&#225;s ligero</text>
+	</string>
+	<string id="st_up_weight_2_descr">
+		<text>Un armaz&#243;n de aluminio m&#225;s ligero para las placas para reemplazar el armaz&#243;n de acero. Reduce el peso del blindaje.</text>
+	</string>
+	<string id="st_up_weight_3_name">
+		<text>Instalaci&#243;n de componentes sint&#233;ticos y pl&#225;sticos m&#225;s ligeros</text>
+	</string>
+	<string id="st_up_weight_3_descr">
+		<text>Uso de materiales m&#225;s ligeros para reducir el peso de la armadura del cuerpo.</text>
+	</string>
+	<string id="st_up_weight_4_name">
+		<text>Materiales m&#225;s ligeros, sint&#233;ticos y polim&#233;ricos</text>
+	</string>
+	<string id="st_up_weight_4_descr">
+		<text>Tela, clips y espesantes se reemplazan con materiales sint&#233;ticos m&#225;s ligeros para reducir el peso de la armadura.</text>
+	</string>
+	
+		
+	<string id="st_up_carry_1_name">
+		<text>Un sistema de montaje para distribuci&#243;n de peso</text>
+	</string>
+	<string id="st_up_carry_1_descr">
+		<text>Un sistema de monturas permite que el peso se distribuya en todo el cuerpo de manera m&#225;s pareja.</text>
+	</string>
+	<string id="st_up_carry_2_name">
+		<text>Un armaz&#243;n trasero de distribuci&#243;n de peso</text>
+	</string>
+	<string id="st_up_carry_2_descr">
+		<text>Un armaz&#243;n trasero alivia la carga enfocada del hombro del peso transportado al distribuirlo sobre el cuerpo, lo que aumenta la carga m&#225;xima.</text>
+	</string>
+	<string id="st_up_carry_3_name">
+		<text>Servomotores adicionales</text>
+	</string>
+	<string id="st_up_carry_3_descr">
+		<text>Los dispositivos de movimiento adicionales permiten aumentar la carga m&#225;xima transportada.</text>
+	</string>
+	
+	
+	<string id="st_up_shock_1_name">
+		<text>Capa interna basada en Constantan para el aislamiento</text>
+	</string>
+	<string id="st_up_shock_1_descr">
+		<text>Una capa delgada de constantan es capaz de aislar contra la electricidad.</text>
+	</string>
+	<string id="st_up_shock_2_name">
+		<text>Inserciones de aislamiento t&#233;rmico Constantan</text>
+	</string>
+	<string id="st_up_shock_2_descr">
+		<text>Constantan es capaz de aislar contra la electricidad y tiene un punto de fusi&#243;n muy alto.</text>
+	</string>
+	<string id="st_up_shock_3_name">
+		<text>Un mono de aislamiento con inserciones de manganina</text>
+	</string>
+	<string id="st_up_shock_3_descr">
+		<text>Esta aleaci&#243;n de n&#237;quel y magnesio se utiliza en armaduras para evitar descargas el&#233;ctricas.</text>
+	</string>
+	
+	
+	<string id="st_up_burn_1_name">
+		<text>Tela tratada con una sustancia resistente al fuego</text>
+	</string>
+	<string id="st_up_burn_1_descr">
+		<text>La tela tratada con una sustancia resistente al fuego es popular entre los stalkers que buscan artefactos de fuego.</text>
+	</string>
+	<string id="st_up_burn_2_name">
+		<text>Inserciones de placa de magnesio</text>
+	</string>
+	<string id="st_up_burn_2_descr">
+		<text>Las inserciones de magnesio protegen al usuario de los peligros t&#233;rmicos.</text>
+	</string>
+	<string id="st_up_burn_3_name">
+		<text>Protecci&#243;n t&#233;rmica de fibra de vidrio </text>
+	</string>
+	<string id="st_up_burn_3_descr">
+		<text>La fibra de vidrio se usa en los monos usados por los equipos de respuesta a desastres naturales.</text>
+	</string>
+	<string id="st_up_burn_4_name">
+		<text>Traje resistente al fuego con inserciones de n&#237;quel</text>
+	</string>
+	<string id="st_up_burn_4_descr">
+		<text>El n&#237;quel es lo suficientemente resistente al fuego para ser utilizado en insertos de armadura corporal</text>
+	</string>
+	<string id="st_up_helm_burn_1_name">
+		<text>Armadura facial Thunderbird Constantan</text>
+	</string>
+	<string id="st_up_helm_burn_1_descr">
+		<text>Armaz&#243;n de aleaci&#243;n protectora para evitar da&#241;os t&#233;rmicos y el&#233;ctricos.</text>
+	</string>
+	
+	
+	<string id="st_up_rad_1_name">
+		<text>Mono de tejido de goma</text>
+	</string>
+	<string id="st_up_rad_1_descr">
+		<text>El caucho es una forma b&#225;sica de protegerse de una breve exposici&#243;n a la radiaci&#243;n.</text>
+	</string>
+	<string id="st_up_rad_2_name">
+		<text>Capa interna de plexigl&#225;s para protecci&#243;n radiol&#243;gica</text>
+	</string>
+	<string id="st_up_rad_2_descr">
+		<text>El plexigl&#225;s absorbe dos tipos de radiaci&#243;n a la vez que es mucho m&#225;s ligero que el plomo.</text>
+	</string>
+	<string id="st_up_rad_3_name">
+		<text>Adici&#243;n de plomo a un mono</text>
+	</string>
+	<string id="st_up_rad_3_descr">
+		<text>El plomo es una defensa fiable contra la radiaci&#243;n porque absorbe los tres tipos de la misma.</text>
+	</string>	
+	<string id="st_up_helm_rad_1_name">
+		<text>Filtros activos</text>
+	</string>
+	<string id="st_up_helm_rad_1_descr">
+		<text>Los filtros activos pueden resistir particulas radioactivas.</text>
+	</string>
+	<string id="st_up_helm_rad_2_name">
+		<text>Recubrimiento de plexigl&#225;s</text>
+	</string>
+	<string id="st_up_helm_rad_2_descr">
+		<text>Una m&#225;scara de plexigl&#225;s puede proporcionar protecci&#243;n parcial contra la radiaci&#243;n</text>
+	</string>
+	<string id="st_up_helm_rad_3_name">
+		<text>Respirador reforzado para condiciones extrem&#225;s</text>
+	</string>
+	<string id="st_up_helm_rad_3_descr">
+		<text>Un filtro con un recubrimiento de purificaci&#243;n adicional y un sistema para eliminar venenos.</text>
+	</string>
+	
+	
+	<string id="st_up_chem_1_name">
+		<text>Mono de lona</text>
+	</string>
+	<string id="st_up_chem_1_descr">
+		<text>Protecci&#243;n b&#225;sica contra la lluvia y sustancias c&#225;usticas que entran en contacto con la piel</text>
+	</string>
+	<string id="st_up_chem_2_name">
+		<text>Capa interna de pl&#225;stico herm&#233;tico</text>
+	</string>
+	<string id="st_up_chem_2_descr">
+		<text>Incluso una capa interior de pl&#225;stico simple puede proteger al usuario de peligros qu&#237;micos.</text>
+	</string>
+	<string id="st_up_chem_3_name">
+		<text>Tejido impregnado para monos</text>
+	</string>
+	<string id="st_up_chem_3_descr">
+		<text>La tela impregnada debe prevenir el envenenamiento qu&#237;mico.</text>
+	</string>
+	<string id="st_up_chem_4_name">
+		<text>Mono salvavidas de plexigl&#225;s con malla de plomo flexible</text>
+	</string>
+	<string id="st_up_chem_4_descr">
+		<text>La malla de plomo crea una protecci&#243;n qu&#237;mica sin sacrificar la movilidad.</text>
+	</string>
+	<string id="st_up_helm_chem_1_name">
+		<text>Filtro para trabajar en &#225;reas contaminadas</text>
+	</string>
+	<string id="st_up_helm_chem_1_descr">
+		<text>Un filtro con un recubrimiento anticorrosivo reforzado con una capa de prevenci&#243;n adicional para la eliminaci&#243;n de venenos</text>
+	</string>
+	<string id="st_up_helm_chem_2_name">
+		<text>M&#225;scara de respiraci&#243;n impregnada</text>
+	</string>
+	<string id="st_up_helm_chem_2_descr">
+		<text>Respirador para bloqueo total de venenos</text>
+	</string>
+	
+	
+	<string id="st_up_tele_1_name">
+		<text>Una banda de protecci&#243;n psi hecha de parrillas de acero emparejadas</text>
+	</string>
+	<string id="st_up_tele_1_descr">
+		<text>Se ha demostrado que la banda cerrada proporciona protecci&#243;n parcial contra las emisiones psi directas.</text>
+	</string>
+	<string id="st_up_helm_tele_1_name">
+		<text>Instalaci&#243;n de una cinta Psy-Dome</text>
+	</string>
+	<string id="st_up_helm_tele_1_descr">
+		<text>Protecci&#243;n psi de alta tecnolog&#237;a que se dice que fue inventada por un cient&#237;fico llamado Sakharov.</text>
+	</string>
+	
+	
+	<string id="st_up_arty_1_name">
+		<text>M&#243;dulo principal de fijaci&#243;n de blindaje</text>
+	</string>
+	<string id="st_up_arty_1_descr">
+		<text>Instalaci&#243;n de un m&#243;dulo de fijaci&#243;n de blindaje.</text>
+	</string>
+	<string id="st_up_arty_2_name">
+		<text>M&#243;dulo adicional de fijaci&#243;n del blindaje</text>
+	</string>
+	<string id="st_up_arty_2_descr">
+		<text>Instalaci&#243;n de un m&#243;dulo adicional de fijaci&#243;n de blindaje.</text>
+	</string>
+	<string id="st_up_arty_3_name">
+		<text>M&#243;dulo de fijaci&#243;n de la armadura de dos compartimentos</text>
+	</string>
+	<string id="st_up_arty_3_descr">
+		<text>Installation de m&#243;dulo de fijaci&#243;n de la armadura de dos compartimentos.</text>
+	</string>
+	
+	
+	<string id="st_up_stamina_1_name">
+		<text>Sistema de regulaci&#243;n t&#233;rmica interna</text>
+	</string>
+	<string id="st_up_stamina_1_descr">
+		<text>Una mejora ergon&#243;mica: los soportes especiales unidos al mono permiten que el peso transportado se sienta m&#225;s ligero.</text>
+	</string>
+	<string id="st_up_stamina_2_name">
+		<text>Sistema integrado para atletas</text>
+	</string>
+	<string id="st_up_stamina_2_descr">
+		<text>Un modelo experimental de un sistema de ejecuci&#243;n de marat&#243;n, que no se usa fuera de la Zona debido a su alto precio y aplicaci&#243;n dudosa.</text>
+	</string>
+	<string id="st_up_helm_stamina_1_name">
+		<text>Filtros de purificaci&#243;n de vapores y de respiraci&#243;n</text>
+	</string>
+	<string id="st_up_helm_stamina_1_descr">
+		<text>Un set de filtros usados en aire contaminado o en condiciones cr&#237;ticas de temperatura del aire, que son demasiado bajas o demasiado altas para respirar.</text>
+	</string>
+	
+	
+	<string id="st_up_bleed_1_name">
+		<text>Hemostimulador de rayos</text>
+	</string>
+	<string id="st_up_bleed_1_descr">
+		<text>Este peque&#241;o emisor de ondas est&#225; montado en la parte posterior, lo que aumenta la velocidad de coagulaci&#243;n de la sangre cuando se usa constantemente.</text>
+	</string>
+	<string id="st_up_bleed_2_name">
+		<text>Inyector de hemoglobina Hydra</text>
+	</string>
+	<string id="st_up_bleed_2_descr">
+		<text>Inyector de generaci&#243;n B, que regularmente introduce un agente de coagulaci&#243;n en el torrente sangu&#237;neo cuando la presi&#243;n arterial disminuye significativamente.</text>
+	</string>
+	
+	
+	<string id="st_up_health_1_name">
+		<text>Inyector de adrenalina Fury</text>
+	</string>
+	<string id="st_up_health_1_descr">
+		<text>El inyector de la Generaci&#243;n A, desarrollado por uno de los institutos de investigaci&#243;n de Kiev, inyecta regularmente el torrente sangu&#237;neo con peque&#241;as dosis de adrenalina, que pueden ser peligrosas pero tambi&#233;n pueden salvarle la vida en una emergencia.</text>
+	</string>
+	<string id="st_up_health_2_name">
+		<text>Sistema de restauraci&#243;n de Phoenix</text>
+	</string>
+	<string id="st_up_health_2_descr">
+		<text>Un sistema integrado que monitorea la salud del usuario y suministra vitaminas, adrenalina o sustancias anab&#243;licas seg&#250;n sea necesario.</text>
+	</string>
+	<string id="st_up_health_3_name">
+		<text>Instalaci&#243;n de un sistema de soporte de vida</text>
+	</string>
+	<string id="st_up_health_3_descr">
+		<text>Este emisor de onda est&#225; montado en el cuello, y aunque su mecanismo y m&#233;todo de operaci&#243;n no son claros, tiene un fuerte efecto calmante.</text>
+	</string>
+	
+	
+	<string id="st_up_run_1_name">
+		<text>Adici&#243;n de impulsores hidr&#225;ulicos</text>
+	</string>
+	<string id="st_up_run_1_descr">
+		<text>La instalaci&#243;n de impulsores hidr&#225;ulicos es una modificaci&#243;n que se utiliza para los exoesqueletos de cuarta generaci&#243;n. Permite correr usando un exo-armazon.</text>
+	</string>
+
+</string_table>

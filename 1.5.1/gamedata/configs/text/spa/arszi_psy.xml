@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+  <string id="st_anabiotic_combat">
+      <text>Ser&#237;a inseguro tomar anamioticos con enermigos rondando cerca</text>
+  </string>
+
+   <string id="st_psy_death_scene">
+      <text>Has escapado de un destino peor que la muerte...</text>
+  </string>
+
+  <string id="st_psy_zombification_scene">
+      <text>La Zona te di&#243; una segunda oportunidad...</text>
+  </string>
+</string_table>

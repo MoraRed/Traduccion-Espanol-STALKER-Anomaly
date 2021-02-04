@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<!--
+	Repair Kits
+-->
+
+<string_table>
+
+	<string id="st_sharpening_stones">
+		<text>Juego de tres piedras de afilar</text>
+	</string>
+	<string id="st_sharpening_stones_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] adecuado para las dagas y las cuchillos\n \n %c[ui_gray_1]&#191;Cuchillos y herramientas sin filo? No tiene por qu&#233; ser as&#237;. Un juego de 3 piedras de afilar superpr&#225;cticas para todos, empaquetadas en una bonita bolsa de poli&#233;ster. No m&#225;s piedras de afilar flojas, desliz&#225;ndose por los cajones, rayando todo... no, todo est&#225; ahora en su lugar. Para un afilado perfecto, tres importantes piezas de preafilado, afilado y para el posterior desmontaje de la hoja est&#225;n integradas en el juego, as&#237; que puedes conseguir un filo muy afilado.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] kit de herramientas\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_orange] • %c[ui_gray_2] usable para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_gun_oil">
+		<text>Lubricante "Brunox Gun Care" en spay</text>
+	</string>
+	<string id="st_gun_oil_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] adecuado para todas las armas\n \n %c[ui_gray_1]Lata de aerosol que contiene aceite para lubricar y proteger las armas de fuego. La aplicaci&#243;n frecuente evitar&#225; que las armas funcionen mal y se corroan, especialmente despu&#233;s de un uso prolongado en situaciones de combate. Antes de proceder a la lubricaci&#243;n, es aconsejable limpiar adecuadamente el arma de fuego para eliminar cualquier material extra&#241;o que se haya acumulado en ella o en su interior. Tambi&#233;n se pueden utilizar herramientas b&#225;sicas para acceder a las partes internas del arma a fin de maximizar la eficacia del mantenimiento. Un tubol&#237;n especial aumenta la calidad de deslizamiento de todas las piezas m&#243;viles, lo que hace que el aceite sea a&#250;n m&#225;s adecuado para los repetidores y las armas autom&#225;ticas. Esto permite que las armas funcionen incluso a temperaturas de hasta -55 °C. Tiene un punto de combusti&#243;n de 78 °C.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico \n %c[d_blue] • %c[ui_gray_2] uso r&#225;pido (lubricante en spay)\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_orange] • %c[ui_gray_2] usable para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_gun_oil_ru_d">
+		<text>Aceite para armas y solvente de limpieza "Dvojka"</text>
+	</string>
+	<string id="st_gun_oil_ru_d_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] adecuado para todas las armas\n \n %c[ui_gray_1]El ic&#243;nico aceite del Ej&#233;rcito Rojo que ha estado en servicio durante casi 70 a&#241;os. La botella de metal est&#225; dividida en dos compartimentos separados, uno para el aceite y el otro para el disolvente de limpieza. Al principio, el disolvente se basaba en una soluci&#243;n alcalina para la limpieza efectiva de las sales de conservaci&#243;n en las que se enviaban y almacenaban com&#250;nmente las municiones. Desde entonces, la composici&#243;n de los l&#237;quidos se ha modernizado varias veces, pero el simple pero ingenioso dise&#241;o de la botella "doble" permaneci&#243; inalterado. El "Dvojka" es muy popular en la Zona de Exclusi&#243;n debido a su versatilidad. Sin embargo, hay que tener en cuenta que el aceite requiere herramientas adecuadas para ser esparcido adecuadamente y para que pueda llegar a las profundidades de los mecanismos internos del arma. Por lo tanto, el "Dvojka" debe considerarse m&#225;s como un complemento que como un elemento de mantenimiento independiente.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] aceite l&#237;quido para armas y disolvente de limpieza\n %c[d_orange] • %c[ui_gray_2] adecuado para todas las armas\n
+		</text>
+	</string>
+	
+	<string id="st_gun_oil_ru">
+		<text>Aceite para armas "Rusak"</text>
+	</string>
+	<string id="st_gun_oil_ru_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] adecuado para todas las armas\n \n %c[ui_gray_1Una botella de pl&#225;stico que contiene un aceite mineral ruso para armas de bajo coste. A pesar de su bajo precio, puede ser &#250;til para mantener un arma de fuego en buenas condiciones si se aplica con frecuencia. Debe ser usado junto con pinceles para aumentar el efecto. Seg&#250;n el fabricante, "Rusak" es especialmente efectivo para armas autom&#225;ticas y de repetici&#243;n debido a su bajo coeficiente de fricci&#243;n. Tambi&#233;n contiene varios aditivos anticorrosivos y preservadores de metal.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] aceite l&#237;quido para armas\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_solvent">
+		<text>Disolvente de limpieza Hoppe's "No. 9"</text>
+	</string>
+	<string id="st_solvent_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] adecuado para todas las armas\n \n %c[ui_gray_1]Disolvente de alta calidad para la limpieza de armas de fuego, fabricado en Occidente y especialmente adaptado para su uso en condiciones ambientales adversas, el Disolvente para la Limpieza de Agujeros No. 9 de Hoppe sigue siendo quiz&#225;s la soluci&#243;n m&#225;s utilizada. Como todos los disolventes de limpieza, est&#225; dise&#241;ado para prevenir el &#243;xido y eliminar el polvo, el plomo y las incrustaciones met&#225;licas, pero su propiedad &#250;nica es que hace que las part&#237;culas pesadas tengan menos probabilidades de adherirse a las piezas mec&#225;nicas de un arma de fuego. Esto resulta especialmente &#250;til en una zona irradiada. La sustancia act&#250;a r&#225;pidamente, es s&#250;per eficiente, segura y f&#225;cil de usar. Aunque fluye libremente y penetra r&#225;pidamente, sigue siendo aconsejable utilizar herramientas o tejidos para aumentar la propagaci&#243;n.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] disolvente liquido de limpieza para armas\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_blue] • %c[ui_gray_2] valioso\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_cleaning_kit_p">
+		<text>Kit de limpieza de armas de mano, marca "Progress"</text>
+	</string>
+	<string id="st_cleaning_kit_p_descr">
+		<text>\n \n %c[ui_gray_2]COMPATILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] calibre de armas 9mm, .45 y .357\n \n %c[ui_gray_1]Conjunto de cepillos especializados que se pueden utilizar para limpiar el ca&#241;&#243;n y otras partes de un arma de fuego eliminando la suciedad, la arena, la humedad, los residuos de lubricante y otros materiales extra&#241;os que se han acumulado durante su uso. Estos sets se utilizan con bastante frecuencia en la Zona para mantener las armas de fuego en buen estado en todo momento. Es posible utilizar herramientas comunes para tener un mejor acceso a los mecanismos internos de una pistola o al alcohol para disolver m&#225;s f&#225;cilmente los residuos de aceite. Tambi&#233;n se puede utilizar para esparcir mejor el aceite de las armas, sin embargo un m&#233;todo m&#225;s rentable utilizado por la mayor&#237;a de los stalkers experimentados implica la aplicaci&#243;n de grasa animal en los cepillos como un lubricante alternativo. Este conjunto en particular se ajusta a los calibres t&#237;picos de las armas de mano.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_cleaning_kit_s">
+		<text>Kit de limpieza "Aurora A108/12" 12ga</text>
+	</string>
+	<string id="st_cleaning_kit_s_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] Armas 12ga\n \n %c[ui_gray_1]Conjunto de cepillos especializados que se pueden utilizar para limpiar el ca&#241;&#243;n y otras partes de un arma de fuego eliminando la suciedad, la arena, la humedad, los residuos de lubricante y otros materiales extra&#241;os que se han acumulado durante su uso. Es posible utilizar herramientas comunes para tener un mejor acceso a los mecanismos internos de una pistola o al alcohol para disolver m&#225;s f&#225;cilmente los residuos de aceite. Este juego particular se ajusta a las escopetas 12ga. El kit "Aurora" viene con tres tipos de cepillos especializados, uno para la limpieza despu&#233;s del disparo, la distribuci&#243;n de lubricante y la eliminaci&#243;n de &#243;xido respectivamente. Mantiene su escopeta favorita en buen estado en todo momento.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_cleaning_kit_r5">
+		<text>kit de limpieza para rifles de calibre peque&#241;o "ValuPro III"</text>
+	</string>
+	<string id="st_cleaning_kit_r5_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] Armas de calibre 5.45 y 5.56\n \n %c[ui_gray_1]Conjunto de cepillos especializados que se pueden utilizar para limpiar el ca&#241;&#243;n y otras partes de un arma de fuego eliminando la suciedad, la arena, la humedad, los residuos de lubricante y otros materiales extra&#241;os que se han acumulado durante su uso. Estos sets se utilizan con bastante frecuencia en la Zona para mantener las armas de fuego en buen estado en todo momento. Es posible utilizar herramientas comunes para tener un mejor acceso a los mecanismos internos de una pistola o al alcohol para disolver m&#225;s f&#225;cilmente los residuos de aceite. Tambi&#233;n se puede utilizar para esparcir mejor el aceite de las armas, sin embargo un m&#233;todo m&#225;s rentable utilizado por la mayor&#237;a de los stalkers experimentados implica la aplicaci&#243;n de grasa animal en los cepillos como un lubricante alternativo. Este paquete en particular se adapta a los rifles de calibre medio con ca&#241;ones largos y viene en un contenedor de pl&#225;stico duro reutilizable.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_cleaning_kit_r7">
+		<text>Kit de limpieza para rifles de calibre mediano y grande</text>
+	</string>
+	<string id="st_cleaning_kit_r7_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] Armas de calibre 7.62, 7.92, 9x39 y .338\n \n %c[ui_gray_1]Conjunto de cepillos especializados que se pueden utilizar para limpiar el ca&#241;&#243;n y otras partes de un arma de fuego eliminando la suciedad, la arena, la humedad, los residuos de lubricante y otros materiales extra&#241;os que se han acumulado durante su uso. Estos sets se utilizan con bastante frecuencia en la Zona para mantener las armas de fuego en buen estado en todo momento. Es posible utilizar herramientas comunes para tener un mejor acceso a los mecanismos internos de una pistola o al alcohol para disolver m&#225;s f&#225;cilmente los residuos de aceite. Tambi&#233;n se puede utilizar para esparcir mejor el aceite de las armas, sin embargo un m&#233;todo m&#225;s rentable utilizado por la mayor&#237;a de los stalkers experimentados implica la aplicaci&#243;n de grasa animal en los cepillos como un lubricante alternativo. Este conjunto en particular se ajusta a los rifles de gran calibre y ca&#241;ones muy largos. Se desconoce el fabricante, pero su dise&#241;o y construcci&#243;n simple, as&#237; como los materiales de muy alta calidad utilizados, sugieren un origen militar, presumiblemente de fuerzas especiales.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_cleaning_kit_u">
+		<text>Kit universal de limpieza de armas</text>
+	</string>
+	<string id="st_cleaning_kit_u_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] Todas las armas\n \n %c[ui_gray_1Un avanzado kit de limpieza de armas que se ajusta a todos los calibres de armas comunes. Adem&#225;s de la limpieza y el mantenimiento, tambi&#233;n puede ser utilizado como una herramienta de reparaci&#243;n eficaz. El juego comprende una peque&#241;a porci&#243;n de lubricante eficiente y disolvente de limpieza, as&#237; como algunas herramientas ligeras para facilitar el acceso a los mecanismos internos de un arma de fuego. A fin de maximizar la eficacia, se combina con materiales adicionales o juegos de reparaci&#243;n especializados.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit_p">
+		<text>Kit de reparaci&#243;n de armas de mano</text>
+	</string>
+	<string id="st_repair_kit_p_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] Armas de 9mm, calibre .45 y .357\n \n %c[ui_gray_1]Este kit contiene aceites, disolventes, equipo b&#225;sico de limpieza y herramientas especializadas utilizadas para el desmontaje y mantenimiento de los mecanismos de las armas. Tambi&#233;n viene de serie con un conjunto de piezas de repuesto elementales para las armas de fuego. El kit es bastante pesado, pero es irremplazable al aventurarse en las profundidades de la Zona, ya que puede ser usado en situaciones de vida o muerte para hacer que un arma de fuego sea utilizable nuevamente. Debido a las diferencias en la construcci&#243;n de armas, este juego en particular s&#243;lo puede ser utilizado para el desmontaje y reparaci&#243;n de armas con calibres de pistola. Tambi&#233;n es posible aumentar adicionalmente la efectividad del juego tomando prestado ciertos materiales o combin&#225;ndolos con otros juegos durante una sola sesi&#243;n de mantenimiento.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] valioso\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit_s">
+		<text>Kit de reparaci&#243;n de escopeta</text>
+	</string>
+	<string id="st_repair_kit_s_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] Armas 12ga\n \n %c[ui_gray_1]Este kit contiene aceites, disolventes, equipo b&#225;sico de limpieza y herramientas especializadas utilizadas para el desmontaje y mantenimiento de los mecanismos de las armas. Tambi&#233;n viene de serie con un conjunto de piezas de repuesto elementales para las armas de fuego. El kit es bastante pesado, pero es irremplazable al aventurarse en las profundidades de la Zona, ya que puede ser usado en situaciones de vida o muerte para hacer que un arma de fuego sea utilizable nuevamente. Debido a las diferencias en la construcci&#243;n de armas, este juego en particular s&#243;lo puede ser utilizado para el desmontaje y reparaci&#243;n de armas con calibres de escopeta 12ga. Tambi&#233;n es posible aumentar adicionalmente la efectividad del juego tomando prestado ciertos materiales o combin&#225;ndolos con otros juegos durante la sesi&#243;n de mantenimiento.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] valioso\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit_r5">
+		<text>Kit de reparaci&#243;n de rifles de calibre peque&#241;o</text>
+	</string>
+	<string id="st_repair_kit_r5_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] Armas de calibre 5.45 y 5.56\n \n %c[ui_gray_1]Este kit contiene aceites, disolventes, equipo b&#225;sico de limpieza y herramientas especializadas utilizadas para el desmontaje y mantenimiento de los mecanismos de las armas. Tambi&#233;n viene de serie con un conjunto de piezas de repuesto elementales para las armas de fuego. El kit es bastante pesado, pero es irremplazable al aventurarse en las profundidades de la Zona, ya que puede ser usado en situaciones de vida o muerte para hacer que un arma de fuego sea utilizable nuevamente. Debido a las diferencias en la construcci&#243;n de armas, este juego en particular s&#243;lo puede ser utilizado para el desmontaje y reparaci&#243;n de armas con calibres de medios de rifle. Tambi&#233;n es posible aumentar adicionalmente la efectividad del juego tomando prestado ciertos materiales o combin&#225;ndolos con otros juegos durante una sesi&#243;n de mantenimiento.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] valioso\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit_r7">
+		<text>Kit de reparaci&#243;n de rifles de calibre mediano y grande</text>
+	</string>
+	<string id="st_repair_kit_r7_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] Armas de calibre 7.62, 7.92, 9x39 y .338\n \n %c[ui_gray_1]Este kit contiene aceites, disolventes, equipo b&#225;sico de limpieza y herramientas especializadas utilizadas para el desmontaje y mantenimiento de los mecanismos de las armas. Tambi&#233;n viene de serie con un conjunto de piezas de repuesto b&#225;sicas para armas de fuego. El kit es bastante pesado, pero es irremplazable cuando se aventura en las profundidades de la Zona, ya que puede ser usado en situaciones de vida o muerte para hacer que un arma sea utilizable nuevamente. Debido a las diferencias en la construcci&#243;n del arma, este juego en particular s&#243;lo puede ser utilizado para el desmontaje y la reparaci&#243;n de los rifles de gran calibre. Tambi&#233;n es posible aumentar adicionalmente la eficacia del juego tomando prestados ciertos materiales de o combin&#225;ndolos con otros juegos durante una sola sesi&#243;n de mantenimiento.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] valioso\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit_p_empty">
+		<text>Kit de reparaci&#243;n de pistola (caja vac&#237;a)</text>
+	</string>
+	<string id="st_repair_kit_p_empty_descr">
+		<text>Caja de metal vac&#237;a que antes conten&#237;a herramientas y repuestos utilizables para el mantenimiento de armas de fuego de calibre 9mm, .45 y .357. Incluso en su estado actual puede ser &#250;til para reparar partes met&#225;licas de los trajes. Un producto comercial de bajo valor.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit_s_empty">
+		<text>Kit de reparaci&#243;n de escopeta (caja vac&#237;a)</text>
+	</string>
+	<string id="st_repair_kit_s_empty_descr">
+		<text>Caja de metal vac&#237;a que antes conten&#237;a herramientas y repuestos utilizables para el mantenimiento de armas de fuego de calibre 12ga. Incluso en su estado actual puede ser &#250;til para reparar partes met&#225;licas de los trajes. Un producto comercial de bajo valor.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit_r5_empty">
+		<text>Kit de reparaci&#243;n de rifles de calibre peque&#241;o (caja vac&#237;a)</text>
+	</string>
+	<string id="st_repair_kit_r5_empty_descr">
+		<text>Caja de metal vac&#237;a que antes conten&#237;a herramientas y repuestos utilizables para el mantenimiento de armas de fuego de calibre 5.45mm y 5.56. Incluso en su estado actual puede ser &#250;til para reparar partes met&#225;licas de los trajes. Un producto comercial de bajo valor.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit_r7_empty">
+		<text>Kit de reparaci&#243;n de rifles de calibre mediano y grande (caja vac&#237;a)</text>
+	</string>
+	<string id="st_repair_kit_r7_empty_descr">
+		<text>Caja de metal vac&#237;a que antes conten&#237;a herramientas y repuestos utilizables para el mantenimiento de armas de fuego de alto calibre. Incluso en su estado actual puede ser &#250;til para reparar partes met&#225;licas de los trajes. Un producto comercial de bajo valor.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n
+		</text>
+	</string>
+	
+	<string id="st_sewing_kit_b">
+		<text>Kit de costura b&#225;sico</text>
+	</string>
+	<string id="st_sewing_kit_b_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] todos los trajes y los juegos de luces para la cabeza\n \n %c[ui_gray_1]Un kit de costura ligero que consiste en un carrete de tela, varias agujas de acero y un par de tijeras. Puede ser usado para coser agujeros de bala o rupturas en tejidos blandos de los trajes. Sus aplicaciones pr&#225;cticas son limitadas debido a la corta longitud del hilo y la poca durabilidad de las agujas, por lo que el kit ser&#225; in&#250;til en caso de da&#241;os m&#225;s graves. Por la misma raz&#243;n, es compatible con s&#243;lo un pu&#241;ado de materiales. No obstante, se recomienda encarecidamente utilizar siempre todo lo que est&#233; disponible para que el kit sea m&#225;s eficaz.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_sewing_kit_a">
+		<text>Kit de costura avanzado</text>
+	</string>
+	<string id="st_sewing_kit_a_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] todos los trajes y los juegos de luces para la cabeza\n \n %c[ui_gray_1]Este set avanzado contiene m&#225;s y mejores accesorios de costura que su contraparte b&#225;sica. Los carretes dobles de hilo de nylon y una gran selecci&#243;n de agujas de mayor calidad lo hacen adecuado para trabajar con materiales m&#225;s gruesos y duros, incluyendo pieles mutantes m&#225;s ligeras y fibras artificiales. Tambi&#233;n es capaz de reparar trajes m&#225;s da&#241;ados.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_sewing_kit_h">
+		<text>Kit de costura pesado</text>
+	</string>
+	<string id="st_sewing_kit_h_descr">
+		<text>S\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] todos los trajes y los juegos de luces para la cabeza\n \n %c[ui_gray_1]Este equipo de costura pesada de grado militar est&#225; dise&#241;ado para manejar las roturas en las placas protectoras de las armaduras de combate modernas. Contiene suficiente hilo met&#225;lico para unir trajes que han sido literalmente desgarrados. Es capaz de coser incluso en los cueros mutantes m&#225;s duros en la armadura que elijas. Otra ventaja del kit son las herramientas mec&#225;nicas b&#225;sicas que se pueden utilizar para desarmar los trajes y los cascos con el fin de salvar los materiales de reparaci&#243;n. Es el kit de costura de mayor calidad disponible en la Zona.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_blue] • %c[ui_gray_2] valioso\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_glue_b">
+		<text>Tubo de pegamento "Zviezda"</text>
+	</string>
+	<string id="st_glue_b_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] todos los trajes y los juegos de luces para la cabeza\n \n %c[ui_gray_1]El m&#225;s barato de los adhesivos sint&#233;ticos disponibles en la Zona, esta soluci&#243;n a base de epoxi puede utilizarse para unir trozos de tela ligeramente desgarrados o para tapar un peque&#241;o agujero en el casco, pero ser&#225; in&#250;til en caso de cualquier da&#241;o grave. Por otro lado, "Zviezda" tiene una gran relaci&#243;n calidad-precio, y si se usa regularmente es capaz de mantener su equipo en buen estado en todo momento. Se aconseja utilizar cualquier tipo de material com&#250;nmente encontrado para aumentar enormemente la eficacia de la reparaci&#243;n. El pegamento, sin embargo, no sirve para las pieles mutantes. Tambi&#233;n puede ser usado para facilitar la costura.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_glue_a">
+		<text>Tubo de pegamento "Tur"</text>
+	</string>
+	<string id="st_glue_a_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] todos los trajes y los juegos de luces para la cabeza\n \n %c[ui_gray_1]Pegamento avanzado producido por la industria qu&#237;mica ucraniana, el pegamento modificado a base de epoxi "Tur" es capaz de unir r&#225;pidamente la mayor&#237;a de los materiales s&#243;lidos. La versatilidad y la facilidad de uso son las dos razones por las que "Tur" se mantiene en tan alta estima entre los stalkers, especialmente porque los materiales de recambio son escasos. El pegamento une tanto los tejidos textiles como los materiales de protecci&#243;n m&#225;s ligeros como el kevlar, pero es in&#250;til cuando se trata de metales.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_glue_e">
+		<text>Tubo de pegamento "M17"</text>
+	</string>
+	<string id="st_glue_e_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] todos los trajes y los juegos de luces para la cabeza\n \n %c[ui_gray_1]El M17 es el resultado de un proyecto de investigaci&#243;n militar-industrial sovi&#233;tico destinado a idear un adhesivo extremadamente eficaz de un solo ingrediente que pueda utilizarse en cualquier situaci&#243;n, independientemente del prop&#243;sito y los materiales involucrados. Se decidi&#243; utilizar un metacrilato de gran potencia, optimizado en la mayor&#237;a de los casos para reaccionar tanto con pl&#225;stico como con metal. Sin embargo, en el caso del M17, esta limitaci&#243;n se ha pasado por alto, lo que hace que la sustancia sea igualmente eficaz en ambas &#225;reas. Adem&#225;s, el pegamento recibi&#243; un importante impulso para su versatilidad gracias a su forma de hidrato: puede diluirse con agua y utilizarse en cualquier concentraci&#243;n seg&#250;n el resultado previsto. No hay casi ning&#250;n da&#241;o que el pegamento, combinado con los materiales adecuados, no pueda reparar. Se puede utilizar con todos los materiales disponibles en la Zona.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_blue] • %c[ui_gray_2] valioso\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_armor_repair_fa">
+		<text>Kit de reparaci&#243;n de emergencia para armaduras</text>
+	</string>
+	<string id="st_armor_repair_fa_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] todos los trajes y los juegos de luces para la cabeza\n \n %c[ui_gray_1]Un set de reparaci&#243;n que permite al usuario realizar reparaci&#243;nes de emergencia a los trajes. Incluye cinta americana de grado militar y l&#225;minas de tejido grueso listas para usarse en una variedad de formas y tama&#241;os que permitan reparar r&#225;pidamente cualquier da&#241;o en los trajes. Esto es especialmente &#250;til para prevenir m&#225;s da&#241;os estructurales de los trajes ya da&#241;ados. Debido a la durabilidad relativamente baja de los materiales suministrados, el equipo s&#243;lo puede utilizarse para reparaci&#243;nes menores y es ineficaz en el caso de materiales m&#225;s duros como el kevlar o el metal. Por esta raz&#243;n, el kit tiene un uso muy limitado en el mantenimiento de los cascos.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] uso r&#225;pido (cinta adhesiva)\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_helmet_repair_kit">
+		<text>Kit de reparaci&#243;n para cascos</text>
+	</string>
+	<string id="st_helmet_repair_kit_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] conjuntos de cascos medianos y pesados\n \n %c[ui_gray_1]Este kit contiene todo lo necesario para realizar una reparaci&#243;n efectiva de los cascos de combate modernos. Cuenta con herramientas pesadas que le permitir&#225;n trabajar con materiales duros como el kevlar, el acero o el titanio, as&#237; como con un pegamento muy fuerte a base de metacrilato. Como el kit no contiene ning&#250;n equipo de costura, no puede ser utilizado eficazmente para la reparaci&#243;n de materiales flexibles de las armaduras, pero puede ser utilizado para desarmar los carscos compuestos para mejorar en gran medida la eficacia de la reparaci&#243;n.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_blue] • %c[ui_gray_2] valioso\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo \n
+		</text>
+	</string>
+	
+	<string id="st_repair_kit">
+		<text>Kit de reparaci&#243;n de equipo pesado</text>
+	</string>
+	<string id="st_repair_kit_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] todos los trajes y los conjuntos de cascos\n \n %c[ui_gray_1]Este conjunto complejo y pesado incluye todo lo necesario, desde hilos y agujas ultraduraderos hasta parches a base de pol&#237;meros, para llevar a cabo una reparaci&#243;n completa de cualquier armadura o casco. Puede ser usado sin importar los materiales involucrados, ya sea tela pesada, l&#225;minas de kevlar de grado militar, o pesadas pieles mutantes. Las herramientas y los kits adicionales aumentan la eficacia de las reparaciones.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_blue] • %c[ui_gray_2] valioso\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	<string id="st_light_repair_kit">
+		<text>Kit de reparaci&#243;n de armadura ligera</text>
+	</string>
+	<string id="st_light_repair_kit_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] armaduras ligeras y muy ligeras\n \n %c[ui_gray_1]Este complejo y pesado conjunto incluye todo lo necesario - desde hilos y agujas ultraduraderos hasta parches a base de pol&#237;meros - para llevar a cabo una reparaci&#243;n completa de cualquier armadura ligera. Puede ser usado sin importar los materiales involucrados, ya sea tela pesada o l&#225;minas de kevlar de grado militar. Las herramientas y los kits adicionales aumentan la eficacia de las reparaci&#243;nes.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_blue] • %c[ui_gray_2] valioso\n %c[d_orange] • %c[ui_gray_2] usado para la reparaci&#243;n de armaduras ligeras\n
+		</text>
+	</string>
+	
+	<string id="st_medium_repair_kit">
+		<text>Kit de reparaci&#243;n de armadura media</text>
+	</string>
+	<string id="st_medium_repair_kit_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] armaduras medias\n \n %c[ui_gray_1]Este complejo y pesado conjunto incluye todo lo necesario - desde hilos y agujas ultraduraderos hasta parches a base de pol&#237;meros - para llevar a cabo una reparaci&#243;n completa de cualquier armadura media. Puede ser usado sin importar los materiales involucrados, ya sea tela pesada o l&#225;minas de kevlar de grado militar. Las herramientas y los kits adicionales aumentan la eficacia de las reparaci&#243;nes.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_blue] • %c[ui_gray_2] valioso\n %c[d_orange] • %c[ui_gray_2] usado para la reparaci&#243;n de armaduras medias\n
+		</text>
+	</string>
+	
+	<string id="st_exolight_repair_kit">
+		<text>Kit de reparaci&#243;n de armadura pesada</text>
+	</string>
+	<string id="st_exolight_repair_kit_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] armaduras pesadas\n \n %c[ui_gray_1]Este complejo y pesado conjunto incluye todo lo necesario - desde hilos y agujas ultraduraderos hasta parches a base de pol&#237;meros - para llevar a cabo una reparaci&#243;n completa de cualquier armadura pesada. Puede ser usado sin importar los materiales involucrados, ya sea tela pesada o l&#225;minas de kevlar de grado militar. Las herramientas y los kits adicionales aumentan la eficacia de las reparaci&#243;nes.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_blue] • %c[ui_gray_2] valioso\n
+		</text>
+	</string>
+	
+	<string id="st_exo_repair_kit">
+		<text>Kit de reparaci&#243;n de exoesqueleto</text>
+	</string>
+	<string id="st_exo_repair_kit_descr">
+		<text>\n \n %c[ui_gray_2]COMPATIBILIDAD:\n \n %c[d_orange] • %c[ui_gray_2] cualquier exoesqueleto\n \n %c[ui_gray_1]Este complejo y pesado conjunto incluye todo lo necesario - desde hilos y agujas ultraduraderos hasta parches a base de pol&#237;meros - para llevar a cabo una reparaci&#243;n completa de cualquier armadura avanzada. Puede ser usado sin importar los materiales involucrados, ya sea tela pesada o l&#225;minas de kevlar de grado militar. Las herramientas y los kits adicionales aumentan la eficacia de las reparaci&#243;nes.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_blue] • %c[ui_gray_2] valioso\n %c[d_orange] • %c[ui_gray_2] usado para reparaci&#243;n de equipo\n
+		</text>
+	</string>
+	
+	
+	<string id="st_leatherman_tool">
+		<text>Multiherramienta</text>
+	</string>
+	<string id="st_leatherman_tool_descr">
+		<text>Una multiherramienta desgastada pero funcional, utilizada para desarmar armas y armaduras en varias partes y para el mantenimiento de mecanismos de disparo desgastados y oxidados.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_purple] • %c[ui_gray_2] herramienta de desarme\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] kit de herramientas\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_orange] • %c[ui_gray_2] utilizable para el mantenimiento de partes de armas\n
+		</text>
+	</string>
+	
+	<string id="st_rasp_tool">
+		<text>Lima</text>
+	</string>
+	<string id="st_rasp_tool_descr">
+		<text>Una lima, usada para restaurar partes de un arma como un ca&#241;&#243;n desgastado u oxidado o una cabeza de culata.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] kit de herramientas\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_orange] • %c[ui_gray_2] utilizable para el mantenimiento de partes de armas\n
+		</text>
+	</string>
+	
+	<string id="st_ramrod_tool">
+		<text>Baqueta</text>
+	</string>
+	<string id="st_ramrod_tool_descr">
+		<text>Una vieja baqueta que consiste en tres partes de madera compuesta, usada para restaurar partes como ca&#241;ones y tubos de gas gastados u oxidados.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] kit de herramientas\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_orange] • %c[ui_gray_2] utilizable para el mantenimiento de partes de armas\n
+		</text>
+	</string>
+
+	<string id="st_sewing_thread">
+		<text>Hilo de coser b&#225;sico</text>
+	</string>
+	<string id="st_sewing_thread_descr">
+		<text>Este hilo de coser est&#225; hecho de muchos materiales diferentes, incluyendo algod&#243;n, lino, nylon y seda. Todo stalker sabe que no es f&#225;cil evitar el desgarro de la ropa de vez en cuando debido al duro ambiente dentro de la Zona. Guardar un par de hilos de coser para viajes largos es una gran idea.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso cotidiano\n %c[d_orange] • %c[ui_gray_2] utilizable para el mantenimiento de las piezas del traje\n
+		</text>
+	</string>
+	
+	<string id="st_heavy_sewing_thread">
+		<text>Juego de herramientas para blindaje de campo</text>
+	</string>
+	<string id="st_heavy_sewing_thread_descr">
+		<text>Un avanzado juego de herramientas para coser y selladores retardantes. Incluyendo hilo de kevlar, uno de los hilos m&#225;s fuertes y resistentes al calor disponibles en el mercado. Es aproximadamente 2,5 veces m&#225;s fuerte que el nylon y el poli&#233;ster, tiene muy poco estiramiento, no se derrite ni se descompone a 800F. Esto lo convierte en una gran elecci&#243;n para usos de gran tensi&#243;n, incluyendo las costuras de la ropa de trabajo pesado.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo tecnol&#243;gico\n %c[d_blue] • %c[ui_gray_2] toolkit\n %c[d_blue] • %c[ui_gray_2] alta calidad\n %c[d_orange] • %c[ui_gray_2] utilizable para el mantenimiento de las piezas del traje\n
+		</text>
+	</string>
+</string_table>

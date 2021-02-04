@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="st_companion_order_tooFar">
+		<text>Mi escuadron no me puede escuchar. Necesito estar m&#225;s cerca de ellos o contactar via PDA.</text>
+	</string>
+	<string id="st_no_companions">
+		<text>No tienes compa&#241;eros cerca</text>
+	</string>
+
+	<string id="st_set_companion_to_attack_state">
+		<text>Fuego a discreci&#243;n</text>
+	</string>
+	<string id="st_set_companion_to_ignore_combat_state">
+		<text>Ignorar el combate</text>
+	</string>
+	<string id="st_set_companion_to_attack_only_actor_combat_enemy_state">
+		<text>Ignora el combate, pero ay&#250;dame</text>
+	</string>
+	<string id="st_set_companion_to_wait_state">
+		<text>Esperar aqu&#237;</text>
+	</string>
+	<string id="st_set_companion_to_follow_state">
+		<text>Sigueme</text>
+	</string>
+	<string id="st_set_companion_to_patrol_state">
+		<text>Patrulla esta area</text>
+	</string>
+	<string id="st_move_to_point">
+		<text>Mover a punto</text>
+	</string>
+	<string id="st_set_companion_to_loot_items_and_corpses">
+		<text>Registrar cad&#225;veres</text>
+	</string>
+	<string id="st_set_companion_to_loot_nothing">
+		<text>No registrar</text>
+	</string>
+	<string id="st_set_companion_to_stay_far">
+		<text>Mantenerse lejos</text>
+	</string>
+	<string id="st_set_companion_to_stay_close">
+		<text>Mantenerse cerca</text>
+	</string>
+	<string id="st_set_companion_to_stealth_substate">
+		<text>Sigilo</text>
+	</string>
+	<string id="st_set_companion_to_default_substate">
+		<text>Parar sigilo</text>
+	</string>
+	<string id="st_set_companion_to_trade">
+		<text>Cambiar art&#237;culos</text>
+	</string>
+	
+</string_table>

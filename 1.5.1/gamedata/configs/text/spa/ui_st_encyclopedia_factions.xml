@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="windows-1251" ?>
+<string_table>
+	
+	<string id="encyclopedia_factions">
+		<text>Facciones</text>
+	</string>
+	
+	<string id="encyclopedia_factions_bandit">
+		<text>Bandido</text>
+	</string>
+	<string id="encyclopedia_factions_bandit_text">
+		<text>
+			Los %c[pda_white]Bandidos %c[ui_gray_1] son miembros del submundo criminal que operan en la Zona.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nAlgunas personas vienen a la Zona para expiar sus errores pasados, para buscar la iluminaci&#243;n o encontrar una aventura. Los bandidos no son esa clase de gente.\n \nAntes s&#243;lo eran bandas armadas. La mano dura de Sult&#225;n, que antes no era m&#225;s que una pandilla que persegu&#237;a objetivos personales, ha forzado a los criminales y parias de la Zona a adoptar una apariencia de cohesi&#243;n.\n \nMientras que la mayor&#237;a de los bandidos participan abiertamente en guerras territoriales con las otras facciones, los criminales m&#225;s inteligentes optan por infiltrarse en esas facciones para estafar, secuestrar, coaccionar y corromper a otros con relativa impunidad.\n \nAqu&#237;, la ley es lo que se hace, y a Sult&#225;n le gusta ver a los bandidos como una ley en s&#237; mismos.\n \n%c[pda_blue]Estad&#237;sticas%c[ui_gray_1]\n \n• Fort&#237;n: Sultan\n• Base: Valle Oscuro\n• Colores: Varios
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_clear_sky">
+		<text>Cielo Despejado</text>
+	</string>
+	<string id="encyclopedia_factions_clear_sky_text">
+		<text>
+			%c[pda_white]Cielo Despejado%c[ui_gray_1] son una facci&#243;n cient&#237;fica dedicada a aprender sobre el funcionamiento interno de la Zona.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nA pesar de su papel en las Guerras de Facciones de 2011, en general se les considera una facci&#243;n pac&#237;fica, que prefiere invertir su tiempo y energ&#237;a en la investigaci&#243;n en lugar de jugar a la pol&#237;tica o la guerra.\n \nVen la Zona y su creaci&#243;n como un regalo y una maldici&#243;n, un acontecimiento incre&#237;ble con un potencial poco apreciado, y una amenaza para la humanidad si no se mantiene el equilibrio.\n \nFue esta &#250;ltima parte de su ideolog&#237;a la que los llev&#243; a la casi destrucci&#243;n. Creyendo que un hombre llamado Strelok estaba alterando el equilibrio de la Zona al intentar entrar en la CNPP, Cielo Despejado moviliz&#243; uno de los ej&#233;rcitos m&#225;s grandes jam&#225;s vistos en la Zona para detenerlo.\n \nLo interceptaron justo fuera de la propia CNPP, poco antes de la Tercera Gran Emisi&#243;n. Nadie est&#225; completamente seguro de lo que pas&#243; despu&#233;s, s&#243;lo que Cielo Despejado qued&#243; sin l&#237;der y diezmado, mientras que el Monolito que defend&#237;a la zona parec&#237;a haberse hecho m&#225;s fuerte.\n \nHoy, sin embargo, la facci&#243;n ha sido reconstruida y recuperada. Esto es, en gran parte, gracias a su nuevo l&#237;der, Cold. Cielo Despejado ahora pasa su tiempo llevando a cabo la investigaci&#243;n de sus predecesores, instalados en los rincones tranquilos de la Zona.\n \n%c[pda_blue]Estad&#237;sticas%c[ui_gray_1]\n \n• L&#237;der: Cold\n• Base: Grandes Pantanos\n• Colores: Azul y blanco
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_duty">
+		<text>Deber</text>
+	</string>
+	<string id="encyclopedia_factions_duty_text">
+		<text>
+			%c[pda_white]Deber%c[ui_gray_1] es una organizaci&#243;n paramilitar dedicada a defender a la humanidad de los horrores de la Zona.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nFundada por ex-soldados, esta facci&#243;n, que una vez fue orgullosa y poderosa, ahora ha quedado en ruinas por una serie de esc&#225;ndalos y fallas operacionales en el norte de la Zona.\n \nCon la mayor&#237;a de sus mejores hombres y personal al mando muertos o desertores, Voronin y Petrenko han sido presionados para mantener la disciplina caracter&#237;stica de la facci&#243;n de entre los restos.\n \nSin embargo, contra todo pron&#243;stico, la facci&#243;n contin&#250;a viviendo por sus ideales, haciendo todo lo posible para mantener Rostok como un refugio seguro para los stalkers neutrales de todas partes.\n \nLos miembros que no forman parte de la fuerza de defensa de Rostok tienden a dedicarse a cazar bandidos, purgar guaridas de mutantes y ayudar a los ecologistas mediante la donaci&#243;n de muestras cient&#237;ficas.\n \nA pesar de haberse convertido en una sombra de lo que fue, Deber sigue oponi&#233;ndose a Libertad por motivos ideol&#243;gicos, creyendo que la Zona es demasiado peligrosa para ser accesible sin regulaci&#243;n.\n \n%c[pda_blue]Estad&#237;sticas%c[ui_gray_1]\n \n• Oficial al mando: General Voronin\n• Base Principal: Rostok\n• Colores: Rojo y Negro
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_ecologist">
+		<text>Ecologista</text>
+	</string>
+	<string id="encyclopedia_factions_ecologist_text">
+		<text>
+			Los %c[pda_white]Ecologistas%c[ui_gray_1] son un instituto de organizaciones de investigaci&#243;n respaldadas por el gobierno.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nNo hay ning&#250;n ecosistema en ning&#250;n otro lugar como el que se encuentra en la Zona, as&#237; que naturalmente tambi&#233;n hay un gran inter&#233;s expresado en ella por parte del gobierno.\n \nEs por esa raz&#243;n que esta facci&#243;n existe - para estudiar los artefactos, anomal&#237;as, mutantes y otros objetos antinaturales que s&#243;lo pueden ser encontrados aqu&#237;.\n \nHasta ahora han establecido dos laboratorios de investigaci&#243;n, uno en Yantar y otro en J&#250;piter, desde los cuales llevan a cabo la mayor&#237;a de sus experimentos secretos.\n \nCuando trabajan en el campo, a menudo son acompa&#241;ados por una escolta, generalmente de ex mercenarios, stalkers y soldados bajo su mando, o est&#225;n armados de alguna otra manera.\n \nMuchos stalkers que buscan artefactos y partes raras de mutantes los venden a los ecologistas, ya que normalmente est&#225;n dispuestos a pagar mucho m&#225;s que nadie por ellos.\n \n%c[pda_blue]Estad&#237;sticas%c[ui_gray_1]\n \n• Investigador principal: ProfesorSakharov\n• Laboratorio de investigaci&#243;n principal: Yantar\n• Colores: Varios
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_freedom">
+		<text>Libertad</text>
+	</string>
+	<string id="encyclopedia_factions_freedom_text">
+		<text>
+			%c[pda_white]Libertad%c[ui_gray_1] son activistas an&#225;rquicos armados que luchan por el libre acceso a la Zona.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLos miembros de esta facci&#243;n creen en la coexistencia con la Zona, vi&#233;ndola como una maravilla cient&#237;fica y sociopol&#237;tica. Creen que la Zona debe ser reconocida como un territorio libre sin gobernantes, y se oponen a cualquiera que busque controlarla o actuar en contra de su naturaleza.\n \nEstos puntos de vista los ponen en contraste directo con Deber, que ven cualquier forma de coexistencia con la Zona como ingenua o temporal en el mejor de los casos, y en el peor de los casos abogan por su destrucci&#243;n total.\n \nLa determinaci&#243;n de Lukash en la defensa contra el Monolito, combinado con la sensatez de Loki hacia otros grupos ha hecho de Libertad una de las facciones m&#225;s aceptadas en la Zona... al menos, por ahora.\n \n%c[pda_blue]Estad&#237;sticas%c[ui_gray_1]\n \n• L&#237;der: Lukash\n• Base Principal: Almacenes Militares\n• Colores: Verde, oliva y amarillo
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_loner">
+		<text>Solitario</text>
+	</string>
+	<string id="encyclopedia_factions_loner_text">
+		<text>
+			Los %c[pda_white]Solitarios%c[ui_gray_1], o "%c[pda_green]stalkers libres%c[ui_gray_1]", son aquellos que no est&#225;n alineados con una facci&#243;n.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nLos stalkers vienen a la Zona por varias razones: sed de aventura, ganas de explorar lo desconocido o el deseo de empezar una nueva vida desde cero.\n \nMuchas facciones influyentes adoptan una postura neutral o amistosa hacia ellos, vi&#233;ndolos como potenciales reclutas, o como mano de obra para realizar trabajos que no pueden o no quieren hacer ellos mismos.\n \nLa mayor&#237;a de sus ingresos provienen de la recolecci&#243;n de artefactos, partes mutantes, armas y diversos art&#237;culos descubiertos al saquear edificios abandonados y stalkers muertos.\n \nSin embargo, casi todos los stalkers esperanzados sue&#241;an con encontrar alg&#250;n d&#237;a el legendario 'Genio', aparentemente un antiguo cristal alien&#237;gena capaz de satisfacer cualquier deseo.\n \n%c[pda_blue]Estad&#237;sticas%c[ui_gray_1]\n \n• Comerciante m&#225;s influyente: Sidorovich\n• Campo de entrenamiento: Cordon\n• Colores: Varios
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_mercenary">
+		<text>Mercenario</text>
+	</string>
+	<string id="encyclopedia_factions_mercenary_text">
+		<text>
+			Los %c[pda_white]Mercenarios%c[ui_gray_1] son una facci&#243;n de contratistas militares privados del extranjero.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nSon muy serios en cuanto a sus tareas y trabajo en general, siendo las claves de su &#233;xito las operaciones bien planificadas y la excelente preparaci&#243;n.\n \nContrariamente a la creencia popular, no son s&#243;lo asesinos a sueldo, sino que llevan a cabo varios contratos que implican la b&#250;squeda de artefactos y equipos raros, y escoltan la valiosa carga a trav&#233;s de las zonas m&#225;s peligrosas de la Zona.\n \nAunque a menudo son buscados por otras personas debido a su alto &#237;ndice de &#233;xito, se rumorea que su verdadero cliente es un misterioso empleador extranjero, cuyos motivos son a&#250;n m&#225;s incomprensibles que la propia Zona.\n \n%c[pda_blue]Estad&#237;sticas%c[ui_gray_1]\n \n• Enlace con el contratista: Dushman\n• Cuartel: Ciudad Muerta\n• Colores: Azul y negro
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_military">
+		<text>Militar</text>
+	</string>
+	<string id="encyclopedia_factions_military_text">
+		<text>
+			Las fuerzas %c[pda_white]Militares%c[ui_gray_1] En la Zona son un regimiento combinado de soldados reclutados, Spetsnaz profesionales y stalkers militares contratados, bajo el mando del Ministerio del Interior y con el asesoramiento del Servicio de Seguridad de Ucrania.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nEncargados principalmente de asegurar que la frontera entre la Zona y el mundo exterior no se rompa, son odiados aqu&#237; por casi todo el mundo, excepto por los Ecologistas - que son financiados por el mismo gobierno - y Deber, que se rumorea que han hecho tratos especiales con el mando militar a trav&#233;s de la Spetsnaz. \n \nOficialmente, la pol&#237;tica militar en la Zona requiere que cualquier intruso conocido o habitantes no autorizados sean detenidos, no asesinados. En la pr&#225;ctica, sin embargo, los reclutas reciben &#243;rdenes continuas de disparar a los stalkers en cuanto los vean, y generalmente se les ense&#241;a a considerar a esos ilegales como poco m&#225;s que animales.\n \nMientras tanto, sus oficiales comisionados son frecuentemente y f&#225;cilmente sobornados, siendo el ejemplo m&#225;s obvio c&#243;mo generalmente ignoran el campamento de novatos en el Cordon a pesar de estar a menos de unos pocos cientos de metros de un punto de control importante.\n \n%c[pda_blue]Estad&#237;sticas%c[ui_gray_1]\n \n• Oficial al mando de facto: Mayor Kuznetsov\n• Base: Agroprom\n• Colores: Verde y oliva
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_monolith">
+		<text>Monolito</text>
+	</string>
+	<string id="encyclopedia_factions_monolith_text">
+		<text>
+			Los %c[pda_white]Monolitos%c[ui_gray_1] son una secta pseudo-religiosa fan&#225;tica y hostil a todos menos a los suyos.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nObsesionados por su fanatismo, intentan combatir a todos los que intentan penetrar en el centro de la Zona, hasta tal punto que la mayor&#237;a de los stalkers los consideran aut&#233;nticamente locos.\n \nAunque f&#237;sicamente est&#225;n a la par de cualquier otro stalker de la Zona, su fervor es lo que realmente los distingue: se sabe que los miembros cargan con cuchillos despu&#233;s de quedarse sin municiones, o se explotan cuando corren el riesgo de ser capturados.\n \nSe cree que sus miembros son inducidos a trav&#233;s de un lavado mental previo al uso del Cauterizador hasta que Strelok lo apag&#243;.\n \nIndependientemente de esto, en los &#250;ltimos a&#241;os el Monolito ha logrado obtener un suministro aparentemente interminable de reclutas y material.\n \n%c[pda_blue]Estad&#237;sticas%c[ui_gray_1]\n \n• Intercesor: Conejo/  Krolik\n• Ciudad Santa: Pripyat\n• Colores: Blanco, negro y marron.
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_greh">
+		<text>Pecado</text>
+	</string>
+	<string id="encyclopedia_factions_greh_text">
+		<text>
+			%c[pda_white]Pecado%c[ui_gray_1] son un culto extremadamente hostil de stalkers mutantes que creen en la esencia divina de la Zona, vi&#233;ndola como un medio para la curaci&#243;n y la 'absoluci&#243;n'.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nDiversamente descritos como zombificados, mutados o pose&#237;dos, los "stalkers oscuros" de la ominosa facci&#243;n del Pecado buscan expandir la Zona para que abarque el mundo entero - y no se detendr&#225;n ante nada para lograr este ambicioso objetivo.\n \nA pesar de su complexi&#243;n como muerta y su aparente mala salud, son una fuerza a tener en cuenta. Su capacidad de combate est&#225; a la par de la de los stalkers experimentados, mientras que la devoci&#243;n fan&#225;tica a sus ideales les obliga a avanzar a trav&#233;s de granadas, balas y metralla.\n \nSe rumorea que sus fundadores son antiguos presos del corredor de la muerte con los que experimentaron en secreto en laboratorios subterr&#225;neos mucho antes de la creaci&#243;n de la Zona.\n \nPor otro lado, se cree que sus filas fueron reforzadas con proscritos, renegados, reclutas voluntarios y cautivos, a los que se les lav&#243; el cerebro y se les mut&#243; para que sirvieran como devotos del Pecado.\n \n%c[pda_blue]Estad&#237;sticas%c[ui_gray_1]\n \n• Padre fundador: Chernobog\n• Santuario: Generadores\n• Colores: Marr&#243;n, gris y negro
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_isg">
+		<text>UNISG</text>
+	</string>
+	<string id="encyclopedia_factions_isg_text">
+		<text>
+			%c[pda_white]United Nations International Scientific Group%c[ui_gray_1] (Grupo Cient&#237;fico Internacional de las Naciones Unidas, por sus siglas en ingles) es una unidad de fuerzas especiales con un gran inter&#233;s en la Zona, y el m&#225;s despiadado sucesor del ISG original.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nSi bien el ISG original fue disuelto poco despu&#233;s de su fundaci&#243;n en 2011 debido a circunstancias imprevistas, los recientes rumores inquietantes seguidos de una vasta pero inofensiva emisi&#243;n vista hasta Londres convencieron a las Naciones Unidas de restaurar este grupo internacional con el mandato de investigar la Zona.\n \nAparentemente contin&#250;an con su antiguo cometido como contraparte occidental de los ecologistas, estudiando las maravillas de la Zona en beneficio de la ciencia.\n \nEn realidad, el gobierno ucraniano sospecha que tienen un inter&#233;s &#225;vido y pol&#237;ticamente motivado en los verdaderos or&#237;genes de la Zona. No hace falta decir que la SSU no querr&#237;a que ese conocimiento cayera en las manos equivocadas. Es por esta raz&#243;n que la presencia oficial de la ONU en la Zona es extremadamente limitada.\n \nPor lo tanto, los muchos miembros encubiertos de UNISG activos en la Zona har&#237;an cualquier cosa para preservar su secreto mientras dure, hasta e incluyendo la liquidaci&#243;n de potenciales testigos oculares. Cualquiera que sea su objetivo real, sus agentes en el campo est&#225;n lejos de ser indefensos, por lo que est&#225;n preparados para "obtener conocimientos" con armamento de &#250;ltima generaci&#243;n y modernas t&#225;cticas de combate.\n \n%c[pda_blue]Estad&#237;sticas%c[ui_gray_1]\n \n• M&#225;ndados por: Naciones Unidas\n• Base Principal: Desconocida\n• Colores: Blanco, verde y marr&#243;n
+		</text>
+	</string>
+	
+	<string id="encyclopedia_factions_renegade">
+		<text>Renegado</text>
+	</string>
+	<string id="encyclopedia_factions_renegade_text">
+		<text>
+			Los %c[pda_white]Renegados%c[ui_gray_1] fueron algunos de los stalkers m&#225;s despreciables de la Zona.\n \n%c[pda_green]Informacion%c[ui_gray_1]\n \nConsiderados moralmente en bancarrota incluso para los est&#225;ndares de los bandidos, se dice que los renegados est&#225;n formados por stalkers tan brutales, viles, cobardes, poco fiables o enga&#241;osos que ninguna otra comunidad est&#225; dispuesta a asociarse abiertamente con ellos.\n \nLa &#250;nica ley que respetan es la de la fuerza, que se aprovecha de los d&#233;biles en los limites de la Zona, generalmente los m&#225;s j&#243;venes e inexpertos para tener alguna posibilidad contra ellos.\n \nConducidos a los pantanos por sus numerosos enemigos, fue s&#243;lo de cara a Cielo Despejado que su deseo de sobrevivir oblig&#243; a estos chacales a unirse como una facci&#243;n aparte. \n%c[pda_blue]Estad&#237;sticas%c[ui_gray_1]\n \n• Lideres: Desconocido\n• Base: Desconocida\n• Colores: Varios\n
+		</text>
+	</string>
+
+	<string id="encyclopedia_factions_zombified">
+		<text>Zombificado</text>
+	</string>
+	<string id="encyclopedia_factions_zombified_text">
+		<text>
+			Los %c[pda_white]Zombis%c[ui_gray_1] son stalkers que han ca&#237;do bajo los efectos de un fuerte campo ps&#237;quico, pero que no pudieron conservar la voluntad necesaria para servir conscientemente al Monolito.\n \n%c[pda_green]Informaci&#243;n%c[ui_gray_1] \nEstas criaturas carecen de las funciones m&#225;s avanzadas del cerebro y act&#250;an &#250;nicamente por reflejos y habilidades de tipo residual, siendo incapaces de realizar actividades conscientes y teniendo un alto l&#237;mite de dolor. La salud mental y f&#237;sica de un stalker zombificado se ir&#225; deteriorando gradualmente con el tiempo, llegando a perder lo &#250;ltimo de su humanidad, y convirti&#233;ndose en el mutante conocido como zombi. Sin embargo, a diferencia de los zombis cl&#225;sicos, los stalkers zombificados son capaces de usar armas y herramientas, y se les ve frecuentemente trabajando juntos en grupos, o arreados por soldados del Monolito.\n \n%c[pda_green]Statistics%c[ui_gray_1]\n \n• M&#233;todos para prevenir/retrasar la zombificaci&#243;n: Anabi&#243;ticos, Cascos Ps&#237;quicos, Drogas y Cascos que otorgan Resistencia Ps&#237;quica\n• Causas comunes de zombificaci&#243;n: Emisiones, el Cauterizador, El Genio, los controladores\n• Colores: Varios\n
+		</text>
+	</string>
+</string_table>
