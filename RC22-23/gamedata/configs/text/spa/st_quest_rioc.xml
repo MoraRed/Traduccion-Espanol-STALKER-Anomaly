@@ -6,15 +6,15 @@
 	</string>
 
 	<string id="st_rioc_sid">
-		<text>Suministros de Sidorovich</text>
+		<text>Los suministros de Sidorovich</text>
 	</string>
 
 	<string id="st_rioc_duty_desc">
-		<text>La PDA del stalker de Deber que fue dejado atr&#225;s por sus compa&#241;eros.</text>
+		<text>Esta PDA confirma que el soldado desaparecido de Petrenko est&#225; muerto al fin y al cabo. Parece que dio lo mejor que pudo.</text>
 	</string>
 
 	<string id="st_rioc_duty">
-		<text>PDA de Deber muerto</text>
+		<text>PDA de un miembro de Deber muerto</text>
 	</string>
 
 	<string id="st_rioc_ecolog_desc">
@@ -46,15 +46,15 @@
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_rioc_t">
-		<text>Encuentra al soldado muerto</text>
+		<text>Encuentra al Soldado Deber desaparecido</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_rioc_d">
-		<text>Una patrulla ha sido asaltada por chupasangres. Todos se mearon en los pantalones y corrieron de vuelta al puesto de control, adem&#225;s de ser un mont&#243;n de cobardes que hab&#237;an dejado atr&#225;s a uno de sus miembros de la patrulla. Est&#225;n demasiado asustados para volver a la patrulla, as&#237; que los enviaron a hacer guardia y a limpiar. Si puedes encontrar a este soldado desaparecido, te compensar&#233; por tus problemas. Si est&#225; vivo, entonces tr&#225;elo de vuelta, si est&#225; muerto, entonces tr&#225;eme su PDA.</text>
+		<text>Hoy temprano, una patrulla Deber ligera respondi&#243; a una llamada de auxilio de los neutrales. Llegaron a tiempo para evacuar a algunos stalkers y cient&#237;ficos que hab&#237;an sido atacados por mutantes, pero uno de los Debers tuvo que quedarse atr&#225;s para asegurar el escape. El resto de su escuadr&#243;n ahora lo lista como 'desaparecido en acci&#243;n'. Me gustar&#237;a que investigaras el lugar del ataque y confirmaras su estado. Si est&#225; vivo, c&#250;ralo lo mejor que puedas y luego tr&#225;elo de vuelta. Si no puedes salvarlo, trae su PDA; los registros de un m&#225;rtir deben ser guardados para la posteridad.</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_end">
-		<text>Esto no quedar&#225; bien con el p&#250;blico, no vayas a correr la voz sobre esto a nadie. Si Libertad se entera de esto, estaremos escuchando sobre esto por un mes. Gracias por traer su PDA, como dije, cumplir&#233; mi parte del trato. Aqu&#237; est&#225; tu pago.</text>
+		<text>&#191;Est&#225; muerto, entonces? Era un buen hombre, pero la Zona puede ser implacable en su odio hacia esa gente. D&#233;jame ver su PDA... mmm, interesante. En nombre de Deber, tienes nuestra gratitud. Toma, te has ganado con creces este pago.</text>
 	</string>
 
 	<string id="esc_m_trader_task_recover_item_on_corpse_agroprom_0">
@@ -154,27 +154,27 @@
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_rioc_agroprom_0">
-		<text>Encuentra al soldado desaparecido</text>
+		<text>Encuentra al Soldado Deber desaparecido</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_rioc_pol_0">
-		<text>Encuentra al soldado desaparecido</text>
+		<text>Encuentra al Soldado Deber desaparecido</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_rioc_garbage_0">
-		<text>Encuentra al soldado desaparecido</text>
+		<text>Encuentra al Soldado Deber desaparecido</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_rioc_wt_0">
-		<text>Encuentra al soldado desaparecido</text>
+		<text>Encuentra al Soldado Deber desaparecido</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_rioc_aw_0">
-		<text>Encuentra al soldado desaparecido</text>
+		<text>Encuentra al Soldado Deber desaparecido</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_rioc_trucc_0">
-		<text>Encuentra al soldado desaparecido</text>
+		<text>Encuentra al Soldado Deber desaparecido</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_rioc_agroprom_1">
