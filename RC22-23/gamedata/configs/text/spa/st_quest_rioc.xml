@@ -1,22 +1,24 @@
-﻿<string_table>
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
 	<string id="st_rioc_sid_desc">
-		<text>Un contenedor sellado que encontraste en un stalker muerto, debe ser el envío del que hablaba Sidorovich.</text>
+		<text>Un contenedor sellado que encontraste en un stalker muerto, debe ser el env&#237;o del que hablaba Sidorovich.</text>
 	</string>
 
 	<string id="st_rioc_sid">
-		<text>Los suministros de Sidorovich</text>
+		<text>Suministros de Sidorovich</text>
 	</string>
 
 	<string id="st_rioc_duty_desc">
-		<text>Esta PDA confirma que el soldado desaparecido de Petrenko está muerto al fin y al cabo. Parece que dio lo mejor que pudo.</text>
+		<text>La PDA del stalker de Deber que fue dejado atr&#225;s por sus compa&#241;eros.</text>
 	</string>
 
 	<string id="st_rioc_duty">
-		<text>PDA de un miembro de Deber muerto</text>
+		<text>PDA de Deber muerto</text>
 	</string>
 
 	<string id="st_rioc_ecolog_desc">
-		<text>Una computadora encerrada en un contenedor reforzado, según los científicos se trata de un prototipo de detector totalmente nuevo destinado a cambiar el mundo de la caza de artefactos. Desafortunadamente ninguno de los gráficos y números tienen sentido para ti.</text>
+		<text>Una computadora encerrada en un contenedor reforzado, seg&#250;n los cient&#237;ficos se trata de un prototipo de detector totalmente nuevo destinado a cambiar el mundo de la caza de artefactos. Desafortunadamente ninguno de los gr&#225;ficos y n&#250;meros tienen sentido para ti.</text>
 	</string>
 
 	<string id="st_rioc_ecolog">
@@ -24,11 +26,11 @@
 	</string>
 
 	<string id="esc_m_trader_task_recover_item_on_corpse_d">
-		<text>Se suponía que un stalker me traería algunos suministros especiales de otro comerciante pero no he sabido nada de él durante algunos días, al principio pensé que sólo se había escapado con las cosas pero no ha ocultado su ubicación y tampoco se ha movido durante un tiempo. Tal vez sólo perdió su PDA o incluso se murió, de todos modos necesito que alguien vaya allí y compruebe lo que pasó. Si murió y por casualidad todavía tiene las cosas, tráelas de vuelta.</text>
+		<text>Se supon&#237;a que un stalker me traer&#237;a algunos suministros especiales de otro comerciante pero no he sabido nada de &#233;l durante algunos d&#237;as, al principio pens&#233; que s&#243;lo se hab&#237;a escapado con las cosas pero no ha ocultado su ubicaci&#243;n y tampoco se ha movido durante un tiempo. Tal vez s&#243;lo perdi&#243; su PDA o incluso se muri&#243;, de todos modos necesito que alguien vaya all&#237; y compruebe lo que pas&#243;. Si muri&#243; y por casualidad todav&#237;a tiene las cosas, tr&#225;elas de vuelta.</text>
 	</string>
 
 	<string id="esc_m_trader_task_recover_item_on_corpse_t">
-		<text>Recupera el envío de Sidorovich</text>
+		<text>Recupera el env&#237;o de Sidorovich</text>
 	</string>
 
 	<string id="yan_stalker_sakharov_task_rioc_t">
@@ -36,47 +38,47 @@
 	</string>
 
 	<string id="yan_stalker_sakharov_task_rioc_d">
-		<text>Tenemos un pequeño problema ahora mismo, uno de nuestros equipos salió a realizar algunos escaneos anómalos pero aún no ha regresado. Hemos intentado contactar con ellos pero no hemos obtenido ninguna respuesta. Cuando hablamos de esto con el Servicio de Seguridad del Estado, dijeron que no pueden prescindir de los recursos o la mano de obra para ir a buscar a nuestro equipo ahora mismo. Actualmente es algo vital para nuestra investigación. Uno de los miembros del equipo estaba equipado con un prototipo de detector, algo que raramente sacamos de la base para utilizarlo. Si pudieras ir a su última ubicación conocida y encontrar el prototipo o el equipo, te pagaremos por tus servicios. Marcaré la posición en tu PDA cuando perdimos el contacto.</text>
+		<text>Tenemos un peque&#241;o problema ahora mismo, uno de nuestros equipos sali&#243; a realizar algunos escaneos an&#243;malos pero a&#250;n no ha regresado. Hemos intentado contactar con ellos pero no hemos obtenido ninguna respuesta. Cuando hablamos de esto con el Servicio de Seguridad del Estado, dijeron que no pueden prescindir de los recursos o la mano de obra para ir a buscar a nuestro equipo ahora mismo. Actualmente es algo vital para nuestra investigaci&#243;n. Uno de los miembros del equipo estaba equipado con un prototipo de detector, algo que raramente sacamos de la base para utilizarlo. Si pudieras ir a su &#250;ltima ubicaci&#243;n conocida y encontrar el prototipo o el equipo, te pagaremos por tus servicios. Marcar&#233; la posici&#243;n en tu PDA cuando perdimos el contacto.</text>
 	</string>
 
 	<string id="yan_stalker_sakharov_task_rioc_end">
-		<text>Gracias a Dios, no sabes lo agradecido que estoy de ver este dispositivo de nuevo en nuestras manos! Perder al equipo fue triste, pero este dispositivo retrasaría nuestra investigación por casi un año. Gracias por tu ayuda, aquí tienes un pago por tus servicios.</text>
+		<text>Gracias a Dios, no sabes lo agradecido que estoy de ver este dispositivo de nuevo en nuestras manos! Perder al equipo fue triste, pero este dispositivo retrasar&#237;a nuestra investigaci&#243;n por casi un a&#241;o. Gracias por tu ayuda, aqu&#237; tienes un pago por tus servicios.</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_rioc_t">
-		<text>Encuentra al Soldado Deber desaparecido</text>
+		<text>Encuentra al soldado muerto</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_rioc_d">
-		<text>Hoy temprano, una patrulla Deber ligera respondió a una llamada de auxilio de los neutrales. Llegaron a tiempo para evacuar a algunos stalkers y científicos que habían sido atacados por mutantes, pero uno de los Debers tuvo que quedarse atrás para asegurar el escape. El resto de su escuadrón ahora lo lista como 'desaparecido en acción'. Me gustaría que investigaras el lugar del ataque y confirmaras su estado. Si está vivo, cúralo lo mejor que puedas y luego tráelo de vuelta. Si no puedes salvarlo, trae su PDA; los registros de un mártir deben ser guardados para la posteridad.</text>
+		<text>Una patrulla ha sido asaltada por chupasangres. Todos se mearon en los pantalones y corrieron de vuelta al puesto de control, adem&#225;s de ser un mont&#243;n de cobardes que hab&#237;an dejado atr&#225;s a uno de sus miembros de la patrulla. Est&#225;n demasiado asustados para volver a la patrulla, as&#237; que los enviaron a hacer guardia y a limpiar. Si puedes encontrar a este soldado desaparecido, te compensar&#233; por tus problemas. Si est&#225; vivo, entonces tr&#225;elo de vuelta, si est&#225; muerto, entonces tr&#225;eme su PDA.</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_end">
-		<text>¿Está muerto, entonces? Era un buen hombre, pero la Zona puede ser implacable en su odio hacia esa gente. Déjame ver su PDA... mmm, interesante. En nombre de Deber, tienes nuestra gratitud. Toma, te has ganado con creces este pago.</text>
+		<text>Esto no quedar&#225; bien con el p&#250;blico, no vayas a correr la voz sobre esto a nadie. Si Libertad se entera de esto, estaremos escuchando sobre esto por un mes. Gracias por traer su PDA, como dije, cumplir&#233; mi parte del trato. Aqu&#237; est&#225; tu pago.</text>
 	</string>
 
 	<string id="esc_m_trader_task_recover_item_on_corpse_agroprom_0">
-		<text>Encuentra el envío de Sidorovich</text>
+		<text>Encuentra el env&#237;o de Sidorovich</text>
 	</string>
 
 	<string id="esc_m_trader_task_recover_item_on_corpse_pol_0">
-		<text>Encuentra el envío de Sidorovich</text>
+		<text>Encuentra el env&#237;o de Sidorovich</text>
 	</string>
 
 	<string id="esc_m_trader_task_recover_item_on_corpse_garbage_0">
-		<text>Encuentra el envío de Sidorovich</text>
+		<text>Encuentra el env&#237;o de Sidorovich</text>
 	</string>
 
 	<string id="esc_m_trader_task_recover_item_on_corpse_wt_0">
-		<text>Encuentra el envío de Sidorovich</text>
+		<text>Encuentra el env&#237;o de Sidorovich</text>
 	</string>
 
 	<string id="esc_m_trader_task_recover_item_on_corpse_aw_0">
-		<text>Encuentra el envío de Sidorovich</text>
+		<text>Encuentra el env&#237;o de Sidorovich</text>
 	</string>
 
 	<string id="esc_m_trader_task_recover_item_on_corpse_trucc_0">
-		<text>Encuentra el envío de Sidorovich</text>
+		<text>Encuentra el env&#237;o de Sidorovich</text>
 	</string>
 
 	<string id="esc_m_trader_task_recover_item_on_corpse_agroprom_1">
@@ -128,51 +130,51 @@
 	</string>
 
 	<string id="yan_stalker_sakharov_task_rioc_agroprom_1">
-		<text>Devuelve el detector a los científicos</text>
+		<text>Devuelve el detector a los cient&#237;ficos</text>
 	</string>
 
 	<string id="yan_stalker_sakharov_task_rioc_pol_1">
-		<text>Devuelve el detector a los científicos</text>
+		<text>Devuelve el detector a los cient&#237;ficos</text>
 	</string>
 
 	<string id="yan_stalker_sakharov_task_rioc_garbage_1">
-		<text>Devuelve el detector a los científicos</text>
+		<text>Devuelve el detector a los cient&#237;ficos</text>
 	</string>
 
 	<string id="yan_stalker_sakharov_task_rioc_wt_1">
-		<text>Devuelve el detector a los científicos</text>
+		<text>Devuelve el detector a los cient&#237;ficos</text>
 	</string>
 
 	<string id="yan_stalker_sakharov_task_rioc_aw_1">
-		<text>Devuelve el detector a los científicos</text>
+		<text>Devuelve el detector a los cient&#237;ficos</text>
 	</string>
 
 	<string id="yan_stalker_sakharov_task_rioc_trucc_1">
-		<text>Devuelve el detector a los científicos</text>
+		<text>Devuelve el detector a los cient&#237;ficos</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_rioc_agroprom_0">
-		<text>Encuentra al Soldado Deber desaparecido</text>
+		<text>Encuentra al soldado desaparecido</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_rioc_pol_0">
-		<text>Encuentra al Soldado Deber desaparecido</text>
+		<text>Encuentra al soldado desaparecido</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_rioc_garbage_0">
-		<text>Encuentra al Soldado Deber desaparecido</text>
+		<text>Encuentra al soldado desaparecido</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_rioc_wt_0">
-		<text>Encuentra al Soldado Deber desaparecido</text>
+		<text>Encuentra al soldado desaparecido</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_rioc_aw_0">
-		<text>Encuentra al Soldado Deber desaparecido</text>
+		<text>Encuentra al soldado desaparecido</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_rioc_trucc_0">
-		<text>Encuentra al Soldado Deber desaparecido</text>
+		<text>Encuentra al soldado desaparecido</text>
 	</string>
 
 	<string id="bar_dolg_general_petrenko_stalker_task_rioc_agroprom_1">
