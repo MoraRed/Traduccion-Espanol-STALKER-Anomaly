@@ -1,0 +1,1337 @@
+<?xml version="1.0" encoding="windows-1251"?>
+
+<string_table>
+
+<!--
+COMMON
+-->
+	<string id="st_mag_weapon_jammed">
+		<text>Arma atascada</text>
+	</string>
+	<string id="st_mag_eject_magazine">
+		<text>Expulsar cargador</text>
+	</string>
+	<string id="st_mag_unload_ammo">
+		<text>Vaciar</text>
+	</string>
+	<string id="st_mag_loadout_remove">
+		<text>Eliminar</text>
+	</string>
+	<string id="st_mag_loadout_add">
+		<text>Agregar cargador</text>
+	</string>
+
+
+<!--
+MAGAZINES
+-->
+
+	<string id="st_mag_base">
+		<text>Cargador base</text>
+	</string>
+	<string id="st_mag_base_descr">
+		<text>
+		Cargador base.
+		</text>
+	</string>
+
+<!--
+Pistols and MP's
+-->
+
+	<string id="st_mag_aps_9x18_fmj">
+		<text>Cargador APS estandar calibre 9x18</text>
+	</string>
+	<string id="st_mag_aps_9x18_fmj_descr">
+		<text>
+		Cargador APS estandar calibre 9x18.
+		</text>
+	</string>
+
+	<string id="st_mag_aps_9x19_fmj">
+		<text>Cargador APS modificado calibre 9x19</text>
+	</string>
+	<string id="st_mag_aps_9x19_fmj_descr">
+		<text>
+		Cargador APS modificado calibre 9x19.
+		</text>
+	</string>
+
+	<string id="st_mag_beretta_9x19_fmj">
+		<text>Cargador Beretta 92F estandar calibre 9x19</text>
+	</string>
+	<string id="st_mag_beretta_9x19_fmj_descr">
+		<text>
+		Cargador Beretta 92F estandar calibre 9x19.
+		</text>
+	</string>
+
+	<string id="st_mag_beretta_9x18_fmj">
+		<text>Cargador Beretta 92F modificado calibre 9x18</text>
+	</string>
+	<string id="st_mag_beretta_9x18_fmj_descr">
+		<text>
+		Cargador Beretta 92F modificado calibre 9x18.
+		</text>
+	</string>
+
+	<string id="st_mag_bizon_9x18_fmj">
+		<text>Cargador PP Bizon estandar calibre 9x18</text>
+	</string>
+	<string id="st_mag_bizon_9x18_fmj_descr">
+		<text>
+		Cargador PP Bizon estandar calibre 9x18.
+		</text>
+	</string>
+
+	<string id="st_mag_bizon_9x19_fmj">
+		<text>Cargador PP Bizon modificado calibre 9x19</text>
+	</string>
+	<string id="st_mag_bizon_9x19_fmj_descr">
+		<text>
+		Cargador PP Bizon modificado calibre 9x19.
+		</text>
+	</string>
+
+	<string id="st_mag_colt1911_11.43x23_fmj">
+		<text>Cargador Colt 1911 estandar calibre .45 ACP</text>
+	</string>
+	<string id="st_mag_colt1911_11.43x23_fmj_descr">
+		<text>
+		Cargador Colt 1911 estandar calibre .45 ACP.
+		</text>
+	</string>
+
+	<string id="st_mag_colt_kimber_11.43x23_fmj">
+		<text>Cargador Colt Kimber estandar calibre .45 APC</text>
+	</string>
+	<string id="st_mag_colt_kimber_11.43x23_fmj_descr">
+		<text>
+		Cargador Colt Kimber estandar calibre .45 APC.
+		</text>
+	</string>
+
+	<string id="st_mag_cz52_7.62x25_p">
+		<text>Cargador CZ 52 estandar calibre 7.62x25</text>
+	</string>
+	<string id="st_mag_cz52_7.62x25_p_descr">
+		<text>
+		Cargador CZ 52 estandar calibre 7.62x25.
+		</text>
+	</string>
+
+	<string id="st_mag_cz75_9x19_fmj">
+		<text>Cargador CZ 75 estandar calibre 9x19</text>
+	</string>
+	<string id="st_mag_cz75_9x19_fmj_descr">
+		<text>
+		Cargador CZ 75 estandar calibre 9x19.
+		</text>
+	</string>
+
+	<string id="st_mag_cz75_9x18_fmj">
+		<text>Cargador CZ 75 estandar calibre 9x18</text>
+	</string>
+	<string id="st_mag_cz75_9x18_fmj_descr">
+		<text>
+		Cargador CZ 75 estandar calibre 9x18.
+		</text>
+	</string>
+
+	<string id="st_mag_desert_eagle_357_hp">
+		<text>Cargador Desert Eagle estandar calibre .357 HP</text>
+	</string>
+	<string id="st_mag_desert_eagle_357_hp_descr">
+		<text>
+		Cargador Desert Eagle estandar calibre .357 HP.
+		</text>
+	</string>
+
+	<string id="st_mag_fn57_5.7x28_ss190">
+		<text>Cargador FN 57 estandar calibre 5.7x28</text>
+	</string>
+	<string id="st_mag_fn57_5.7x28_ss190_descr">
+		<text>
+		Cargador FN 57 estandar calibre 5.7x28.
+		</text>
+	</string>
+
+	<string id="st_mag_fnp45_11.43x23_fmj">
+		<text>Cargador FNP 45 estandar calibre .45 APC</text>
+	</string>
+	<string id="st_mag_fnp45_11.43x23_fmj_descr">
+		<text>
+		Cargador FNP 45 estandar calibre .45 APC.
+		</text>
+	</string>
+
+	<string id="st_mag_fnx45_11.43x23_fmj">
+		<text>Cargador FNX 45 estandar calibre .45 APC</text>
+	</string>
+	<string id="st_mag_fnx45_11.43x23_fmj_descr">
+		<text>
+		Cargador FNX 45 estandar calibre .45 APC.
+		</text>
+	</string>
+
+	<string id="st_mag_fort_9x18_fmj_descr">
+		<text>Cargador Fort estandar calibre 9x18</text>
+	</string>
+	<string id="st_mag_fort_9x18_fmj_descr_descr">
+		<text>
+		Cargador Fort estandar calibre 9x18.
+		</text>
+	</string>
+
+	<string id="st_mag_fort_9x19_fmj_descr">
+		<text>Cargador Fort modificado calibre 9x19</text>
+	</string>
+	<string id="st_mag_fort_9x19_fmj_descr_descr">
+		<text>
+		Cargador Fort modificado calibre 9x19.
+		</text>
+	</string>
+
+	<string id="st_mag_glock_9x19_fmj">
+		<text>Cargador Glock estandar calibre 9x19</text>
+	</string>
+	<string id="st_mag_glock_9x19_fmj_descr">
+		<text>
+		Cargador Glock estandar calibre 9x19.
+		</text>
+	</string>
+
+	<string id="st_mag_glock_9x18_fmj">
+		<text>Cargador Glock modificado calibre 9x18</text>
+	</string>
+	<string id="st_mag_glock_9x18_fmj_descr">
+		<text>
+		Cargador Glock modificado calibre 9x18.
+		</text>
+	</string>
+
+	<string id="st_mag_gsh18_9x19_fmj">
+		<text>Cargador Gsh-18 estandar calibre 9x19</text>
+	</string>
+	<string id="st_mag_gsh18_9x19_fmj_descr">
+		<text>
+		Cargador Gsh-18 estandar calibre 9x19.
+		</text>
+	</string>
+
+	<string id="st_mag_hpsa_9x19_fmj">
+		<text>Cargador Browning Hi-Power estandar calibre 9x19</text>
+	</string>
+	<string id="st_mag_hpsa_9x19_fmj_descr">
+		<text>
+		Cargador Browning Hi-Power estandar calibre 9x19.
+		</text>
+	</string>
+
+	<string id="st_mag_hpsa_9x18_fmj">
+		<text>Cargador Browning Hi-Power modificado calibre 9x18</text>
+	</string>
+	<string id="st_mag_hpsa_9x18_fmj_descr">
+		<text>
+		Cargador Browning Hi-Power modificado calibre 9x18.
+		</text>
+	</string>
+
+	<string id="st_mag_mp443_9x19_fmj">
+		<text>Cargador MP-443 estandar calibre 9x19</text>
+	</string>
+	<string id="st_mag_mp443_9x19_fmj_descr">
+		<text>
+		Cargador MP-443 estandar calibre 9x19.
+		</text>
+	</string>
+
+	<string id="st_mag_mp443_9x18_fmj">
+		<text>Cargador MP-443 modificado calibre 9x18</text>
+	</string>
+	<string id="st_mag_mp443_9x18_fmj_descr">
+		<text>
+		Cargador MP-443 modificado calibre 9x18.
+		</text>
+	</string>
+	
+	<string id="st_mag_mp5_9x19_fmj">
+		<text>Cargador MP5 estandar calibre 9x19</text>
+	</string>
+	<string id="st_mag_mp5_9x19_fmj_descr">
+		<text>
+		Cargador MP5 estandar calibre 9x19.
+		</text>
+	</string>
+
+	<string id="st_mag_mp5_9x18_fmj">
+		<text>Cargador MP5 modificado calibre 9x18</text>
+	</string>
+	<string id="st_mag_mp5_9x18_fmj_descr">
+		<text>
+		Cargador MP5 modificado calibre 9x18.
+		</text>
+	</string>
+
+	<string id="st_mag_mp5_11.43x23_fmj">
+		<text>Cargador MP5 modificado calibre .45 ACP</text>
+	</string>
+	<string id="st_mag_mp5_11.43x23_fmj_descr">
+		<text>
+		Cargador MP5 modificado calibre .45 ACP.
+		</text>
+	</string>
+
+	<string id="st_mag_mp5sd_9x19_fmj">
+		<text>Cargador MP5SD estandar calibre 9x19</text>
+	</string>
+	<string id="st_mag_mp5sd_9x19_fmj_descr">
+		<text>
+		Cargador MP5SD estandar calibre 9x19.
+		</text>
+	</string>
+
+	<string id="st_mag_mp5sd_9x18_fmj">
+		<text>Cargador MP5SD modificado calibre 9x18</text>
+	</string>
+	<string id="st_mag_mp5sd_9x18_fmj_descr">
+		<text>
+		Cargador MP5SD modificado calibre 9x18.
+		</text>
+	</string>
+
+	<string id="st_mag_mp7_9x19_fmj">
+		<text>Cargador MP7 modificado calibre 9x19</text>
+	</string>
+	<string id="st_mag_mp7_9x19_fmj_descr">
+		<text>
+		Cargador MP7 modificado calibre 9x19.
+		</text>
+	</string>
+
+	<string id="st_mag_mp7_9x18_fmj">
+		<text>Cargador MP7 modificado calibre 9x18</text>
+	</string>
+	<string id="st_mag_mp7_9x18_fmj_descr">
+		<text>
+		Cargador MP7 modificado calibre 9x18.
+		</text>
+	</string>
+
+	<string id="st_mag_oc33_9x18_fmj">
+		<text>Cargador OTs-33 Pernach modificado calibre 9x18</text>
+	</string>
+	<string id="st_mag_oc33_9x18_fmj_descr">
+		<text>
+		Cargador OTs-33 Pernach modificado calibre 9x18.
+		</text>
+	</string>
+
+	<string id="st_mag_oc33_9x19_fmj">
+		<text>Cargador OTs-33 Pernach modificado calibre 9x19</text>
+	</string>
+	<string id="st_mag_oc33_9x19_fmj_descr">
+		<text>
+		Cargador OTs-33 Pernach modificado calibre 9x19.
+		</text>
+	</string>
+
+	<string id="st_mag_pb_9x18_fmj">
+		<text>Cargador PB estandar calibre 9x18</text>
+	</string>
+	<string id="st_mag_pb_9x18_fmj_descr">
+		<text>
+		Cargador PB estandar calibre 9x18.
+		</text>
+	</string>
+
+	<string id="st_mag_pm_9x18_fmj">
+		<text>Cargador PM estandar calibre 9x18</text>
+	</string>
+	<string id="st_mag_pm_9x18_fmj_descr">
+		<text>
+		Cargador PM estandar calibre 9x18.
+		</text>
+	</string>
+
+	<string id="st_mag_pm_9x19_fmj">
+		<text>Cargador PM modificado calibre 9x19</text>
+	</string>
+	<string id="st_mag_pm_9x19_fmj_descr">
+		<text>
+		Cargador PM modificado calibre 9x19.
+		</text>
+	</string>
+
+	<string id="st_mag_pmm_9x18_fmj">
+		<text>Cargador PMM estandar calibre 9x18</text>
+	</string>
+	<string id="st_mag_pmm_9x18_fmj_descr">
+		<text>
+		Cargador PMM estandar calibre 9x18.
+		</text>
+	</string>
+
+	<string id="st_mag_pmm_9x19_fmj">
+		<text>Cargador PMM modificado calibre 9x19</text>
+	</string>
+	<string id="st_mag_pmm_9x19_fmj_descr">
+		<text>
+		Cargador PMM modificado calibre 9x19.
+		</text>
+	</string>
+
+	<string id="st_mag_pp2000_9x19_fmj">
+		<text>Cargador PP-2000 estandar calibre 9x19</text>
+	</string>
+	<string id="st_mag_pp2000_9x19_fmj_descr">
+		<text>
+		Cargador PP-2000 estandar calibre 9x19.
+		</text>
+	</string>
+
+	<string id="st_mag_pp2000_9x18_fmj">
+		<text>Cargador PP-2000 modificado calibre 9x18</text>
+	</string>
+	<string id="st_mag_pp2000_9x18_fmj_descr">
+		<text>
+		Cargador PP-2000 modificado calibre 9x18.
+		</text>
+	</string>
+
+	<string id="st_mag_sig220_11.43x23_fmj">
+		<text>Cargador Sig P220 modificado calibre .45 ACP</text>
+	</string>
+	<string id="st_mag_sig220_11.43x23_fmj_descr">
+		<text>
+		Cargador Sig P220 modificado calibre .45 ACP.
+		</text>
+	</string>
+
+	<string id="st_mag_tt33_7.62x25_p">
+		<text>Cargador TT-33 estandar calibre 7.62x25</text>
+	</string>
+	<string id="st_mag_tt33_7.62x25_p_descr">
+		<text>
+		Cargador TT-33 estandar calibre 7.62x25.
+		</text>
+	</string>
+
+	<string id="st_mag_ump45_11.43x23_fmj">
+		<text>Cargador UMP 45 estandar calibre .45 APC</text>
+	</string>
+	<string id="st_mag_ump45_11.43x23_fmj_descr">
+		<text>
+		Cargador UMP 45 estandar calibre .45 APC.
+		</text>
+	</string>
+
+	<string id="st_mag_usp_11.43x23_fmj">
+		<text>Cargador USP 45 estandar calibre .45 APC</text>
+	</string>
+	<string id="st_mag_usp_11.43x23_fmj_descr">
+		<text>
+		Cargador USP 45 estandar calibre .45 APC.
+		</text>
+	</string>
+
+	<string id="st_mag_usp_9x19_fmj">
+		<text>Cargador USP estandar calibre 9x19</text>
+	</string>
+	<string id="st_mag_usp_9x19_fmj_descr">
+		<text>
+		Cargador USP estandar calibre 9x19.
+		</text>
+	</string>
+
+	<string id="st_mag_vityaz_9x19_fmj">
+		<text>Cargador Vityaz-SN estandar calibre 9x19</text>
+	</string>
+	<string id="st_mag_vityaz_9x19_fmj_descr">
+		<text>
+		Cargador Vityaz-SN estandar calibre 9x19.
+		</text>
+	</string>
+
+	<string id="st_mag_vityaz_9x18_fmj">
+		<text>Cargador Vityaz-SN modificado calibre 9x18</text>
+	</string>
+	<string id="st_mag_vityaz_9x18_fmj_descr">
+		<text>
+		Cargador Vityaz-SN modificado calibre 9x18.
+		</text>
+	</string>
+
+	<string id="st_mag_vz61_9x19_fmj">
+		<text>Cargador Vz.61 estandar calibre 9x19</text>
+	</string>
+	<string id="st_mag_vz61_9x19_fmj_descr">
+		<text>
+		Cargador Vz.61 estandar calibre 9x19.
+		</text>
+	</string>
+
+	<string id="st_mag_vz61_9x18_fmj">
+		<text>Cargador Vz.61 modificado calibre 9x18.</text>
+	</string>
+	<string id="st_mag_vz61_9x18_fmj_descr">
+		<text>
+		Cargador Vz.61 modificado calibre 9x18.
+		</text>
+	</string>
+
+	<string id="st_mag_walther_9x19_fmj">
+		<text>Cargador Walther P99 estandar calibre 9x19</text>
+	</string>
+	<string id="st_mag_walther_9x19_fmj_descr">
+		<text>
+		Cargador Walther P99 estandar calibre 9x19.
+		</text>
+	</string>
+
+
+	<string id="st_mag_kiparis_9x18_fmj">
+		<text>Cargador Kiparis estandar calibre 9x18</text>
+	</string>
+	<string id="st_mag_kiparis_9x18_fmj_descr">
+		<text>
+		Cargador Kiparis estandar calibre 9x18.
+		</text>
+	</string>
+
+
+<!--
+Rifles
+-->
+
+	<string id="st_mag_9a91_9x39_pab9">
+		<text>Cargador 9A91 estandar calibre 9x39</text>
+	</string>
+	<string id="st_mag_9a91_9x39_pab9_descr">
+		<text>
+		Cargador 9A91 estandar calibre 9x39.
+		</text>
+	</string>
+
+	<string id="st_mag_abakan_5.45x39">
+		<text>Cargador AN94 estandar calibre 5.45x39</text>
+	</string>
+	<string id="st_mag_abakan_5.45x39_descr">
+		<text>
+		Cargador AN94 estandar calibre 5.45x39.
+		</text>
+	</string>
+
+	<string id="st_mag_ace21_5.56x45">
+		<text>Cargador Galil ACE-21 estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_ace21_5.56x45_descr">
+		<text>
+		Cargador Galil ACE-21 estandar calibre 5.56x45.
+		</text>
+	</string>
+
+	<string id="st_mag_aek_5.45x39">
+		<text>Cargador AEK-971 estandar calibre 5.45x39</text>
+	</string>
+	<string id="st_mag_aek_5.45x39_descr">
+		<text>
+		Cargador AEK-971 estandar calibre 5.45x39.
+		</text>
+	</string>
+
+	<string id="st_mag_aek_7.62x39">
+		<text>Cargador AEK-971 modificado calibre 7.62x39</text>
+	</string>
+	<string id="st_mag_aek_7.62x39_descr">
+		<text>
+		Cargador AEK-971 modificado calibre 7.62x39.
+		</text>
+	</string>
+
+	<string id="st_mag_ak_7.62x39">
+		<text>Cargador AK47 estandar calibre 7.62x39</text>
+	</string>
+	<string id="st_mag_ak_7.62x39_descr">
+		<text>
+		Cargador AK47 estandar calibre 7.62x39.
+		</text>
+	</string>
+
+	<string id="st_mag_ak101_5.56x45">
+		<text>Cargador AK101 modificado calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_ak101_5.56x45_descr">
+		<text>
+		Cargador AK101 modificado calibre 5.56x45.
+		</text>
+	</string>
+
+	<string id="st_mag_ak102_5.56x45">
+		<text>Cargador AK102 estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_ak102_5.56x45_descr">
+		<text>
+		Cargador AK102 estandar calibre 5.56x45.
+		</text>
+	</string>
+
+	<string id="st_mag_ak102_5.45x39">
+		<text>Cargador AK102 modificado calibre 5.45x39</text>
+	</string>
+	<string id="st_mag_ak102_5.45x39_descr">
+		<text>
+		Cargador AK102 modificado calibre 5.45x39.
+		</text>
+	</string>
+
+	<string id="st_mag_ak103_7.62x39">
+		<text>Cargador AK103 estandar calibre 7.62x39</text>
+	</string>
+	<string id="st_mag_ak103_7.62x39_descr">
+		<text>
+		Cargador AK103 estandar calibre 7.62x39.
+		</text>
+	</string>
+
+	<string id="st_mag_ak104_7.62x39">
+		<text>Cargador AK104 estandar calibre 7.62x39</text>
+	</string>
+	<string id="st_mag_ak104_7.62x39_descr">
+		<text>
+		Cargador AK104 estandar calibre 7.62x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_ak105_5.45x39">
+		<text>Cargador AK105 estandar calibre 5.45x39</text>
+	</string>
+	<string id="st_mag_ak105_5.45x39_descr">
+		<text>
+		Cargador AK105 estandar calibre 5.45x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_ak12_5.45x39">
+		<text>Cargador AK12 estandar calibre 5.45x39</text>
+	</string>
+	<string id="st_mag_ak12_5.45x39_descr">
+		<text>
+		Cargador AK12 estandar calibre 5.45x39.
+		</text>
+	</string>
+
+	<string id="st_mag_ak12_5.56x45">
+		<text>Cargador AK12 modificado calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_ak12_5.56x45_descr">
+		<text>
+		Cargador AK12 modificado calibre 5.56x45.
+		</text>
+	</string>
+
+	<string id="st_mag_ak74_5.45x39">
+		<text>Cargador AK74 estandar calibre 5.45x39</text>
+	</string>
+	<string id="st_mag_ak74_5.45x39_descr">
+		<text>
+		Cargador AK74 estandar calibre 5.45x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_ak74_5.56x45">
+		<text>Cargador AK74 modificado calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_ak74_5.56x45_descr">
+		<text>
+		Cargador AK74 modificado calibre 5.56x45.
+		</text>
+	</string>
+	
+	<string id="st_mag_ak74m_5.45x39">
+		<text>Cargador AK74M estandar calibre 5.45x39</text>
+	</string>
+	<string id="st_mag_ak74m_5.45x39_descr">
+		<text>
+		Cargador AK74M estandar calibre 5.45x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_ak74m_5.56x45">
+		<text>Cargador AK74M modificado calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_ak74m_5.56x45_descr">
+		<text>
+		Cargador AK74M modificado calibre 5.56x45.
+		</text>
+	</string>
+	
+	<string id="st_mag_ak74u_5.45x39">
+		<text>Cargador AK74U estandar calibre 5.45x39</text>
+	</string>
+	<string id="st_mag_ak74u_5.45x39_descr">
+		<text>
+		Cargador AK74U estandar calibre 5.45x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_akm_7.62x39">
+		<text>Cargador AKM estandar calibre 7.62x39</text>
+	</string>
+	<string id="st_mag_akm_7.62x39_descr">
+		<text>
+		Cargador AKM estandar calibre 7.62x39.
+		</text>
+	</string>
+
+	<string id="st_mag_akms_7.62x39">
+		<text>Cargador AKM estandar calibre 7.62x39</text>
+	</string>
+	<string id="st_mag_akms_7.62x39_descr">
+		<text>
+		Cargador AKM estandar calibre 7.62x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_aks_5.45x39">
+		<text>Cargador AKS estandar calibre 5.45x39</text>
+	</string>
+	<string id="st_mag_aks_5.45x39_descr">
+		<text>
+		Cargador AKS estandar calibre 5.45x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_aks_5.56x45">
+		<text>Cargador AKS modificado calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_aks_5.56x45_descr">
+		<text>
+		Cargador AKS modificado calibre 5.56x45.
+		</text>
+	</string>
+	
+	<string id="st_mag_aks_7.62x39">
+		<text>Cargador AKM estandar calibre 7.62x39</text>
+	</string>
+	<string id="st_mag_aks_7.62x39_descr">
+		<text>
+		Cargador AKM estandar calibre 7.62x39.
+		</text>
+	</string>
+	
+	
+	<string id="st_mag_aks74_5.45x39">
+		<text>Cargador AKS74 estandar calibre 5.45x39</text>
+	</string>
+	<string id="st_mag_aks74_5.45x39_descr">
+		<text>
+		Cargador AKS74 estandar calibre 5.45x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_aks74_5.56x45">
+		<text>Cargador AKS74 modificado calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_aks74_5.56x45_descr">
+		<text>
+		Cargador AKS74 modificado calibre 5.56x45.
+		</text>
+	</string>
+	
+	
+	
+	<string id="st_mag_ash12_12.7x55">
+		<text>Cargador ASh12 estandar calibre 12.7x55</text>
+	</string>
+	<string id="st_mag_ash12_12.7x55_descr">
+		<text>
+		Cargador ASh12 estandar calibre 12.7x55.
+		</text>
+	</string>
+	
+	<string id="st_mag_aug_5.56x45">
+		<text>Cargador AUG estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_aug_5.56x45_descr">
+		<text>
+		Cargador AUG estandar calibre 5.56x45.
+		</text>
+	</string>
+	
+	<string id="st_mag_fal_7.62x51">
+		<text>Cargador FAL estandar calibre 7.62x51</text>
+	</string>
+	<string id="st_mag_fal_7.62x51_descr">
+		<text>
+		Cargador FAL estandar calibre 7.62x51.
+		</text>
+	</string>
+	
+	<string id="st_mag_famas3_5.56x45">
+		<text>Cargador FAMAS 3 estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_famas3_5.56x45_descr">
+		<text>
+		Cargador FAMAS 3 estandar calibre 5.56x45.
+		</text>
+	</string>
+	
+	<string id="st_mag_fnc_5.56x45">
+		<text>Cargador FN FNC estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_fnc_5.56x45_descr">
+		<text>
+		Cargador FN FNC estandar calibre 5.56x45.
+		</text>
+	</string>
+	
+	<string id="st_mag_g3_7.62x51">
+		<text>Cargador G3 estandar calibre 7.62x51</text>
+	</string>
+	<string id="st_mag_g3_7.62x51_descr">
+		<text>
+		Cargador G3 estandar calibre 7.62x51.
+		</text>
+	</string>
+	
+	<string id="st_mag_g36_5.56x45">
+		<text>Cargador G36 estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_g36_5.56x45_descr">
+		<text>
+		Cargador G36 estandar calibre 5.56x45.
+		</text>
+	</string>
+	
+	<string id="st_mag_g36k_5.56x45">
+		<text>Cargador G36k estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_g36k_5.56x45_descr">
+		<text>
+		Cargador G36k estandar calibre 5.56x45.
+		</text>
+	</string>
+	
+	<string id="st_mag_g3sg1_7.62x51">
+		<text>Cargador G3SG1 estandar calibre 7.62x51</text>
+	</string>
+	<string id="st_mag_g3sg1_7.62x51_descr">
+		<text>
+		Cargador G3SG1 estandar calibre 7.62x51.
+		</text>
+	</string>
+	
+	<string id="st_mag_g43_7.92x33">
+		<text>Cargador G43 estandar calibre 7.62x57</text>
+	</string>
+	<string id="st_mag_g43_7.92x33_descr">
+		<text>
+		Cargador G43 estandar calibre 7.62x57.
+		</text>
+	</string>
+	
+	<string id="st_mag_galil_7.62x51">
+		<text>Cargador Galil estandar calibre 7.62x51</text>
+	</string>
+	<string id="st_mag_galil_7.62x51_descr">
+		<text>
+		Cargador Galil estandar calibre 7.62x51.
+		</text>
+	</string>
+	
+	<string id="st_mag_galil_7.62x39">
+		<text>Cargador Galil modificado calibre 7.62x39</text>
+	</string>
+	<string id="st_mag_galil_7.62x39_descr">
+		<text>
+		Cargador Galil modificado calibre 7.62x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_groza_9x39_pab9">
+		<text>Cargador Groza estandar calibre 9x39</text>
+	</string>
+	<string id="st_mag_groza_9x39_pab9">
+		<text>
+		Cargador Groza estandar calibre 9x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_hk416_5.56x45">
+		<text>Cargador HK416 estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_hk416_5.56x45_descr">
+		<text>
+		Cargador HK416 estandar calibre 5.56x45.
+		</text>
+	</string>
+
+	<string id="st_mag_hk417_7.62x51">
+		<text>Cargador HK417 estandar calibre 7.62x51</text>
+	</string>
+	<string id="st_mag_hk417_7.62x51_descr">
+		<text>
+		Cargador HK417 estandar calibre 7.62x51.
+		</text>
+	</string>
+
+	<string id="st_mag_l85_5.56x45">
+		<text>Cargador L85 estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_l85_5.56x45_descr">
+		<text>
+		Cargador L85 estandar calibre 5.56x45.
+		</text>
+	</string>
+
+	<string id="st_mag_l85_5.45x39">
+		<text>Cargador L85 modificado calibre 5.45x39</text>
+	</string>
+	<string id="st_mag_l85_5.45x39_descr">
+		<text>
+		Cargador L85 modificado calibre 5.45x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_l85a2_5.56x45">
+		<text>Cargador L85A2 estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_l85a2_5.56x45_descr">
+		<text>
+		Cargador L85A2 estandar calibre 5.56x45.
+		</text>
+	</string>
+
+	<string id="st_mag_l85a2_5.45x39">
+		<text>Cargador L85A2 modificado calibre 5.45x39</text>
+	</string>
+	<string id="st_mag_l85a2_5.45x39_descr">
+		<text>
+		Cargador L85A2 modificado calibre 5.45x39.
+		</text>
+	</string>
+
+	<string id="st_mag_lr300_5.56x45">
+		<text>Cargador LR 300 estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_lr300_5.56x45_descr">
+		<text>
+		Cargador LR 300 estandar calibre 5.56x45.
+		</text>
+	</string>
+
+	<string id="st_mag_m16_5.56x45">
+		<text>Cargador M16 estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_m16_5.56x45_descr">
+		<text>
+		Cargador M16 estandar calibre 5.56x45.
+		</text>
+	</string>
+
+	<string id="st_mag_m16a2_5.56x45">
+		<text>Cargador M16A2 estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_m16a2_5.56x45_descr">
+		<text>
+		Cargador M16A2 estandar calibre 5.56x45.
+		</text>
+	</string>
+	
+	<string id="st_mag_m249_5.56x45">
+		<text>Cargador M249 Box estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_m249_5.56x45_descr">
+		<text>
+		Cargador M249 Box estandar calibre 5.56x45.
+		</text>
+	</string>
+
+	<string id="st_mag_m4_5.56x45">
+		<text>Cargador M4 estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_m4_5.56x45_descr">
+		<text>
+		Cargador M4 estandar calibre 5.56x45.
+		</text>
+	</string>
+	
+	<string id="st_mag_m4_5.56x45">
+		<text>Cargador M4 estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_m4_5.56x45_descr">
+		<text>
+		Cargador M4 estandar calibre 5.56x45.
+		</text>
+	</string>
+	
+	<string id="st_mag_m4a1_5.56x45">
+		<text>Cargador M4A1 estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_m4a1_5.56x45_descr">
+		<text>
+		Cargador M4A1 estandar calibre 5.56x45.
+		</text>
+	</string>
+	
+	<string id="st_mag_mk14_7.62x51">
+		<text>Cargador Mk14 estandar calibre 7.62x51</text>
+	</string>
+	<string id="st_mag_mk14_7.62x51_descr">
+		<text>
+		Cargador Mk14 estandar calibre 7.62x51
+		</text>
+	</string>
+	
+	<string id="st_mag_p90_5.7x28_ss190">
+		<text>Cargador P90 estandar calibre 5.7x28</text>
+	</string>
+	<string id="st_mag_p90_5.7x28_ss190_descr">
+		<text>
+		Cargador P90 estandar calibre 5.7x28.
+		</text>
+	</string>
+	
+	<string id="st_mag_pkm_pkm">
+		<text>Caja PKM estandar calibre 7.62x54</text>
+	</string>
+	<string id="st_mag_pkm_pkm_descr">
+		<text>
+		Caja PKM estandar calibre 7.62x54.
+		</text>
+	</string>
+	
+	<string id="st_mag_pkp_pkm">
+		<text>Caja PKP estandar calibre 7.62x54</text>
+	</string>
+	<string id="st_mag_pkp_pkm_descr">
+		<text>
+		Caja PKP estandar calibre 7.62x54.
+		</text>
+	</string>
+	
+	<string id="st_mag_ppsh41_7.62x25_p">
+		<text>Tambor PPSh41 estandar calibre 7.62x25</text>
+	</string>
+	<string id="st_mag_ppsh41_7.62x25_p_descr">
+		<text>
+		Tambor PPSh41 estandar calibre 7.62x25.
+		</text>
+	</string>
+	
+	<string id="st_mag_rpd_7.62x39">
+		<text>Tambor RPD estandar calibre 7.62x39</text>
+	</string>
+	<string id="st_mag_rpd_7.62x39_descr">
+		<text>
+		Tambor RPD estandar calibre 7.62x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_rpk74_7.62x39">
+		<text>Cargador RPK74 estandar calibre 7.62x39</text>
+	</string>
+	<string id="st_mag_rpk74_7.62x39_descr">
+		<text>
+		Cargador RPK74 estandar calibre 7.62x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_rpk74_5.45x39">
+		<text>Cargador RPK74 modificado calibre 5.45x39</text>
+	</string>
+	<string id="st_mag_rpk74_5.45x39_descr">
+		<text>
+		Cargador RPK74 modificado calibre 5.45x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_rpk74_5.56x45">
+		<text>Cargador RPK74 modificado calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_rpk74_5.56x45_descr">
+		<text>
+		Cargador RPK74 modificado calibre 5.56x45.
+		</text>
+	</string>
+	
+	<string id="st_mag_sig550_5.56x45">
+		<text>Cargador SG550 estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_sig550_5.56x45_descr">
+		<text>
+		Cargador SG550 estandar calibre 5.56x45.
+		</text>
+	</string>
+	
+	<string id="st_mag_sig552_5.56x45">
+		<text>Cargador SG552 estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_sig552_5.56x45_descr">
+		<text>
+		Cargador SG552 estandar calibre 5.56x45.
+		</text>
+	</string>
+	
+	<string id="st_mag_type63_7.62x39">
+		<text>Cargador Type 63 estandar calibre 7.62x39.</text>
+	</string>
+	<string id="st_mag_type63_7.62x39_descr">
+		<text>
+		Cargador Type 63 estandar calibre 7.62x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_type63_7.62x54">
+		<text>Cargador Type 73 modificado calibre 7.62x54</text>
+	</string>
+	<string id="st_mag_type63_7.62x54_descr">
+		<text>
+		Cargador Type 63 modificado calibre 7.62x54.
+		</text>
+	</string>
+	
+	<string id="st_mag_val_9x39_pab9">
+		<text>Cargador AS VAL estandar calibre 9x39</text>
+	</string>
+	<string id="st_mag_val_9x39_pab9_descr">
+		<text>
+		Cargador AS VAL estandar calibre 9x39.
+		</text>
+	</string>
+
+	<string id="st_mag_vihr_9x39_pab9">
+		<text>Cargador Vihr estandar calibre 9x39</text>
+	</string>
+	<string id="st_mag_vihr_9x39_pab9_descr">
+		<text>
+		Cargador Vihr estandar calibre 9x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_vintorez_9x39_pab9">
+		<text>Cargador VSS estandar calibre 9x39</text>
+	</string>
+	<string id="st_mag_vintorez_9x39_pab9_descr">
+		<text>
+		Cargador VSS estandar calibre 9x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_vsk94_9x39_pab9">
+		<text>Cargador VSK94 estandar calibre 9x39</text>
+	</string>
+	<string id="st_mag_vsk94_9x39_pab9_descr">
+		<text>
+		Cargador VSK94 estandar calibre 9x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_xm8_5.56x45">
+		<text>Cargador XM8 estandar calibre 5.56x45</text>
+	</string>
+	<string id="st_mag_xm8_5.56x45_descr">
+		<text>
+		Cargador XM8 estandar calibre 5.56x45.
+		</text>
+	</string>
+
+<!--
+Sniper rifles
+-->
+	
+	<string id="st_mag_l96a1_7.62x51">
+		<text>Cargador L96A1 estandar calibre 7.62x51</text>
+	</string>
+	<string id="st_mag_l96a1_7.62x51_descr">
+		<text>
+		Cargador L96A1 estandar calibre 7.62x51.
+		</text>
+	</string>
+	
+	<string id="st_mag_l96a1_pkm">
+		<text>Cargador L96A1 modificado calibre 7.62x54</text>
+	</string>
+	<string id="st_mag_l96a1_pkm_descr">
+		<text>
+		Cargador L96A1 modificado calibre 7.62x54.
+		</text>
+	</string>
+	
+	<string id="st_mag_l96a1m_magnum_300">
+		<text>Cargador L96 AWSM estandar calibre .338 Lapua Magnum</text>
+	</string>
+	<string id="st_mag_l96a1m_magnum_300_descr">
+		<text>
+		Cargador L96 AWSM estandar calibre .338 Lapua Magnum.
+		</text>
+	</string>
+	
+	<string id="st_mag_m24_magnum_300">
+		<text>Cargador L96 AWSM estandar calibre .338 Lapua Magnum</text>
+	</string>
+	<string id="st_mag_m24_magnum_300_descr">
+		<text>
+		Cargador L96 AWSM estandar calibre .338 Lapua Magnum.
+		</text>
+	</string>
+	
+	<string id="st_mag_m82_12.7x55">
+		<text>Cargador M82 estandar calibre 12.7x55</text>
+	</string>
+	<string id="st_mag_m82_12.7x55_descr">
+		<text>
+		Cargador M82 estandar calibre 12.7x99.
+		</text>
+	</string>
+	
+	<string id="st_mag_m98b_magnum_300">
+		<text>Cargador M98B estandar calibre .338 Lapua Magnum</text>
+	</string>
+	<string id="st_mag_m98b_magnum_300_descr">
+		<text>
+		Cargador M98B estandar calibre .338 Lapua Magnum.
+		</text>
+	</string>
+	
+	<string id="st_mag_remington700_7.62x51">
+		<text>Cargador Remington 700 estandar calibre 7.62x51</text>
+	</string>
+	<string id="st_mag_remington700_7.62x51_descr">
+		<text>
+		Cargador Remington 700 estandar calibre 7.62x51.
+		</text>
+	</string>
+	
+	<string id="st_mag_scar_7.62x51">
+		<text>Cargador Mk 17 estandar calibre 7.62x51</text>
+	</string>
+	<string id="st_mag_scar_7.62x51_descr">
+		<text>
+		Cargador Mk 17 estandar calibre 7.62x51.
+		</text>
+	</string>
+	
+<!--
+SIG 550 Sniper
+-->
+
+	<string id="st_mag_sr25_7.62x51">
+		<text>Cargador SR25 estandar calibre 7.62x51</text>
+	</string>
+	<string id="st_mag_sr25_7.62x51_descr">
+		<text>
+		Cargador SR25 estandar calibre 7.62x51.
+		</text>
+	</string>
+	
+	<string id="st_mag_sv98_7.62x54">
+		<text>Cargador SV98 estandar calibre 7.62x39</text>
+	</string>
+	<string id="st_mag_sv98_7.62x54_descr">
+		<text>
+		Cargador SV98 estandar calibre 5.45x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_svd_7.62x54">
+		<text>Cargador SVD estandar calibre 7.62x54</text>
+	</string>
+	<string id="st_mag_svd_7.62x54_descr">
+		<text>
+		Cargador SVD estandar calibre 7.62x54.
+		</text>
+	</string>
+	
+	<string id="st_mag_svt40_7.62x54">
+		<text>Cargador SVT40 estandar calibre 7.62x54</text>
+	</string>
+	<string id="st_mag_svt40_7.62x54_descr">
+		<text>
+		Cargador SVT40 estandar calibre 7.62x54.
+		</text>
+	</string>
+	
+	<string id="st_mag_svt40_pkm">
+		<text>Cargador SVT40 modificado calibre 7.62x54 (PKM)</text>
+	</string>
+	<string id="st_mag_svt40_pkm_descr">
+		<text>
+		Cargador SVT40 modificado calibre 7.62x54 (PKM).
+		</text>
+	</string>
+	
+	<string id="st_mag_svt40_7.62x39">
+		<text>Cargador SVT40 modificado calibre 7.62x39</text>
+	</string>
+	<string id="st_mag_svt40_7.62x39_descr">
+		<text>
+		Cargador SVT40 modificado calibre 7.62x39.
+		</text>
+	</string>
+	
+	<string id="st_mag_svu_7.62x54">
+		<text>Cargador SVU estandar calibre 7.62x54</text>
+	</string>
+	<string id="st_mag_svu_7.62x54_descr">
+		<text>
+		Cargador SVU estandar calibre 7.62x54.
+		</text>
+	</string>
+	
+	<string id="st_mag_trg_magnum_300">
+		<text>Cargador Sako TRG-42 estandar calibre .338 Lapua Magnum</text>
+	</string>
+	<string id="st_mag_trg_magnum_300_descr">
+		<text>
+		Cargador Sako TRG-42 estandar calibre .338 Lapua Magnum
+		</text>
+	</string>
+	
+	<string id="st_mag_vssk_12.7x55">
+		<text>Cargador VSSK estandar calibre 12.7x55</text>
+	</string>
+	<string id="st_mag_vssk_12.7x55_descr">
+		<text>
+		Cargador VSSK estandar calibre 12.7x55.
+		</text>
+	</string>
+	
+	<string id="st_mag_wa2000_7.62x51">
+		<text>Cargador Walther WA 2000 estandar calibre 7.62x51</text>
+	</string>
+	<string id="st_mag_wa2000_7.62x51_descr">
+		<text>
+		Cargador Walther WA 2000 estandar calibre 7.62x51.
+		</text>
+	</string>
+	
+	<string id="st_mag_saiga12s_12x70">
+		<text>Cargador Saiga 12s estandar calibre 12x70</text>
+	</string>
+	<string id="st_mag_saiga12s_12x70_descr">
+		<text>
+		Cargador Saiga 12s estandar calibre 12x70.
+		</text>
+	</string>
+	
+	<string id="st_mag_usas12_12x70">
+		<text>Tambor USAS estandar calibre 12x70</text>
+	</string>
+	<string id="st_mag_usas12_12x70_descr">
+		<text>
+		Tambor USAS estandar calibre 12x70.
+		</text>
+	</string>
+
+	<string id="st_mag_vepr_12x70">
+		<text>Cargador Vepr estandar calibre 12x70</text>
+	</string>
+	<string id="st_mag_vepr_12x70_descr">
+		<text>
+		Cargador Vepr estandar calibre 12x70.
+		</text>
+	</string>
+
+</string_table>
