@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+<!-- Cold -->
+<!-- mar_smart_terrain_base_stalker_leader_marsh_task_arszi_scout -->
+	<string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_arszi_scout_title">
+		<text>Explora la zona en el Gran Pantano.</text>
+	</string>
+    <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_arszi_scout_descr">
+		<text>Cold me ha pedido que explore una zona del Gran Pantano.</text>
+	</string>
+    <string id="igi_task_text_mar_smart_terrain_base_stalker_leader_marsh_task_arszi_scout_job_descr">
+		<text>Escucha, necesito a alguien que haga un reconocimiento. Todo lo que tienes que hacer es comprobar algunos de los edificios abandonados en el pantano e informarme. Repito, &#161;es una misi&#243;n de reconocimiento! No intentes hacerte el h&#233;roe, &#161;te necesito de vuelta vivo! Matar no te dar&#225; ninguna recompensa extra esta vez. &#161;Si encuentras alg&#250;n tipo de resistencia, huye e informame! Esta informaci&#243;n nos ayudar&#237;a mucho a planificar nuestros pr&#243;ximos movimientos y a mantenernos a salvo de cualquier da&#241;o en el pantano.</text>
+	</string>
+	<string id="igi_task_text_st_mar_smart_terrain_base_stalker_leader_marsh_task_arszi_scout_finish">
+		<text>&#191;Qu&#233; has encontrado? Ya veo... Gracias por tu trabajo, &#161;aqu&#237; tienes tu recompensa!</text>
+	</string>
+<!-- Fanatic -->
+<!-- esc_2_12_stalker_fanat_task_arszi_scout -->
+	<string id="igi_task_text_esc_2_12_stalker_fanat_task_arszi_scout_title">
+		<text>Explora el &#225;rea alrededor del Campamento de Novatos</text>
+	</string>
+    <string id="igi_task_text_esc_2_12_stalker_fanat_task_arszi_scout_descr">
+		<text>Fanatico me pidi&#243; que explore los alrededores del Campamento de Novatos</text>
+	</string>
+    <string id="igi_task_text_esc_2_12_stalker_fanat_task_arszi_scout_job_descr">
+		<text>Tengo una petici&#243;n para ti. No es f&#225;cil mantener la seguridad del Campamento. Al sur tenemos un grupo alegre, llamado el ej&#233;rcito. Al norte tenemos bandidos, mutantes y ocasionalmente mercenarios... Ser&#237;a de gran ayuda para nosotros si pudieras explorar la zona del norte e informar sobre la situaci&#243;n all&#237;. Saber d&#243;nde acampan los bandidos y los mutantes puede evitar encuentros fatales para los novatos. No te pido que te les enfrentes, s&#243;lo que mires por alli, intenta evitar da&#241;os y vuelve sano y salvo. Nada de esto es gratis, claro.</text>
+	</string>
+	<string id="igi_task_text_st_esc_2_12_stalker_fanat_task_arszi_scout_finish">
+		<text>Bueno, podr&#237;a ser peor... Gracias, le dir&#233; a todo el mundo qu&#233; zonas evitar durante alg&#250;n tiempo. Aqu&#237; est&#225; tu recompensa, como promet&#237;.</text>
+	</string>
+<!-- General Voronin -->
+<!-- bar_dolg_leader_task_arszi_scout -->
+	<string id="igi_task_text_bar_dolg_leader_task_arszi_scout_title">
+		<text>Explora el &#225;rea alrededor de Rostok.</text>
+	</string>
+    <string id="igi_task_text_bar_dolg_leader_task_arszi_scout_descr">
+		<text>El general Voronin me ha pedido que explore la zona de Rostok.</text>
+	</string>
+    <string id="igi_task_text_bar_dolg_leader_task_arszi_scout_job_descr">
+		<text>&#161;Excelente, tengo &#243;rdenes para ti! Tenemos que reunir informaci&#243;n sobre el movimiento del enemigo y los mutantes. Me interesan las zonas de Rostok, El Vertedero, Almacenes del Ej&#233;rcito y El Cementerio de Camiones. Ser&#225;s enviado a una de esas &#225;reas, y tu misi&#243;n es explorar al enemigo e informar. Se te permite abrir fuego si encuentras a alguien, pero trata de evitarlo, si es posible. La informaci&#243;n que va a reunir es crucial para la planificaci&#243;n de futuras operaciones. Se te compensar&#225; cuando vuelvas.</text>
+	</string>
+	<string id="igi_task_text_st_bar_dolg_leader_task_arszi_scout_finish">
+		<text>Bien hecho, esta informaci&#243;n har&#225; avanzar nuestros planes. Aqu&#237; est&#225; tu recompensa.</text>
+	</string>
+<!-- Sultan -->
+<!-- zat_b7_bandit_boss_sultan_task_arszi_scout -->
+	<string id="igi_task_text_zat_b7_bandit_boss_sultan_task_arszi_scout_title">
+		<text>Explora el &#225;rea alrededor del escondite.</text>
+	</string>
+    <string id="igi_task_text_zat_b7_bandit_boss_sultan_task_arszi_scout_descr">
+		<text>Sult&#225;n me pidi&#243; que explore la zona alrededor del escondite.</text>
+	</string>
+    <string id="igi_task_text_zat_b7_bandit_boss_sultan_task_arszi_scout_job_descr">
+		<text>&#161;Ah, mira lo que el gato trajo! Esc&#250;chame stalker, si quieres algo de dinero para tus playboys y vodka necesito que me hagas un favor. Sal y echa un vistazo a las partes sur y oeste del Valle Oscuro. Busca cualquier informaci&#243;n que creas &#250;til y puede que haya una recompensa para ti. S&#243;lo ten cuidado con ese maldito laboratorio y esos malditos militares. Ellos y algunos solitarios me han dado la lata &#250;ltimamente. &#161;Ahora vete, y no vuelvas hasta que tengas algo interesante que contarme!</text>
+	</string>
+	<string id="igi_task_text_st_zat_b7_bandit_boss_sultan_task_arszi_scout_finish">
+		<text>Bueno, bueno, mira qui&#233;n ha vuelto de una pieza. &#191;Y qu&#233; es esto, incluso tienes informaci&#243;n interesante para m&#237;? Buen trabajo. Aqu&#237; est&#225; tu pago. No lo desperdicies todo en bebidas, &#191;me oyes? &#161;Necesitamos hombres capaces como t&#250; para hacer m&#225;s negocios!</text>
+	</string>
+<!-- Major Kuznetsov -->
+<!-- agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_arszi_scout -->
+	<string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_arszi_scout_title">
+		<text>Explora el &#225;rea alrededor de la base.</text>
+	</string>
+    <string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_arszi_scout_descr">
+		<text>El Mayor Kuznetsov me ha pedido que explore la zona alrededor de la base.</text>
+	</string>
+    <string id="igi_task_text_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_arszi_scout_job_descr">
+		<text>&#161;Tengo &#243;rdenes para ti, soldado! Quiero saber qu&#233; est&#225; pasando por aqu&#237;. Ser&#225;s enviado en una misi&#243;n de reconocimiento para reunir informaci&#243;n sobre los alrededores de la base. Me interesa la zona de Agroprom, la parte norte del Gran Pantano y el Cuartel General nos ha pedido que ayudemos tambi&#233;n a los cient&#237;ficos. Re&#250;ne informaci&#243;n e informa, intenta evitar la confrontaci&#243;n, &#161;esta es una misi&#243;n de reconocimiento, no de eliminaci&#243;n!</text>
+	</string>
+	<string id="igi_task_text_st_agr_smart_terrain_1_6_near_2_military_colonel_kovalski_task_arszi_scout_finish">
+		<text>As&#237; que esta es la situaci&#243;n. &#161;Bien hecho, soldado! Aqu&#237; est&#225; tu recompensa y algunos extras.</text>
+	</string>
+<!-- Lukash -->
+<!-- mil_smart_terrain_7_7_freedom_leader_stalker_task_arszi_scout -->
+	<string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_arszi_scout_title">
+		<text>Explora el &#225;rea alrededor del almac&#233;n.</text>
+	</string>
+    <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_arszi_scout_descr">
+		<text>Lukash me pidi&#243; que explore la zona del almac&#233;n.</text>
+	</string>
+    <string id="igi_task_text_mil_smart_terrain_7_7_freedom_leader_stalker_task_arszi_scout_job_descr">
+		<text>Me gustar&#237;a pedirte que ayudes a defender nuestra casa. &#218;ltimamente ha habido una cantidad preocupante de avistamientos de Debers y Monolitos, por no hablar de los chupasangres que acechan cada d&#237;a m&#225;s cerca de ese pueblo maldito. Necesitamos informaci&#243;n sobre la situaci&#243;n actual en los almacenes del ej&#233;rcito. Comprueba los puntos que te he marcado en el mapa, e inf&#243;rmate. Traten de evitar los combates si es posible. &#161;Vuelve con cuidado!</text>
+	</string>
+	<string id="igi_task_text_st_mil_smart_terrain_7_7_freedom_leader_stalker_task_arszi_scout_finish">
+		<text>Parece la calma antes de la tormenta. Gracias, estamos agradecidos por su ayuda.</text>
+	</string>
+<!-- Dushman -->
+<!-- cit_killers_merc_trader_stalker_task_arszi_scout -->
+	<string id="igi_task_text_cit_killers_merc_trader_stalker_task_arszi_scout_title">
+		<text>Explora el &#225;rea alrededor de Ciudad Muerta.</text>
+	</string>
+    <string id="igi_task_text_cit_killers_merc_trader_stalker_task_arszi_scout_descr">
+		<text>Dushman me ha pedido que explore la zona de Ciudad Muerta.</text>
+	</string>
+    <string id="igi_task_text_cit_killers_merc_trader_stalker_task_arszi_scout_job_descr">
+		<text>Escuchen, estoy buscando voluntarios para explorar zonas que ser&#225;n objeto de futuras operaciones. Se infiltrar&#225;n en la zona de operaciones, recoger&#225;n informaci&#243;n e informar&#225;n. Bajo nivel de riesgo, recompensa aceptable. Puede haber encuentros ocasionales. &#191;Qu&#233; dices?</text>
+	</string>
+	<string id="igi_task_text_st_cit_killers_merc_trader_stalker_task_arszi_scout_finish">
+		<text>Bien hecho. Aqu&#237; tienes tu recompensa y algunos extras.</text>
+	</string>
+<!-- Krolik -->
+<!-- pri_monolith_monolith_trader_stalker_task_arszi_scout -->
+	<string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_arszi_scout_title">
+		<text>Explora el &#225;rea alrededor de Pripjat.</text>
+	</string>
+    <string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_arszi_scout_descr">
+		<text>Krolik me ha pedido que explore la zona de Pripjat.</text>
+	</string>
+    <string id="igi_task_text_pri_monolith_monolith_trader_stalker_task_arszi_scout_job_descr">
+		<text>&#161;Hermano! &#161;Los infieles se acercan cada d&#237;a m&#225;s al coraz&#243;n de nuestra tierra santa! Se arrastran como gusanos por todas partes. Te pido que encuentres las piedras bajo las que se arrastran y los agujeros donde se esconden. En cuanto sepamos su ubicaci&#243;n, atacaremos en nombre del Monolito. &#161;Ve hermano, y regresa con la informaci&#243;n a salvo! No es una verg&#252;enza no encontrarse con ellos y no tener una muerte honorable, &#161;hay situaciones en las que puedes causarles m&#225;s miseria cuando s&#243;lo est&#225;s observando y escuchando, prepar&#225;ndote para el golpe! Que el Monolito te cuide en tu misi&#243;n!</text>
+	</string>
+	<string id="igi_task_text_st_pri_monolith_monolith_trader_stalker_task_arszi_scout_finish">
+		<text>&#161;Alabado sea el Monolito! &#161;Has hecho un gran servicio a tus hermanos!</text>
+	</string>
+</string_table>

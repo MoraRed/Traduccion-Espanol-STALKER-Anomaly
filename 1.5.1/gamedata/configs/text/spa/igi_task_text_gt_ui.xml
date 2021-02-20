@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- Mutant -->
+	<string id="igi_task_text_gt_zombie">
+		<text>Zombi</text>
+	</string>
+	<string id="igi_task_text_gt_flesh">
+		<text>Carne</text>
+	</string>
+	<string id="igi_task_text_gt_boar">
+		<text>Jabal&#237;</text>
+	</string>
+	<string id="igi_task_text_gt_snork">
+		<text>Snork</text>
+	</string>
+	<string id="igi_task_text_gt_psy_dog">
+		<text>Psico Perro</text>
+	</string>
+	<string id="igi_task_text_gt_lurker">
+		<text>Acechador</text>
+	</string>
+	<string id="igi_task_text_gt_chimera">
+		<text>Quimera</text>
+	</string>
+	<string id="igi_task_text_gt_bloodsucker">
+		<text>Chupasangre</text>
+	</string>
+	<string id="igi_task_text_gt_burer">
+		<text>Quemador</text>
+	</string>
+	<string id="igi_task_text_gt_controller">
+		<text>Controlador</text>
+	</string>
+	<string id="igi_task_text_gt_poltergeist">
+		<text>Poltergeist</text>
+	</string>
+	<string id="igi_task_text_gt_gigant">
+		<text>Pseudogigante</text>
+	</string>
+	
+	<!-- Heavy -->
+	<string id="igi_task_text_gt_heavy">
+		<text>Stalker de Alto Nivel</text>
+	</string>
+</string_table>

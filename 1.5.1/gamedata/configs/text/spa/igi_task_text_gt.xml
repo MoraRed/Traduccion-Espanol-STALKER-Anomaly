@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<!-- mutant -->
+	<string id="igi_task_text_gt_mutant_title">
+		<text>Elimina los mutantes peligrosos</text>
+	</string>
+	<string id="igi_task_text_gt_mutant_descr">
+		<text>Mi trabajo es eliminar los mutantes en esa area.</text>
+	</string>
+	<string id="igi_task_text_gt_mutant_job_descr">
+		<text>Recientemente han aparecido algunos mutantes que amenazan nuestras operaciones. El comandante est&#225; buscando a alguien que pueda encargarse de ellos. Toma, echa un vistazo.</text>
+	</string>
+	<string id="igi_task_text_gt_mutant_finish">
+		<text>&#161;Grandioso trabajo! No dejaban trabajar a nuestros equipos...</text>
+	</string>
+	<!-- supply -->
+	<string id="igi_task_text_gt_supply_title">
+		<text>Cadena de suministro</text>
+	</string>
+	<string id="igi_task_text_gt_supply_descr">
+		<text>Mi tarea es neutralizar a los guardias y entregar los contenedores.</text>
+	</string>
+	<string id="igi_task_text_gt_supply_job_descr">
+		<text>Nuestras patrullas han informado de la localizaci&#243;n de la unidad de suministro en estas coordenadas. Por alguna raz&#243;n, la caravana a&#250;n no ha llegado a la ubicaci&#243;n del grupo. Pueden haber sido obstaculizados por la actividad de los mutantes, el mal tiempo, las emisiones, o algo m&#225;s. Busca su caravana. Sus suministros ser&#225;n &#250;tiles para nuestro grupo. No solo te agradeceremos.</text>
+	</string>
+	<string id="igi_task_text_gt_supply_finish">
+		<text>Una paga honesta por un trabajo honesto. Es lo mejor.</text>
+	</string>
+	<!-- heavy -->
+	<string id="igi_task_text_gt_heavy_title">
+		<text>Neutralizaci&#243;n</text>
+	</string>
+	<string id="igi_task_text_gt_heavy_descr">
+		<text>Necesito neutralizar un grupo de stalkers enemigos en ese lugar.</text>
+	</string>
+	<string id="igi_task_text_gt_heavy_job_descr">
+		<text>Recientemente, un grupo de enemigos apareci&#243; no muy lejos de nosotros. Parece que estos tipos estan a tu altura, pero no te confies: est&#225;n bien equipados y claramente buscan problemas. Buena caza, Stalker.</text>
+	</string>
+	<string id="igi_task_text_gt_heavy_finish">
+		<text>Sin problemas, espero. Eso tipos estaban claramente preparados para una pelea. Excelente trabajo.</text>
+	</string>
+	
+	<!-- transaction -->
+	<string id="igi_task_text_gt_transaction_title">
+		<text>Transacci&#243;n</text>
+	</string>
+	<string id="igi_task_text_gt_transaction_descr">
+		<text>Estos bastardos traicionaron a sus escuadrones. Mi trabajo es matarlos a todos. Atender&#225;n un negocio en el lugar que te indico.</text>
+	</string>
+	<string id="igi_task_text_gt_transaction_job_descr">
+		<text>Un amigo ha decidido iniciar una caza de sapos en su grupo. No voy a entrar en detalles - su tarea es venir al lugar de encuentro y recoger la mercanc&#237;a. Por la fuerza. Traeme las cosas, y voy a encontrarles un uso para &#233;l.</text>
+	</string>
+	<string id="igi_task_text_gt_transaction_finish">
+		<text>Buen trabajo. Me deben un trago por esto. Aqu&#237; est&#225; tu parte.</text>
+	</string>
+	
+	<!-- artifact_world -->
+	<string id="igi_task_text_gt_artifact_world_title">
+		<text>Artefactos para todos, gratis</text>
+	</string>
+	<string id="igi_task_text_gt_artifact_world_descr">
+		<text>Doctor dijo que puede que haya un artefacto aqu&#237;. Vamos a probar mi suerte, entonces.</text>
+	</string>
+	<string id="igi_task_text_gt_artifact_world_job_descr">
+		<text>Nuestros chicos vieron el artefacto cuando pasaban por all&#237;. Ten&#237;an gente herida con ellos, as&#237; que me pasaron esta informaci&#243;n. Ya que has demostrado ser bueno, te dar&#233; esta informaci&#243;n gratis. Sigue trabajando para nuestra facci&#243;n y conseguir&#225;s mucho m&#225;s.</text>
+	</string>
+	<string id="igi_task_text_gt_artifact_world_finish">
+		<text>Nothing. This line will not be shown in the game.</text>
+	</string>
+	
+	<!-- artifact_stalker -->
+	<string id="igi_task_text_gt_artifact_stalker_title">
+		<text>"Cacer&#237;a" de artefacto</text>
+	</string>
+	<string id="igi_task_text_gt_artifact_stalker_descr">
+		<text>Doc me dijo que este tipo tiene un artefacto. No creo que sean muy buenos amigos...</text>
+	</string>
+	<string id="igi_task_text_gt_artifact_stalker_job_descr">
+		<text>Este grupo de tipos estaban buscando artefactos cuando nuestros chicos pasaban. &#191;No quieres ayudarlos a cargar las cosas, por as&#237; decirlo?</text>
+	</string>
+	<string id="igi_task_text_gt_artifact_stalker_finish">
+		<text>Nothing. This line will not be shown in the game.</text>
+	</string>
+	
+	<!-- weapon -->
+	<string id="igi_task_text_gt_weapon_title">
+		<text>Equipar</text>
+	</string>
+	<string id="igi_task_text_gt_weapon_descr">
+		<text>Tengo la oportunidad de actualizar mi equipo. Deber&#237;a hacerlo...</text>
+	</string>
+	<string id="igi_task_text_gt_weapon_job_descr">
+		<text>Parece que nuestro enemigo tiene un equipo prometedor, y su equipamiento es bastante bueno. &#191;No quieres probar tu capacidad y debilitar a nuestros enemigos? Y su equipo ser&#225; tu recompensa.</text>
+	</string>
+	<string id="igi_task_text_gt_weapon_finish">
+		<text>Nothing. This line will not be shown in the game.</text>
+	</string>
+</string_table>
