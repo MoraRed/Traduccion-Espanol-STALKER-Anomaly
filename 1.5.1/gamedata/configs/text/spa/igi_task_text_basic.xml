@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<string_table>
+	<string id="igi_task_text_done">
+		<text>Trabajo completado. Tiempo de regresar con el empleador.</text>
+	</string>
+	<!-- basic text -->
+	<string id="igi_task_text_title">
+		<text>Igi Tasks: Titulo no encontrado</text>
+	</string>
+	<string id="igi_task_text_descr">
+		<text>Igi Tasks: Descripci&#243;n no encontrada</text>
+	</string>
+	<string id="igi_task_text_job_descr">
+		<text>Igi Tasks: Descripci&#243;n del trabajo no encontrada</text>
+	</string>
+	<string id="igi_task_text_finish">
+		<text>Igi Tasks: Final no encontrado, pero agradecido de todas formas</text>
+	</string>
+	
+	<!-- UI -->
+	<string id="igi_task_text_targets">
+		<text>Objetivo</text>
+	</string>
+	<string id="igi_task_text_factions">
+		<text>Facci&#243;n</text>
+	</string>
+	<string id="igi_task_text_locations">
+		<text>Ubicaci&#243;n</text>
+	</string>
+	<string id="igi_task_text_treasure_unique">
+		<text>Algo valioso</text>
+	</string>
+</string_table>

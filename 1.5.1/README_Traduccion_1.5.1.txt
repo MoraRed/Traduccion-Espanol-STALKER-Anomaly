@@ -1,7 +1,7 @@
 _______________________________________________________
   Traducción al español para S.T.A.L.K.E.R: Anomaly para 1.5.1
 -------------------------------------------------------
-Version de traducción: 1.2
+Version de traducción: 1.3
 Estado: 99%
 _________________________________
           Descripción
