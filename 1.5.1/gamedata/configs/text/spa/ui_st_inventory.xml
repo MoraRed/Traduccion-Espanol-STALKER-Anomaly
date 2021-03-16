@@ -373,7 +373,7 @@
 		<text>Viejo</text>
 	</string>
 	<string id="st_cap_verybad">
-		<text>Malo</text>
+		<text>Muy malo</text>
 	</string>
 	
 	<string id="st_cap_upgr_1">
@@ -556,13 +556,13 @@
 		<text>moderado</text>
 	</string>
 	<string id="st_itm_desc_state_significant">
-		<text>significable</text>
+		<text>significante</text>
 	</string>
 	<string id="st_itm_desc_state_increase">
-		<text>incremento</text>
+		<text>aumento</text>
 	</string>
 	<string id="st_itm_desc_state_decrease">
-		<text>reducci&#243;n</text>
+		<text>decremento</text>
 	</string>
 	
 	<string id="st_itm_desc_arty_cont">
@@ -573,10 +573,10 @@
 	</string>
 	
 	<string id="st_itm_desc_eat_sleepiness">
-		<text>%s somnolencia %s</text>
+		<text>%s %s de somnolencia</text>
 	</string>
 	<string id="st_itm_desc_eat_thirst">
-		<text>%s sed %s</text>
+		<text>%s %s de sed</text>
 	</string>
 	<string id="st_itm_desc_eat_radiation">
 		<text>envenenamiento por radiacion</text>
@@ -589,16 +589,16 @@
 		<text>actualizable</text>
 	</string>
 	<string id="st_itm_desc_outfit_heardgear">
-		<text>para la cabeza</text>
+		<text>casco</text>
 	</string>
 	<string id="st_itm_desc_outfit_num_of_slots">
 		<text>accesorios para ranuras adicionales</text>
 	</string>
 	<string id="st_itm_desc_outfit_carry_weight">
-		<text>incremento de peso cargado</text>
+		<text>carga de peso</text>
 	</string>
 	<string id="st_itm_desc_outfit_run">
-		<text>para correr</text>
+		<text>correr es</text>
 	</string>
 	<string id="st_itm_desc_outfit_patch_torn">
 		<text>El %s en este atuendo fue arrancado</text>
