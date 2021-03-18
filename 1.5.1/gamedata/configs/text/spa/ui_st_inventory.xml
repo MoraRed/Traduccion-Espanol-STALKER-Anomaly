@@ -523,7 +523,7 @@
 	</string>
 	
 	<string id="st_itm_desc_state_possible">
-		<text>posible</text>
+		<text>es posible</text>
 	</string>
 	<string id="st_itm_desc_state_not_possible">
 		<text>no es posible</text>
@@ -598,7 +598,7 @@
 		<text>carga de peso</text>
 	</string>
 	<string id="st_itm_desc_outfit_run">
-		<text>correr es</text>
+		<text>correr</text>
 	</string>
 	<string id="st_itm_desc_outfit_patch_torn">
 		<text>El %s en este atuendo fue arrancado</text>

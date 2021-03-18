@@ -559,7 +559,7 @@
 
 	<!-- Find a Reliable Weapon for Military Simulation Task -->
 	<string id="simulation_task_11_name">
-		<text>Encuentra un %c fiable para los Militares</text>
+		<text>Encuentra un %s fiable para los Militares</text>
 	</string>
 	<string id="simulation_task_11_text">
 		<text>Obtener un %s fiable para los Militares.</text>
@@ -1366,7 +1366,7 @@
 	
 		<!-- Find a Reliable Weapon for ISG Simulation Task -->
 	<string id="simulation_task_58_name">
-		<text>Encuentra un %c fiable para UNISG</text>
+		<text>Encuentra un %s fiable para UNISG</text>
 	</string>
 	<string id="simulation_task_58_text">
 		<text>Obtener un %c fiable para un miembro de la UNISG.</text>
