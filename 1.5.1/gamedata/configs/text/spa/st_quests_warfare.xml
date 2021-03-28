@@ -591,7 +591,7 @@
 		<text>%s de %s necesita que entregues un PDA encriptado a Nimble en Zaton.</text>
 	</string>
 	<string id="sim_default_csky_trader_task_1_about">
-		<text>Quiero que entregues esta PDA encriptada a Nimble. Aseg&#250;rate de que no se te caiga o se rompa, &#191;vale?</text>
+		<text>Quiero que entregues esta PDA encriptada a Nimble. Aseg&#250;rate de que no se te caiga o se rompa, &#191;ok?</text>
 	</string>
 
 	<!-- DESTROY HELICOPTER FOR CSKY TASK -->

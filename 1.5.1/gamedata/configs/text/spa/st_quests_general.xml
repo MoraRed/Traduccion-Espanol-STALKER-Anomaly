@@ -405,7 +405,7 @@
 		<text>Consigue %s</text>
 	</string>
 	<string id="simulation_task_2_text">
-		<text>Me fue solicitado por un stalker encontrar %s</text>
+		<text>Un stalker me pidio encontrarle %s</text>
 	</string>
 	<string id="simulation_task_2_about">
 		<text>Mierda, hombre. &#191;Puedes hacerme un gran favor? Me estoy quedando sin suministros. &#191;Puedes ayudarme?</text>
@@ -414,7 +414,7 @@
 		<text>Estoy quedandome sin %ss. &#191;Llevas algunos encima? Buscame si consigues algunos.</text>
 	</string>
 	<string id="simulation_task_2_fetch_finish">
-		<text>Maravilloso tio. 'Gracias!</text>
+		<text>Maravilloso hombre. &#161;Gracias!</text>
 	</string>
 	
 	
@@ -1131,13 +1131,13 @@
 		<text>Oye, t&#237;o, &#191;puedes ayudarme? Mi PDA ha estado funcionando mal &#250;ltimamente. Realmente necesito reemplazarla r&#225;pido.</text>
 	</string>
 	<string id="simulation_task_cl_fetch_about">
-		<text>Oye, t&#237;o, &#191;puedes ayudarme? Mi PDA ha estado funcionando mal &#250;ltimamente. Realmente necesito reemplazarla r&#225;pido. Vuelve a llamarme cuanto antes, &#191;vale?</text>
+		<text>Oye, t&#237;o, &#191;puedes ayudarme? Mi PDA ha estado funcionando mal &#250;ltimamente. Realmente necesito reemplazarla r&#225;pido. Vuelve a llamarme cuanto antes, &#191;quieres?</text>
 	</string>
 	<string id="simulation_task_cl_fetch_finish">
 		<text>Oh, gracias, hombre. Toma esto.</text>
 	</string>
 	<string id="simulation_task_ec_fetch_about">
-		<text>Me temo que mi PDA ha estado funcionando mal &#250;ltimamente. No puedo trabajar bien con un aparato defectuoso y no puedo esperar otro env&#237;o. Por favor, encu&#233;ntrame un nuevo modelo, &#191;vale?</text>
+		<text>Me temo que mi PDA ha estado funcionando mal &#250;ltimamente. No puedo trabajar bien con un aparato defectuoso y no puedo esperar otro env&#237;o. Por favor, encu&#233;ntrame un nuevo modelo, &#191;puedes?</text>
 	</string>
 	<string id="simulation_task_ec_fetch_finish">
 		<text>Oh, Gracias. Toma esto como recompensa.</text>

@@ -405,7 +405,7 @@
     </string>
     
     <string id="st_msg_chitchat_1_4_1">
-        <text>El $trader quiere verte por cierto, as&#237; que aseg&#250;rate de comprobar lo que quiere.</text>
+        <text>$trader quiere verte por cierto, as&#237; que aseg&#250;rate de comprobar lo que quiere.</text>
     </string>
     <string id="st_msg_chitchat_1_4_2">
         <text>$leader me pregunt&#243; por ti. Supongo que tienes algo serio que hacer, inf&#243;rmale cuando vuelvas.</text>
@@ -414,7 +414,7 @@
         <text>Incluso $c2_fname ya ha tenido suficiente de tu mierda. $mechanic por otro lado te quiere para algo importante, ve a ver eso.</text>
     </string>
     <string id="st_msg_chitchat_1_4_4">
-        <text>&#161;&#191;Y qui&#233;n de vosotros, idiotas, ha meado en mi saco de dormir?!</text>
+        <text>&#161;&#191;Qui&#233;n de ustedes, malditos idiotas, ha meado en mi saco de dormir?!</text>
     </string>
     <string id="st_msg_chitchat_1_4_5">
         <text>Me debes un vodka y un paquete de cigarrillos. Idiota.</text>
@@ -661,7 +661,7 @@
         <text>&#191;Vas a venir o qu&#233;?</text>
     </string>
     <string id="st_msg_mission_hunt_1_4_3">
-        <text>Informa al resto del grupo que llegaremos tarde, &#191;vale?</text>
+        <text>Informa al resto del grupo que llegaremos tarde, &#191;si?</text>
     </string>
     
 <!-- Mission - raid -->

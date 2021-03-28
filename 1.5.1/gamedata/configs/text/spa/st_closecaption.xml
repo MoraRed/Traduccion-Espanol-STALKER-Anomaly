@@ -613,7 +613,7 @@
 		<text>&#161;Oye! &#191;Qui&#233;n va ah&#237;?</text>
 	</string>
 	<string id="zat_b5_dealer_angry">
-		<text>&#161;T&#250;, idiota, trajiste esa cola contigo!</text>
+		<text>&#161;T&#250;, idiota, te trajiste esa cola!</text>
 	</string>
 	<string id="zat_b5_dealer_bandit_speak_1">
 		<text>&#191;Qu&#233; tienes? &#161;Mu&#233;strame!</text>
@@ -1613,7 +1613,7 @@
 		<text>&#161;No soy el enemigo, hombre!</text>
 	</string>
 	<string id="pas_b400_vano_on_actor_hit_3">
-		<text>&#161;Acabar&#233; contigo!</text>
+		<text>&#161;Te acabar&#233;!</text>
 	</string>
 	<string id="pas_b400_vano_on_death_1">
 		<text>[Vano muere]</text>
@@ -2041,7 +2041,7 @@
 		<text>No entiendo c&#243;mo pudieron atacar tan repentinamente, sin dejar ninguna prueba. Es muy extra&#241;o... &#161;Mayor, acabamos de recibir la se&#241;al del centinela! Las coordenadas lo sit&#250;an en alg&#250;n lugar cerca de la tienda de comestibles. Compru&#233;belo si puede. Cuento con usted, Mayor. Cambio y fuera.</text>
 	</string>
 	<string id="pri_a20_colonel_ask_check_recon_squad">
-		<text>Necesitamos encontrar la unidad de reconocimiento. Mayor, &#161;averig&#252;e lo que ha pasado! &#191;Qu&#233; demonios...? Hmm. Ten cuidado ah&#237; fuera, &#191;vale? Y, Mayor... &#161;Mant&#233;ngame informado!</text>
+		<text>Necesitamos encontrar la unidad de reconocimiento. Mayor, &#161;averig&#252;e lo que ha pasado! &#191;Qu&#233; demonios...? Hmm. Ten cuidado ah&#237; fuera, &#191;entendido? Y, Mayor... &#161;Mant&#233;ngame informado!</text>
 	</string>
 	<string id="pri_a20_colonel_give_next_task_1">
 		<text>Son esos malditos fan&#225;ticos. Tenemos que lidiar con ellos.</text>
