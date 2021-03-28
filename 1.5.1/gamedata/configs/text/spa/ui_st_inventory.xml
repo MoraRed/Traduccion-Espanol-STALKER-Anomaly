@@ -250,10 +250,10 @@
 		<text>Plantar con sensor de proximidad</text>
 	</string>
 	<string id="st_plant_explosive_timer_10">
-		<text>Platar con temporalizador 10 de segundos</text>
+		<text>Plantar con temporalizador 10 de segundos</text>
 	</string>
 	<string id="st_plant_explosive_timer_30">
-		<text>Platar con temporalizador 30 de segundos</text>
+		<text>Plantar con temporalizador 30 de segundos</text>
 	</string>
 
 	<!-- Units -->
