@@ -132,7 +132,7 @@
 		<text>Necesito ayuda, hermano. Uno de Deber me trajo su rifle para repararlo, pero lo estrope&#233; bastante. Necesito encontrar un reemplazo para &#233;l antes de que venga a recogerlo.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_fetch_about">
-		<text>Si encuentras un/una %s, tr&#225;emela. No tengo mucho dinero pero tengo algo que puedo cambiarte por ello.</text>
+		<text>Si encuentras un/una %s, tr&#225;emela. No tengo mucho dinero pero tengo algo que puedo cambiarte por eso.</text>
 	</string>
 	<string id="drx_sl_bar_visitors_stalker_mechanic_task_1_fetch_finish">
 		<text>&#161;Eh, genial! Encontraste uno. Gracias hermano, me has salvado el culo.</text>
@@ -374,7 +374,7 @@
 		<text>Matar al Stalker</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_2_text">
-		<text>He accedido a cuidar de un stalker para el Tabernero.</text>
+		<text>He accedido a encargarme de un stalker para Tabernero.</text>
 	</string>
 	<string id="bar_visitors_barman_stalker_trader_task_2_about">
 		<text>Uno de los habituales de por aqu&#237; result&#243; estar podrido hasta la m&#233;dula. La gente de Rostok pagar&#237;a con gusto para poner flores en su tumba, si me doy a entender. Entonces, &#191;est&#225;s dispuesto a hacerlo?</text>
