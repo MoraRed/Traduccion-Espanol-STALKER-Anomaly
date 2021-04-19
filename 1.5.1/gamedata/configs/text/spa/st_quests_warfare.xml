@@ -272,7 +272,7 @@
 
 	<!-- ASSASSINATION FOR BANDITS TASK -->
 	<string id="sim_default_bandit_trader_task_5_name">
-		<text>Hombre Golpe</text>
+		<text>Hitman</text>
 	</string>
 	<string id="sim_default_bandit_trader_task_5_text">
 		<text>%s de %s te ha contratado para ejecutar un golpe. Encuentra y elimina el objetivo y luego regresa a &#233;l para el pago.</text>
@@ -1203,7 +1203,7 @@
 
 	<!-- ASSASSINATION FOR RENEGADES TASK -->
 	<string id="sim_default_renegade_trader_task_4_name">
-		<text>Hombre Golpe</text>
+		<text>Hitman</text>
 	</string>
 	<string id="sim_default_renegade_trader_task_4_text">
 		<text>%s de %s te ha contratado para ejecutar un golpe. Encuentra y elimina el objetivo y luego regresa a &#233;l para el pago.</text>

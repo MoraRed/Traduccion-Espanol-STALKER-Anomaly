@@ -301,7 +301,7 @@
 		<text>Steyr AUG A1 (personalizado)</text>
 	</string>
 	<string id="st_wpn_aug_descr">
-		<text>Steyr AUG A1 en configuracion estandar de rifle (color verde militar). El AUG es un fusil de asalto austriaco bullpup de 5.56mm, dise&#241;ado en la decada de 1960 por el amplificador Steyr Mannlicher GmbH; Co KG (anteriormente Steyr-Daimler-Puch). El AUG ("rifle universal del ejercito" Armee-Universal-Gewehr) fue adoptado por el ejercito austriaco como StG 77 (Sturmgewehr 77) en 1978, donde reemplazo el rifle automatico StG 58 de 7,62mm (un FN FAL con licencia). En producci&#243;n desde 1978, es el brazo pequeno estandar del Bundesheer austriaco y varias unidades de la policia nacional. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor 5.56x45 compatible \n%c[d_purple] • %c[ui_gray_2] Mira 1.5x (integrada).\n</text>
+		<text>Steyr AUG A1 en configuracion estandar de rifle (color verde militar). El AUG es un fusil de asalto austriaco bullpup de 5.56mm, dise&#241;ado en la decada de 1960 por el amplificador Steyr Mannlicher GmbH; Co KG (anteriormente Steyr-Daimler-Puch). El AUG ("rifle universal del ejercito" Armee-Universal-Gewehr) fue adoptado por el ejercito austriaco como StG 77 (Sturmgewehr 77) en 1978, donde reemplazo el rifle automatico StG 58 de 7,62mm (un FN FAL con licencia). En producci&#243;n desde 1978, es el arma corta estandar del Bundesheer austriaco y varias unidades de la policia nacional. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor 5.56x45 compatible \n%c[d_purple] • %c[ui_gray_2] Mira 1.5x (integrada).\n</text>
 	</string>
 	<string id="st_wpn_aug_freedom">
 		<text>Steyr AUG A1 (camuflado)</text>
@@ -313,7 +313,7 @@
 		<text>Steyr AUG A1 (moderno)</text>
 	</string>
 	<string id="st_wpn_aug_modern_descr">
-		<text>Steyr AUG A1 en configuracion estandar de rifle (color verde militar). El AUG es un fusil de asalto austriaco bullpup de 5.56mm, dise&#241;ado en la decada de 1960 por el amplificador Steyr Mannlicher GmbH; Co KG (anteriormente Steyr-Daimler-Puch). El AUG ("rifle universal del ejercito" Armee-Universal-Gewehr) fue adoptado por el ejercito austriaco como StG 77 (Sturmgewehr 77) en 1978, donde reemplazo el rifle automatico StG 58 de 7,62mm (un FN FAL con licencia). En producci&#243;n desde 1978, es el brazo pequeno estandar del Bundesheer austriaco y varias unidades de la policia nacional. Este modelo ha sido modificado para el uso del cartucho OTAN 7.62x51.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor 5.56x45 compatible \n%c[d_purple] • %c[ui_gray_2] Mira 1.5x (integrado).\n</text>
+		<text>Steyr AUG A1 en configuracion estandar de rifle (color verde militar). El AUG es un fusil de asalto austriaco bullpup de 5.56mm, dise&#241;ado en la decada de 1960 por el amplificador Steyr Mannlicher GmbH; Co KG (anteriormente Steyr-Daimler-Puch). El AUG ("rifle universal del ejercito" Armee-Universal-Gewehr) fue adoptado por el ejercito austriaco como StG 77 (Sturmgewehr 77) en 1978, donde reemplazo el rifle automatico StG 58 de 7,62mm (un FN FAL con licencia). En producci&#243;n desde 1978, es el arma corta estandar del Bundesheer austriaco y varias unidades de la policia nacional. Este modelo ha sido modificado para el uso del cartucho OTAN 7.62x51.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor 5.56x45 compatible \n%c[d_purple] • %c[ui_gray_2] Mira 1.5x (integrado).\n</text>
 	</string>
 	<string id="st_wpn_aug_worn">
 		<text>Steyr AUG A1 (desgastado)</text>
@@ -399,25 +399,25 @@
 		<text>Colt M1911 (camuflado)</text>
 	</string>
 	<string id="st_wpn_colt1911_camo_descr">
-		<text>El M1911 fue el brazo lateral estandar para el ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Este es un modelo &#250;nico con manchas rojas en color beige oscuro.\n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] .45 Supresor ACP (despues de modificarse)\n</text>
+		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Este es un modelo &#250;nico con manchas rojas en color beige oscuro.\n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] .45 Supresor ACP (despues de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_colt1911_custom">
 		<text>Colt M1911 (personalizado)</text>
 	</string>
 	<string id="st_wpn_colt1911_descr">
-		<text>El M1911 fue el brazo lateral estandar para el ejercito de los EE. UU. Desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta el dia de hoy. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor .45 ACP (despues de modificarse)\n</text>
+		<text>El M1911 el arma corta estandar del ejercito de los EE. UU. Desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta el dia de hoy. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor .45 ACP (despues de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_colt1911_duty">
 		<text>Colt M1911 (camuflaje Deber)</text>
 	</string>
 	<string id="st_wpn_colt1911_duty_descr">
-		<text>El M1911 fue el brazo lateral estandar para el ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Esta variante tiene una caracteristica distintiva: es m&#225;s potente que la normal. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] .45 Supresor ACP (despues de modificarse)\n</text>
+		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Esta variante tiene una caracteristica distintiva: es m&#225;s potente que la normal. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] .45 Supresor ACP (despues de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_colt1911_merc">
 		<text>Colt M1911 (camuflaje Mercenario)</text>
 	</string>
 	<string id="st_wpn_colt1911_merc_descr">
-		<text>El M1911 fue el brazo lateral estandar para el ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Este modelo es considerablemente m&#225;s confiable y preciso. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor .45 ACP (despues de modificarse)\n</text>
+		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Este modelo es considerablemente m&#225;s confiable y preciso. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor .45 ACP (despues de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_colt1911_modern">
 		<text>Colt M1911 (moderno)</text>
@@ -429,7 +429,7 @@
 		<text>Colt M1911 (oxidado)</text>
 	</string>
 	<string id="st_wpn_colt1911_rusty_descr">
-		<text>El M1911 fue el brazo lateral estandar para el ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Este modelo tiene oxido por todas partes, lo que probablemente aumentara la probabilidad de que se atasque. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple]  • %c[d_red] Imposible montar un supresor.\n</text>
+		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Este modelo tiene oxido por todas partes, lo que probablemente aumentara la probabilidad de que se atasque. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple]  • %c[d_red] Imposible montar un supresor.\n</text>
 	</string>
 	<string id="st_wpn_colt1911_worn">
 		<text>Colt M1911 (desgastado)</text>

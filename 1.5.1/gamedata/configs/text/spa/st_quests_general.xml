@@ -723,10 +723,10 @@
 		<text>Un bandido me ha pedido que recolecte %s.</text>
 	</string>
 	<string id="simulation_task_20_about">
-		<text>Hola, muchacho. Tengo un trabajo para ti. Hay demasiados gamberros por ah&#237; interfiriendo con nuestro negocio. Machaca a algunos y devu&#233;lveme sus parches, &#191;quieres?</text>
+		<text>Hola, muchacho. Tengo un trabajo para ti. Hay demasiados gamberros por ah&#237; interfiriendo con nuestro negocio. Elimina a algunos y tr&#225;eme sus parches, &#191;quieres?</text>
 	</string>
 	<string id="simulation_task_20_fetch_about">
-		<text>Hola, muchacho. Tengo un trabajo para ti. Hay demasiados gamberros por ah&#237; interfiriendo con nuestro negocio. Machaca a algunos y devu&#233;lveme sus parches, &#191;quieres? Necesito %ses.</text>
+		<text>Hola, muchacho. Tengo un trabajo para ti. Hay demasiados gamberros por ah&#237; interfiriendo con nuestro negocio. Elimina a algunos y tr&#225;eme sus parches, &#191;quieres? Necesito %ses.</text>
 	</string>
 	<string id="simulation_task_20_fetch_finish">
 		<text>Buen trabajo, hombre. Mi respeto y el artefacto para ti.</text>
