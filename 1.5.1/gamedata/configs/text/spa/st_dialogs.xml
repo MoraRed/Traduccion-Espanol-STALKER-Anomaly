@@ -1855,7 +1855,7 @@
 		<text>&#191;Qu&#233; necesitas?</text>
 	</string>
 	<string id="axr_phrase_actor_give_command">
-		<text>[Emitir orden]</text>
+		<text>[Dar orden]</text>
 	</string>
 	<string id="axr_phrase_actor_give_command_combat">
 		<text>Hablemos de t&#225;cticas...</text>
@@ -1906,7 +1906,7 @@
 		<text>Evita disparar por ahora.</text>
 	</string>
 	<string id="axr_phrase_actor_give_command_dont_ignore_combat">
-		<text>Ataca a los enemigos s&#243;lo cuando los ves.</text>
+		<text>Ataca a los enemigos s&#243;lo cuando los veas.</text>
 	</string>
 	<string id="axr_phrase_actor_give_command_ignore_combat_but_help_actor">
 		<text>No ataques a nadie a menos que me ataquen a m&#237; primero.</text>
@@ -1930,7 +1930,7 @@
 		<text>&#161;R&#225;pido! &#161;Ponte a cubierto!</text>
 	</string>
 	<string id="axr_phrase_actor_give_command_patrol_menu">
-		<text>Quiero que patrules un &#225;rea.</text>
+		<text>Quiero que patrulles un &#225;rea.</text>
 	</string>
 	<string id="axr_phrase_actor_give_command_start_patrol">
 		<text>Comenzar a patrullar.</text>
@@ -1954,7 +1954,7 @@
 		<text>Ignora cualquier equipo que veas por ah&#237;.</text>
 	</string>
 	<string id="axr_phrase_actor_give_command_loot_corpses_stop">
-		<text>Ignora la muerte</text>
+		<text>Ignora los cadaveres</text>
 	</string>
 	<string id="axr_phrase_friend_companion_ask_join">
 		<text>Oye, exploremos en equipo. Podr&#237;amos ayudarnos mutuamente a trav&#233;s de la Zona.</text>
