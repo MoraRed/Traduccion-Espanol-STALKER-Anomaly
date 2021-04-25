@@ -2,7 +2,7 @@
 <string_table>
 	<!-- Package -->
 	<string id="igi_task_text_pda_package">
-		<text>Este paquete puede que contenga cosas valiosas. tengo curiosidad de saber que hay dentro.</text>
+		<text>Este paquete puede que contenga cosas valiosas. Tengo curiosidad de saber que hay dentro.</text>
 	</string>
 	<string id="igi_task_text_gt_package_artifact">
 		<text>Artefacto</text>

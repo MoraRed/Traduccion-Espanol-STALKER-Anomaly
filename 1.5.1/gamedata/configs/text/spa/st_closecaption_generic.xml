@@ -373,7 +373,7 @@
 		<text>Estoy escuchando, hombre.</text>
 	</string>
 	<string id="cc_generic-freedom-meet_hello_3">
-		<text>&#191;Que pasa, tio?</text>
+		<text>&#191;Que pasa, hombre?</text>
 	</string>
 
 	<string id="cc_generic-freedom-meet_hide_weapon_1">
@@ -383,7 +383,7 @@
 		<text>&#161;Enfunda tu arma, joder!</text>
 	</string>
 	<string id="cc_generic-freedom-meet_hide_weapon_3">
-		<text>&#161;Paz hermano! Guarda el arma, tio.</text>
+		<text>&#161;Paz hermano! Guarda el arma, hombre.</text>
 	</string>
 	<string id="cc_generic-freedom-meet_hide_weapon_9">
 		<text>No hagas cosas raras y guarda el arma, &#191;bien?</text>
@@ -425,7 +425,7 @@
 		<text>Dudo que te pueda darte algo de valor. Ve a ver al jefe.</text>
 	</string>
 	<string id="cc_generic-freedom-meet_use_no_talk_leader_3">
-		<text>Dejame en paz, tio. Habla con el jefe.</text>
+		<text>Dejame en paz, hombre. Habla con el jefe.</text>
 	</string>
 
 	<string id="cc_generic-freedom-meet_use_no_weapon_1">
@@ -441,7 +441,7 @@
 		<text>&#191;Estas aqu&#237; para hablar o matar?</text>
 	</string>
 	<string id="cc_generic-freedom-meet_use_no_weapon_7">
-		<text>Tio, quita ese trozo de metal de mi cara.</text>
+		<text>Tipo, quitame ese fierro de la cara.</text>
 	</string>
 	<string id="cc_generic-freedom-meet_use_no_weapon_8">
 		<text>&#191;Que pasa, la tienes peque&#241;a y por eso me apuntas con tu arma?</text>
@@ -459,7 +459,7 @@
 	</string>
 
 	<string id="cc_generic-killer-meet_hide_weapon_1">
-		<text>&#161;Oculta esa arma!</text>
+		<text>&#161;Guarda el arma!</text>
 	</string>
 	<string id="cc_generic-killer-meet_hide_weapon_2">
 		<text>Si quieres hablar, baja esa pistola y sube lentamente.</text>

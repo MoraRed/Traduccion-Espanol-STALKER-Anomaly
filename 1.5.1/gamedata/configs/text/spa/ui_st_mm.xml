@@ -16,7 +16,7 @@
 		<text>TIPO DE JUEGO</text>
 	</string>
 	<string id="gd_master">
-		<text>Dominar</text>
+		<text>Maestro</text>
 	</string>
 	<string id="gd_novice">
 		<text>Novato</text>
@@ -127,7 +127,7 @@
 		<text>Salir del perfil</text>
 	</string>
 	<string id="ui_mm_master">
-		<text>Dominar</text>
+		<text>Maestro</text>
 	</string>
 	<string id="ui_mm_need_restart">
 		<text>Los cambios solo tendr&#225;n efecto despu&#233;s de reiniciar el juego</text>

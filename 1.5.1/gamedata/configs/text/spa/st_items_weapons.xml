@@ -301,7 +301,7 @@
 		<text>Steyr AUG A1 (personalizado)</text>
 	</string>
 	<string id="st_wpn_aug_descr">
-		<text>Steyr AUG A1 en configuracion estandar de rifle (color verde militar). El AUG es un fusil de asalto austriaco bullpup de 5.56mm, dise&#241;ado en la decada de 1960 por el amplificador Steyr Mannlicher GmbH; Co KG (anteriormente Steyr-Daimler-Puch). El AUG ("rifle universal del ejercito" Armee-Universal-Gewehr) fue adoptado por el ejercito austriaco como StG 77 (Sturmgewehr 77) en 1978, donde reemplazo el rifle automatico StG 58 de 7,62mm (un FN FAL con licencia). En producci&#243;n desde 1978, es el brazo pequeno estandar del Bundesheer austriaco y varias unidades de la policia nacional. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] ï %c[ui_gray_2] Supresor 5.56x45 compatible \n%c[d_purple] ï %c[ui_gray_2] Mira 1.5x (integrada).\n</text>
+		<text>Steyr AUG A1 en configuracion estandar de rifle (color verde militar). El AUG es un fusil de asalto austriaco bullpup de 5.56mm, dise&#241;ado en la decada de 1960 por el amplificador Steyr Mannlicher GmbH; Co KG (anteriormente Steyr-Daimler-Puch). El AUG ("rifle universal del ejercito" Armee-Universal-Gewehr) fue adoptado por el ejercito austriaco como StG 77 (Sturmgewehr 77) en 1978, donde reemplazo el rifle automatico StG 58 de 7,62mm (un FN FAL con licencia). En producci&#243;n desde 1978, es el arma corta estandar del Bundesheer austriaco y varias unidades de la policia nacional. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] ï %c[ui_gray_2] Supresor 5.56x45 compatible \n%c[d_purple] ï %c[ui_gray_2] Mira 1.5x (integrada).\n</text>
 	</string>
 	<string id="st_wpn_aug_freedom">
 		<text>Steyr AUG A1 (camuflado)</text>
@@ -313,7 +313,7 @@
 		<text>Steyr AUG A1 (moderno)</text>
 	</string>
 	<string id="st_wpn_aug_modern_descr">
-		<text>Steyr AUG A1 en configuracion estandar de rifle (color verde militar). El AUG es un fusil de asalto austriaco bullpup de 5.56mm, dise&#241;ado en la decada de 1960 por el amplificador Steyr Mannlicher GmbH; Co KG (anteriormente Steyr-Daimler-Puch). El AUG ("rifle universal del ejercito" Armee-Universal-Gewehr) fue adoptado por el ejercito austriaco como StG 77 (Sturmgewehr 77) en 1978, donde reemplazo el rifle automatico StG 58 de 7,62mm (un FN FAL con licencia). En producci&#243;n desde 1978, es el brazo pequeno estandar del Bundesheer austriaco y varias unidades de la policia nacional. Este modelo ha sido modificado para el uso del cartucho OTAN 7.62x51.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] ï %c[ui_gray_2] Supresor 5.56x45 compatible \n%c[d_purple] ï %c[ui_gray_2] Mira 1.5x (integrado).\n</text>
+		<text>Steyr AUG A1 en configuracion estandar de rifle (color verde militar). El AUG es un fusil de asalto austriaco bullpup de 5.56mm, dise&#241;ado en la decada de 1960 por el amplificador Steyr Mannlicher GmbH; Co KG (anteriormente Steyr-Daimler-Puch). El AUG ("rifle universal del ejercito" Armee-Universal-Gewehr) fue adoptado por el ejercito austriaco como StG 77 (Sturmgewehr 77) en 1978, donde reemplazo el rifle automatico StG 58 de 7,62mm (un FN FAL con licencia). En producci&#243;n desde 1978, es el arma corta estandar del Bundesheer austriaco y varias unidades de la policia nacional. Este modelo ha sido modificado para el uso del cartucho OTAN 7.62x51.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] ï %c[ui_gray_2] Supresor 5.56x45 compatible \n%c[d_purple] ï %c[ui_gray_2] Mira 1.5x (integrado).\n</text>
 	</string>
 	<string id="st_wpn_aug_worn">
 		<text>Steyr AUG A1 (desgastado)</text>
@@ -399,25 +399,25 @@
 		<text>Colt M1911 (camuflado)</text>
 	</string>
 	<string id="st_wpn_colt1911_camo_descr">
-		<text>El M1911 fue el brazo lateral estandar para el ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Este es un modelo &#250;nico con manchas rojas en color beige oscuro.\n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] ï %c[ui_gray_2] .45 Supresor ACP (despues de modificarse)\n</text>
+		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Este es un modelo &#250;nico con manchas rojas en color beige oscuro.\n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] ï %c[ui_gray_2] .45 Supresor ACP (despues de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_colt1911_custom">
 		<text>Colt M1911 (personalizado)</text>
 	</string>
 	<string id="st_wpn_colt1911_descr">
-		<text>El M1911 fue el brazo lateral estandar para el ejercito de los EE. UU. Desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta el dia de hoy. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] ï %c[ui_gray_2] Supresor .45 ACP (despues de modificarse)\n</text>
+		<text>El M1911 el arma corta estandar del ejercito de los EE. UU. Desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta el dia de hoy. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] ï %c[ui_gray_2] Supresor .45 ACP (despues de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_colt1911_duty">
 		<text>Colt M1911 (camuflaje Deber)</text>
 	</string>
 	<string id="st_wpn_colt1911_duty_descr">
-		<text>El M1911 fue el brazo lateral estandar para el ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Esta variante tiene una caracteristica distintiva: es m&#225;s potente que la normal. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] ï %c[ui_gray_2] .45 Supresor ACP (despues de modificarse)\n</text>
+		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Esta variante tiene una caracteristica distintiva: es m&#225;s potente que la normal. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] ï %c[ui_gray_2] .45 Supresor ACP (despues de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_colt1911_merc">
 		<text>Colt M1911 (camuflaje Mercenario)</text>
 	</string>
 	<string id="st_wpn_colt1911_merc_descr">
-		<text>El M1911 fue el brazo lateral estandar para el ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Este modelo es considerablemente m&#225;s confiable y preciso. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] ï %c[ui_gray_2] Supresor .45 ACP (despues de modificarse)\n</text>
+		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Este modelo es considerablemente m&#225;s confiable y preciso. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] ï %c[ui_gray_2] Supresor .45 ACP (despues de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_colt1911_modern">
 		<text>Colt M1911 (moderno)</text>
@@ -429,7 +429,7 @@
 		<text>Colt M1911 (oxidado)</text>
 	</string>
 	<string id="st_wpn_colt1911_rusty_descr">
-		<text>El M1911 fue el brazo lateral estandar para el ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Este modelo tiene oxido por todas partes, lo que probablemente aumentara la probabilidad de que se atasque. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple]  ï %c[d_red] Imposible montar un supresor.\n</text>
+		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Este modelo tiene oxido por todas partes, lo que probablemente aumentara la probabilidad de que se atasque. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple]  ï %c[d_red] Imposible montar un supresor.\n</text>
 	</string>
 	<string id="st_wpn_colt1911_worn">
 		<text>Colt M1911 (desgastado)</text>
@@ -1637,7 +1637,7 @@
 		<text>ASh-12.7</text>
 	</string>
 	<string id="st_wpn_ash12_descr">
-		<text>El ASh-12.7 (¿ÿ-12.7, que significa "¿‚ÚÓÏ‡Ú ¯ÚÛÏÓ‚ÓÈ 12.7ÏÏ" o "Rifle de asalto automatico, 12.7mm") es un arma dedicada CQB / Urban Operations, desarrollada por TsKIB SOO ("Oficina Central de Dise&#241;o e Investigaci&#243;n de Armas Deportivas y de Caza"), una subsidiaria de la Oficina de Dise&#241;o de Instrumentos KBP de Tula, Rusia, a solicitud del FSB (Servicio de Seguridad Federal) ruso. El arma fue dise&#241;ada con un poder de frenado de corto alcance extremo en mente porque esta destinada a unidades especiales del FSB que operan en entornos urbanos contra gangsters y terroristas fuertemente armados y organizados que necesitan ser asesinados de un solo disparo. Segun la prensa rusa, el primer lote de rifles de asalto ASh-12.7 fue entregado al FSB. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] ï %c[ui_gray_2] Miras ACOG, Barska ES AC10632 , C-more Railway Tactical, EOTech\n</text>
+		<text>El ASh-12.7 (¿ÿ-12.7, que significa "¿‚ÚÓÏ‡Ú ¯ÚÛÏÓ‚Ó&#233; 12.7ÏÏ" o "Rifle de asalto automatico, 12.7mm") es un arma dedicada CQB / Urban Operations, desarrollada por TsKIB SOO ("Oficina Central de Dise&#241;o e Investigaci&#243;n de Armas Deportivas y de Caza"), una subsidiaria de la Oficina de Dise&#241;o de Instrumentos KBP de Tula, Rusia, a solicitud del FSB (Servicio de Seguridad Federal) ruso. El arma fue dise&#241;ada con un poder de frenado de corto alcance extremo en mente porque esta destinada a unidades especiales del FSB que operan en entornos urbanos contra gangsters y terroristas fuertemente armados y organizados que necesitan ser asesinados de un solo disparo. Segun la prensa rusa, el primer lote de rifles de asalto ASh-12.7 fue entregado al FSB. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] ï %c[ui_gray_2] Miras ACOG, Barska ES AC10632 , C-more Railway Tactical, EOTech\n</text>
 	</string>
 	
 	<string id="st_wpn_aug_a3">
@@ -1864,4 +1864,847 @@ Grenades
 	<string id="st_wpn_flamewerfer_descr">
 		<text>Un lanzallamas hecho en casa, propenso a atascarse y con un alcance pobre. Su dise&#241;o al azar sugiere que fue hecho en la zona por un stalker algo perturbado.\n</text>
 	</string>
+	
+	<!-- Textos de 'boomsticks and sharpsticks' -->
+	
+	<string id="st_knifebf4">
+        <text>BJ-2</text>
+    </string>
+    <string id="st_knifebf4_descr">
+        <text> Hellishly cool combat knife produced in Western countries. Used by mercenary soldiers around the world. </text>
+    </string>
+	
+	<string id="st_kukri">
+        <text>Kukri</text>
+    </string>
+    <string id="st_kukri_descr">
+        <text>This is a special blade made of high-carbon spring-spring steel of the bus, which for many years stood in an anomal field, and therefore has excellent cutting and chopping properties. Ideal for cutting mutants of all stripes, and for protection against them. </text>
+		</string>
+		
+		<string id="st_wpn_ak12_custom">
+        <text>AK-12 Monolit</text>
+    </string>
+    <string id="st_wpn_ak12_custom_descr">
+        <text> A very rare boomstick. Legend has it that when he reached the center of Pripyat, one stalker was ambushed by the fighters of the Monolith ...
+†.... after he had run out of ammunition he used explosives - and all that he had. Thanks to artifacts and iron plates, this horseradish practically did not suffer.
+†Finding on one of the corpses a corps damaged by the AK12 explosion with the Monolith sign, he decided to take the trophy with him.
+†Having passed through all the gunsmiths of the zone, the stalker finally met the technician who was able to recover this weapon in a few months of hard work 
+\n%c[0,140,140,140]Addons: \n%c[0,93,0,116] ï %c[0,140,140,140] \n%c[0,93,0,116] ï %c[0,140,140,140] Scopes: All scopes for Picatinny/Weaver\n%c[0,93,0,116] ï %c[0,140,140,140] Silencer: SilencerCo Osprey 5.45\n 
+%c[d_purple] ï %c[ui_gray_2] Can be upgraded using Tactical Kits \n \n</text>
+		</string>
+		
+		<string id="st_wpn_ak12_m1">
+		<text>¿ -12 (2016) Tactical</text>
+	</string>
+		<string id="st_wpn_ak12_m1_descr">
+		<text>\n%c[255,1,255,255]ï%c[default] Scopes: All scopes for Picatinny/Weaver \n\n \n 2016 version AK-12.   .</text>
+	</string>
+		
+		
+		<string id="st_wpn_usp_tac">
+        <text>HK USP Match Tactical</text>
+    </string>
+    <string id="st_wpn_usp_tac_descr">
+        <text>This is modification of the HK USP Match specially developed for scientists by the personal order of Professor Sakhorov, designed for use in the "Specialist-Scientist" kit. The operation of the system of mechanisms is improved with the help of artifacts. The difference from the standard USP Match is the ability to install a silencer. The gun is equipped with an enlarged magazine for 22 rounds of 9mm caliber. (The Specialist-Scientist kit includes: BCC Savant, HK USP Match Tactical, Monolith Blade).\n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] The kit includes Laser Aiming Module and Red Dot Sights mount.\n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: Docter Sight, Aimpoint T1 (low mount), Trijicon RMR, Leupold DeltaPoint PRO.\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: AAC Black Box\n \n</text>
+    </string>
+	
+	
+	
+	<string id="st_wpn_vintorez_m1">
+		<text>VSS "Savant"</text>
+	</string>
+	<string id="st_wpn_vintorez_m1_descr">
+		<text>This is early prototype of VSS Savant. This build is more popular between pro-stalkers because of lower price than final version. \n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All except of ETS-62\n
+		%c[d_purple] ï %c[ui_gray_2] supressor VSS (integrated)\n \n</text>
+	</string>
+	
+	
+	<string id="st_wpn_vintorez_m2">
+		<text>VSS "Merc"</text>
+	</string>
+	<string id="st_wpn_vintorez_m2_descr">
+		<text>At the request of the Syndicate of Mercenaries, a team of enthusiastic scientists led by Professor Sakhorov was engaged in finalizing the prototype. To develop and conduct field trials, it took about 20 artifacts from gravitational anomalies. As a result, this allowed the Picatini bar to be installed on the receiver without loss of accuracy, as well as improved mechanics, which led to higher reliability indicators..\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produced by L3 Insight Technologies. Tactical device that combines laser designators in both visible and IR band with IR searchlight. \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All except of 1P59 Giperon\n
+		%c[d_purple] ï %c[ui_gray_2] Fab Defense stock and foregrip are installed\n
+		%c[d_purple] ï %c[ui_gray_2] supressor VSS (integrated)\n \n</text>
+	</string>
+	
+	
+	<string id="st_tactical_knife">
+		<text>Monolit's Blade</text>
+	</string>
+	<string id="st_tactical_knife_descr">
+		<text>[RUSSIAN ACCENT "ON"] It is rumoured, these blades are produced in very a few by masters from a groupment Monolith. Threw composition of alloy not known - it is talked to extract him it is possible only in the heart of sarcophagus.[RUSSIAN ACCENT "OFF"]</text>
+	</string>
+	
+	<string id="st_wpn_saiga12s_m1">
+		<text>Saiga-12 Destripador</text>
+	</string>
+	<string id="st_wpn_saiga12s_m1_descr">
+		<text>Destripador - is the evidence of the professorís concern for his wards. From the name itís clear what sponsors made this modification of Saiga for money. Used in "negotiations" with especially dangerous mutants about the transfer of their organs as a gift to science .. Experienced hunters look with considerable envy at the "nerds" armed with this model.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All scopes for for Dovetail mount except of PSO-1M2-1. The use of PSO scopes with an eyecup on this weapon is highly not recomended.\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: Hexagon 12K\n \n</text>
+	</string>
+	
+	
+	<string id="st_wpn_m4_ru556">
+		<text>Ruger SR-556</text>
+	</string>
+	<string id="st_wpn_m4_ru556_descr">
+		<text>Several of these rifles entered the Zone through scientists. According to legend, Professor Sakharov received 6 small conteiners with these guns from foreign sponsors, 
+but 5 of them were lost during transportation. 
+Ruger SR-556 is an American self-loading carbine manufactured by the arms company Sturm, 
+Ruger & Company, Inc. became the first Ruger of the AR-10 family. Ruger SR-762 chambered for .308. 
+Belongs to a few samples of AR-15 rifles using the removal of powder gases. 
+Production ceased in January 2016 after the introduction of the Keymod Lightweight option.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Universal mount by NcStar with Trijicon RMR red dot sight installed on it. \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: all scopes for picatinny/weaver\n
+		%c[d_purple] ï %c[ui_gray_2] Suppressor: NATO\n \n</text>
+	</string>
+	
+	
+	<string id="st_wpn_saiga12s_m2">
+		<text>Dushman's Saiga</text>
+	</string>
+	<string id="st_wpn_saiga12s_m2_descr">
+		<text>Saiga modified by mercs request. Picatinny rail and a massive muzzle brake compensator installed, significantly reducing recoil.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All scopes for picatinny/weaver and for Dovetail mount except of 1P59 Giperon, 1P78 Kashtan, PSO-1M2-1, OKP-7, Kobra EKP-1S-03 and Kobra EKP-8-02.\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: SilencerCo SalvoÆ 12\n \n</text>
+	</string>
+	
+	
+	
+	
+	<string id="st_wpn_ak74m_beard">
+		<text>AK-74M Beard</text>
+	</string>
+	<string id="st_wpn_ak74m_beard_descr">
+		<text> This AK, a kind of beard venom (not to be confused with his tea).  Lightweight and tailored to the harsh conditions of the Zone.  Does not provide for mounting a grenade launcher.  It is made at Skadovsk and Yanov Station, from where it disperses throughout the Zone.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: all scopes for Dovetail mount (except of 1p59 Giperon and PSO-1M2-1) and all red dot sights (except of Aimpoint PRO and Aimpoint T1 with high mount and Barska 11090). The use of PSO scopes with an eyecup on this weapon is highly not recomended.\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: TGP-A. No Grenade Launcher available for this model\n \n</text>
+	</string>
+	
+	
+	<string id="st_wpn_ak105_sp">
+		<text>AK-105 Specialist</text>
+	</string>
+	<string id="st_wpn_ak105_sp_descr">
+		<text> The modification was based on the usual AK-105, which, as a result, (thanks to mercenaries craftsmen) for a long time turned into a favorite burrel of these guys.A very balanced weapon with low recoil, good accuracy and high wear resistance.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Leupold Deltapoint Pro Red Dot sight preinstalled on NcStar 45 mount\n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All scopes for dowetail mount except of red dot sights. The use of PSO scopes with an eyecup on this weapon is highly not recomended.\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: TGP-A.\n \n</text>
+	</string>
+
+
+
+		<string id="st_wpn_akm_isg">
+		<text>¿ -47 ISG</text>
+	</string>
+	<string id="st_wpn_akm_isg_descr">
+		<text> A custom model developed on the basis of AKM by the American company Rifle Dynamics. It is one of the most high-tech weapons in the Zone. Used by ISG special units.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produced by L3 Insight Technologies. Tactical device that combines laser designators in both visible and IR band with IR searchlight. \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All scopes for picatinny/weaver\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: ATG\n \n</text>
+	</string>
+	
+	
+		<string id="st_wpn_ak74u_isg">
+		<text>¿ -74U ISG</text>
+	</string>
+	<string id="st_wpn_ak74u_isg_descr">
+		<text> A custom model developed on the basis of AKSU by the American company Rifle Dynamics. It is one of the most high-tech weapons in the Zone. Used by ISG special units.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produced by L3 Insight Technologies. Tactical device that combines laser designators in both visible and IR band with IR searchlight. \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All scopes for picatinny/weaver\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: ATG\n \n</text>
+	</string>
+
+		<string id="st_wpn_ak74u_m1_isg">
+		<text>¿ -47U ISG Tactic</text>
+	</string>
+	<string id="st_wpn_ak74u_m1_isg_descr">
+		<text> Modification AK-74U ISG, developed by the American company Rifle Dynamics. It is one of the most high-tech weapons in the Zone. Used by ISG special units.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produced by L3 Insight Technologies. Tactical device that combines laser designators in both visible and IR band with IR searchlight. \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All scopes for picatinny/weaver\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: ATG\n \n</text>
+	</string>
+	
+	
+		<string id="st_wpn_ak74_isg">
+		<text>¿ -74M ISG</text>
+	</string>
+	<string id="st_wpn_ak74_isg_descr">
+		<text>An advanced version of the AK-74M developed by the American company Rifle Dynamics. It is one of the most high-tech weapons in the Zone. Used by ISG special units.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produced by L3 Insight Technologies. Tactical device that combines laser designators in both visible and IR band with IR searchlight. \n
+		%c[d_purple] ï %c[ui_gray_2] Universal mount by NcStar with Trijicon RMR red dot sight installed on it. \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All scopes for picatinny/weaver\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: ATG\n \n</text>
+	</string>
+	
+	
+		<string id="st_wpn_vintorez_isg">
+		<text>VSS ISG</text>
+	</string>
+	<string id="st_wpn_vintorez_isg_descr">
+		<text>The brainchild of the founder of Rifle Dynamics, Jim Fuller. The model is developed on the basis of the well-known and well-established VSS Vintorez. One of the main differences from the original is the presence of a special mechanism that allows you to fire with a misfire of two bullets and a picatinny rail installed along the entire length of the weapon. Used by ISG special units.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produced by L3 Insight Technologies. Tactical device that combines laser designators in both visible and IR band with IR searchlight. \n
+		%c[d_purple] ï %c[ui_gray_2] Universal mount by NcStar with Trijicon RMR red dot sight installed on it. \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All scopes for picatinny/weaver and for Dovetail mount except of 1P59 Giperon\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: Integrated \n \n</text>
+	</string>
+	
+	<string id="st_wpn_sks_tac">
+		<text>SKS Tactical</text>
+	</string>
+	<string id="st_wpn_sks_tac_descr">
+		<text>Molot OP-SKS Carbine is designed for loading with 7.62x39 - the very popular ammunition in Zone. The weight and dimensions make the carbine ergonomic for shooters of any age and height. The tactical option differs from the original in the presence of a mount for installing sights in the fore-end area and also the possibility of installing a silence. Also new light trigger was installed on this model that significantly increased the rate of fire\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] SKS SOCOM Rail: Integrated \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: all scopes for Dovetail mount (except of 1p59 Giperon) and all red dot sights (except of Aimpoint PRO and Aimpoint T1 with high mount and Barska 11090)\n \n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: Hexagon SKS 7.62x39 sound suppressor \n</text>
+	</string>
+
+
+		<string id="st_wpn_sks_molot">
+		<text>SKS Molot</text>
+	</string>
+	<string id="st_wpn_sks_molot_descr">
+		<text>Molot OP-SKS Carbine is designed for loading with 7.62x39 - the very popular ammunition in Zone. The weight and dimensions make the carbine ergonomic for shooters of any age and height.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: all scopes for Dovetail mount (except of 1p59 Giperon)\n \n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: None \n</text>
+	</string>
+	
+	
+	<string id="st_wpn_ks23">
+		<text>KS-23</text>
+	</string>
+	<string id="st_wpn_ks23_descr">
+		<text>Special carbine, 23 mm - Soviet multifunctional police pump-action shotgun, designed to suppress riots, selective force, mental and chemical effects on offenders. Interestingly, having a caliber of more than 20 mm and a rifled barrel, the KS-23 should not be classified as small arms, but as small-caliber artillery.\n \n
+		%c[ui_gray_2]ATTACHMENTS: The long 700mm barrel can be replaced by short 510mm one to decrease the wheight of the weapon.\n</text>
+	</string>
+
+
+	<string id="st_wpn_ks23_kaban">
+		<text>KS-23M Drozd</text>
+	</string>
+	<string id="st_wpn_ks23_kaban_descr">
+		<text>Shortened version of KS-23 with removable metal stock. 23 mm - Soviet multifunctional police pump-action shotgun, designed to suppress riots, selective force, mental and chemical effects on offenders. Interestingly, having a caliber of more than 20 mm and a rifled barrel, the KS-23 should not be classified as small arms, but as small-caliber artillery.\n \n
+		%c[ui_gray_2]ATTACHMENTS: Boar Tactical Kit for KS-23M Drozd.\n</text>
+	</string>	
+	
+	
+		<string id="st_tomahawk">
+		<text>Gerber Downrange Tomahawk</text>
+	</string>
+	<string id="st_tomahawk_descr">
+		<text>Tactical tomahawk, multitool and breaching tool, all-in-one solution.</text>
+	</string>
+	
+	
+		<string id="st_wpn_dvl10_m1">
+		<text>DVL-10 Saboteur</text>
+	</string>
+	<string id="st_wpn_dvl10_m1_descr">
+		<text>DVL-10 is a lightweight, compact, and silenced rifle in proprietary and current military subsonic calibers and has been developed for special service and combat missions where exceptional accuracy and range are needed.\n \n
+		%c[ui_gray_2]Attachments: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All scopes for picatinny/weaver except of red dot sights.\n \n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: Integrated \n</text>
+	</string>	
+	
+	
+		<string id="st_wpn_dvl10">
+		<text>DVL-10 Urbana</text>
+	</string>
+	<string id="st_wpn_dvl10_descr">
+		<text>DVL-10 is a lightweight and compact sniper rifle in proprietary and current military subsonic calibers has been developed for special service and combat missions where exceptional accuracy and range are needed.\n \n
+		%c[ui_gray_2]Attachments: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All scopes for picatinny/weaver except of red dot sights.\n \n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: None \n</text>
+	</string>	
+	
+
+		<string id="st_wpn_saiga12s_isg">
+		<text>Saiga-12 ISG</text>
+	</string>
+	<string id="st_wpn_saiga12s_isg_descr">
+		<text>A model developed by Kalashnikov USA on the basis of the Komrad 12 semi-automatic rifle for hunting and protecting members of ISG research teams from mutants. The weapon has both a dovetail mount and a picatinny bar for use with various types of sights. This model has a new type of trigger mechanism , which allows you to fire with a misfire in two rounds.\n \n
+		%c[ui_gray_2]Attachments: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All scopes for picatinny/weaver and for Dovetail mount except of 1P59 Giperon and PSO-1M2-1/1M2, 1P78-1 Kashtan, Kobra EKP-1—-03/EKP-8-02, OKP-7 (dovetail), EOTS-62. The use of PSO scopes with an eyecup on this weapon is highly not recomended. \n \n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: SilencerCo SalvoÆ 12 \n</text>
+	</string>
+
+
+		<string id="st_wpn_ak74_pmc">
+		<text>AK-74 PMC</text>
+	</string>
+	<string id="st_wpn_ak74_pmc_descr">
+		<text>A modification of the Kalashnikov assault rifle, developed in 1970 for the 5.45x39 cartridge.
+ It differs from the standard version by the installed body kit, which includes a tactical grip, a forend with picatinny rails and a folding telescopic buttstock, which significantly improves ergonomics of the gun. The kit also includes a laser targeting device, a tactical flashlight and an adapter mount for sighting devices.
+ In the Zone similar models are usually used by mercenaries, Ukrainian special forces, various PMCs and other power structures for conducting special operations.\n \n
+		%c[ui_gray_2]Attachments: \n
+		%c[d_purple] ï %c[ui_gray_2] ATPIAL (Advanced Target Pointer Illuminator Aiming Laser) AN/PEQ-15 produced by L3 Insight Technologies. Tactical device that combines laser designators in both visible and IR band with IR searchlight. \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All scopes for picatinny/weaver and for Dovetail mount except of 1P59 Giperon and PSO-1M2-1, EOTS-62. The use of PSO scopes with an eyecup on this weapon is highly not recomended. \n \n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: ATG \n</text>
+	</string>
+
+
+		<string id="st_wpn_svds_pmc">
+		<text>SVDS PMC</text>
+	</string>
+	<string id="st_wpn_svds_pmc_descr">
+		<text>Dragunov sniper rifle with folding stock - the SVDS variant. Was specially designed for Russian paratroopers and special forces units. In the Zone similar models are usually used by mercenaries, Ukrainian special forces, various PMCs and other power structures for conducting special operations.\n 
+		%c[ui_gray_2]Attachments: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All scopes for picatinny/weaver except of red dot sights. \n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: Rotor 43 \n
+		%c[ui_gray_2] The kit includes:\n
+		%c[d_purple] ï %c[ui_gray_2] Rotor 43 thread adapter for SVD-S,  \n
+        %c[d_purple] ï %c[ui_gray_2] SAG MK1 Freefloat Chassis for SVD, \n
+        %c[d_purple] ï %c[ui_gray_2] Zenit foregrip RK-5 (short) for very good recoil control\n
+        %c[d_purple] ï %c[ui_gray_2] Custom SVDS dust cover,\n
+        %c[d_purple] ï %c[ui_gray_2] Zenit RK3 pistol grip, \n
+		%c[d_purple] ï %c[ui_gray_2] Universal mount by NcStar that allows installing the auxiliary sight at 45 degrees angle with Trijicon RMR red dot sight installed on it. \n</text>
+	</string>
+
+	<string id="st_wpn_val_tac">
+		<text>AS Val Tactic</text>
+	</string>
+	<string id="st_wpn_val_tac_descr">
+		<text>The AS Val is widely used by Russian Army recon units, as well as by MVD (Internal Affairs Ministry) and FSB (Federal Security Bureau) Special Forces. The AS-VAL is a gas operated, integrally suppressed weapon. The receiver is machined from steel forging for improved strength. It has a standard side-mounted rail for optical, night vision or red dot scopes but has no provision for mounting a bayonet or a grenade launcher. The integral suppressor could be easily detached for maintenance, repair, or compact storage, but the rifle should not be fired with the suppressor removed due to safety and reliability issues.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] All scopes for dovetail mount\n
+		%c[d_purple] ï %c[ui_gray_2] VSS suppressor (integrated)\n \n</text>
+	</string>
+
+	<string id="st_wpn_vintorez_n1">
+		<text>VSS Vintorez</text>
+	</string>
+	<string id="st_wpn_vintorez_n1_descr">
+		<text>Designed at TsNIITochMash by Peter Serdyukov and his team, the new rifle was intended for various Spetsnaz troops of the Soviet Army, KGB and MVD. The VSS is quite popular among its users for its stealthy capabilities and the great lethality of the heavy 9x39mm bullets. The effective range of the VSS is limited to 300-400 metres. Standard sighting equipment consists of side rail on the receiver, which usually accommodates the 4x  PSO-1M2-1 scope. Any other scope or night vision sight can be mounted on the appropriate mount. Backup iron sights consist of tangent rear and blade front. The rear sight is graduated for up to 400 metres.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] All scopes for dovetail mount\n
+		%c[d_purple] ï %c[ui_gray_2] VSS suppressor (integrated)\n \n</text>
+	</string>	
+
+	<string id="st_wpn_ak74u_n1">
+		<text>AKS-74U</text>
+	</string>
+	<string id="st_wpn_ak74u_n1_descr">
+		<text>The AKS-74U was intended for use mainly by Spetsnaz units, airborne infantry, rear-echelon support units and armoured vehicle crews, who require a compact but relatively powerful individual automatic weapon. The AKS-74U is significantly more manoeuvrable in tight quarters than the AKS-74, but a significant decline in muzzle velocity resulted in a decrease in effective range.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] All scopes for dovetail mount. The use of PSO scopes with an eyecup on this weapon is highly not recomended.\n
+		%c[d_purple] ï %c[ui_gray_2] PBS-4 suppressor\n \n</text>
+	</string>
+
+	<string id="st_wpn_ak74u_tac">
+		<text>AKS-74U Tactical</text>
+	</string>
+	<string id="st_wpn_ak74u_tac_descr">
+		<text>The AKS-74U was intended for use mainly by Spetsnaz units, airborne infantry, rear-echelon support units and armoured vehicle crews, who require a compact but relatively powerful individual automatic weapon. The AKS-74U is significantly more manoeuvrable in tight quarters than the AKS-74, but a significant decline in muzzle velocity resulted in a decrease in effective range. This special variant has a 45 round RPK magazine.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] All scopes for dovetail mount and all Red Dot Sights except of Aimpoint PRO, Barska 11090 and Aimpoint T1 with high mount. The use of PSO scopes with an eyecup on this weapon is highly not recomended.\n
+		%c[d_purple] ï %c[ui_gray_2] PBS-4 suppressor\n \n</text>
+	</string>
+
+	<string id="st_wpn_m4_tac">
+		<text>Colt M4A1 Tactical</text>
+	</string>
+	<string id="st_wpn_m4_tac_descr">
+		<text>Colt M4A1 - an assault rifle (carbine), designed in the USA on the basis of AR-15 platform for 5.56x45 NATO cartridge. It was developed primarily for use by vehicle operators and fireteams, who required a more compact and lighter weapon than a standard full-length rifle, but using the same ordnance. However, US SOCOM (United States Special Operations Command) was soon to adopt the M4A1 for all subordinate units, followed by general introduction of M4A1 into service in the US Army and Marine Corps.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All scopes for picatinny/weaver\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: NATO\n \n</text>
+	</string>	
+
+	<string id="st_wpn_m4_butcher">
+		<text>Colt Ã4¿1 Butcher</text>
+	</string>
+	<string id="st_wpn_m4_butcher_descr">
+		<text>Modernized model Colt M4A1 Cimmando (CQBR) is an assault rifle, designed in the USA on the basis of AR-15 platform for 5.56x45 NATO cartridge. It was developed primarily for use by vehicle operators and fireteams, who required a more compact and lighter weapon than a standard full-length rifle, but using the same ordnance. However, US SOCOM (United States Special Operations Command) was soon to adopt the M4A1 for all subordinate units, followed by general introduction of M4A1 into service in the US Army and Marine Corps.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All scopes for picatinny/weaver except of red dot sights.\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: NATO\n \n</text>
+	</string>
+
+    <string id="st_wpn_mp153_m1">
+        <text>Carabineer</text>
+    </string>
+    <string id="st_wpn_mp153_m1_descr">
+		<text>A customized version of the MP-153 shotgun. Capable of semi-automatic fire like its predecessor, but provides better recoil compensation thanks to the quite effective muzzle brake. It also has Picatinny rail which allows to use reflex and holographic sights and ability to use sound supressor.\n
+	    %c[ui_gray_2]Attachments: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: Due to the position of the stock, it is possible to install sights only with a very low mount: Barska AC10632, C-More, Docter Sight, Aimpoint T1, Trijicon RMR, Leupold DeltaPoint PRO, OKP-7, 1P76 Rakurs. \n \n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: SilencerCo SalvoÆ 12 \n</text>
+    </string>
+
+    <string id="st_wpn_fal_sa58_osw">
+		<text>DS ARMS SA-58</text>
+    </string>
+    <string id="st_wpn_fal_sa58_osw_descr">
+		<text>SA-58 OSW (Operations Specialist Weapon) manufactured by American company DSA (David Selvaggio Arms) is a legal copy of the FAL, its made with the same Steyr-Daimler-Puch production line equipment as the StG-58. It may come with a different barrel length, an aluminum-alloy lower receiver, and improved Glass-filled Nylon furniture. Civilian models are semi-automatic, but military and Law Enforcement clients can procure select-fire models that have a fully automatic cyclic rate of 750 rounds/minute. The DSA-58 can use any metric-measurement FAL magazines.\n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All scopes for picatinny/weaver\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: AAC 7.62 SDN-6\n \n</text>
+    </string>
+
+    <string id="st_ak12_mono_kit">
+		<text>AK12 2012 with "Monolith" body kit</text>
+    </string>
+    <string id="st_wpn_ak12_mono_kit_descr">
+		<text>Thanks to the new trigger, it is a more advanced and powerful weapon than the original. Increased rate of fire and improved balancing, which slightly increased the muzzle velocity. This kit includes: tactical hendguard, ergonomic pistol grip, Geksagon sound moderator, foregrip and two scopes: Trijicon Acog and Aimpoint T1 on 45 degree mount.
+ This is irreversible upgrade because if removed from the firearms the weapon no longer usable because of the modifications applied while installing the upgrade.\n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: Trijicon Acog Ë Aimpoint T1 (integrated).\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: Hexagon Sound Moderator (integrated).\n \n</text>
+    </string>
+	
+    <string id="st_wpn_toz106_m1">
+        <text>TOZ-106</text>
+    </string>
+    <string id="st_wpn_toz106_m1_descr">
+		<text>Single-barreled 20ga hunting shotgun with sliding breech bolt. Widely known by it vernacular name, the Death of the Chairman, for its compact size.\n
+	    %c[ui_gray_2]Attachments: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: Due to the position of the stock, it is possible to install sights only with a very low mount: Barska AC10632, C-More, Docter Sight, Aimpoint T1, Trijicon RMR, Leupold DeltaPoint PRO, OKP-7, 1P76 Rakurs. \n \n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: None \n</text>
+    </string>
+
+    <string id="st_wpn_toz106">
+        <text>TOZ-106 (Folding Stock)</text>
+    </string>
+    <string id="st_wpn_toz106_descr">
+		<text>Single-barreled 20ga hunting shotgun with sliding breech bolt. Widely known by it vernacular name, the Death of the Chairman, for its compact size.\n
+	    %c[ui_gray_2]Attachments: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: None \n \n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: None \n</text>
+    </string>
+
+    <string id="st_wpn_fal_aus">
+        <text>DS ARMS SA-58 AUS "Austrian Style"</text>
+    </string>
+    <string id="st_wpn_fal_aus_descr">
+		<text>SA-58 manufactured by american company DSA (David Selveggio Arms) is a legal copy of the FAL, it's made with the same Steyr-Daimler-Puch production line equipment as the StG-58. This modelel comes with 21" barrel length, and other "Austrian Style" stuff like original Austrian foregrip for a FAL, aluminum-alloy lower receiver, and improved Glass-filled Nylon furniture. This model used by military and Law Enforcement and can run a fully automatic. The DSA-58 can use any metric-measurement FAL magazines.\n
+	    %c[ui_gray_2]Attachments: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: None \n \n
+		%c[d_purple] ï %c[ui_gray_2] Can be upgraded using Tactical Kits \n \n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: AAC 7.62 SDN-6\n</text>
+    </string>	
+
+		<string id="st_wpn_glock17">
+		<text>Glock 17</text>
+	</string>
+	<string id="st_wpn_glock17_descr">
+		<text>The Glock 17 is a polymer-framed, short recoil-operated, locked-breech semi-automatic pistol designed and produced by Austrian manufacturer Glock Ges.m.b.H.\n \n
+		%c[ui_gray_2]Attachments: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: None\n \n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: None \n</text>
+	</string>
+
+		<string id="st_wpn_glock17_m1">
+		<text>Glock 17 Tactical</text>
+	</string>
+	<string id="st_wpn_glock17_m1_descr">
+		<text>The Glock 17 is a polymer-framed, short recoil-operated, locked-breech semi-automatic pistol designed and produced by Austrian manufacturer Glock Ges.m.b.H. The tactical variant of Glock 17 has some additional futures: integrated Aimtech glock base for Red Dot sights, installed Pachmayr tactical rubber grip and threaded barrel manufactured by Double Diamond.\n \n
+		%c[ui_gray_2]Attachments: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: Docter Sight, Aimpoint T1 (low mount only), Trijicon RMR, Leupold Deltapoint PRO\n \n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: Osprey 9mm \n</text>
+	</string>	
+
+	<string id="st_wpn_pm_actor">
+		<text>Unic Makarov PM</text>
+	</string>
+	<string id="st_wpn_pm_actor_descr">
+		<text>A semi-mythical PM with extended barrel and suppressor mount threading. Some claim it was a limited series manufactured in Bulgaria, others insist on DDR, and some are even prone to think of it as a handcrafted upgrade. How did it end up in the Zone, no living soul can tell...\n
+				%c[ui_gray_2]Attachments: \n
+   %c[d_purple] ï %c[ui_gray_2] Silencer: Silencer 9mm\n</text>
+	</string>
+	
+	<string id="st_wpn_pm_custom">
+		<text>PM (custom)</text>
+	</string>
+	<string id="st_wpn_pm_custom_descr">
+	<text>Customized version of Makarov PM with longer threaded barrel for use with PMM silencer. This Soviet legacy is the most common pistol in the Zone and is one of the best compact self-defence handguns available. It is small, highly reliable, easy to use and maintain in working order. It also suffers from several drawbacks, including short range, low firing accuracy and poor stopping power, while also losing out to modern pistols in its class in terms of weight and magazine size. In 1951, the Pistol Makarova was selected because of its simplicity, easy manufacturing, accuracy, and reasonable stopping power.\n
+				%c[ui_gray_2]Attachments: \n
+   %c[d_purple] ï %c[ui_gray_2] Silencer: Silencer PMM\n</text>
+	</string>
+		
+	<string id="st_wpn_pm">
+	      <text>PM</text>
+	</string>
+	<string id="st_wpn_pm_descr">
+		<text>This Soviet legacy is the most common pistol in the Zone and is one of the best compact self-defence handguns available. It is small, highly reliable, easy to use and maintain in working order. It also suffers from several drawbacks, including short range, low firing accuracy and poor stopping power, while also losing out to modern pistols in its class in terms of weight and magazine size. In 1951, the Pistol Makarova was selected because of its simplicity, easy manufacturing, accuracy, and reasonable stopping power.</text>
+	</string>
+
+	<string id="st_wpn_pmm">
+		<text>PMM</text>
+	</string>
+	<string id="st_wpn_pmm_descr">
+		<text>The most widely known variant, the Makarov PMM was a redesign of the original gun. In 1990 a group of engineers reworked the original Makarov, primarily by increasing the load for the cartridge. The result is 25% more gas pressure increasing in muzzle velocity. The PMM magazine holds 12 rounds, compared to the PM's 8 rounds.\n
+				%c[ui_gray_2]Attachments: \n
+   %c[d_purple] ï %c[ui_gray_2] Silencer: Silencer PMM\n</text>
+	</string>
+
+		<string id="st_wpn_fal_aus_kit_aus_tri">
+		<text>DS Arms SA-58 AUS "Tactical Style"</text>
+	</string>
+	<string id="st_wpn_fal_aus_kit_aus_tri_descr">
+		<text>FAL SA58 AUS modernised using DS Arms tactical kit. After the modification this weapon can be used very effectively at long and medium distances. SA-58 manufactured by american company DSA (David Selveggio Arms) is a legal copy of the FAL, it's made with the same Steyr-Daimler-Puch production line equipment as the StG-58. This modelel comes with 21" barrel length, and other "Austrian Style" stuff like original Austrian foregrip for a FAL, aluminum-alloy lower receiver, and improved Glass-filled Nylon furniture. This model used by military and Law Enforcement and can run a fully automatic. The DSA-58 can use any metric-measurement FAL magazines.\n \n
+		%c[ui_gray_2]Attachments: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: Trijicon Acog and Aimpoint T1 (integrated)\n \n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: AAC 7.62 SDN-6\n</text>
+	</string>
+
+		<string id="st_wpn_fal_aus_kit_sa5x_spec">
+		<text>DS Arms SA-58 AUS "Tactical Style"</text>
+	</string>
+	<string id="st_wpn_fal_aus_kit_sa5x_spec_descr">
+		<text>FAL SA58 AUS modernised using DS Arms tactical kit. After the modification this weapon can be used very effectively at long and medium distances. SA-58 manufactured by american company DSA (David Selveggio Arms) is a legal copy of the FAL, it's made with the same Steyr-Daimler-Puch production line equipment as the StG-58. This modelel comes with 21" barrel length, and other "Austrian Style" stuff like original Austrian foregrip for a FAL, aluminum-alloy lower receiver, and improved Glass-filled Nylon furniture. This model used by military and Law Enforcement and can run a fully automatic. The DSA-58 can use any metric-measurement FAL magazines.\n \n
+		%c[ui_gray_2]Attachments: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: ELCAN SpecterDr and Aimpoint T1 (integrated)\n \n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: AAC 7.62 SDN-6\n</text>
+	</string>
+
+		<string id="st_wpn_fal_aus_kit_fal_leup">
+		<text>DS Arms SA-58 AUS "Tactical Style"</text>
+	</string>
+	<string id="st_wpn_fal_aus_kit_fal_leup_descr">
+		<text>FAL SA58 AUS modernised using DS Arms tactical kit. After the modification this weapon can be used very effectively at long and medium distances. SA-58 manufactured by american company DSA (David Selveggio Arms) is a legal copy of the FAL, it's made with the same Steyr-Daimler-Puch production line equipment as the StG-58. This modelel comes with 21" barrel length, and other "Austrian Style" stuff like original Austrian foregrip for a FAL, aluminum-alloy lower receiver, and improved Glass-filled Nylon furniture. This model used by military and Law Enforcement and can run a fully automatic. The DSA-58 can use any metric-measurement FAL magazines.\n \n
+		%c[ui_gray_2]Attachments: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: Leupold Mark 8 and Aimpoint T1 (integrated)\n \n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: AAC 7.62 SDN-6\n</text>
+	</string>
+
+	<string id="st_wpn_ak12">
+		<text>AK-12 2012</text>
+	</string>
+	<string id="st_wpn_ak12_descr">
+		<text>The Kalashnikov AK-12 assault rifle is the newest creation of the IZMASH factory. It is intended to replace older Kalashnikov AK-74M and AK-100 series rifles for domestic use, as well as for export. The rifle is a gas operated, selective fire rifle using traditional "Kalashnikov type" action with long stroke gas piston and rotary bolt locking. The bolt group is noticeably lightened to decrease recoil and improve accuracy in automatic fire.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] All scopes for picatinny/weaver\n
+		%c[d_purple] ï %c[ui_gray_2] GP-25 grenade launcher\n
+		%c[d_purple] ï %c[ui_gray_2] 5.45/7.62x39 Hexagon Sound Suppressor\n \n</text>
+	</string>
+
+	<string id="st_wpn_ak104_alfa">
+    	<text>AK-104 Alpha-Bravo</text>
+  	</string>
+  	<string id="st_wpn_ak104_alfa_descr">
+		<text>[This weapon was added for testing purposes only]. Customized version of the 7.62 mm AK-104 assault rifle. Looks like a finger tip of some Mid-Eastern operators... Comes with Sig Bravo 4 scope and Trijicon RMR mounted on it.\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: 5.45/7.62x39 Hexagon Sound Suppressor\n \n</text>
+  	</string>
+
+	<string id="st_wpn_ak74_n">
+		<text>AK-74</text>
+	</string>
+    <string id="st_wpn_ak74_n_descr">
+		<text>The AK-74 is a 5.45x45mm assault rifle developed in the early 1970s by Mikhail Kalashnikov to replace the earlier AKM. It was introduced in 1974 and first saw service with Soviet forces engaged in the Afghanistan Conflict. The AKM rifle was adapted to fire smaller 5.45x45mm cartridge and fitted with a large muzzle brake.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] GP-25 grenade launcher (after modification)\n
+		%c[d_purple] ï %c[ui_gray_2] All dovetail mount scopes except of PSO scopes with eye cup due to the inconvenience of using these scopes on AK type of rifles. \n
+		%c[d_purple] ï %c[ui_gray_2] ATG suppressor\n \n</text>
+	</string>
+
+	<string id="st_wpn_svd_m1">
+		<text>SVD</text>
+	</string>
+	<string id="st_wpn_svd_m1_descr">
+		<text>Originally intended for designated marksmen in every basic Soviet infantry unit, the Dragunov SVD was not designed for specialised sniper teams. Relatively light for a sniper rifle but well-balanced and having semiautomatic fire, its precision is good but not exceptional. It has an effective range of up to 800 metres.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes:  All dovetail mount scopes except of except of red dot sights.\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: KZRZP suppressor (after modification)\n \n</text>
+	</string>
+
+	<string id="st_wpn_svds">
+		<text>SVDS</text>
+	</string>
+	<string id="st_wpn_svds_descr">
+		<text>Dragunov sniper rifle with folding stock - the SVDS variant. Was specially designed for Russian paratroopers and special forces units.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All dovetail mount scopes except of except of red dot sights.\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: TGP-V Suppressor\n \n</text>
+	</string>
+
+	<string id="st_wpn_rpg7">
+		<text>RPG-7</text>
+	</string>
+	<string id="st_wpn_rpg7_descr">
+		<text>The RPG-7 is a further development of the previous RPG-2 anti-tank grenade launcher. The RPG-7, in its first version, known as RPG-7V, has been adopted by the Soviet army in 1961, and is still fielded in Russia and at least 50 more countries. By far, RPG-7 can be considered as one of the most successful anti-tank grenade launchers ever made. Initially thought of as an anti-armour weapon, it was later adopted for other fire support missions with the introduction of other types of grenades, such as anti-infantry HE-FRAG and multi-purpose Thermobaric/FAE. The RPG-7 is a shoulder fired, single shot, smoothbore recoilless launcher, grenades are loaded from the front, and the rear of the barrel is fitted with venturi nozzle. Due to the recoilless design, the backblast is dangerous. The RPG-7 is usually issued with 2.7X fixed magnification optical sight, designated PGO-7. It is a simple and inexpensive, but possess a high threat to modern tanks and can also serve in a number of other roles, making it a flexible weapon.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: PGO-7V Sight\n \n</text>
+	</string>
+
+	<string id="st_wpn_ak74m_n">
+		<text>¿ -74Ã</text>
+	</string>
+    <string id="st_wpn_ak74m_n_descr">
+		<text>In 1991, the Izhmash factory began production of an improved AK-74 - the AK-74M assault rifle. Apart from several minor production improvements, the rifle also features a new foldable synthetic stock made from a black, glass-filled polyamide. The AK-74M also uses a reinforced muzzle device and dust cover. Each AK-74M is fitted with a side-rail bracket for mounting optics. The AK-74M has been accepted as the new service rifle of the Russian Federation\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] GP-25 grenade launcher (after modification)\n
+		%c[d_purple] ï %c[ui_gray_2] All dovetail mount scopes except of PSO scopes with eye cup due to the inconvenience of using these scopes on AK type of rifles.\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: TGP-A Suppressor\n \n</text>
+	</string>
+
+	<string id="st_wpn_colt1911_n">
+		<text>Colt M1911</text>
+	</string>
+	<string id="st_wpn_colt1911_n_descr">
+		<text>An improved version of a classic automatic pistol, which passed all the major armed conflicts of the 20th century with flying colours and entered the new millennium with confidence. Produced by dozens if not hundreds of arms manufacturers around the world in both standard and modified configurations. The weapon's only drawback, its mediocre magazine capacity, is largely compensated by the hard-hitting ammo it uses.\n \n</text>
+	</string>
+
+	<string id="st_wpn_sig226">
+		<text>Sig Sauer P226R</text>
+	</string>
+	<string id="st_wpn_sig226_descr">
+		<text>The SIG Sauer P226R is a full-sized, service-type pistol made by SIG Sauer, a standard service weapon of Navy SEALs. Chambered for the 9x19mm Parabellum, features a Picatinny rail mount on the underside of a frame.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Can be upgraded using Tactical Kit.\n 
+		%c[d_purple] ï %c[ui_gray_2] Silencer: none\n \n</text>
+	</string>
+
+	<string id="st_wpn_sig220_n">
+		<text>Sig Sauer P220</text>
+	</string>
+	<string id="st_wpn_sig220_n_descr">
+		<text>The SIG-Sauer P220, manufactured in the late 1970s by J.P. Sauer &amp; Son Company, is often considered the best out of the box .45 calibre double action pistol. An instant success, the P220 was adopted by the Swiss and Japanese SDF and by many European police organisations. This pistol also found its way into the US, first through the Browning Arms Company of Utah and since the 1980s, through the SIGARMS Company of New Hampshire.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Can be upgraded using Tactical Kit.\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: none\n \n</text>
+	</string>
+
+	<string id="st_wpn_walther_p99">
+		<text>Walther P99</text>
+	</string>
+	<string id="st_wpn_walther_p99_descr">
+		<text>Ergonomics being a key focus in its design, the Walther P99 is a recoil-operated pistol with a fibreglass polymer frame. Developed for law enforcement and the civilian shooting market, it's employed by police units in a number of countries.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Can be upgraded using Tactical Kit.\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: none\n \n</text>
+	</string>
+
+	<string id="st_wpn_sig226_226sig_kit">
+		<text>Sig Sauer P226R Custom</text>
+	</string>
+	<string id="st_wpn_sig226_226sig_kit_descr">
+		<text>The SIG Sauer P226R is a full-sized, service-type pistol made by SIG Sauer, a standard service weapon of Navy SEALs. Chambered for the 9x19mm Parabellum, features a Picatinny rail mount on the underside of a frame.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Installed Tactical Kit: Threaded barrel for using with suppressor, ergonomic gripp plates and Trijicon RMR Red Dot sight with mounting plate. This upgrade is irreversible.\n 
+		%c[d_purple] ï %c[ui_gray_2] Silencer: Osprey 9mm\n\n</text>
+	</string>
+
+	<string id="st_wpn_sig220_n_upg220">
+		<text>Sig Sauer P220 Custom</text>
+	</string>
+	<string id="st_wpn_sig220_n_upg220_descr">
+		<text>The SIG-Sauer P220, manufactured in the late 1970s by J.P. Sauer &amp; Son Company, is often considered the best out of the box .45 calibre double action pistol. An instant success, the P220 was adopted by the Swiss and Japanese SDF and by many European police organisations. This pistol also found its way into the US, first through the Browning Arms Company of Utah and since the 1980s, through the SIGARMS Company of New Hampshire.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Installed Tactical Kit: Threaded barrel for using with suppressor, Tritium sights and Viridian X5L laser sight and high capacity magazine (+5). This upgrade is irreversible.\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: BLACK BOX .45\n \n</text>
+	</string>
+
+	<string id="st_wpn_walther_p99_mod9">
+		<text>Walther P99 Custom</text>
+	</string>
+	<string id="st_wpn_walther_p99_mod9_descr">
+		<text>Ergonomics being a key focus in its design, the Walther P99 is a recoil-operated pistol with a fibreglass polymer frame. Developed for law enforcement and the civilian shooting market, it's employed by police units in a number of countries.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Installed Tactical Kit: Threaded barrel for using with suppressor, Tritium sights and Viridian X5L laser sight. This upgrade is irreversible.\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: Gemtech\n \n</text>
+	</string>
+
+	<string id="st_wpn_rpk74_16">
+		<text>RPK-16 5.45x39 light machine gun</text>
+	</string>
+	<string id="st_wpn_rpk74_16_descr">
+		<text>Newest Russian light machine gun - RPK-16 chambered in 5.45x39mm rounds. Key features of this kind of weapon are - quick detachable barrels, enhanced ergonomics, weaver rails on a handguard and dust cover.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] All scopes for picatinny/weaver\n
+		%c[d_purple] ï %c[ui_gray_2] 5.45/7.62x39 Hexagon Sound Suppressor\n \n</text>
+	</string>
+
+	<string id="st_wpn_fn57">
+		<text>FN Five-seveN</text>
+	</string>
+	<string id="st_wpn_fn57_descr">
+		<text>The Five-seveN is a delayed blowback operated, semi-automatic firearm. The Five-seveN pistol was designed by FN Herstal as a complimentary sidearm for the P90 submachine gun. The P90 and Five-seveN share the same ammunition, the 5.7x28mm SS190 cartridge. The idea behind the ammunition and weapon is to provide good penetration against targets protected by body armour, while keeping the weapon's weight, dimensions and recoil at reasonable levels.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] The kit includes Laser Aiming Module and Red Dot Sights mount\n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: Docter Sight, Aimpoint T1 (low mount), Trijicon RMR, Leupold DeltaPoint PRO.\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: 5.7x28 suppressor\n \n</text>
+	</string>
+
+	<string id="st_wpn_abakan_n">
+		<text>AN-94 Abakan</text>
+	</string>
+	<string id="st_wpn_abakan_n_descr">
+		<text>A key improvement of the AN-94 over the AK-74 is the introduction of the additional 2-rounds burst mode. Nikonov design delays the force of recoil until the fired rounds have left the barrel, which along with a unique 1800 rpm two-shot burst function increases body armour piercing capabilities of this firearm. Used by Spetsnaz operators as well as Duty members to take out armoured targets at relatively long ranges.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] GP-25 grenade launcher (after modification)\n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: All dovetail mount scopes except of PSO scopes with eye cup due to the inconvenience of using these scopes on AK type of rifles.\n \n</text>
+	</string>
+
+	<string id="st_wpn_ks23_kaban_kab_up">
+		<text>KS-23 Boar</text>
+	</string>
+	<string id="st_wpn_ks23_kaban_kab_up_descr">
+		<text>Shortened version with mounted Trijicon RMR calimator sight. 23 mm - Soviet multifunctional police pump-action shotgun, designed to suppress riots, selective force, mental and chemical effects on offenders. Interestingly, having a caliber of more than 20 mm and a rifled barrel, the KS-23 should not be classified as small arms, but as small-caliber artillery. Also this version has thread for sound supressor that can be found somewere at south locations of Zone.\n \n</text>
+	</string>
+
+	<string id="st_wpn_ks23_23_up">
+		<text>KS-23 Short Barrel</text>
+	</string>
+	<string id="st_wpn_ks23_23_up_descr">
+		<text>Special carbine, 23 mm - Soviet multifunctional police pump-action shotgun, designed to suppress riots, selective force, mental and chemical effects on offenders. Interestingly, having a caliber of more than 20 mm and a rifled barrel, the KS-23 should not be classified as small arms, but as small-caliber artillery. This modification of KS-23 has short 510mm barrel installed on it instead of standard long 700mm one.\n \n</text>
+	</string>
+
+	<string id="st_wpn_remington700">
+		<text>Remington 700</text>
+	</string>
+	<string id="st_wpn_remington700_descr">
+		<text>The Remington Model 700 is a series of bolt-action centerfire rifles manufactured by Remington Arms since 1962.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Chassis: M700 MOD X Gen.3 stock, Magpul PRO 700, Promag Archangel polymer stock for M700\n
+		%c[d_purple] ï %c[ui_gray_2] Daniel Defence Wave QD suppressor \n \n</text>
+	</string>
+	
+		<string id="st_wpn_remington700_archangel">
+		<text>Remington 700 Archangel</text>
+	</string>
+	<string id="st_wpn_remington700_archangel_descr">
+		<text>The Remington Model 700 is a series of bolt-action centerfire rifles manufactured by Remington Arms since 1962. This model has Promag Archangel polymer stock installed on it.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Daniel Defence Wave QD suppressor \n \n</text>
+	</string>
+
+		<string id="st_wpn_remington700_magpul_pro">
+		<text>Remington 700 Magpul PRO</text>
+	</string>
+	<string id="st_wpn_remington700_magpul_pro_descr">
+		<text>The Remington Model 700 is a series of bolt-action centerfire rifles manufactured by Remington Arms since 1962. This model has Magpul PRO 700 chassis and additional Trijicon RMR Red Dot Sight installed on it.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Daniel Defence Wave QD suppressor \n \n</text>
+	</string>
+
+		<string id="st_wpn_remington700_mod_x_gen3">
+		<text>Remington 700 Modular Rifle System</text>
+	</string>
+	<string id="st_wpn_remington700_mod_x_gen3_descr">
+		<text>The Remington Model 700 is a series of bolt-action centerfire rifles manufactured by Remington Arms since 1962. This model has MOD X GEN III Modular Rifle System and additional Leupold DeltaPoint PRO Red Dot Sight installed on it.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Daniel Defence Wave QD suppressor \n \n</text>
+	</string>
+
+		<string id="st_wpn_sr1m">
+		<text>9x21 Serdyukov SR1MP Gyurza</text>
+	</string>
+	<string id="st_wpn_sr1m_descr">
+		<text>The Serdyukov semi-automatic pistol - also known as SPS and Gyurza (ìViperî), GRAU Index 6P53. Pistol designed for the Russian Federation special forces purposes by P. Serdyukov and I. Belyaev, for 9x21 mm cartridge.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Can be upgraded using Tactical Kit.\n 
+		%c[d_purple] ï %c[ui_gray_2] Silencer: None \n</text>
+	</string>
+	
+			<string id="st_wpn_sr1m_sr1upgr1">
+		<text>9x21 Serdyukov SR1MP Gyurza</text>
+	</string>
+	<string id="st_wpn_sr1m_sr1upgr1_descr">
+		<text>The Serdyukov semi-automatic pistol - also known as SPS and Gyurza (ìViperî), GRAU Index 6P53. Pistol designed for the Russian Federation special forces purposes by P. Serdyukov and I. Belyaev, for 9x21 mm cartridge.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] The pistol was upgraded using tactical kit.\n 
+		%c[d_purple] ï %c[ui_gray_2] Silencer: SR1MP silencer 9x21 \n</text>
+	</string>
+
+	<string id="st_wpn_k98_mod">
+		<text>Mauser 98k Forester</text>
+	</string>
+	<string id="st_wpn_k98_mod_descr">
+		<text>A modified version of the WWII German sniper rifle Mauser Karabiner 98k. The wooden stock was replaced with a more organomic polymer one. The rifle is equipped with an excellent sniper scope manufactured by March, Japan. In the Zone, a rifle is used mainly for hunting mutants at long and over-long distances.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: March (integrated)\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: K98 Forester. (Barrel adapter needed to mount a silencer) \n \n</text>
+	</string>
+
+	<string id="st_wpn_k98_mod_silen98">
+		<text>Mauser 98k Forester (with silencer adapter)</text>
+	</string>
+	<string id="st_wpn_k98_mod_silen98_descr">
+		<text>A modified version of the WWII German sniper rifle Mauser Karabiner 98k. The wooden stock was replaced with a more organomic polymer one. The rifle is equipped with an excellent sniper scope manufactured by March, Japan. In the Zone, a rifle is used mainly for hunting mutants at long and over-long distances.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: March (integrated)\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: K98 Forester.\n \n</text>
+	</string>
+
+	<string id="st_wpn_ks23_ecolog">
+		<text> —-23 Ecolog</text>
+	</string>
+	<string id="st_wpn_ks23_ecolog_descr">
+		<text> Modification of KS-23, developed for the needs of the scientific staff located in the Zone.\n \n</text>
+	</string>
+
+	<string id="st_wpn_ak105">
+		<text>AK-105</text>
+	</string>
+	<string id="st_wpn_ak105_descr">
+		<text>The AK-105 is a 5.45x39mm carbine version of the AK-74M rifle. The AK-105 is supplementing AKS-74U carbines in Russian Army service. Ideal for CQC (close quarters combat), it's not intended for long range combat. The rifle's reiver is made of stamped steel; the magazine is made out of reinforced fibreglass and the stock is made of hollow plastic, making it lighter, more durable, and allowing a field kit to be stored inside of it.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: all scopes for Dovetail mount (except of PSO-1M2-1). The use of PSO scopes with an eyecup on this weapon is highly not recomended.\n
+		%c[d_purple] ï %c[ui_gray_2] Can be upgraded using Tactical Kit.\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: TGP-A suppressor\n \n</text>
+	</string>
+
+	<string id="st_wpn_ak105_swamp">
+		<text>AK-105 Swamp Thing</text>
+	</string>
+	<string id="st_wpn_ak105_swamp_descr">
+		<text>The AK-105 is a 5.45x39mm carbine version of the AK-74M rifle. The AK-105 is supplementing AKS-74U carbines in Russian Army service. A very rare variant of the AK-105. It is found mainly among the veterans of the Clear Sky group. Due to the presence of several sighting devices, it is ideal for combat both at close and medium-long distances.\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] The weapon was upgraded using "Swamp Thing" Tactical Kit\n
+		%c[d_purple] ï %c[ui_gray_2] Scopes: Elcan SpecterDr, Trijicon RMR and AN/PEQ-15 LAM (integrated)\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: 5.45/7.62x39 Hexagon Sound Suppressor\n \n</text>
+	</string>
+
+		<string id="st_wpn_remington700_lapua700">
+		<text>M700 The Deer Hunter</text>
+	</string>
+	<string id="st_wpn_remington700_lapua700_descr">
+		<text>The Deer Hunter is modification of Remington Model 700 for precise shooting on very long distances. \n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] The weapon was upgraded using The Deer Hunter .338 kit for Remington M700\n
+		%c[d_purple] ï %c[ui_gray_2] Silencer: M700 .338LM \n \n</text>
+	</string>
+
+		<string id="st_wpn_pl15">
+		<text>Lebedev PL-15 Pistol</text>
+	</string>
+	<string id="st_wpn_pl15_descr">
+		<text>Russian self-loading pistol PL-15-01 chambered for 9x19 mm Parabellum. The difference between the pistol and its analogues is its ergonomics and balance, which correspond to the current ideas about human biomechanics. The automation calculation methods used during its creation contribute to a large shooting resource, and in combination with the applied ergonomics solutions, make the pistol comfortable in terms of recoil, toss after a shot and quick return to the aiming line. All this contributes to a quick re-shot and fast transfer of fire, and an ergonomic handle with a large angle of inclination makes it easier to shoot "offhand".\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] The weapon can be upgraded using kit: "Tactic".\n 
+		%c[d_purple] ï %c[ui_gray_2] The LAM for PL-15 can be installed\n 
+		%c[d_purple] ï %c[ui_gray_2] Silencer: PL-15 Sound Suppressor \n</text>
+	</string>
+
+		<string id="st_wpn_pl15_pl15_scolaz">
+		<text>Lebedev PL-15 "Tactic"</text>
+	</string>
+	<string id="st_wpn_pl15_pl15_scolaz_descr">
+		<text>Russian self-loading pistol PL-15-01 chambered for 9x19 mm Parabellum. The difference between the pistol and its analogues is its ergonomics and balance, which correspond to the current ideas about human biomechanics. The automation calculation methods used during its creation contribute to a large shooting resource, and in combination with the applied ergonomics solutions, make the pistol comfortable in terms of recoil, toss after a shot and quick return to the aiming line. All this contributes to a quick re-shot and fast transfer of fire, and an ergonomic handle with a large angle of inclination makes it easier to shoot "offhand".\n \n
+		%c[ui_gray_2]ATTACHMENTS: \n
+		%c[d_purple] ï %c[ui_gray_2] The weapon was upgraded using: "Tactic" kit (LAM, Deltapoint T1 scope).\n 
+		%c[d_purple] ï %c[ui_gray_2] Silencer: PL-15 Sound Suppressor\n</text>
+	</string>	
 </string_table>

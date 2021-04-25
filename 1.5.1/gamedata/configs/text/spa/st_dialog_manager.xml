@@ -48,7 +48,7 @@
 		<text>Escuch&#233; que promet&#237;as aventura, fama y dinero. &#191;Puedes ayudarme a encontrar el 'Genio'?</text>
 	</string>
 	<string id="sidorovich_questlines_about_dialog_1">
-		<text>Claro que s&#237;, est&#225; en Chernobyl, el pr&#243;ximo autob&#250;s sale en veinte minutos, jeje... \nEscucha stalker, ha habido mucha gente antes que t&#250; que ha venido aqu&#237; buscando encontrar el 'Genio', &#191;sabes lo que tienen en com&#250;n? Todos est&#225;n alimentando a los gusanos justo ahora. 'El Genio' es s&#243;lo una leyenda, no existe. Pero el dinero que ofrezco es real. Trabaja duro, hazte el listo y ser&#225;s rico en poco tiempo.</text>
+		<text>Claro que s&#237;, est&#225; en Chernobyl, el pr&#243;ximo autob&#250;s sale en veinte minutos, jeje... \nEscucha stalker, ha habido mucha gente antes que t&#250; que ha venido aqu&#237; buscando encontrar el 'Genio', &#191;sabes lo que tienen en com&#250;n? Todos est&#225;n alimentando a los gusanos justo ahora. 'El Genio' es s&#243;lo una leyenda, no existe. Pero el dinero que ofrezco es real. Trabaja duro, se inteligente y ser&#225;s rico en poco tiempo.</text>
 	</string>
 	
 	<string id="drx_sl_esc_m_trader_game_start_dialog_1_0">
@@ -64,7 +64,7 @@
 
 	<!-- SIDOROVICH STORYLINE START GAME 1 END GAME 1 TEXT: -->
 	<string id="drx_sl_esc_m_trader_start_game_1_endgame_1">
-		<text>Te has hecho un nombre por aqu&#237;, stalker. Wolf dice que algunos de los novatos incluso susurran tus historias en la fogata... &#161;jaja! Gracias por toda la ayuda, ahora intentar&#233; no morir de forma est&#250;pida.</text>
+		<text>Te has hecho un nombre por aqu&#237;, stalker. Wolf dice que algunos de los novatos incluso susurran tus historias en la fogata... &#161;jaja! Gracias por toda la ayuda, ahora intentar&#233; no morir est&#250;pidamente.</text>
 	</string>
 
 
@@ -77,7 +77,7 @@
 		<text>Listo y capaz, se&#241;or. &#191;Cu&#225;les son sus &#243;rdenes?</text>
 	</string>
 	<string id="petrenko_questlines_about_dialog_1">
-		<text>Las prioridades actuales de Deber son dobles. En primer lugar, necesitamos voluntarios para llevar a cabo una lista de misiones importantes y cumplir con nuestra obligaci&#243;n de ayudar a los que cuentan con nuestra asistencia. En segundo lugar, parece que Strelok ha sido visto por la Zona recientemente. El general Voronin est&#225; reuniendo voluntarios para seguir su rastro. Si desea participar en esto &#250;ltimo, hable con el General y &#233;l le dar&#225; los detalles.</text>
+		<text>Las prioridades actuales de Deber son dobles. En primer lugar, necesitamos voluntarios para llevar a cabo una lista de misiones importantes y cumplir con nuestra obligaci&#243;n de ayudar a los que cuentan con nuestra asistencia. En segundo lugar, parece que Strelok ha sido visto por la Zona recientemente. El general Voronin est&#225; reuniendo voluntarios para seguirle el rastro. Si desea participar en esto &#250;ltimo, hable con el General y &#233;l le dar&#225; los detalles.</text>
 	</string>
 	
 	<string id="drx_sl_bar_dolg_general_petrenko_stalker_game_start_dialog_1_0">
@@ -120,18 +120,18 @@
 
 	<!-- COLD STORYLINE START GAME 1 DIALOG -->
 	<string id="drx_sl_start_msg_csky">
-		<text>Tengo una importante misi&#243;n para aquellos que est&#233;n dispuestos a ayudar. Ven a mi oficina y te dar&#233; los detalles.</text>
+		<text>Tengo una importante misi&#243;n para los que est&#233;n dispuestos a ayudar. Ven a mi oficina y te dar&#233; los detalles.</text>
 	</string>
 	
 	<string id="cold_questlines_about_dialog_0">
 		<text>Recib&#237; tu mensaje. &#191;Puede informarme sobre la situaci&#243;n actual?</text>
 	</string>
 	<string id="cold_questlines_about_dialog_1">
-		<text>&#191;Un voluntario? Me alegro de que me lo pidas. Estamos expandiendo nuestras operaciones en la zona, y no hay fin a las sorpresas que la Zona nos trae cada d&#237;a. La mayor sorpresa, sin embargo, es la noticia del regreso de Strelok. Dado que sobrevivi&#243; donde Lebedev fall&#243;... bueno, estoy seguro de que algunos de nuestros viejos chicos querr&#225;n algunas respuestas. A&#250;n as&#237;, aunque no lo hagas, tambi&#233;n tengo una lista de contactos que necesitan un trabajo. Cielo Despejado siempre puede beneficiarse de mantener sus amistades, sobre todo porque algunas de nuestras p&#233;rdidas anteriores son irremplazables.</text>
+		<text>&#191;Un voluntario? Me alegro de que me lo pidieras. Estamos expandiendo nuestras operaciones en la zona, y no hay fin a las sorpresas que la Zona nos trae cada d&#237;a. Pero la mas grande sorpresa, es la noticia del regreso de Strelok. Dado que sobrevivi&#243; donde Lebedev fall&#243;... bueno, estoy seguro de que algunos de nuestros viejos chicos querr&#225;n algunas respuestas. A&#250;n as&#237;, aunque no lo hagas, tambi&#233;n tengo una lista de contactos que necesitan ofrecen trabajos. Cielo Despejado siempre puede beneficiarse de mantener sus amistades, sobre todo porque algunas de nuestras p&#233;rdidas anteriores son irremplazables.</text>
 	</string>
 	
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_game_start_dialog_1_0">
-		<text>Estoy listo para ayudar a Cielo Despejado a mantener sus amistades. &#191;Qu&#233; puede decirme de nuestros contactos?</text>
+		<text>Estoy listo para ayudar a Cielo Despejado a cuidar de sus amigos. &#191;Qu&#233; puede decirme de nuestros contactos?</text>
 	</string>
 	<string id="drx_sl_mar_smart_terrain_base_stalker_leader_marsh_game_start_dialog_1_1">
 		<text>Te dar&#233; los detalles a tu PDA mientras vas, todo lo que tienes que hacer es reunirte con tus contactos como estaba previsto. Lamentablemente, no puedo decirte m&#225;s, s&#243;lo que todo tendr&#225; sentido en el momento adecuado. Conf&#237;o en que sabr&#225;s qu&#233; hacer. Buena suerte.</text>
@@ -152,14 +152,14 @@
 		<text>&#191;Quer&#237;a verme, profesor?</text>
 	</string>
 	<string id="sakharov_questlines_about_dialog_1">
-		<text>Oh, s&#237;, s&#237;. &#161;Bueno! Me alegro de que est&#233;s aqu&#237;. Ha ocurrido algo inesperado, joven. &#161;Strelok ha sido visto en la Zona otra vez! Encontrarlo es actualmente una prioridad, tanto para m&#237; como para nuestros supervisores. Si desea participar en nuestra b&#250;squeda de Strelok, puedo decirle m&#225;s. Si no... bueno... Tengo otra tarea importante. Implica viajar por la Zona y conocer gente nueva para aprender todo lo que puedas - Hay tanto ah&#237; fuera que a&#250;n no hemos descubierto. Podr&#237;as considerarlo... investigaci&#243;n exploratoria.</text>
+		<text>Oh, s&#237;, s&#237;. &#161;Bueno! Me alegro de que est&#233;s aqu&#237;. Ha ocurrido algo inesperado, joven. &#161;Strelok ha sido visto en la Zona otra vez! Encontrarlo es prioridad, tanto para m&#237; como para nuestros supervisores. Si desea participar en nuestra b&#250;squeda de Strelok, puedo decirle m&#225;s. Si no... bueno... Tengo otra tarea importante. Implica viajar por la Zona y conocer gente nueva para aprender todo lo que puedas - Hay tanto ah&#237; fuera que a&#250;n no hemos descubierto. Podr&#237;as considerarlo... investigaci&#243;n exploratoria.</text>
 	</string>
 	
 	<string id="drx_sl_yan_stalker_sakharov_game_start_dialog_1_0">
-		<text>Estoy interesado en realizar una investigaci&#243;n exploratoria para los ecologistas, profesor. &#191;Por d&#243;nde empiezo?</text>
+		<text>Estoy interesado en realizar la investigaci&#243;n exploratoria para los ecologistas, profesor. &#191;Por d&#243;nde empiezo?</text>
 	</string>
 	<string id="drx_sl_yan_stalker_sakharov_game_start_dialog_1_1">
-		<text>Aqu&#237;, una lista de contactos que se ocupar&#225;n de usted a lo largo de su viaje. Vis&#237;talos, pueden proporcionarte trabajo, comida o refugio. &#161;Explora y s&#233; curioso! &#161;Sea audaz y aventurero! &#161;Interrogue a todos y a todo! Espero que sus experiencias aumenten enormemente nuestra comprensi&#243;n de la Zona.</text>
+		<text>Aqu&#237;, una lista de contactos que se ocupar&#225;n de usted a lo largo de su viaje. Vis&#237;telos, pueden proporcionarle trabajo, comida o refugio. &#161;Explora y s&#233; curioso! &#161;Sea audaz y aventurero! &#161;Interrogue a todos y a todo! Espero que sus experiencias aumenten enormemente nuestra comprensi&#243;n de la Zona.</text>
 	</string>
 
 	<!-- SAKHAROV STORYLINE START GAME 1 END GAME 1 TEXT: -->
@@ -322,7 +322,7 @@
 		<text>Es todo lo que s&#233;. Preg&#250;ntale a alguien m&#225;s.</text>
 	</string>
 	<string id="dm_no_more_4">
-		<text>Maldita sea, hombre. &#191;Tienes una erecci&#243;n conmigo? Preg&#250;ntale a alguien m&#225;s.</text>
+		<text>Maldita sea, hombre. &#191;Tienes una erecci&#243;n cuando me ves? Preg&#250;ntale a alguien m&#225;s.</text>
 	</string>
 	<string id="dm_no_more_5">
 		<text>No hay mucho m&#225;s que pueda decirte, hombre.</text>
@@ -340,16 +340,16 @@
 		<text>P&#225;sate m&#225;s tarde y tal vez pueda contarte m&#225;s.</text>
 	</string>
 	<string id="dm_no_more_10">
-		<text>Eh. No voy a profundizar m&#225;s. &#191;Tiene alguna otra pregunta?</text>
+		<text>Eh. No voy a profundizar m&#225;s. &#191;Tienes alguna otra pregunta?</text>
 	</string>
 	<string id="dm_do_not_know_1">
 		<text>Hermano, si tuviera todas las respuestas, no estar&#237;a en este basurero.</text>
 	</string>
 	<string id="dm_do_not_know_2">
-		<text>Buena pregunta. Si lo averiguas, comparte esa informaci&#243;n conmigo, &#191;lo har&#225;s?</text>
+		<text>Buena pregunta. Si lo averiguas, compartelo conmigo, &#191;lo har&#225;s?</text>
 	</string>
 	<string id="dm_do_not_know_3">
-		<text>Me est&#225;s poniendo en un aprieto, hombre. No lo s&#233;.</text>
+		<text>Me est&#225;s metiendo en problemas, hombre. No lo s&#233;.</text>
 	</string>
 	<string id="dm_do_not_know_4">
 		<text>No lo s&#233;, hombre.</text>
@@ -358,16 +358,16 @@
 		<text>Siempre pasa algo en la Zona, pero nada que me gustar&#237;a compartir contigo.</text>
 	</string>
 	<string id="dm_do_not_know_6">
-		<text>No tengo nada que decirte, hombre. Nadie me dice una mierda.</text>
+		<text>No tengo nada que contarte, hombre. A mi nadie me dice una mierda.</text>
 	</string>
 	<string id="dm_do_not_know_7">
 		<text>Le est&#225;s preguntando al tipo equivocado.</text>
 	</string>
 	<string id="dm_do_not_know_8">
-		<text>Me gustar&#237;a saber eso tambi&#233;n.</text>
+		<text>Tambi&#233;n me gustar&#237;a saberlo.</text>
 	</string>
 	<string id="dm_do_not_know_9">
-		<text>Lo siento. No puedo ayudarte.</text>
+		<text>Disculpa. No puedo ayudarte.</text>
 	</string>
 	<string id="dm_do_not_know_10">
 		<text>Lo siento. No tengo nada.</text>
@@ -381,13 +381,13 @@
 		<text>Hey, hombre. &#191;Qu&#233; pasa?</text>
 	</string>
 	<string id="dm_hello_general_3">
-		<text>Hola! &#191;C&#243;mo estas?</text>
+		<text>&#161;Hola! &#191;C&#243;mo estas?</text>
 	</string>
 	<string id="dm_hello_1">
 		<text>Hola, hermano.</text>
 	</string>
 	<string id="dm_hello_2">
-		<text>Saludos, stalker.</text>
+		<text>Hey stalker.</text>
 	</string>
 	<string id="dm_hello_3">
 		<text>Estoy bien. &#191;Qu&#233; pasa?</text>
@@ -405,7 +405,7 @@
 		<text>Hasta ahora, todo bien. &#191;T&#250;?</text>
 	</string>
 	<string id="dm_hello_8">
-		<text>Han habido d&#237;as mejores. &#191;Qu&#233; necesitas?</text>
+		<text>He tenido d&#237;as mejores. &#191;Qu&#233; necesitas?</text>
 	</string>
 	<string id="dm_hello_9">
 		<text>&#161;Buenos d&#237;as!</text>
@@ -440,7 +440,7 @@
 		<text>Hermano... &#161;Hermano, s&#225;lvame!</text>
 	</string>
 	<string id="dm_help_5">
-		<text>Amigo, el botiqu&#237;n de primeros auxilios... &#161;El botiqu&#237;n!</text>
+		<text>Amigo, el botiqu&#237;n... &#161;El botiqu&#237;n!</text>
 	</string>
 	<string id="dm_help_6">
 		<text>Stalker, ay&#250;dame... Dame un botiqu&#237;n...</text>
@@ -461,7 +461,7 @@
 		<text>&#161;Botiqu&#237;n! &#161;R&#225;pido!</text>
 	</string>
 	<string id="dm_help_12">
-		<text>&#161;Ayuda! &#161;Estoy muriendo!</text>
+		<text>&#161;Ayuda! &#161;Me muero!</text>
 	</string>
 	<string id="dm_help_13">
 		<text>&#161;Necesito primeros auxilios, chicos! &#161;Deprisa!</text>
@@ -490,10 +490,10 @@
 		<text>&#191;Qu&#233; puedes decirme sobre las anomal&#237;as o los artefactos?</text>
 	</string>
 	<string id="dm_anomalies_0">
-		<text>No me siento c&#243;modo dici&#233;ndote nada.</text>
+		<text>No me siento bien dici&#233;ndotelo.</text>
 	</string>
 	<string id="dm_anomalies_1">
-		<text>&#191;Alguna vez has visto un 'Quemador'? Incluso a la luz del d&#237;a hay una ligera neblina. Pisa el acelerador y te asar&#225; antes de que puedas decir "Deber&#237;a haber tirado un tornillo".</text>
+		<text>&#191;Alguna vez has visto un Quemador? Incluso a la luz del d&#237;a hay una ligera neblina. Pisa el acelerador y te asar&#225; antes de que puedas decir "Deber&#237;a haber tirado un tornillo".</text>
 	</string>
 	<string id="dm_anomalies_2">
 		<text>Los cometas no siempre est&#225;n en el cielo nocturno. El otro d&#237;a vi una enorme bola de fuego ardiendo sobre una de las anomal&#237;as t&#233;rmicas... como si las t&#233;rmicas no fueran ya un dolor de culo.</text>
@@ -502,16 +502,16 @@
 		<text>&#191;Alguna vez has visto un V&#243;rtice, hombre? Son casi invisibles, pero si te acercas demasiado, te arrastrar&#225;n y har&#225;n de ti una asquerosa papilla regada por todas partes.</text>
 	</string>
 	<string id="dm_anomalies_4">
-		<text>Si oyes un zumbido, detente al instante. Podr&#237;a ser un Trampol&#237;n, una bola de gravedad lista para explotar en tu cara si la tocas. Las cosas desagradables est&#225;n en todas partes, as&#237; que ten los tornillos a mano.</text>
+		<text>Si oyes un zumbido, parate alli. Podr&#237;a ser un Trampol&#237;n, una bola de gravedad lista para explotar en tu cara si la tocas. Las cosas desagradables est&#225;n en todas partes, as&#237; que ten los tornillos a mano.</text>
 	</string>
 	<string id="dm_anomalies_5">
-		<text>&#191;Suciedad y hojas volando? Puede que no sea el viento. 'Los Remolinos' son desagradables anomal&#237;as gravitacionales, y si te quedas atrapado en uno de ellos, te har&#225; dar vueltas y vueltas... hasta que la fuerza te destroce.</text>
+		<text>&#191;Suciedad y hojas volando? Puede que no sea el viento. Los Remolinos son desagradables anomal&#237;as gravitacionales, y si te quedas atrapado en uno de ellos, te har&#225; dar vueltas y vueltas... hasta que la fuerza te destroce.</text>
 	</string>
 	<string id="dm_anomalies_6">
-		<text>La anomal&#237;a "Ponche de frutas" no es tan deliciosa como suena. Te derretir&#225; la maldita cara si te acercas demasiado sin la protecci&#243;n qu&#237;mica adecuada.</text>
+		<text>La anomal&#237;a 'Ponche de frutas' no es tan deliciosa como suena. Te derretir&#225; la maldita cara si te acercas demasiado sin la protecci&#243;n qu&#237;mica adecuada.</text>
 	</string>
 	<string id="dm_anomalies_7">
-		<text>No conf&#237;es en el musgo o en las enredaderas de por aqu&#237;, stalker. Los locales lo llaman "Pelusa quemada" por una raz&#243;n: si lo tocas, ser&#225; perforado por esporas microsc&#243;picas.</text>
+		<text>No conf&#237;es en el musgo o en las enredaderas de por aqu&#237;, stalker. Los locales lo llaman "Pelusa quemada" por una raz&#243;n: si la tocas, ser&#225; perforado por esporas microsc&#243;picas.</text>
 	</string>
 	<string id="dm_anomalies_8">
 		<text>Busca anomal&#237;as de gas verde flotando y vagando por el suelo. Es &#225;cida, y si terminas dando un paseo por ella, empezar&#225; a carcomerte las piernas.</text>
@@ -523,7 +523,7 @@
 		<text>Los cient&#237;ficos dicen que las anomal&#237;as el&#233;ctricas tardan en recargar su carga despu&#233;s de que explotan. Si lo haces en el momento adecuado, esto significar&#237;a que podr&#237;as atravesar uno con seguridad despu&#233;s de activarla con un tornillo.</text>
 	</string>
 	<string id="dm_anomalies_11">
-		<text>Hace unos d&#237;as, vi esta bola gigante de electricidad. Los ecologistas la llaman la "Anomal&#237;a de Tesla" en honor a un inventor muerto. Viaja en un patr&#243;n establecido, as&#237; que cronometra tus movimientos correctamente y no podr&#225; hacerte da&#241;o.</text>
+		<text>Hace unos d&#237;as, vi esa bola gigante de electricidad. Los ecologistas la llaman la "Anomal&#237;a Tesla" en honor a un inventor muerto. Viaja en un patr&#243;n establecido, as&#237; que cronometra tus movimientos correctamente y no podr&#225; hacerte da&#241;o.</text>
 	</string>
 	<string id="dm_anomalies_12">
 		<text>Mantente alejado de Anomal&#237;as Espaciales, hombre. Es una echada de suertes si te teletransportan a alg&#250;n lugar &#250;til o te dejan morir de hambre en alg&#250;n limbo. Tendr&#237;as que estar loco para correr ese tipo de riesgo.</text>
@@ -544,10 +544,10 @@
 		<text>Las anomal&#237;as gravitacionales - Remolinos y similares - son un absoluto infierno, pero a veces puedes escapar de una si eres lo suficientemente ligero con tus pies. S&#243;lo corre y salta como si tu vida dependiera de ello - probablemente lo logres.</text>
 	</string>
 	<string id="dm_anomalies_18">
-		<text>&#191;Has o&#237;do hablar de un Gravi? Parece una caca de perro met&#225;lica, pero los cient&#237;ficos pagar&#225;n por &#233;l debido a sus efectos antigravitatorios, efectos de los que la mayor&#237;a de los stalkers prefieren no desprenderse.</text>
+		<text>&#191;Has o&#237;do hablar de un Gravi? Parece una mierda de perro met&#225;lica, pero los cient&#237;ficos pagar&#225;n por &#233;l debido a sus efectos antigravitatorios, efectos de los que la mayor&#237;a de los stalkers prefieren no desprenderse.</text>
 	</string>
 	<string id="dm_anomalies_19">
-		<text>Siempre, siempre, SIEMPRE tienes algo para lidiar con la radiaci&#243;n. Estoy harto de ver a los novatos consumirse porque olvidaron sus medicinas, o no pudieron llegar al m&#233;dico...</text>
+		<text>Siempre, siempre, SIEMPRE ten algo para lidiar con la radiaci&#243;n. Estoy harto de ver a los novatos consumirse porque olvidaron sus medicinas, o no pudieron llegar al m&#233;dico...</text>
 	</string>
 	<string id="dm_anomalies_20">
 		<text>Aparentemente todos esos nuevos dispositivos de cintur&#243;n se basan en estudios cientificos de artefactos. A&#250;n as&#237;, el dinero para comprar m&#225;s artefactos nunca se acaba, y no les importa si el efecto es bueno o malo, s&#243;lo que sea poderoso...</text>
@@ -556,7 +556,7 @@
 		<text>He o&#237;do hablar de artefactos raros capaces de curar incluso heridas mortales, o de hacer una incisi&#243;n ante sus propios ojos. Si alguna vez encuentras uno, junto con un AAM o algo as&#237;, ser&#237;a mejor que te lo quedaras.</text>
 	</string>
 	<string id="dm_anomalies_22">
-		<text>Sigo escuchando historias sobre un legendario artefacto conocido como la "Br&#250;jula". La gente dice que si tienes una, entonces ninguna anomal&#237;a puede tocarte, y mucho menos lastimarte. &#191;Me pregunto si es cierto?</text>
+		<text>Sigo escuchando historias sobre un legendario artefacto conocido como la "Br&#250;jula". La gente dice que si tienes una, entonces ninguna anomal&#237;a puede tocarte, y mucho menos lastimarte. &#191;Sera verdad?</text>
 	</string>
 	<string id="dm_anomalies_23">
 		<text>S&#243;lo habla con los stalkers m&#225;s experimentados que ves sentados alrededor de las fogatas. Pronto aprender&#225;s todo lo que necesitas.</text>
@@ -574,13 +574,13 @@
 		<text>Descansa mucho y cu&#237;date, hombre. Las anomal&#237;as no siempre son f&#225;ciles de detectar, as&#237; que debes asegurarte de que puedes estar alerta. &#191;C&#243;mo puedes esperar evadir un campo de v&#243;rtices despu&#233;s de una noche loca de vodka?</text>
 	</string>
 	<string id="dm_anomalies_28">
-		<text>&#161;Shh! &#191;Oyes los susurros? Esa es la Zona, hablando contigo. M&#225;s cerca del centro, o durante una emisi&#243;n, hay lugares en los que su voz se vuelve poderosa. Sin protecci&#243;n ps&#237;quica, seguro que zombificar&#225;s.</text>
+		<text>&#161;Shh! &#191;Oyes esos susurros? Es la Zona hablando contigo. M&#225;s cerca del centro, o durante una emisi&#243;n, hay lugares en los que su voz se vuelve poderosa. Sin protecci&#243;n ps&#237;quica, seguro que te zombificar&#225;s.</text>
 	</string>
 	<string id="dm_anomalies_29">
 		<text>Tengan en cuenta que no a todos los de por aqu&#237; les gusta cazar artefactos. Algunos cazan mutantes... otros cazan gente. Ten cuidado a qui&#233;n le muestras tu bot&#237;n.</text>
 	</string>
 	<string id="dm_anomalies_30">
-		<text>&#191;Sab&#237;as que los artefactos son casi indestructibles? A veces es mejor disparar al artefacto para hacerlo saltar fuera de la anomal&#237;a, en lugar de ser absorbido directamente por ella.</text>
+		<text>&#191;Sab&#237;as que los artefactos son casi indestructibles? A veces es mejor dispararle al artefacto para hacerlo saltar fuera de la anomal&#237;a, en lugar de ser absorbido por ella.</text>
 	</string>
 	<string id="dm_anomalies_31">
 		<text>Ojal&#225; hubiera estado aqu&#237; en los viejos tiempos. En aquel entonces, los artefactos no te irradiaban s&#243;lo por llevarlos. Supongo que la Zona es m&#225;s protectora de sus tesoros ahora, &#191;eh?</text>
@@ -1444,7 +1444,7 @@
 		<text>No hay fin para estos monstruos, mientras m&#225;s matamos, m&#225;s se arrastran fuera de sus agujeros. Usted es un cient&#237;fico, &#191;c&#243;mo se...  reproducen estos mutantes? Ok, no estoy buscando un diagrama ni nada, pero &#191;todav&#237;a vienen de las &#225;reas subterr&#225;neas? Puedo ver c&#243;mo se reproducen Carne y los Jabal&#237;es, pero &#191;los chupasangre? En realidad, no estoy seguro de querer saberlo.</text>
 	</string>
 	<string id="dm_information_251">
-		<text>&#191;Cu&#225;l es tu asunto aqu&#237;? No revuelvas nada, &#191;vale?</text>
+		<text>&#191;Cu&#225;l es tu asunto aqu&#237;? No revuelvas nada, &#191;si?</text>
 	</string>
 	<string id="dm_information_252">
 		<text>Oh, negocios como siempre. Oye, &#191;Abakumin sigue siendo el intendente de Agroprom? Cuando todav&#237;a estaba en el ej&#233;rcito, dijo que se iba a unir a Deber alg&#250;n d&#237;a. Eso fue hace cinco a&#241;os, pero nunca hemos sabido nada de &#233;l.</text>
@@ -1539,7 +1539,7 @@
 		<text>Si alguna vez necesitas que revisen tu equipo, pasa a ver al teniente Kirilov. Ese tipo es una especie de hacedor de soles; desde radios hasta ametralladoras ligeras, es tu hombre. </text>
 	</string>
 	<string id="dm_information_282">
-		<text>No te pongas en el lado malo de Kuznetsov, &#191;vale? Tu vida se volver&#225; repentinamente muy desagradable. Como ese sargento, eh... Urianov. Me han dicho que su nueva misi&#243;n es llevar mensajes en los pantanos.</text>
+		<text>No te pongas en el lado malo de Kuznetsov, &#191;bien? Tu vida se volver&#225; repentinamente muy desagradable. Como ese sargento, eh... Urianov. Me han dicho que su nueva misi&#243;n es llevar mensajes en los pantanos.</text>
 	</string>
 	<string id="dm_information_283">
 		<text>Si tienes dudas, dispara. Si ves movimiento en la Zona, no esperes ni un minuto. He visto a algunos tipos dudar y morir. A veces son mercenarios o lun&#225;ticos, pero una quimera puede matarte tan r&#225;pido como las balas. S&#243;lo caga a tiros a cualquier cosa que veas.</text>
@@ -1736,7 +1736,7 @@
 		<text>Si por casualidad viajas a Zaton, hazle saber a Beard que estamos interesados en cualquier artefacto inusual que tenga. Hace tiempo que no tenemos un trato con &#233;l.</text>
 	</string>
 	<string id="dm_information_347">
-		<text>Ten cuidado con lo que te pones en el cintur&#243;n, &#191;vale? Estos artefactos tienen m&#225;s propiedades que la radiaci&#243;n, as&#237; que debes tratarlos con cuidado. He visto a un stalker estallar en llamas porque sus artefactos reaccionaron entre s&#237;.</text>
+		<text>Ten cuidado con lo que te pones en el cintur&#243;n, &#191;si? Estos artefactos tienen m&#225;s propiedades que la radiaci&#243;n, as&#237; que debes tratarlos con cuidado. He visto a un stalker estallar en llamas porque sus artefactos reaccionaron entre s&#237;.</text>
 	</string>
 	<string id="dm_information_348">
 		<text>Si ves a Barman, dile que casi he terminado el negocio que est&#225;bamos discutiendo. &#201;l sabr&#225; lo que quiero decir.</text>
@@ -1750,7 +1750,7 @@
 		<text>No hay nada como la Zona, hermano. &#191;Alguna vez has visto el cielo despu&#233;s de una emisi&#243;n... la sensaci&#243;n de viento fresco y una paz en el aire... mierda, podr&#237;a escribir algo de poes&#237;a sobre eso.</text>
 	</string>
 	<string id="dm_information_351">
-		<text>Ahora, no estoy diciendo que no haya ning&#250;n loco en Libertad, &#191;vale? Como esos dos checos que son vegetarianos y pacifistas comprometidos. Vamos hombre, &#191;has visto alguna vez uno de esos jodidos gatos come-hombres? Apuesto a que esos dos nunca han salido de la base.</text>
+		<text>Ahora, no estoy diciendo que no haya ning&#250;n loco en Libertad, &#191;correcto? Como esos dos checos que son vegetarianos y pacifistas comprometidos. Vamos hombre, &#191;has visto alguna vez uno de esos jodidos gatos come-hombres? Apuesto a que esos dos nunca han salido de la base.</text>
 	</string>
 	<string id="dm_information_352">
 		<text>&#191;A qu&#233; viene toda esta mierda de disciplina y control de todos modos? Tenemos que asegurarnos de que la organizaci&#243;n de Libertad se mantiene fiel a sus ra&#237;ces: libertad y libre expresi&#243;n. Pens&#233; que est&#225;bamos luchando contra los fascistas, no invit&#225;ndolos a entrar...</text>
@@ -2161,7 +2161,7 @@
 		<text>Sol&#237;a estar en Libertad. Pensaban que eran lo suficientemente laxos para permitir lo que quisieras... qu&#233; mont&#243;n de mierda. Se enojaron cuando me divert&#237; con uno de los prisioneros del rescate, especialmente con este drogadicto de mierda. Esa noche tambi&#233;n me divert&#237; con &#233;l, lo cual no le gust&#243; mucho. Amenazaron con matarme y me echaron. Bueno, que se jodan.</text>
 	</string>
 	<string id="dm_information_486">
-		<text>Estuve en los Bandidos hasta que me di cuenta de que era para maricas. Alg&#250;n punk malhumorado me daba &#243;rdenes, aunque yo vine aqu&#237; para alejarme de eso. As&#237; que, bien por &#233;l, le cort&#233; la garganta una noche y a un par de sus compa&#241;eros tambi&#233;n. Uno de ellos era fuerte, casi me revienta, le sal&#237;a la sangre por la garganta y todo eso, y… luego les cague en el pecho. Sal&#237; de ese basurero y segu&#237; por mi cuenta. La hora de los cuentos se acab&#243;, &#191;vale?</text>
+		<text>Estuve en los Bandidos hasta que me di cuenta de que era para maricas. Alg&#250;n punk malhumorado me daba &#243;rdenes, aunque yo vine aqu&#237; para alejarme de eso. As&#237; que, bien por &#233;l, le cort&#233; la garganta una noche y a un par de sus compa&#241;eros tambi&#233;n. Uno de ellos era fuerte, casi me revienta, le sal&#237;a la sangre por la garganta y todo eso, y… luego les cague en el pecho. Sal&#237; de ese basurero y segu&#237; por mi cuenta. La hora de los cuentos se acab&#243;, &#191;ok?</text>
 	</string>
 	<string id="dm_information_487">
 		<text>No servir&#233;. &#191;Cu&#225;l es el com&#250;n denominador entre todas estas peque&#241;as pandillas de aqu&#237;? Todos ellos requieren la sumisi&#243;n a alg&#250;n otro gilipollas. Nadie es mi amo, no me inclino ante una mierda. As&#237; es como se supone que debe ser: yo y mi rifle y lo que sea que quiera hacer.</text>
@@ -2176,7 +2176,7 @@
 		<text>Ten&#237;a que salir de all&#237;, hombre. El culo-gordo de Sidorovich y sus matones, todos me miraban. Nunca dejaron de mirar, no pod&#237;an dormir. Estaban esperando, esperando que bajara la guardia. Que se jodan, no voy a ser su rata de laboratorio. Me arriesgar&#233;.</text>
 	</string>	
 	<string id="dm_information_491">
-		<text>Estaba cerca de la estaci&#243;n de bombeo el otro d&#237;a... mir&#243; en el agua. Vi... ojos, primero hab&#237;a s&#243;lo unos pocos, luego toda el agua eran ojos. Hay algo en el agua, &#191;vale? Algo profundo y oscuro, que hace que los chicos desaparezcan. No te metas en esa mierda.</text>
+		<text>Estaba cerca de la estaci&#243;n de bombeo el otro d&#237;a... mir&#243; en el agua. Vi... ojos, primero hab&#237;a s&#243;lo unos pocos, luego toda el agua eran ojos. Hay algo en el agua, &#191;ok? Algo profundo y oscuro, que hace que los chicos desaparezcan. No te metas en esa mierda.</text>
 	</string>	
 	<string id="dm_information_492">
 		<text>No hay nada tan bello como un explosivo bien colocado explotando justo bajo las narices de un cerdo del ej&#233;rcito. La columna de fuego sube al cielo... es como el atardecer. Luego viene la tranquilidad. A veces, lo que m&#225;s me gusta es la tranquilidad. Una cagada menos en la Zona.</text>
@@ -3768,7 +3768,7 @@
 		<text>Hey, stal-oh, diablos, olvid&#233; que estaba reparando tu equipo. Vuelve a por tus %s en una hora y %s minutos.</text>
 	</string>
 	<string id="st_inventory_upgrade_reply_7">
-		<text>Tus %s estar&#225;n listos en una hora y %s, as&#237; que vuelve mas tarde, &#191;vale?</text>
+		<text>Tus %s estar&#225;n listos en una hora y %s, as&#237; que vuelve mas tarde, &#191;si?</text>
 	</string>
 	<string id="st_inventory_upgrade_reply_8">
 		<text>Tus %s estar&#225;n listos en unas %s horas y %s. Vuelve para entonces.</text>

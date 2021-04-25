@@ -1754,7 +1754,7 @@
 		<text>&#161;Quiero que la Zona desaparezca!</text>
 	</string>
 	<string id="st_wish_2">
-		<text>La humanidad est&#225; corrompida. &#161;La humanidad debe ser controlada!</text>
+		<text>La humanidad est&#225; corrompida. &#161;Debe ser controlada!</text>
 	</string>
 	<string id="st_wish_3">
 		<text>&#161;Deseo la paz mundial!</text>
@@ -1766,7 +1766,7 @@
 		<text>&#161;Hazme inmortal!</text>
 	</string>
 	<string id="st_wish_99">
-		<text>[no decir nada]</text>
+		<text>[No pedir nada]</text>
 	</string>
 
 	<!-- Alundaio -->

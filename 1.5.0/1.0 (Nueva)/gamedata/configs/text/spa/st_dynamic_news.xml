@@ -5142,7 +5142,7 @@
 		<text>Habla $leader. Parece que $target se est&#225; propagando $location, podr&#237;an estar prepar&#225;ndose para algo. Todos los grupos cercanos al lugar deben salir de inmediato.</text>
 	</string>
 	<string id="st_dyn_news_zone_activity_scientist_enemy_6">
-		<text>Uno de mi grupo vio $target que se dirig&#237;a hacia nosotros. Tomamos posici&#243;n $location. Si intentan algo desagradable, pagar&#225;n por ello. $speaker fuera.</text>
+		<text>Uno de mi grupo vio $target que se dirig&#237;a hacia nosotros. Tomamos posici&#243;n $location. Si intentan algo desagradable, las pagar&#225;n. $speaker fuera.</text>
 	</string>
 	<string id="st_dyn_news_zone_activity_scientist_enemy_7">
 		<text>Recib&#237; un informe de fuente desconocida sobre el objetivo que se preparaba para una emboscada en $map. Todos los grupos en el lugar deben tener extrema precauci&#243;n.</text>
@@ -6703,7 +6703,7 @@
 		<text>Las anomal&#237;as de gas son raras, pero comparten propiedades similares a las del ponche de frutas.</text>
 	</string>
 	<string id="st_dyn_news_companion_life_ecolog_12">
-		<text>La Pelusa Quemada es el tipo de anomal&#237;as menos peligrosas. Sin embargo, los stalkers mueren por ello porque no esperan una anomal&#237;a sobre sus cabezas.</text>
+		<text>La Pelusa Quemada es el tipo de anomal&#237;as menos peligrosas. Sin embargo, los stalkers mueren por eso, porque no esperan una anomal&#237;a sobre sus cabezas.</text>
 	</string>
 	<string id="st_dyn_news_companion_life_ecolog_13">
 		<text>Las tormentas ps&#237;quicas no suelen participar en la creaci&#243;n de artefactos, las explosiones masivas por otro lado son una historia diferente.</text>
@@ -6802,7 +6802,7 @@
 		<text>Mant&#233;ngase alerta, los bandidos pueden aparecer en cualquier momento.</text>
 	</string>
 	<string id="st_dyn_news_companion_life_stalker_5">
-		<text>Esos malditos bandidos creen que pueden pasear y robar a los stalkers as&#237; como as&#237;, van a pagar por ello.</text>
+		<text>Esos malditos bandidos creen que pueden pasear y robar a los stalkers as&#237; como as&#237;, van a pagar por eso.</text>
 	</string>
 	<string id="st_dyn_news_companion_life_stalker_6">
 		<text>Hey, evitemos los controles militares, no quiero suicidarme hoy.</text>
