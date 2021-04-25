@@ -157,7 +157,7 @@
 		<text>La progresi&#243;n de dificultad del juego s&#243;lo son es accesible en una partida cargada.</text>
 	</string>
 	<string id="ui_mm_change_done_restart">
-		<text>Los cambios se han guardados,\n&#161;Necesitas reiniciar tu juego!</text>
+		<text>Los cambios se han guardado,\n&#161;Necesitas reiniciar tu juego!</text>
 	</string>
 	<string id="ui_mm_change_done">
 		<text>Los cambios se han guardado</text>
