@@ -65,7 +65,7 @@
 	</string>
 	<string id="encyclopedia_features_options_dynamic_news_text">
 		<text>
-			El %c[d_cyan]Simulator de combate offline%c[ui_gray_2] permite a los stalkers/mutantes luchar contra sus enemigos en otras partes de la Zona.\n \n%c[d_green]Informaci&#243;n%c[ui_gray_2]\n \nCuando se habilita, simular&#225; batallas entre escuadrones en otros mapas hasta cierto punto. El resultado depende de los %c[ui_gray_3]factores de poblaci&#243;n%c[ui_gray_2] tanto para los stalkers como para los mutantes. \nEl jugador puede recibir noticias sobre situaciones de tiroteo de stalkers en lugares lejanos. \nCuando la opci&#243;n %c[ui_gray_3]Relaciones Dinamicas de Facciones%c[ui_gray_2] est&#225; habilitada, las batallas entre facciones jugar&#225;n un papel en los cambios de relaci&#243;n.
+			El %c[d_cyan]Simulator de combate offline%c[ui_gray_2] permite a los stalkers/mutantes luchar contra sus enemigos en otras partes de la Zona.\n \n%c[d_green]Informaci&#243;n%c[ui_gray_2]\n \nCuando se habilita, simular&#225; batallas entre escuadrones en otros mapas hasta cierto punto. El resultado depende de los %c[ui_gray_3]factores de poblaci&#243;n%c[ui_gray_2] tanto para los stalkers como para los mutantes. \nEl jugador puede recibir noticias sobre situaciones de tiroteo de stalkers en lugares lejanos. \nCuando la opci&#243;n %c[ui_gray_3]Relaciones Din&#225;micas de Facciones%c[ui_gray_2] est&#225; habilitada, las batallas entre facciones jugar&#225;n un papel en los cambios de relaci&#243;n.
 		</text>
 	</string>
 	

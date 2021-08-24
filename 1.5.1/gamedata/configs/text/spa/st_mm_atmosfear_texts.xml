@@ -51,10 +51,10 @@
 		<text>cada 12 - 24 horas</text>
 	</string>
 	<string id="st_list_freq_48">
-		<text>cada 1 - 2 dias</text>
+		<text>cada 1 - 2 d&#237;as</text>
 	</string>
 	<string id="st_list_freq_96">
-		<text>cada 2 - 4 dias</text>
+		<text>cada 2 - 4 d&#237;as</text>
 	</string>
 
 	<string id="st_list_fate_killatend">
@@ -166,7 +166,7 @@
 		<text>Longitud del ciclo lunar</text>
 	</string>
 	<string id="st_cap_moon_cycle_length_8">
-		<text>8 dias</text>
+		<text>8 d&#237;as</text>
 	</string>
 	<string id="st_cap_moon_cycle_length_28">
 		<text>28 d&#237;as</text>

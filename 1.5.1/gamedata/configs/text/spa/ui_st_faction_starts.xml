@@ -19,7 +19,7 @@
 		<text>Construcci&#243;n (Territorio Salvaje)</text>
 	</string>
 	<string id="ui_st_container_warehouse">
-		<text>Almacen de Contenedores (Jupiter)</text>
+		<text>Almac&#233;n de Contenedores (Jupiter)</text>
 	</string>
 	<string id="ui_st_cultural_center">
 		<text>Palacio de Cultura (Pripyat)</text>
@@ -58,7 +58,7 @@
 		<text>Campamento de Novatos (Cordon)</text>
 	</string>
 	<string id="ui_st_research_institute">
-		<text>Instituto de Investigacion (Agroprom)</text>
+		<text>Instituto de Investigaci&#243;n (Agroprom)</text>
 	</string>
 	<string id="ui_st_sakharovs_bunker">
 		<text>Bunker de Sakharov (Yantar)</text>
@@ -97,7 +97,7 @@
 
 	<!-- Last Day -->
 	<string id="ui_st_atp">
-		<text>Estacion de Vehiculos (Cordon)</text>
+		<text>Estacion de Veh&#237;culos (Cordon)</text>
 	</string>
 	<string id="ui_st_barricades_at_the_car">
 		<text>Barricada de Coches (Agroprom)</text>

@@ -110,7 +110,7 @@
 		<text>Cordon. Tienda Solitaria</text>
 	</string>
 	<string id="st_esc_smart_terrain_7_11_name">
-		<text>Cordon. Estacion de Vehiculos</text>
+		<text>Cordon. Estacion de Veh&#237;culos</text>
 	</string>
 	<string id="st_esc_smart_terrain_5_9_name">
 		<text>Cordon. Elevador de Grano</text>
@@ -293,7 +293,7 @@
 		<text>Vertedero. Puesto de Avanzada Improvisado</text>
 	</string>
 	<string id="st_gar_smart_terrain_3_5_name">
-		<text>Vertedero. Almacen de Trenes</text>
+		<text>Vertedero. Almac&#233;n de Trenes</text>
 	</string>
 	<string id="st_gar_smart_terrain_2_4_name">
 		<text>Vertedero. Escondite detr&#225;s de las Tuber&#237;as</text>
@@ -1235,7 +1235,7 @@
 		<text>CNPP Norte. Dep&#243;sito de la Central El&#233;ctrica</text>
 	</string>
 	<string id="st_aes2_monolith_camp4_name">
-		<text>CNPP Norte. Almacen en la Azotea</text>
+		<text>CNPP Norte. Almac&#233;n en la Azotea</text>
 	</string>
 
 

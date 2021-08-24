@@ -19,7 +19,7 @@
 		<text>Est&#225;s demasiado agotado para moverte.</text>
 	</string>
 	<string id="cant_walk_weight">
-		<text>Est&#225;s demasiado sobrecargado para moverte.</text>
+		<text>Est&#225;s demasiado cargado como para moverte.</text>
 	</string>
 	<string id="car_character_use">
 		<text>Abrir puerta ($$ACTION_USE$$)</text>
@@ -127,10 +127,10 @@
 		<text>Dormir</text>
 	</string>
 	<string id="sleep_warning_all_pleasures">
-		<text>&#161;No puedes dormir! Estas est&#225; sangrando peligrosamente y sufriendo de exposici&#243;n a la radiaci&#243;n. Usa drogas o contacta a un m&#233;dico.</text>
+		<text>&#161;No puedes dormir! Est&#225; sangrando peligrosamente y sufriendo de exposici&#243;n a la radiaci&#243;n. Usa drogas o contacta a un m&#233;dico.</text>
 	</string>
 	<string id="sleep_warning_bleeding">
-		<text>&#161;No puedes dormir! Estas est&#225; sangrando peligrosamente. Usa drogas o contacta a un m&#233;dico.</text>
+		<text>&#161;No puedes dormir! Est&#225; sangrando peligrosamente. Usa medicinas o contacta a un m&#233;dico.</text>
 	</string>
 	<string id="sleep_warning_radiation">
 		<text>&#161;No puedes dormir! Sufres de exposici&#243;n a la radiaci&#243;n. Usa drogas o contacta a un m&#233;dico.</text>
@@ -394,16 +394,16 @@
 		<text>&#161;La pelea ha comenzado!</text>
 	</string>
 	<string id="bar_arena_fight_bloodsucker">
-		<text>&#161;Atenci&#243;n! &#161;Atenci&#243;n! &#161;Una nueva pelea est&#225; a punto de comenzar en la Arena! En la esquina izquierda, la pesadilla m&#225;s temida de la Zona, &#161;el siempre hambriento Chupasangre! Y en la esquina derecha... &#191;Un humano? &#161;Si, es humano! &#161;Sus aplausos, por favor, para el stalker!</text>
+		<text>&#161;Atenci&#243;n! &#161;Atenci&#243;n! &#161;Una nueva pelea est&#225; a punto de comenzar en la Arena! En la esquina izquierda, la pesadilla m&#225;s temida de la Zona, &#161;el siempre hambriento Chupasangre! Y en la esquina derecha... &#191;Un humano? &#161;Si, es humano! &#161;Sus aplausos por favor, para el stalker!</text>
 	</string>
 	<string id="bar_arena_fight_burer">
 		<text>&#161;Atenci&#243;n! &#161;Atenci&#243;n! &#161;Una nueva pelea est&#225; a punto de comenzar en la Arena! En la esquina izquierda, el maestro de kung-fu que dobla la cuchara, el Quemador! &#161;Y en la esquina derecha - un stalker constantemente al acecho!</text>
 	</string>
 	<string id="bar_arena_fight_dead">
-		<text>As&#237; que, &#161;el retador ha sido asesinado! &#161;Ahora viene una sorpresa!</text>
+		<text>As&#237; que &#161;el retador ha sido asesinado! &#161;Ahora viene una sorpresa!</text>
 	</string>
 	<string id="bar_arena_fight_lose">
-		<text>Bueno, el retador mat&#243; a su oponente, pero no lo hizo a tiempo. &#161;Pierden la pelea!</text>
+		<text>Bueno, el retador mat&#243; a su oponente, pero no lo hizo a tiempo. &#161;Pierde la pelea!</text>
 	</string>
 	<string id="bar_arena_fight_pseudodog">
 		<text>&#161;Atenci&#243;n! &#161;Atenci&#243;n! Una nueva pelea est&#225; a punto de comenzar en la Arena. En la esquina izquierda, es blanco, es esponjoso y est&#225; muy enojado... El pseudoperro! Y en la esquina derecha - vino de la nada y ah&#237; es precisamente donde se dirige.</text>
@@ -472,7 +472,7 @@
 		<text>Las animaciones de los art&#237;culos est&#225;n activadas</text>
 	</string>
 	<string id="st_toggle_animation_off">
-		<text>Las nimaciones de los art&#237;culos est&#225;n desactivadas</text>
+		<text>Las animaciones de los art&#237;culos est&#225;n desactivadas</text>
 	</string>
 	
 	<!-- Disguise -->
@@ -610,7 +610,7 @@
 		<text>Ya est&#225;s en tu destino</text>
 	</string>
 	<string id="bp_to">
-		<text>Moviendote</text>
+		<text>Movi&#233;ndote</text>
 	</string>
 	<string id="bp_open">
 		<text>Abrir mochila</text>
@@ -702,7 +702,7 @@
 		<text>Necesitas un encendedor para iniciar un fuego</text>
 	</string>
 	<string id="st_camp_help">
-		<text>Encendido de fogata exitoso</text>
+		<text>Fogata encendida exitosamente</text>
 	</string>
 	<string id="st_fail">
 		<text>El encendido de la fogata no tuvo &#233;xito</text>
@@ -711,12 +711,12 @@
 		<text>S&#243;lo puedes guardar %s cerca de las fogatas.</text>
 	</string>
 	<string id="st_ui_campfire_prereq">
-		<text>Se necesitan Fosforos o un Kit iniciador de fuego para encender forgatas.</text>
+		<text>Se necesitan F&#243;sforos o un Kit iniciador de fuego para encender fogatas.</text>
 	</string>
 	
 <!-- Items -->
 	<string id="st_imm_smoke_fail">
-		<text>Necesitas cerillas para encender tu cigarro</text>
+		<text>Necesitas f&#243;sforos para encender tu cigarro</text>
 	</string>
 	<string id="st_imm_smoke_already_used">
 		<text>Ya tienes un efecto similar con mayor eficiencia</text>
@@ -743,10 +743,10 @@
 	
 <!-- Notes -->
 	<string id="st_recipe_is_known">
-		<text>Ya leiste esto</text>
+		<text>Ya le&#237;ste esto</text>
 	</string>
 	<string id="st_letter_is_known">
-		<text>Ya leiste esto</text>
+		<text>Ya le&#237;ste esto</text>
 	</string>
 	
 <!-- Hardcore Saving -->
@@ -824,7 +824,7 @@
 		<text>A-Ay&#250;da... me... Que alguien... me ayude...</text>
 	</string>
 	<string id="st_lttz_pripyat_stitch_message">
-		<text>&#161;Mierda, mierda, mierda! &#161;Me vendr&#237;a bien algo de ayuda aqu&#237;! &#161;&#191;Alguien?!</text>
+		<text>&#161;Mierda, mierda, mierda! &#161;Me vendr&#237;a bien algo de ayuda aqu&#237;! &#161;&#191;Hay alguien?!</text>
 	</string>
 	<string id="st_lttz_pripyat_degtyarev_message">
 		<text>Este es el coronel Alexander Alexandrovitsch Degtyarev de la SSU. Sabemos que est&#225;s ah&#237;, Strelok, y sabes por qu&#233; estamos aqu&#237;. Guarda las armas y sal lentamente, de uno en uno. Podemos hacer esto sin recurrir a la violencia si cumples.</text>

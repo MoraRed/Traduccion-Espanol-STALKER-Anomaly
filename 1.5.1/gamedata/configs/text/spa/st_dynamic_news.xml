@@ -2670,7 +2670,7 @@
 		<text>hora</text>
 	</string>
 	<string id="st_dyn_news_day">
-		<text>dia</text>
+		<text>d&#237;a</text>
 	</string>
 	<string id="st_dyn_news_few_week">
 		<text>semana</text>
@@ -2690,7 +2690,7 @@
 		<text>ma&#241;ana</text>
 	</string>
 	<string id="st_dyn_news_few_days">
-		<text>en unos dias</text>
+		<text>en unos d&#237;as</text>
 	</string>
 
 	<!-- Time phase -->
@@ -2698,7 +2698,7 @@
 		<text>temprano</text>
 	</string>
 	<string id="st_dyn_news_noon">
-		<text>medio dia</text>
+		<text>medio d&#237;a</text>
 	</string>
 	<string id="st_dyn_news_afternoon">
 		<text>tarde</text>
@@ -2911,7 +2911,7 @@
 		<text>&#161;&#191;Pero que cojones?!</text>
 	</string>
 	<string id="st_dyn_news_res_death_stalker_32">
-		<text>Estuvimos tomandonos un trago el otro dia, que pena..</text>
+		<text>Estuvimos tomandonos un trago el otro d&#237;a, que pena..</text>
 	</string>
 	<string id="st_dyn_news_res_death_stalker_33">
 		<text>Ya empezamos...</text>
@@ -3012,7 +3012,7 @@
 		<text>&#161;&#191;Pero que cojones?!</text>
 	</string>
 	<string id="st_dyn_news_res_death_mutant_32">
-		<text>Estuvimos tomandonos un trago el otro dia, que pena..</text>
+		<text>Estuvimos tomandonos un trago el otro d&#237;a, que pena..</text>
 	</string>
 
 	<!-- Response fake - death by stalker -->
@@ -3041,7 +3041,7 @@
 		<text>Sip...</text>
 	</string>
 	<string id="st_dyn_news_res_fake_death_stalker_9">
-		<text>Egh, no seria un dia cualquiera en la Zona sin un fallecimiento...</text>
+		<text>Egh, no seria un d&#237;a cualquiera en la Zona sin un fallecimiento...</text>
 	</string>
 	<string id="st_dyn_news_res_fake_death_stalker_10">
 		<text>Pues, uno m&#225;s...</text>
@@ -3107,7 +3107,7 @@
 		<text>&#161;El tipo esta muerto!</text>
 	</string>
 	<string id="st_dyn_news_res_fake_death_stalker_31">
-		<text>Otro dia, la misma mierda...</text>
+		<text>Otro d&#237;a, la misma mierda...</text>
 	</string>
 	<string id="st_dyn_news_res_fake_death_stalker_32">
 		<text>&#161;Joder! Y pense que tenia todo resuelto...</text>
@@ -6983,7 +6983,7 @@
 		<text>Los guardias militares ucranianos no pudieron evitar que los stalkers se abrieran paso, despu&#233;s de todo.</text>
 	</string>
 	<string id="st_dyn_news_companion_level_l01_escape_4">
-		<text>C&#243;mo le va en estos dias a ese viejo culo gordo... Todav&#237;a estafando a la gente, supongo.</text>
+		<text>C&#243;mo le va en estos d&#237;as a ese viejo culo gordo... Todav&#237;a estafando a la gente, supongo.</text>
 	</string>
 	<string id="st_dyn_news_companion_level_l01_escape_5">
 		<text>Los stalkers vieron una vez chupasangres cerca de los t&#250;neles. No es seguro, ni siquiera aqu&#237;.</text>

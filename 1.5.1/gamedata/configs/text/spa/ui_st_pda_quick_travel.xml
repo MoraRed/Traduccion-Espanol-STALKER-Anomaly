@@ -8,13 +8,13 @@
 		<text>Pantano</text>
 	</string>
 	<string id="agr_smart_terrain_1_6">
-		<text>Instituto de Investigacion</text>
+		<text>Instituto de Investigaci&#243;n</text>
 	</string>
 	<string id="agr_smart_terrain_4_4">
 		<text>Fabrica</text>
 	</string>
 	<string id="agr_smart_terrain_6_4">
-		<text>Campamento en el Tunel</text>
+		<text>Campamento en el T&#250;nel</text>
 	</string>
 
 	<string id="mil_smart_terrain_2_2">
@@ -68,7 +68,7 @@
 		<text>Puente Ferrocarril</text>
 	</string>
 	<string id="esc_smart_terrain_7_11">
-		<text>Estacion de Vehiculos</text>
+		<text>Estacion de Veh&#237;culos</text>
 	</string>
 
 	<string id="ds2_lager_st">
@@ -269,7 +269,7 @@
 	</string>
 
 	<string id="ros_smart_poltergeist2">
-		<text>Almacen de Trenes</text>
+		<text>Almac&#233;n de Trenes</text>
 	</string>
 	<string id="ros_smart_stalker_killers1">
 		<text>Campamento Mercenario</text>

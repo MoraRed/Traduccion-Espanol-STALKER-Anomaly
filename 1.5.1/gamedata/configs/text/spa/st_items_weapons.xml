@@ -212,25 +212,25 @@
 		<text>AKS-74UN (personalizado)</text>
 	</string>
 	<string id="st_wpn_ak74u_descr">
-		<text>El AKS-74U estaba destinado a ser utilizado principalmente por unidades Spetsnaz, infanteria aerotransportada, unidades de apoyo de escalones traseros y tripulaciones de vehiculos blindados, que requieren un arma automatica individual compacta pero relativamente poderosa. El AKS-74U es significativamente m&#225;s maniobrable en espacios reducidos que el AKS-74, pero una disminucion significativa en la velocidad del salida resulto en una disminucion en el rango efectivo. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_purple] • %c[ui_gray_2] Supresor PBS-4 \n </text>
+		<text>El AKS-74U estaba destinado a ser utilizado principalmente por unidades Spetsnaz, infanteria aerotransportada, unidades de apoyo de escalones traseros y tripulaciones de veh&#237;culos blindados, que requieren un arma automatica individual compacta pero relativamente poderosa. El AKS-74U es significativamente m&#225;s maniobrable en espacios reducidos que el AKS-74, pero una disminucion significativa en la velocidad del salida resulto en una disminucion en el rango efectivo. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_purple] • %c[ui_gray_2] Supresor PBS-4 \n </text>
 	</string>
 	<string id="st_wpn_ak74u_old">
 		<text>AKS-74U</text>
 	</string>
 	<string id="st_wpn_ak74u_old_descr">
-		<text>El AKS-74U estaba destinado a ser utilizado principalmente por unidades Spetsnaz, infanteria aerotransportada, unidades de apoyo de escalones traseros y tripulaciones de vehiculos blindados, que requieren un arma automatica individual compacta pero relativamente poderosa. El AKS-74U es significativamente m&#225;s maniobrable en espacios reducidos que el AKS-74, pero una disminucion significativa en la velocidad de salida resulto en una disminuci&#243;n en el rango efectivo. Este modelo parece ser muy antiguo.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple]  • %c[d_red] Sin mira debido a la ausencia de un montaje en cola de milano\n%c[d_purple] • %c[ui_gray_2] Supresor PBS-4\n</text>
+		<text>El AKS-74U estaba destinado a ser utilizado principalmente por unidades Spetsnaz, infanteria aerotransportada, unidades de apoyo de escalones traseros y tripulaciones de veh&#237;culos blindados, que requieren un arma automatica individual compacta pero relativamente poderosa. El AKS-74U es significativamente m&#225;s maniobrable en espacios reducidos que el AKS-74, pero una disminucion significativa en la velocidad de salida resulto en una disminuci&#243;n en el rango efectivo. Este modelo parece ser muy antiguo.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple]  • %c[d_red] Sin mira debido a la ausencia de un montaje en cola de milano\n%c[d_purple] • %c[ui_gray_2] Supresor PBS-4\n</text>
 	</string>
 	<string id="st_wpn_ak74u_rusty">
 		<text>AKS-74UN (oxidado)</text>
 	</string>
 	<string id="st_wpn_ak74u_rusty_descr">
-		<text>El AKS-74U estaba destinado a ser utilizado principalmente por unidades Spetsnaz, infanteria aerotransportada, unidades de apoyo de escalones traseros y tripulaciones de vehiculos blindados, que requieren un arma automatica individual compacta pero relativamente poderosa. El AKS-74U es significativamente m&#225;s maniobrable en espacios reducidos que el AKS-74, pero una disminucion significativa en la velocidad de salida resulto en una disminuci&#243;n en el rango efectivo. Este modelo tiene oxido visible.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_red] • %c[d_red] Imposible montar un supresor\n</text>
+		<text>El AKS-74U estaba destinado a ser utilizado principalmente por unidades Spetsnaz, infanteria aerotransportada, unidades de apoyo de escalones traseros y tripulaciones de veh&#237;culos blindados, que requieren un arma automatica individual compacta pero relativamente poderosa. El AKS-74U es significativamente m&#225;s maniobrable en espacios reducidos que el AKS-74, pero una disminucion significativa en la velocidad de salida resulto en una disminuci&#243;n en el rango efectivo. Este modelo tiene oxido visible.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_red] • %c[d_red] Imposible montar un supresor\n</text>
 	</string>
 	<string id="st_wpn_ak74u_snag">
 		<text>AKS-74UNB (personalizado)</text>
 	</string>
 	<string id="st_wpn_ak74u_snag_descr">
-		<text>El AKS-74U estaba destinado a ser utilizado principalmente por unidades Spetsnaz, infanteria aerotransportada, unidades de apoyo y tripulaciones de vehiculos blindados, que requieren un arma automatica individual compacta pero relativamente poderosa. El AKS-74U es significativamente m&#225;s maniobrable en espacios reducidos que el AKS-74, pero una disminucion significativa en la velocidad de salida result&#243; en una disminucion en el rango efectivo. Esta variante especial tiene una cargador RPK de 45 rondas, una mira Kobra integrada y un supresor integrado. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Mira EKP-1S-03 Kobra (integrada) \n%c[d_purple] • %c[ui_gray_2] Supresor PBS-4 (integrado)\n</text>
+		<text>El AKS-74U estaba destinado a ser utilizado principalmente por unidades Spetsnaz, infanteria aerotransportada, unidades de apoyo y tripulaciones de veh&#237;culos blindados, que requieren un arma automatica individual compacta pero relativamente poderosa. El AKS-74U es significativamente m&#225;s maniobrable en espacios reducidos que el AKS-74, pero una disminucion significativa en la velocidad de salida result&#243; en una disminucion en el rango efectivo. Esta variante especial tiene una cargador RPK de 45 rondas, una mira Kobra integrada y un supresor integrado. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Mira EKP-1S-03 Kobra (integrada) \n%c[d_purple] • %c[ui_gray_2] Supresor PBS-4 (integrado)\n</text>
 	</string>
 	<string id="st_wpn_ak74u_worn">
 		<text>AKS-74UN (desgastado)</text>
@@ -263,7 +263,7 @@
 		<text>AKS-47</text>
 	</string>
 	<string id="st_wpn_aks_descr">
-		<text>Una variante del AK-47, equipada con una culata de metal debajo del hombro plegable en lugar de la culata de madera fija. Fue dise&#241;ado para su uso dentro de vehiculos blindados y paracaidistas. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor PBS-1 \n%c[d_purple]  • %c[d_red] Sin mira debido a la ausencia de un montaje en cola de milano\n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despues de modificarse)\n </text>
+		<text>Una variante del AK-47, equipada con una culata de metal debajo del hombro plegable en lugar de la culata de madera fija. Fue dise&#241;ado para su uso dentro de veh&#237;culos blindados y paracaidistas. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor PBS-1 \n%c[d_purple]  • %c[d_red] Sin mira debido a la ausencia de un montaje en cola de milano\n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despues de modificarse)\n </text>
 	</string>
 	<string id="st_wpn_aks74">
 		<text>AKS-74N</text>
@@ -399,25 +399,25 @@
 		<text>Colt M1911 (camuflado)</text>
 	</string>
 	<string id="st_wpn_colt1911_camo_descr">
-		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Este es un modelo &#250;nico con manchas rojas en color beige oscuro.\n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] .45 Supresor ACP (despues de modificarse)\n</text>
+		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros d&#237;as. Este es un modelo &#250;nico con manchas rojas en color beige oscuro.\n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] .45 Supresor ACP (despues de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_colt1911_custom">
 		<text>Colt M1911 (personalizado)</text>
 	</string>
 	<string id="st_wpn_colt1911_descr">
-		<text>El M1911 el arma corta estandar del ejercito de los EE. UU. Desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta el dia de hoy. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor .45 ACP (despues de modificarse)\n</text>
+		<text>El M1911 el arma corta estandar del ejercito de los EE. UU. Desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta el d&#237;a de hoy. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor .45 ACP (despues de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_colt1911_duty">
 		<text>Colt M1911 (camuflaje Deber)</text>
 	</string>
 	<string id="st_wpn_colt1911_duty_descr">
-		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Esta variante tiene una caracteristica distintiva: es m&#225;s potente que la normal. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] .45 Supresor ACP (despues de modificarse)\n</text>
+		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros d&#237;as. Esta variante tiene una caracteristica distintiva: es m&#225;s potente que la normal. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] .45 Supresor ACP (despues de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_colt1911_merc">
 		<text>Colt M1911 (camuflaje Mercenario)</text>
 	</string>
 	<string id="st_wpn_colt1911_merc_descr">
-		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Este modelo es considerablemente m&#225;s confiable y preciso. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor .45 ACP (despues de modificarse)\n</text>
+		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros d&#237;as. Este modelo es considerablemente m&#225;s confiable y preciso. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor .45 ACP (despues de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_colt1911_modern">
 		<text>Colt M1911 (moderno)</text>
@@ -429,7 +429,7 @@
 		<text>Colt M1911 (oxidado)</text>
 	</string>
 	<string id="st_wpn_colt1911_rusty_descr">
-		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros dias. Este modelo tiene oxido por todas partes, lo que probablemente aumentara la probabilidad de que se atasque. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple]  • %c[d_red] Imposible montar un supresor.\n</text>
+		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros d&#237;as. Este modelo tiene oxido por todas partes, lo que probablemente aumentara la probabilidad de que se atasque. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple]  • %c[d_red] Imposible montar un supresor.\n</text>
 	</string>
 	<string id="st_wpn_colt1911_worn">
 		<text>Colt M1911 (desgastado)</text>
@@ -1147,7 +1147,7 @@
 		<text>RPK</text>
 	</string>
 	<string id="st_wpn_rpk_descr">
-		<text>La RPK es una ametralladora ligera sovietica, desarrollada por Mikhail Kalashnikov en 1961, basada en el rifle de asalto Kalashnikov. Creada como parte de los esfuerzos sovieticos para estandarizar el arsenal del Ejercito Rojo, el RPK reemplaz&#243; al RPD y todavia esta en uso en nuestros dias.\n</text>
+		<text>La RPK es una ametralladora ligera sovietica, desarrollada por Mikhail Kalashnikov en 1961, basada en el rifle de asalto Kalashnikov. Creada como parte de los esfuerzos sovieticos para estandarizar el arsenal del Ejercito Rojo, el RPK reemplaz&#243; al RPD y todavia esta en uso en nuestros d&#237;as.\n</text>
 	</string>
 	<string id="st_wpn_rpk_worn">
 		<text>RPK (desgastado)</text>
@@ -1729,7 +1729,7 @@
 		<text>M60</text>
 	</string>
 	<string id="st_wpn_m60_descr">
-		<text>La M60, oficialmente la ametralladora de los Estados Unidos, calibre 7.62mm. La M60, es una familia de ametralladoras estadounidenses de uso general que disparan cartuchos de la OTAN de 7.62 a 51mm desde un cinturon desintegrador de enlaces M13. Existen varios tipos de municiones aprobadas para su uso en el M60, que incluyen bolas, trazadores y rondas perforantes.\n</text>
+		<text>La M60, oficialmente la ametralladora de los Estados Unidos, calibre 7.62mm. La M60, es una familia de ametralladoras estadounidenses de uso general que disparan cartuchos de la OTAN de 7.62 a 51mm desde un cintur&#243;n desintegrador de enlaces M13. Existen varios tipos de municiones aprobadas para su uso en el M60, que incluyen bolas, trazadores y rondas perforantes.\n</text>
 	</string>
 	
 	<string id="st_wpn_mp7">

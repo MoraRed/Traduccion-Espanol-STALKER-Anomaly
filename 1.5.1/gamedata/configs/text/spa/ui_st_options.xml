@@ -126,7 +126,7 @@
 				<text>Zombificado</text>
 			</string>
 		<string id="ui_mm_menu_dynamic_news">
-			<text>Noticias dinamicas</text>
+			<text>Noticias din&#225;micas</text>
 		</string>
 
 <!-- Buttons -->
@@ -333,7 +333,7 @@
 		<text>Limitador FPS</text>
 	</string>
 	<string id="ui_mm_video_advanced_framelimit_desc">
-		<text>Este deslizador permite personalizar el capado de FPS. "0" significa que no hay limite.</text>
+		<text>Este deslizador permite personalizar el limite de FPS. "0" significa que no hay limite.</text>
 	</string>
 	
 	<string id="ui_mm_header_rendering_dist">
@@ -409,7 +409,7 @@
 		<text>Tama&#241;o de la vegetaci&#243;n</text>
 	</string>
 	<string id="ui_mm_video_advanced_grass_shadow">
-		<text>Sombras de la vegetacion</text>
+		<text>Sombras de la vegetaci&#243;n</text>
 	</string>
 	<string id="ui_mm_video_advanced_sun_details">
 		<text>Sombra de hierba</text>
@@ -470,10 +470,10 @@
 		<text>Efectos</text>
 	</string>
 	<string id="ui_mm_video_advanced_soft_water">
-		<text>Suavisado de agua</text>
+		<text>Suavizado de agua</text>
 	</string>
 	<string id="ui_mm_video_advanced_soft_particles">
-		<text>Suavisado de particulas</text>
+		<text>Suavizado de particulas</text>
 	</string>
 	<string id="ui_mm_video_advanced_dof_enable">
 		<text>Profundidad de campo</text>
@@ -532,16 +532,16 @@
 		<text>Mostrar HUD</text>
 	</string>
 	<string id="ui_mm_video_hud_show_slots">
-		<text>Mostrar artefactos en cinturon </text>
+		<text>Mostrar artefactos en cintur&#243;n </text>
 	</string>
 	<string id="ui_mm_video_hud_show_minimap">
-		<text>Mostar Minimapa</text>
+		<text>Mostrar Minimapa</text>
 	</string>
 	<string id="ui_mm_video_hud_show_enemy_health">
 		<text>Mostrar salud del enemigo</text>
 	</string>
 	<string id="ui_mm_video_hud_show_identity">
-		<text>Mostar identificaci&#243;n del NPC  </text>
+		<text>Mostrar identificaci&#243;n del NPC  </text>
 	</string>
 	<string id="ui_mm_video_hud_autohide_stamina_bar">
 		<text>Auto-ocultar barra de resistencia</text>
@@ -667,7 +667,7 @@
 		<text>Noches muy brillantes</text>
 	</string>
 	<string id="ui_mm_lst_8days">
-		<text>8 dias</text>
+		<text>8 d&#237;as</text>
 	</string>
 	<string id="ui_mm_lst_28days">
 		<text>28 d&#237;as</text>
@@ -1395,7 +1395,7 @@
 		</text>
 	</string>
 	<string id="ui_mm_alife_general_dynamic_anomalies">
-		<text>Anomalias Dinamicas</text>
+		<text>Anomalias Din&#225;micas</text>
 	</string>
 	<string id="ui_mm_alife_general_dynamic_anomalies_desc">
 		<text>Cuando se habilita, las emisiones puede resultar en la creaci&#243;n de anomal&#237;as alrededor de la Zona. \nLas anomal&#237;as pueden aparecer o desaparecer en toda la Zona despu&#233;s de cada evento de emisi&#243;n.</text>

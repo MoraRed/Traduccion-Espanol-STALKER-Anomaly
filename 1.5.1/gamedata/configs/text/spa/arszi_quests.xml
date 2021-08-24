@@ -35,7 +35,7 @@
 		<text>Hay una criatura que habita en lo m&#225;s profundo del coraz&#243;n de la Zona. Es una criatura bastante rara y no muchos stalkers sobreviven a un encuentro con ella. Su aullido te hiela la sangre y sus ojos ven tu mente y alma. Esta criatura le llaman 'perro ps&#237;quico', una criatura de belleza y muerte con un pelaje plateado &#250;nico. El pelaje m&#225;s fino que muchos cazadores anhelan. Tr&#225;eme una piel de uno, cazador.</text>
 	</string>
 	<string id="igi_task_text_hunter_gar_trader_task_arszi_fetch_psy_dog_fur_finish">
-		<text>&#191;La tienes? S&#237;. Una de las mejores pieles que he visto en mi vida. Aqu&#237; est&#225; tu pago, cazador, y algo m&#225;s, que encontr&#233; estos dias y no le tengo mucho uso.</text>
+		<text>&#191;La tienes? S&#237;. Una de las mejores pieles que he visto en mi vida. Aqu&#237; est&#225; tu pago, cazador, y algo m&#225;s, que encontr&#233; estos d&#237;as y no le tengo mucho uso.</text>
 	</string>
 	<!-- hunter_gar_trader_task_arszi_fetch_beak -->
 	<string id="igi_task_text_hunter_gar_trader_task_arszi_fetch_beak_title">
@@ -74,7 +74,7 @@
 		<text>En aquel entonces los humanos tem&#237;an a los animales, y luego los animales tem&#237;an a los humanos. Pero todo cambi&#243; de nuevo, cuando apareci&#243; la Zona... En la Zona no hay cazadores y presas, sino s&#243;lo cazadores. Hoy eres el cazador, ma&#241;ana puedes ser el cazado. Hay una criatura, el cazador definitivo, la Quimera. El pin&#225;culo de la evoluci&#243;n. &#191;Eres lo suficientemente valiente para enfrentarte a la prueba definitiva como cazador? Si la respuesta es s&#237;, entonces caza una Quimera, y tr&#225;eme un trofeo. &#161;Esperar&#233; tu regreso!</text>
 	</string>
 	<string id="igi_task_text_hunter_gar_trader_task_arszi_fetch_chimera_finish">
-		<text>&#161;El mejor trofeo que me has tra&#237;do! Aqu&#237; est&#225; tu recompensa, maestro cazador, y algo m&#225;s que encontr&#233; hace dias, no me sirve de mucho. &#161;Te lo has ganado!</text>
+		<text>&#161;El mejor trofeo que me has tra&#237;do! Aqu&#237; est&#225; tu recompensa, maestro cazador, y algo m&#225;s que encontr&#233; hace d&#237;as, no me sirve de mucho. &#161;Te lo has ganado!</text>
 	</string>
 <!-- Fanatic -->
 <!-- esc_2_12_stalker_fanat_task_meat -->
@@ -155,6 +155,6 @@
 		<text>En la Zona existen animales mutados, que pueden considerarse depredadores de la c&#250;spide. S&#243;lo muy pocos stalkers sobreviven a los encuentros con ellos, lo que los convierte en espec&#237;menes muy raros para nosotros. Los rumores dicen que algunos de ellos pueden incluso sobrevivir a las condiciones m&#225;s duras, como la alta radiaci&#243;n o el contacto con las anomal&#237;as. Quiero probar cient&#237;ficamente, si estos rumores son ciertos o no. Muchas cosas son posibles en la Zona, que incluso yo hubiera considerado poco cient&#237;ficas en su momento... Ser&#225; una misi&#243;n peligrosa. Trae algunas muestras, &#161;ser&#225;s bien recompensado, stalker!</text>
 	</string>
 	<string id="igi_task_text_yan_stalker_sakharov_task_arszi_fetch_monster_rare_finish">
-		<text>Pocas veces podemos trabajar con ejemplares excelentes como &#233;stos. Guardan tantos secretos para ser descubiertos! Aqu&#237; est&#225; su recompensa.</text>
+		<text>Pocas veces podemos trabajar con ejemplares excelentes como &#233;stos. &#161;Guardan tantos secretos por ser descubiertos! Aqu&#237; est&#225; su recompensa.</text>
 	</string>
 </string_table>

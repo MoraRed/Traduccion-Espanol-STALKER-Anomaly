@@ -101,7 +101,7 @@
 	</string>
 
 	<string id="item_doc_x16_desc">
-		<text>Los documentos se refieren a uno de los descubrimientos secundarios de la bioinvestigacion, especificamente el descubrimiento de que las criaturas vivientes pueden generar emisiones psiquicas dirigidas. Como parte de la investigacion realizada en el laboratorio X-16, se cultivo un emisor de campo biologico, esencialmente un cerebro gigante.</text>
+		<text>Los documentos se refieren a uno de los descubrimientos secundarios de la bioinvestigacion, especificamente el descubrimiento de que las criaturas vivientes pueden generar emisiones psiquicas dirigidas. Como parte de la investigaci&#243;n realizada en el laboratorio X-16, se cultivo un emisor de campo biologico, esencialmente un cerebro gigante.</text>
 	</string>
 	<string id="item_doc_x16_name">
 		<text>Documentos de investigaci&#243;n ps&#237;quica</text>
@@ -115,7 +115,7 @@
 	</string>
 
 	<string id="item_doc_x8_desc">
-		<text>El documento se refiere a la transferencia del equipo de investigacion y todos los materiales a otro laboratorio en el norte, que se utilizara para investigar asuntos relacionados con la influencia de la noosfera. Para entrar al laboratorio, usa la fecha del accidente como el codigo (ddmmaaaa).\n \nEl equipo de investigacion estuvo compuesto por: N.A. Lebedev, E.F. Kalancha and V.I. Suslov.</text>
+		<text>El documento se refiere a la transferencia del equipo de investigaci&#243;n y todos los materiales a otro laboratorio en el norte, que se utilizara para investigar asuntos relacionados con la influencia de la noosfera. Para entrar al laboratorio, usa la fecha del accidente como el codigo (ddmmaaaa).\n \nEl equipo de investigaci&#243;n estuvo compuesto por: N.A. Lebedev, E.F. Kalancha and V.I. Suslov.</text>
 	</string>
 	<string id="item_doc_x8_name">
 		<text>Orden de transferencia</text>
@@ -184,7 +184,7 @@
 	</string>
 	
 	<string id="drx_x16_documents_name">
-		<text>Investigacion biologica</text>
+		<text>Investigaci&#243;n biologica</text>
 	</string>
 	<string id="drx_x16_documents_desc">
 		<text>Un conjunto de documentos antiguos que se refieren a experimentos realizados en ratas y otros animales.</text>

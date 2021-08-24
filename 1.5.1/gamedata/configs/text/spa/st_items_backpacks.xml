@@ -25,7 +25,7 @@
 		<text>Mochila de viaje</text>
 	</string>
 	<string id="st_equ_smilpack_desc">
-		<text>Una mochila grande para viajes largos. Gracias al sistema de distribucion de peso, permite al portador llevar suficientes provisiones para un viaje de hasta 5 dias.\n \n %c[ui_gray_1]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] articulo de uso diario\n %c[d_blue] • %c[ui_gray_2] almacenamiento de articulos\n %c[0,100,255,150] • %c[ui_gray_2] utilizable como alijo\n
+		<text>Una mochila grande para viajes largos. Gracias al sistema de distribucion de peso, permite al portador llevar suficientes provisiones para un viaje de hasta 5 d&#237;as.\n \n %c[ui_gray_1]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] articulo de uso diario\n %c[d_blue] • %c[ui_gray_2] almacenamiento de articulos\n %c[0,100,255,150] • %c[ui_gray_2] utilizable como alijo\n
 		</text>
 	</string>
 	

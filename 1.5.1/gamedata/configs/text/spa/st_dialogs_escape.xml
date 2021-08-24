@@ -69,7 +69,7 @@
 	</string>
 	
 	<string id="wolf_st_1">
-		<text>Soy el jefe. Muchos aventureros aspirantes vienen aqu&#237; con cestas de mimbre y mantas como para un picnic, y, por supuesto, la Zona se los traga enteros. Malditos crios y hippies. Mi trabajo es asegurarme de que no se conviertan en almuerzo para los mutante al primer dia en este maravilloso lugar. No es facil, &#191;sabes? Incluso con Fanatico ayudandome con los novatos... He pasado una buena parte de mi vida en la Zona. Trabaj&#233; con el legendario Strelok hace tiempo. He viajado mucho, incluso he intentado irme un par de veces, pero siempre habia algo que me detenia: una incursion militar, otra emision o un trabajo rentable... Asi que, aqu&#237; estoy, todavia cuidando a los novatos.</text>
+		<text>Soy el jefe. Muchos aventureros aspirantes vienen aqu&#237; con cestas de mimbre y mantas como para un picnic, y, por supuesto, la Zona se los traga enteros. Malditos crios y hippies. Mi trabajo es asegurarme de que no se conviertan en almuerzo para los mutante al primer d&#237;a en este maravilloso lugar. No es facil, &#191;sabes? Incluso con Fanatico ayudandome con los novatos... He pasado una buena parte de mi vida en la Zona. Trabaj&#233; con el legendario Strelok hace tiempo. He viajado mucho, incluso he intentado irme un par de veces, pero siempre habia algo que me detenia: una incursion militar, otra emision o un trabajo rentable... Asi que, aqu&#237; estoy, todavia cuidando a los novatos.</text>
 	</string>
 	
 <!-- Fanatic -->
@@ -145,7 +145,7 @@
 		<text>&#161;Ey, he conseguido el artefacto!</text>
 	</string>
 	<string id="fanat_training_artefact_taken_2">
-		<text>Mirate... Algun dia seras un stalker experimentado. Volvamos al campamento, continuaremos tu entrenamiento all&#237;.</text>
+		<text>Mirate... Algun d&#237;a seras un stalker experimentado. Volvamos al campamento, continuaremos tu entrenamiento all&#237;.</text>
 	</string>
 
 	<string id="fanat_training_back_to_village_1">

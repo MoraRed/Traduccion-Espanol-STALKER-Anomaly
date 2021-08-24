@@ -716,7 +716,7 @@
 		<text>Cruz de madera</text>
 	</string>
 	<string id="st_mar_treasure_14_descr">
-		<text>Guard&#233; algo por si tengo uno de esos dias lluviosos. Est&#225; en la tumba con la &#250;nica cruz de madera en el cementerio de la iglesia.</text>
+		<text>Guard&#233; algo por si tengo uno de esos d&#237;as lluviosos. Est&#225; en la tumba con la &#250;nica cruz de madera en el cementerio de la iglesia.</text>
 	</string>
 	<string id="st_mar_treasure_13_name">
 		<text>Pila de madera de la iglesia</text>
@@ -1190,7 +1190,7 @@
 		<text>No lejos del pantano, tir&#233; mi mochila por una tuber&#237;a, bajo un joven abeto.</text>
 	</string>
 	<string id="st_esc_treasure_weapon_prisoner_descr">
-		<text>Una peque&#241;a caja fuerte est&#225; escondida en el tubo de hormig&#243;n. Tiene algunas cosas que guard&#233; para, ya sabes, esos "dias lluviosos".</text>
+		<text>Una peque&#241;a caja fuerte est&#225; escondida en el tubo de hormig&#243;n. Tiene algunas cosas que guard&#233; para, ya sabes, esos "d&#237;as lluviosos".</text>
 	</string>
 	<string id="st_esc_treasure_weapon_prisoner_name">
 		<text>Alijo del Mayor Khaletskiy</text>
@@ -2197,7 +2197,7 @@
 		<text>Vi c&#243;mo un bandido escond&#237;a sus bienes en un cofre del hangar. &#191;C&#243;mo puedo robarmelo sin que se enteren?</text>
 	</string>
 	<string id="st_gar_smart_terrain_3_5_box_name">
-		<text>Almacen de bandidos</text>
+		<text>Almac&#233;n de bandidos</text>
 	</string>
 	<string id="st_gar_smart_terrain_3_7_box_descr">
 		<text>El jefe de comunicaciones nos pas&#243; un mensaje: retirada. Encontr&#233; un cofre, tir&#233; lo que llevaba encima y me retir&#233; con las manos vac&#237;as.</text>
@@ -2386,7 +2386,7 @@
 		<text>Cofre en un lugar seguro</text>
 	</string>
 	<string id="st_l06_rostok_inventory_box_0024_descr">
-		<text>Mi mochila est&#225; justo debajo del techo. Est&#225; ah&#237; por si llega algun "dia lluvioso".</text>
+		<text>Mi mochila est&#225; justo debajo del techo. Est&#225; ah&#237; por si llega algun "d&#237;a lluvioso".</text>
 	</string>
 	<string id="st_l06_rostok_inventory_box_0024_name">
 		<text>Alijo de stalker</text>

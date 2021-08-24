@@ -203,7 +203,7 @@
 		<text>24 horas es todo lo que necesito %c[d_orange][%s RU].</text>
 	</string>
 	<string id="st_paid_companion_dialog_text_4">
-		<text>Bien, dos dias %c[d_orange][%s RU].</text>
+		<text>Bien, dos d&#237;as %c[d_orange][%s RU].</text>
 	</string>
 	<string id="st_paid_companion_dialog_text_5">
 		<text>En realidad... Cambi&#233; de opini&#243;n.</text>
@@ -332,7 +332,7 @@
 		<text>Le caus&#233; una mala impresi&#243;n a Cielo Despejado y quiero demostrar que no tengo intenci&#243;n de hacerles da&#241;o.</text>
 	</string>
 	<string id="st_bribe_text_41">
-		<text>No puedo imaginar lo que hiciste para hacer enojar a los habitantes del pantano. En cualquier caso, 5000 RU deber&#237;an ser suficientes para ponerlos en un estado de &#225;nimo m&#225;s, "indulgente", por un d&#237;a o dos; mientras que 10.000 RU deber&#237;an hacer que se relajen un poco m&#225;s, por unos cuatro dias.</text>
+		<text>No puedo imaginar lo que hiciste para hacer enojar a los habitantes del pantano. En cualquier caso, 5000 RU deber&#237;an ser suficientes para ponerlos en un estado de &#225;nimo m&#225;s, "indulgente", por un d&#237;a o dos; mientras que 10.000 RU deber&#237;an hacer que se relajen un poco m&#225;s, por unos cuatro d&#237;as.</text>
 	</string>
 	
 	<string id="st_bribe_text_5">
