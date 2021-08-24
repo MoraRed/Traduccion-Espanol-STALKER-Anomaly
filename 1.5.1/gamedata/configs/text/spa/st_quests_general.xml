@@ -1699,6 +1699,6 @@
 	<string id="st_multifetch_1"><text>Se me ha encomendado encontrar los siguientes art&#237;culos:</text></string>
 	<string id="st_multifetch_2"><text>, los art&#237;culos deber tener mas de %s% de condici&#243;n</text></string>
 	<string id="st_multifetch_3"><text>Tambi&#233;n se le pagar&#225; por encontrar estos art&#237;culos extras:</text></string>
-	<string id="st_multifetch_4"><text>Articulos que encontrar:</text></string>
+	<string id="st_multifetch_4"><text>Art&#237;culos que encontrar:</text></string>
 
 </string_table>

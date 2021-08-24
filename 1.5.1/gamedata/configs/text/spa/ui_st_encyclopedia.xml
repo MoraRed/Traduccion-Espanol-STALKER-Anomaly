@@ -25,7 +25,7 @@
 	
 	<!-- Messages -->
 	<string id="pda_encyclopedia_notify">
-		<text>Articulo desbloqueado: %s, %s</text>
+		<text>Art&#237;culo desbloqueado: %s, %s</text>
 	</string>
 	<string id="pda_encyclopedia_notify_note">
 		<text>Nuevo apunte: %s</text>
@@ -75,7 +75,7 @@
 	
 	<string id="pda_encyclopedia_locked_text">
 		<text>
-			Aun no has desbloqueado este articulo.\n \nLos art&#237;culos se pueden desbloquear de la siguiente manera:\n \n• Descubriendo lugares por primera vez. \n• Descargar datos de tarjetas de memoria. \n• Descuartizar mutantes para obtener piezas y carne. \n• Hablar e interactuar con stalkers. \n• Usar objetos y equipar armaduras de facci&#243;n.
+			Aun no has desbloqueado este art&#237;culo.\n \nLos art&#237;culos se pueden desbloquear de la siguiente manera:\n \n• Descubriendo lugares por primera vez. \n• Descargar datos de tarjetas de memoria. \n• Descuartizar mutantes para obtener piezas y carne. \n• Hablar e interactuar con stalkers. \n• Usar objetos y equipar armaduras de facci&#243;n.
 		</text>
 	</string>
 	

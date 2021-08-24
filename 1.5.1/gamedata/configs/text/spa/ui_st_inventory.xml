@@ -2,7 +2,7 @@
 <string_table>
 	<!-- Sorter -->
 	<string id="ui_st_tab_all">
-		<text>Todos los Articulos (1)</text>
+		<text>Todos los Art&#237;culos (1)</text>
 	</string>
 	<string id="ui_st_tab_weapons">
 		<text>Armas y Acoplables (2)</text>
@@ -17,7 +17,7 @@
 		<text>Artefactos y Partes Mutantes (5)</text>
 	</string>
 	<string id="ui_st_tab_tools">
-		<text>Dispositivos, Herramientas y Reparar Articulos (6)</text>
+		<text>Dispositivos, Herramientas y Reparar Art&#237;culos (6)</text>
 	</string>
 	<string id="ui_st_tab_consumables">
 		<text>Medicina y Consumibles (7)</text>
@@ -66,7 +66,7 @@
 		<text>Al comerciante no le interesa este tipo de art&#237;culos.</text>
 	</string>
 	<string id="st_no_trade_tip_2">
-		<text>El articulo esta demasiado da&#241;ado para ser intercambiado.</text>
+		<text>El art&#237;culo esta demasiado da&#241;ado para ser intercambiado.</text>
 	</string>
 
 	<!-- Upgrade mode -->
@@ -1036,11 +1036,11 @@
 	</string>
 	
 	<string id="st_ui_workshop_info_repair_intro">
-		<text>Puedes reemplazar las partes da&#241;adas de tu arma o equipo usando piezas de repuesto y el juego de herramientas adecuado. \nElige el articulo que desea reparar de tu inventario.
+		<text>Puedes reemplazar las partes da&#241;adas de tu arma o equipo usando piezas de repuesto y el juego de herramientas adecuado. \nElige el art&#237;culo que desea reparar de tu inventario.
 		</text>
 	</string>
 	<string id="st_ui_workshop_info_repair_tip_1">
-		<text>Cada articulo tiene su propio conjunto de piezas y materiales \nLas partes en gris indican la falta de reemplazos identicos para ellas en tu inventario. \nSi tienes la parte de reemplazo y una utilizable "%s", haz clic en la parte que deseas reemplazar.
+		<text>Cada art&#237;culo tiene su propio conjunto de piezas y materiales \nLas partes en gris indican la falta de reemplazos identicos para ellas en tu inventario. \nSi tienes la parte de reemplazo y una utilizable "%s", haz clic en la parte que deseas reemplazar.
 		</text>
 	</string>
 	<string id="st_ui_workshop_info_repair_warning_1">
@@ -1056,7 +1056,7 @@
 		<text>La mayoria de los mecanicos venden tales herramientas. Tambien puede obtenerlos de otras formas.</text>
 	</string>
 	<string id="st_ui_workshop_info_repair_tip_3">
-		<text>Puedes elegir piezas de repuesto identicas "%s" desde tu inventario. \nSolo las partes con mayor condicion pueden usarse para mejorar su articulo. \nLas partes en gris significan que tienen peores condiciones que la parte de tu articulo. No son adecuados para un reemplazo adecuado.
+		<text>Puedes elegir piezas de repuesto identicas "%s" desde tu inventario. \nSolo las partes con mayor condicion pueden usarse para mejorar su art&#237;culo. \nLas partes en gris significan que tienen peores condiciones que la parte de tu art&#237;culo. No son adecuados para un reemplazo adecuado.
 		</text>
 	</string>
 	<string id="st_ui_workshop_info_repair_warning_3">
@@ -1071,7 +1071,7 @@
 	</string>
 	
 	<string id="st_ui_workshop_info_upgrade_intro">
-		<text>Con los kits de herramientas correctos en su poder, puede instalar actualizaciones para sus armas y atuendos. \nElija el articulo que desea actualizar de su inventario.
+		<text>Con los kits de herramientas correctos en su poder, puede instalar actualizaciones para sus armas y atuendos. \nElija el art&#237;culo que desea actualizar de su inventario.
 		</text>
 	</string>
 	<string id="st_ui_workshop_info_upgrade_tip_1">
@@ -1099,7 +1099,7 @@
 		</text>
 	</string>
 	<string id="st_ui_workshop_info_craft_tip_1">
-		<text>Selecciona el articulo que deseas fabricar.</text>
+		<text>Selecciona el art&#237;culo que deseas fabricar.</text>
 	</string>
 	<string id="st_ui_workshop_info_craft_warning_2">
 		<text>Todavia no has aprendido a fabricar "%s".</text>
@@ -1108,13 +1108,13 @@
 		<text>Las guias y recetas tienen suficiente informaci&#243;n sobre los art&#237;culos, seran utiles para aprender m&#225;s sobre esos art&#237;culos.</text>
 	</string>
 	<string id="st_ui_workshop_info_craft_warning_3">
-		<text>Se requiere "%s" para fabricar este articulo usando estos componentes (solo disponible, por el jugador o el mecanico)</text>
+		<text>Se requiere "%s" para fabricar este art&#237;culo usando estos componentes (solo disponible, por el jugador o el mecanico)</text>
 	</string>
 	<string id="st_ui_workshop_info_craft_solution_3">
 		<text>Por lo general, tales herramientas son raras, vigile estos conjuntos durante sus viajes.</text>
 	</string>
 	<string id="st_ui_workshop_info_craft_warning_4">
-		<text>Tu inventario carece de algunos componentes necesarios para fabricar este articulo.</text>
+		<text>Tu inventario carece de algunos componentes necesarios para fabricar este art&#237;culo.</text>
 	</string>
 	<string id="st_ui_workshop_info_craft_solution_4">
 		<text>Los componentes se pueden obtener de diferentes art&#237;culos y materiales de tu alrededor. Se aconseja que desmontes los elementos innecesarios para adquirir componentes &#250;tiles.</text>
@@ -1130,15 +1130,15 @@
 	</string>
 	
 	<string id="st_ui_workshop_info_repair_1">
-		<text>Puedes reemplazar las partes danadas de tu arma o equipo usando piezas de repuesto y el juego de herramientas adecuado. \nElige el articulo que desea reparar de tu inventario.
+		<text>Puedes reemplazar las partes danadas de tu arma o equipo usando piezas de repuesto y el juego de herramientas adecuado. \nElige el art&#237;culo que desea reparar de tu inventario.
 		</text>
 	</string>
 	<string id="st_ui_workshop_info_repair_2">
-		<text>Cada articulo tiene su propio conjunto de piezas y materiales \nLas partes en gris indican la falta de reemplazos identicos para ellas en tu inventario. \nSi tienes la parte de reemplazo y una utilizable "%s", haz clic en la parte que deseas reemplazar.
+		<text>Cada art&#237;culo tiene su propio conjunto de piezas y materiales \nLas partes en gris indican la falta de reemplazos identicos para ellas en tu inventario. \nSi tienes la parte de reemplazo y una utilizable "%s", haz clic en la parte que deseas reemplazar.
 		</text>
 	</string>
 	<string id="st_ui_workshop_info_repair_3">
-		<text>Puedes elegir piezas de repuesto identicas de tu inventario. \nSolo las partes con mayor condicion pueden usarse para mejorar su articulo. \nLas partes en gris significan que tienen peores condiciones que la parte de tu articulo. No son adecuados para un reemplazo adecuado.
+		<text>Puedes elegir piezas de repuesto identicas de tu inventario. \nSolo las partes con mayor condicion pueden usarse para mejorar su art&#237;culo. \nLas partes en gris significan que tienen peores condiciones que la parte de tu art&#237;culo. No son adecuados para un reemplazo adecuado.
 		</text>
 	</string>
 	<string id="st_ui_workshop_info_repair_4">
@@ -1147,7 +1147,7 @@
 	</string>
 	
 	<string id="st_ui_workshop_info_upgr_1">
-		<text>Con los kits de herramientas correctos en su poder, puede instalar actualizaciones para sus armas y atuendos. \nElija el articulo que desea actualizar de su inventario.
+		<text>Con los kits de herramientas correctos en su poder, puede instalar actualizaciones para sus armas y atuendos. \nElija el art&#237;culo que desea actualizar de su inventario.
 		</text>
 	</string>
 	<string id="st_ui_workshop_info_upgr_2">
@@ -1163,18 +1163,18 @@
 		</text>
 	</string>
 	<string id="st_ui_workshop_info_craft_2">
-		<text>Selecciona el articulo que deseas fabricar.</text>
+		<text>Selecciona el art&#237;culo que deseas fabricar.</text>
 	</string>
 	<string id="st_ui_workshop_info_craft_3">
-		<text>Para crear este articulo, se requiere un conjunto de componentes especificos. \nCuando no tenga la cantidad minima de algun componente, se mostrara en rojo. Previniendo as&#237; el procedimiento artesanal.
+		<text>Para crear este art&#237;culo, se requiere un conjunto de componentes especificos. \nCuando no tenga la cantidad minima de algun componente, se mostrara en rojo. Previniendo as&#237; el procedimiento artesanal.
 		</text>
 	</string>
 	<string id="st_ui_workshop_info_craft_4">
-		<text>Tiene todos los componentes necesarios para crear este articulo, seleccione el boton "Fabricar" si desea continuar.
+		<text>Tiene todos los componentes necesarios para crear este art&#237;culo, seleccione el boton "Fabricar" si desea continuar.
 		</text>
 	</string>
 	<string id="st_ui_workshop_info_craft_5">
-		<text>No sabes como fabricar este articulo.</text>
+		<text>No sabes como fabricar este art&#237;culo.</text>
 	</string>
 	<string id="st_ui_workshop_info_craft_6">
 		<text>Es necesario "%s" en este taller para que puedas crearlo.

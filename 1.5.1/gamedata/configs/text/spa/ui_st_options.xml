@@ -2305,7 +2305,7 @@
 	<string id="ui_mm_gameplay_silent_kills_sk_gun_hear_dist_desc"><text>Si hay alg&#250;n npc adem&#225;s de la v&#237;ctima cerca de ti o la v&#237;ctima dentro de esta distancia (en metros) el intento de asesinato sigiloso con armas siempre fallar&#225; (disminuye con la lluvia)</text></string>
 	
 	
-	<string id="ui_mm_gameplay_economy_diff_condition_buy_override"><text>Condici&#243;n m&#237;nima de los articulos para venderse</text></string>
+	<string id="ui_mm_gameplay_economy_diff_condition_buy_override"><text>Condici&#243;n m&#237;nima de los art&#237;culos para venderse</text></string>
 	<string id="ui_mm_gameplay_economy_diff_condition_buy_override_desc"><text>Este es el valor en %% que el art&#237;culo deber&#225; tener para ser aceptado por comerciantes, si est&#225; en '0' la minima condici&#243;n de los art&#237;culos ser&#225;n decididos por los comerciantes usando su 'archivo de configuraci&#243;n'</text></string>
 
 </string_table>
