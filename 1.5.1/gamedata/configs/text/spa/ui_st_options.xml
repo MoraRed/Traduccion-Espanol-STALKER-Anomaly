@@ -805,7 +805,7 @@
 		<text>Pista anterior</text>
 	</string>
 	<string id="ui_mm_sound_radio_playlist">
-		<text>Pr&#243;ximo Canal /  Lista de reproduccion</text>
+		<text>Pr&#243;ximo Canal /  Lista de reproducci&#243;n</text>
 	</string>
 	<string id="ui_mm_sound_radio_emission_intereferences">
 		<text>Interferencia de se&#241;al en emisiones</text>
@@ -963,7 +963,7 @@
 	</string>
 	
 	<string id="ui_mm_gameplay_general_need_equipped_hkit">
-		<text>El kit de cacer&#237;a debe estar equipado como mochina para obtener el bono.</text>
+		<text>El kit de cacer&#237;a debe estar equipado como mochila para obtener el bono.</text>
 	</string>
 	
 	<!-- Gameplay difficulty -->
@@ -1211,7 +1211,7 @@
 		<text>Factor de sospecha de art&#237;culo activo</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_weapon">
-		<text>Consided arma del jugador</text>
+		<text>Considerar arma del jugador</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_weapon_desc">
 		<text>Cuando se habilita, el tipo y la condici&#243;n del arma en la ranura principal del jugador es considerado por la observaci&#243;n de los NPCs. \n \nEste factor controla la importancia de este elemento al calcular el factor de sospecha general.</text>
@@ -1287,7 +1287,7 @@
 		</text>
 	</string>
 	<string id="ui_mm_gameplay_disguise_stay_time_factor">
-		<text>Tiempo maximo seguro [segundos]</text>
+		<text>Tiempo m&#225;ximo seguro [segundos]</text>
 	</string>
 	
 <!-- Gameplay - Fast Travel -->
@@ -1401,7 +1401,7 @@
 		<text>Cuando se habilita, las emisiones puede resultar en la creaci&#243;n de anomal&#237;as alrededor de la Zona. \nLas anomal&#237;as pueden aparecer o desaparecer en toda la Zona despu&#233;s de cada evento de emisi&#243;n.</text>
 	</string>
 	<string id="ui_mm_alife_general_dynamic_relations">
-		<text>Relaciones Dinamica de Facciones</text>
+		<text>Relaciones Dinamicas de Facciones</text>
 	</string>
 	<string id="ui_mm_alife_general_dynamic_relations_desc">
 		<text>Cuando se habilita, las relaciones entre las facciones pueden cambiar debido a las batallas que ocurren dentro de la Zona, para bien o para mal. \nLa muerte de enemigos comunes puede tener un impacto positivo en las relaciones, y viceversa. \nLa magnitud de cambios en las relaciones est&#225; determinada por la importancia de las v&#237;ctimas.</text>
@@ -1413,10 +1413,10 @@
 		<text>Cuando una facci&#243;n se convierte en enemiga de la facci&#243;n del jugador, &#233;ste perder&#225; toda la buena voluntad que gan&#243; con ellos anteriormente.</text>
 	</string>
 	<string id="ui_mm_alife_general_heli_engine_sound">
-		<text>Sonidos de helicopteros</text>
+		<text>Sonidos de helic&#243;pteros</text>
 	</string>
 	<string id="ui_mm_alife_general_heli_spawn">
-		<text>Patrullas de helicopteros</text>
+		<text>Patrullas de helic&#243;pteros</text>
 	</string>
 	
 <!-- Alife - Events -->
@@ -1617,25 +1617,25 @@
 		<text>Cu&#225;nta prioridad a&#241;ade cada punto de influencia a un objetivo. Los n&#250;meros de prioridad t&#237;picos est&#225;n entre 1 y 10; cuanto m&#225;s alto sea el n&#250;mero, m&#225;s probable es que los puntos tengan como objetivo el punto con influencia a&#241;adida.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_novice_squad_price">
-		<text>Soporte escuadron de novatos</text>
+		<text>Soporte escuadr&#243;n de novatos</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_novice_squad_price_desc">
 		<text>La compra de un escuadr&#243;n de novatos. Cuando tengas esta cantidad de dinero o m&#225;s y hagas clic con el bot&#243;n derecho del rat&#243;n en una base de tu propia facci&#243;n, incluir&#225; una opci&#243;n para comprar un escuadr&#243;n de novatos que ser&#225; engendrado en esa base inmediatamente y ser&#225; tratado como compa&#241;eros.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_advanced_squad_price">
-		<text>Soporte escuadron avanzado</text>
+		<text>Soporte escuadr&#243;n avanzado</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_advanced_squad_price_desc">
 		<text>La compra de un escuadr&#243;n avanzado. Cuando tengas esta cantidad de dinero o m&#225;s y hagas clic con el bot&#243;n derecho del rat&#243;n en una base de tu propia facci&#243;n, incluir&#225; una opci&#243;n para comprar un escuadr&#243;n avanzado que ser&#225; engendrado en esa base inmediatamente y ser&#225; tratado como compa&#241;eros.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_veteran_squad_price">
-		<text>Soporte escuadron veterano</text>
+		<text>Soporte escuadr&#243;n veterano</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_veteran_squad_price_desc">
 		<text>La compra de un escuadr&#243;n de veteranos. Cuando tengas esta cantidad de dinero o m&#225;s y hagas clic con el bot&#243;n derecho del rat&#243;n en una base de tu propia facci&#243;n, incluir&#225; una opci&#243;n para comprar un escuadr&#243;n de veteranos que ser&#225; engendrado en esa base inmediatamente y ser&#225; tratado como compa&#241;eros.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_heli_price">
-		<text>Soporte helicoptero</text>
+		<text>Soporte helic&#243;ptero</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_heli_price_desc">
 		<text>La compra de un helic&#243;ptero. Cuando tengas esta cantidad de dinero o m&#225;s y hagas clic con el bot&#243;n derecho del rat&#243;n en una base de tu propia facci&#243;n, incluir&#225; una opci&#243;n para comprar un helic&#243;ptero. S&#243;lo puede haber un helic&#243;ptero por facci&#243;n en un solo mapa.</text>
@@ -1665,13 +1665,13 @@
 		<text>Siempre que haya menos de esta cantidad de escuadrones de mutantes en un nivel, el nivel podr&#225; ser objetivo de otros escuadrones de mutantes y los mutantes desovar&#225;n en cualquier punto o guarida desocupada bas&#225;ndose en las variables monster_min_faction_respawn y monster_max_faction_respawn</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_monster_min_faction_respawn">
-		<text>Tiempo min de reaparacion mounstruo</text>
+		<text>Tiempo min de reaparici&#243;n monstruo</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_monster_min_faction_respawn_desc">
 		<text>El m&#237;nimo tiempo que pasa antes de que una guarida o una base/recurso desocupado genere un escuadr&#243;n de mutantes si ya hay menos escuadrones de mutantes de monstruos de m&#225;ximo nivel en el nivel del punto.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_monster_max_faction_respawn">
-		<text>Tiempo max de reaparacion mounstruo</text>
+		<text>Tiempo max de reaparici&#243;n monstruo</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_monster_max_faction_respawn_desc">
 		<text>La m&#225;xima cantidad de tiempo que pasa antes de que una guarida o una base/recurso desocupado genere un escuadr&#243;n de mutantes si hay menos de escuadrones mutantes de monstruos de m&#225;ximo nivel ya en el nivel del punto.</text>
@@ -1716,7 +1716,7 @@
 		<text>Participar en Warfare</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_spawn_on_new_game">
-		<text>Generacion en nuevo juego</text>
+		<text>Generaci&#243;n en nuevo juego</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_random_spawn_entries">
 		<text>Entradas aleatorias generadas</text>
@@ -1785,13 +1785,13 @@
 		<text>Factor de poblaci&#243;n m&#237;nima de patrulla</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_min_patrol_squads_desc">
-		<text>El factor m&#237;nimo de poblaci&#243;n de la patrulla. Cuando una facci&#243;n no posee bases, cada base (te&#243;ricamente ya que no poseen ninguna) tendr&#237;a min_escuadrones de patrulla * max_poblaci&#243;n de escuadrones de patrulla. Factor actual del escuadr&#243;n de patrulla = (100% - owned_base_percentage) * min_patrol_squds + (owned_base_percentage * max_patrol_squads. Cuadrantes de patrulla permitidos actualmente = base.max_population * factor actual de escuadron de patrulla.</text>
+		<text>El factor m&#237;nimo de poblaci&#243;n de la patrulla. Cuando una facci&#243;n no posee bases, cada base (te&#243;ricamente ya que no poseen ninguna) tendr&#237;a min_escuadrones de patrulla * max_poblaci&#243;n de escuadrones de patrulla. Factor actual del escuadr&#243;n de patrulla = (100% - owned_base_percentage) * min_patrol_squds + (owned_base_percentage * max_patrol_squads. Cuadrantes de patrulla permitidos actualmente = base.max_population * factor actual de escuadr&#243;n de patrulla.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_max_patrol_squads">
 		<text>Factor de poblaci&#243;n m&#225;xima de la patrulla</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_max_patrol_squads_desc">
-		<text>El m&#225;ximo factor de poblaci&#243;n de la patrulla. Cuando una facci&#243;n es due&#241;a de cada base, cada base tendr&#225; el m&#225;ximo de escuadrones de patrulla * m&#225;ximo de escuadrones de patrulla. Factor actual del escuadr&#243;n de patrulla = (100% - porcentaje de base propia) * min_patrol_squds + (porcentaje de base propia * max_patrol_squads. Cuadrantes de patrulla permitidos actualmente = base.max_population * factor actual de escuadron de patrulla.</text>
+		<text>El m&#225;ximo factor de poblaci&#243;n de la patrulla. Cuando una facci&#243;n es due&#241;a de cada base, cada base tendr&#225; el m&#225;ximo de escuadrones de patrulla * m&#225;ximo de escuadrones de patrulla. Factor actual del escuadr&#243;n de patrulla = (100% - porcentaje de base propia) * min_patrol_squds + (porcentaje de base propia * max_patrol_squads. Cuadrantes de patrulla permitidos actualmente = base.max_population * factor actual de escuadr&#243;n de patrulla.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_min_patrol_time">
 		<text>Tiempo m&#237;nimo de patrulla</text>
@@ -1833,7 +1833,7 @@
 		<text>Contador de escuadrones al azar</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_random_squad_count_desc">
-		<text>Cuando se habilita, cada escuadron de esta facci&#243;n tendr&#225; un n&#250;mero aleatorio de NPC entre min_random_squad_count y max_random_squad_count.</text>
+		<text>Cuando se habilita, cada escuadr&#243;n de esta facci&#243;n tendr&#225; un n&#250;mero aleatorio de NPC entre min_random_squad_count y max_random_squad_count.</text>
 	</string>	
 	<string id="ui_mm_alife_warfare_faction_min_random_squad_count">
 		<text>Conteo m&#237;nimo de escuadrones al azar</text>
@@ -2008,7 +2008,7 @@
 		<text>Nivel de prioridad (Vertedero)</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_lvl_l03_agroprom_priority">
-		<text>Nivel de prioridad (Aprogrom)</text>
+		<text>Nivel de prioridad (Agroprom)</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_lvl_l04_darkvalley_priority">
 		<text>Nivel de prioridad (Paisaje Oscuro)</text>
@@ -2047,7 +2047,7 @@
 		<text>Nivel de prioridad (Central nuclear de Chernobyl - Sur)</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_lvl_l12u_sarcofag_priority">
-		<text>Nivel de prioridad (Sarcofago)</text>
+		<text>Nivel de prioridad (Sarc&#243;fago)</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_lvl_l12u_control_monolith_priority">
 		<text>Nivel de prioridad (Centro de Control Monolito)</text>
@@ -2068,7 +2068,7 @@
 		<text>Nivel de prioridad (Las afueras)</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_lvl_jupiter_underground_priority">
-		<text>Nivel de prioridad (Tuneles de Jupiter)</text>
+		<text>Nivel de prioridad (T&#250;neles de Jupiter)</text>
 	</string>
 	<string id="ui_mm_alife_warfare_faction_lvl_k02_trucks_cemetery_priority">
 		<text>Nivel de prioridad (Cementerio de Camiones)</text>
@@ -2158,7 +2158,7 @@
 	</string>
 	
 	<string id="ui_mm_alife_dynamic_news_message_duration">
-		<text>Duraci&#243;n de los mensajes en su HUD (en segundos)</text>
+		<text>Duraci&#243;n de los mensajes en HUD (en segundos)</text>
 	</string>
 	<string id="ui_mm_alife_dynamic_news_death_stalker_news">
 		<text>SOS/Informes de muerte (asalto enemigo)</text>
@@ -2182,7 +2182,7 @@
 		<text>Descubrimiento de artefacto</text>
 	</string>
 	<string id="ui_mm_alife_dynamic_news_heli_call_news">
-		<text>Solicitudes de helicoptero</text>
+		<text>Solicitudes de helic&#243;ptero</text>
 	</string>
 	<string id="ui_mm_alife_dynamic_news_loot_news">
 		<text>Botin encontrado</text>
@@ -2262,7 +2262,7 @@
 		<text>Autoguardar cada 15 min</text>
 	</string>
 	<string id="ui_mm_other_autosave_timer_new">
-		<text>Autoguardas cada X min (0 = deshabilitado)</text>
+		<text>Autoguardar cada X min (0 = deshabilitado)</text>
 	</string>
 	<string id="ui_mm_other_quicksave_cnt">
 		<text>Contador de guardados</text>
@@ -2286,7 +2286,7 @@
 	
 	
 	<string id="st_sk_desc">
-		<text>Caracter&#237;stica experimental para permitir derribos silenciosos de npcs inconscientes. \nPara realizar un asesinato sigiloso necesitas golpear a un npc con un arma adecuada (por defecto la Spetnaz Switchblade o un tiro en la cabeza con un arma silenciada) sin que t&#250; o la v&#237;ctima sean vistos por ning&#250;n otro npc. Si tiene &#233;xito el npc morir&#225; sin alertar a los aliados y amigos cercanos, sin embargo si alguien te ve cerca del npc asesinado demasiado pronto se dar&#225;n cuenta de que lo has matado y todos reaccionar&#225;n como siempre.\nEsta caracter&#237;stica est&#225; desactivada por defecto porque todav&#237;a es un trabajo en progreso y puede impactar severamente el equilibrio (debido a la capacidad de matar libremente a npc amigos si se hace correctamente o para despejar las bases enemigas cuando se disfrazan).</text>
+		<text>Caracter&#237;stica experimental para permitir derribos sigilosos de npcs inconscientes. \nPara realizar un asesinato sigiloso necesitas golpear a un npc con un arma adecuada (por defecto la Spetnaz Switchblade o un tiro en la cabeza con un arma silenciada) sin que t&#250; o la v&#237;ctima sean vistos por ning&#250;n otro npc. Si tiene &#233;xito el npc morir&#225; sin alertar a los aliados y amigos cercanos, sin embargo si alguien te ve cerca del npc asesinado demasiado pronto se dar&#225;n cuenta de que lo has matado y todos reaccionar&#225;n como siempre.\nEsta caracter&#237;stica est&#225; desactivada por defecto porque todav&#237;a es un trabajo en progreso y puede impactar severamente el equilibrio (debido a la capacidad de matar libremente a npc amigos si se hace correctamente o para despejar las bases enemigas cuando se disfrazan).</text>
 	</string>
 	<string id="ui_mm_menu_silent_kills"><text>Asesinatos silenciosos</text></string>
 	<string id="ui_mm_gameplay_silent_kills_sk_enabled"><text>Activar asesinatos silenciosos</text></string>
@@ -2295,7 +2295,7 @@
 	<string id="ui_mm_gameplay_silent_kills_sk_all_melee_ok_desc"><text>Si est&#225; desmarcada, un arma cuerpo a cuerpo puede ser usada para un asesinato silencioso solo si el valor de configuraci&#243;n "can_stealth_stab" es "true", predeterminadamente solo el Spetnaz Switchblade</text></string>
 	<string id="ui_mm_gameplay_silent_kills_sk_gun_enabled"><text>Permitir asesinatos silenciosos con armas silenciadas</text></string>
 	<string id="ui_mm_gameplay_silent_kills_sk_headshot_only"><text>'Tiro en la cabeza' necesario para muerte silenciosa con armas.</text></string>
-	<string id="ui_mm_gameplay_silent_kills_sk_fresh_time"><text>Tiempo de sospecha despues de la muerte sigilosa</text></string>
+	<string id="ui_mm_gameplay_silent_kills_sk_fresh_time"><text>Tiempo de sospecha despu&#233;s de la muerte sigilosa</text></string>
 	<string id="ui_mm_gameplay_silent_kills_sk_fresh_time_desc"><text>Por cuanto tiempo el ser visto cerca del cad&#225;ver puede causar que otros npc descubran que fuiste el asesino si te ven cerca del cad&#225;ver</text></string>
 	<string id="ui_mm_gameplay_silent_kills_sk_suspect_dist"><text>Distancia de descubrimiento desde el Jugador hasta el cuerpo</text></string>
 	<string id="ui_mm_gameplay_silent_kills_sk_suspect_dist_desc"><text>Que tan cerca el jugador desde estar cerca de un npc asesinado sigilosamente para ser descubierto por otro npc</text></string>

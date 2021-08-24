@@ -307,7 +307,7 @@
 		<text>Mutantes eliminados</text>
 	</string>
 	<string id="st_helicopters downed">
-		<text>Helicopteros derribados</text>
+		<text>Helic&#243;pteros derribados</text>
 	</string>
 	<string id="st_corpse_looted">
 		<text>Cadaveres saqueados</text>
@@ -460,7 +460,7 @@
 		<text>Items vendidos</text>
 	</string>
 	<string id="st_mm_pda_helicopters downed">
-		<text>Helicopteros derribados</text>
+		<text>Helic&#243;pteros derribados</text>
 	</string>
 	<string id="st_mm_pda_corpse_looted">
 		<text>Cadaveres saqueados</text>
@@ -530,7 +530,7 @@
 		<text>Reproduciendo</text>
 	</string>
 	<string id="ui_st_radio_playlist">
-		<text>Lista de reproduccion</text>
+		<text>Lista de reproducci&#243;n</text>
 	</string>
 	<string id="ui_st_radio_loop_off">
 		<text>Bucle Off</text>

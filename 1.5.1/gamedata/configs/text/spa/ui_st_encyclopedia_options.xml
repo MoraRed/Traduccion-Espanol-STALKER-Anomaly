@@ -60,11 +60,11 @@
 	</string>
 	
 	<string id="encyclopedia_options_helicopter_patrols">
-		<text>Patrullas de helicopteros</text>
+		<text>Patrullas de helic&#243;pteros</text>
 	</string>
 	<string id="encyclopedia_options_helicopter_patrols_text">
 		<text>
-			El modo %c[pda_white]Patrullas de helicopteros%c[ui_gray_1] permite a las facciones hacer uso de apoyo a&#233;reo para defender &#225;reas estrat&#233;gicas.\n \n%c[d_green]Informaci&#243;n%c[ui_gray_1]\n \nLas facciones que tienen aeronaves amigas patrullando en la zona podr&#225;n pedirles apoyo para atacar o defenderse de los stalkers enemigos (incluido t&#250;) y de los mutantes.\n \nA pesar de su apariencia intimidante, pueden ser f&#225;cilmente derribados despu&#233;s de recibir un ligero da&#241;o en el rotor de cola.\n \nSi el sonido de las aspas del rotor se convierte en una molestia pero no se desea desactivar la funci&#243;n, se pueden anular de independientemente.\n \nEsta caracter&#237;stica se puede cambiar desde el men&#250; de opciones del juego y est&#225; activada por defecto.\n \n%c[d_green]Ubicaciones%c[ui_gray_1]\n \n• Agroprom\n• El Cordon\n• Paisaje Oscuro\n• Grandes Pantanos\n• Limansk
+			El modo %c[pda_white]Patrullas de helic&#243;pteros%c[ui_gray_1] permite a las facciones hacer uso de apoyo a&#233;reo para defender &#225;reas estrat&#233;gicas.\n \n%c[d_green]Informaci&#243;n%c[ui_gray_1]\n \nLas facciones que tienen aeronaves amigas patrullando en la zona podr&#225;n pedirles apoyo para atacar o defenderse de los stalkers enemigos (incluido t&#250;) y de los mutantes.\n \nA pesar de su apariencia intimidante, pueden ser f&#225;cilmente derribados despu&#233;s de recibir un ligero da&#241;o en el rotor de cola.\n \nSi el sonido de las aspas del rotor se convierte en una molestia pero no se desea desactivar la funci&#243;n, se pueden anular de independientemente.\n \nEsta caracter&#237;stica se puede cambiar desde el men&#250; de opciones del juego y est&#225; activada por defecto.\n \n%c[d_green]Ubicaciones%c[ui_gray_1]\n \n• Agroprom\n• El Cordon\n• Paisaje Oscuro\n• Grandes Pantanos\n• Limansk
 		</text>
 	</string>
 	

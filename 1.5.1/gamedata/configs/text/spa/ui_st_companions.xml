@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="windows-1251"?>
 <string_table>
 	<string id="st_companion_order_tooFar">
-		<text>Mi escuadron no me puede escuchar. Necesito estar m&#225;s cerca de ellos o contactar via PDA.</text>
+		<text>Mi escuadr&#243;n no me puede escuchar. Necesito estar m&#225;s cerca de ellos o contactar via PDA.</text>
 	</string>
 	<string id="st_no_companions">
 		<text>No tienes compa&#241;eros cerca</text>

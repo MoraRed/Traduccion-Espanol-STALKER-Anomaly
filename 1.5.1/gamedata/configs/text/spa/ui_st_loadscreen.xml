@@ -7,10 +7,10 @@
 		<text>Consejo #</text>
 	</string>
 	<string id="ls_tip_1">
-		<text>Evita cargar demasiado peso, te matar&#225;. Recuerda vender periodicamente los art&#237;culos adicionales que no necesitas o guardarlos para despues. Las mochilas compradas a los comerciantes se pueden usar como alijo.</text>
+		<text>Evita cargar demasiado peso, te matar&#225;. Recuerda vender periodicamente los art&#237;culos adicionales que no necesitas o guardarlos para despu&#233;s. Las mochilas compradas a los comerciantes se pueden usar como alijo.</text>
 	</string>
 	<string id="ls_tip_2">
-		<text>Cazar mutantes te dar&#225; algunas de sus partes. Adem&#225;s, obtendras carne que puedes cocinar si tienes poco dinero y no puedes comprar comida. Eso si, es necesario tener algo para reducir la radiaci&#243;n despues de una comida as&#237;.</text>
+		<text>Cazar mutantes te dar&#225; algunas de sus partes. Adem&#225;s, obtendras carne que puedes cocinar si tienes poco dinero y no puedes comprar comida. Eso si, es necesario tener algo para reducir la radiaci&#243;n despu&#233;s de una comida as&#237;.</text>
 	</string>
 	<string id="ls_tip_3">
 		<text>Muchos mecanicos requieren kits de herramientas basicos, avanzados y expertos, para realizar ciertas mejoras a las armas y trajes. Dichos art&#237;culos a menudo se pueden encontrar en alijos recibidos como recompensa por completar tareas.</text>
@@ -19,7 +19,7 @@
 		<text>La falta de sue&#241;o es una caracteristica de juego opcional donde el paso del tiempo y el uso de consumibles agotar&#225; gradualmente al jugador, lo que eventualmente requerir&#225; que descanse cuando se le solicite. No hacerlo puede tener consecuencias nefastas.</text>
 	</string>
 	<string id="ls_tip_5">
-		<text>Las patrullas de helicopteros son una caracteristica de juego opcional con poderosos efectos en la Zona. Cuando participan en combate, los miembros de la facci&#243;n del helicoptero a menudo pueden solicitar apoyo aereo para ayudar a destruir las fuerzas de ataque o defensa.</text>
+		<text>Las patrullas de helic&#243;pteros son una caracteristica de juego opcional con poderosos efectos en la Zona. Cuando participan en combate, los miembros de la facci&#243;n del helic&#243;ptero a menudo pueden solicitar apoyo aereo para ayudar a destruir las fuerzas de ataque o defensa.</text>
 	</string>
 	<string id="ls_tip_6">
 		<text>El modo Ironman d&#225; una verdadera sensaci&#243;n de mortalidad. Cuando el jugador ha perdido todas sus vidas, las partidas guardadas de ese personaje especifico se eliminan y nunca se podr&#225;n volver a restaurar. Elige tu facci&#243;n y ubicacion de inicio, sabiamente.</text>
@@ -46,7 +46,7 @@
 		<text>El rango tiene ocho niveles diferentes y se puede aumentar a traves de casi cualquier actividad en el juego. Ciertas caracteristicas pueden requerir alcanzar un alto rango antes de que se puedan usar o desbloquear por completo.</text>
 	</string>
 	<string id="ls_tip_14">
-		<text>La mayoria de las tareas se pueden cancelar despues de que aceptes completarlas. Puedes hacerlo hablando con el stalker que te la dio. Solo recuerda que cancelar una tarea disminuir&#225; tu reputaci&#243;n y buena voluntad.</text>
+		<text>La mayoria de las tareas se pueden cancelar despu&#233;s de que aceptes completarlas. Puedes hacerlo hablando con el stalker que te la dio. Solo recuerda que cancelar una tarea disminuir&#225; tu reputaci&#243;n y buena voluntad.</text>
 	</string>
 	<string id="ls_tip_15">
 		<text>La reputaci&#243;n es una representaci&#243;n de como tu facci&#243;n ve a un stalker. Se gana y se pierde ayudando o perjudicando a los stalkers no hostiles, respectivamente.</text>
@@ -70,7 +70,7 @@
 		<text>A Cold, Spore y al resto de los personajes principales de Cielo Despejado se les puede preguntar sobre su historia. Hacerlo puede ayudar a arrojar luz sobre la supervivencia general de su facci&#243;n.</text>
 	</string>
 	<string id="ls_tip_22">
-		<text>Libertad ocupa por completo la estacion de Yanov en Jupiter despues de que Shulga se fuera para luchar contra el Monolito que resurg&#237;a. Muchos stalkers que habian abandonado Libertad se habian unido para ayudar a reforzar su posici&#243;n.</text>
+		<text>Libertad ocupa por completo la estacion de Yanov en Jupiter despu&#233;s de que Shulga se fuera para luchar contra el Monolito que resurg&#237;a. Muchos stalkers que habian abandonado Libertad se habian unido para ayudar a reforzar su posici&#243;n.</text>
 	</string>
 	<string id="ls_tip_23">
 		<text>El logro 'Finalista' se recibe por desbloquear todos los otros logros disponibles. La cantidad de logros disponibles depende de tu facci&#243;n y de si el modo historia esta habilitado.</text>
@@ -85,7 +85,7 @@
 		<text>Hay diferentes tipos de mochilas disponibles, algunas de ellas te permitiran llevar m&#225;s cosas sin que te pese tanto, mientras que otras como es el Kit del Cazador te proporcionaran algunas bonificaciones.</text>
 	</string>
 	<string id="ls_tip_27">
-		<text>Si las cosas se ponen demasiado dificiles para ti, puedes intentar reducir la dificultad a traves del menu de progresi&#243;n. Puedes acceder a esto presionando F1 mientras estas en el menu principal despues de cargar el juego.</text>
+		<text>Si las cosas se ponen demasiado dificiles para ti, puedes intentar reducir la dificultad a traves del menu de progresi&#243;n. Puedes acceder a esto presionando F1 mientras estas en el menu principal despu&#233;s de cargar el juego.</text>
 	</string>
 	<string id="ls_tip_28">
 		<text>Las bases de facciones generalmente tienen un m&#233;dico que puede curarte y eliminar tu radiaci&#243;n por una baja tarifa. Tambien puedes comprar medicamentos a precios m&#225;s bajos que en otros lugares.</text>
@@ -199,7 +199,7 @@
 		<text>Llevate lo menos posible al salir, para que puedas recoger m&#225;s cosas y venderlas a los comerciantes cuando regreses.</text>
 	</string>
 	<string id="ls_tip_65">
-		<text>Ten tu detector de artefactos fuera los m&#225;s que puedas. A veces aparecen artefactos despues de las tormentas psi.</text>
+		<text>Ten tu detector de artefactos fuera los m&#225;s que puedas. A veces aparecen artefactos despu&#233;s de las tormentas psi.</text>
 	</string>
 	<string id="ls_tip_66">
 		<text>La opci&#243;n de 'reparaciones retrasadas' en el menu de opci&#243;nes del juego requiere que dejes tu equipo en manos del t&#233;cnico durante un cierto tiempo hasta que se arregle. Esa es otra buena razon para repararlas tu mismo.</text>
@@ -208,7 +208,7 @@
 		<text>Ser un stalker escandaloso y traicionero puede ser economicamente gratificante, pero eventualmente aquellos que te odian querran deshacerse de ti. Incluso te cazar&#225;n mientas duermes.</text>
 	</string>
 	<string id="ls_tip_68">
-		<text>El logro "Guerra Mecanizada" se obtiene al entregar tres juegos de herramientas a un tecnico. Despues de completarlo, los art&#237;culos utilizados al reparar tu equipo seran m&#225;s efectivos.</text>
+		<text>El logro "Guerra Mecanizada" se obtiene al entregar tres juegos de herramientas a un tecnico. Despu&#233;s de completarlo, los art&#237;culos utilizados al reparar tu equipo seran m&#225;s efectivos.</text>
 	</string>
 	<string id="ls_tip_69">
 		<text>Algunos stalkers de la vieja escuela llevan notas en papel en lugar de escribirlas en sus PDAs. Puede valer la pena leerlas... incluso podrias aprender algo sobre ellos.</text>
@@ -259,10 +259,10 @@
 		<text>Los juegos de herramientas de armer&#237;a se pueden usar para reutilizar munici&#243;n vieja y piezas de munici&#243;n para as&#237; hacer balas nuevas y m&#225;s efectivas.</text>
 	</string>
 	<string id="ls_tip_85">
-		<text>Algunos comerciantes estan dispuestos a comprar PDAs que obtienes de otros stalkers. Cuantas m&#225;s PDAs entregues, mayor ser&#225; el pago que recibir&#225;s despues de desbloquear el logro "Infopreneur".</text>
+		<text>Algunos comerciantes estan dispuestos a comprar PDAs que obtienes de otros stalkers. Cuantas m&#225;s PDAs entregues, mayor ser&#225; el pago que recibir&#225;s despu&#233;s de desbloquear el logro "Infopreneur".</text>
 	</string>
 	<string id="ls_tip_86">
-		<text>Obtendras acceso al mejor equipo que la facci&#243;n de un comerciante pueda ofrecer despues de que les hayas demostrado tu valia. Estas ofertas especiales tambien son para aquellos que han completado el logro "Bolsillos Pesados".</text>
+		<text>Obtendras acceso al mejor equipo que la facci&#243;n de un comerciante pueda ofrecer despu&#233;s de que les hayas demostrado tu valia. Estas ofertas especiales tambien son para aquellos que han completado el logro "Bolsillos Pesados".</text>
 	</string>
 	<string id="ls_tip_87">
 		<text>Puedes tocar instrumentos musicales usandolos en tu inventario.</text>

@@ -79,7 +79,7 @@
 		<text>Entrada del Tunel (Jupiter)</text>
 	</string>
 	<string id="ui_st_tunnel_refuge">
-		<text>Refugio del Tunel (Tuneles de Agroprom)</text>
+		<text>Refugio del Tunel (T&#250;neles de Agroprom)</text>
 	</string>
 	<string id="ui_st_tuzla_outpost">
 		<text>Puesto Avanzado Tuzla (Grandes Pantanos)</text>
@@ -127,7 +127,7 @@
 		<text>Punto de Control Este (Cementerio de Camiones)</text>
 	</string>
 	<string id="ui_st_fallen_helicopter">
-		<text>Helicoptero Estrellado (Almacenes Militares)</text>
+		<text>Helic&#243;ptero Estrellado (Almacenes Militares)</text>
 	</string>
 	<string id="ui_st_farm_base_neytral">
 		<text>Granja (Cordon)</text>

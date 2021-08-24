@@ -165,10 +165,10 @@
 		<text>%sMejorar no es posible hasta que el estado haya subido al 100%</text>
 	</string>
 	<string id="st_text_warning_mode_3_2">
-		<text>[PRECAUCI&#211;N]: Reparar esta arma no es posible, debido a que la condici&#243;n de la calidad del arma est&#225; al maximo.</text>
+		<text>[PRECAUCI&#211;N]: Reparar esta arma no es posible, debido a que la condici&#243;n de la calidad del arma est&#225; al m&#225;ximo.</text>
 	</string>
 	<string id="st_text_warning_mode_3_1">
-		<text>[PRECAUCI&#211;N]: La calidad del arma ya se encuentra al maximo. Por ende la restauraci&#243;n no es posible.</text>
+		<text>[PRECAUCI&#211;N]: La calidad del arma ya se encuentra al m&#225;ximo. Por ende la restauraci&#243;n no es posible.</text>
 	</string>
 	<string id="st_text_warning_mode_help">
 		<text>Para ayuda, presiona F1</text>

@@ -1433,7 +1433,7 @@
 		<text>en Agroprom,</text>
 	</string>
 	<string id="st_dyn_news_l03u_agr_underground">
-		<text>en los Tuneles de Agroprom,</text>
+		<text>en los T&#250;neles de Agroprom,</text>
 	</string>
 	<string id="st_dyn_news_l04_darkvalley">
 		<text>en Valle Oscuro,</text>
@@ -1493,7 +1493,7 @@
 		<text>en el Centro de Control Monolito,</text>
 	</string>
 	<string id="st_dyn_news_l12u_sarcofag">
-		<text>en el Sarcofago,</text>
+		<text>en el Sarc&#243;fago,</text>
 	</string>
 	<string id="st_dyn_news_l13_generators">
 		<text>en los Generadores,</text>
@@ -2851,7 +2851,7 @@
 		<text>&#161;Voy a poner ese puto gilipollas en un ataud!</text>
 	</string>
 	<string id="st_dyn_news_res_death_stalker_12">
-		<text>&#161;Despues de lo que hicieron con mi amigo, les voy a reventar a patadas!</text>
+		<text>&#161;Despu&#233;s de lo que hicieron con mi amigo, les voy a reventar a patadas!</text>
 	</string>
 	<string id="st_dyn_news_res_death_stalker_13">
 		<text>Encontrare a esos cabrones.</text>
@@ -2952,7 +2952,7 @@
 		<text>&#161;Voy a meter a ese maldito monstruo en un ataud!</text>
 	</string>
 	<string id="st_dyn_news_res_death_mutant_12">
-		<text>&#161;Despues de lo que han hecho a mi amigo, voy a descuartizar a esos monstruos!</text>
+		<text>&#161;Despu&#233;s de lo que han hecho a mi amigo, voy a descuartizar a esos monstruos!</text>
 	</string>
 	<string id="st_dyn_news_res_death_mutant_13">
 		<text>Encontrare esos mutantes y hare trofeos de sus cabezas.</text>
@@ -3167,7 +3167,7 @@
 		<text>&#161;Voy a poner ese puto gilipollas en un ataud!</text>
 	</string>
 	<string id="st_dyn_news_res_fake_death_stalker_51">
-		<text>&#161;Despues de lo que hicieron con mi amigo, les voy a reventar a patadas!</text>
+		<text>&#161;Despu&#233;s de lo que hicieron con mi amigo, les voy a reventar a patadas!</text>
 	</string>
 	<string id="st_dyn_news_res_fake_death_stalker_52">
 		<text>&#161;No ando lejos, puedo ayudar!</text>
@@ -4987,7 +4987,7 @@
 		<text>Uno de nuestros escuadrones desapareci&#243; $location.\nEl &#250;ltimo mensaje que recib&#237; de ellos fue sobre la detecci&#243;n de $target en movimiento... Puede alguna de nuestras tropas cercanas comprobar su ubicaci&#243;n?</text>
 	</string>
 	<string id="st_dyn_news_zone_activity_troop_mutant_5">
-		<text>$speaker reportandose. Hace unos minutos, vi $target acerc&#225;ndose a nuestro escuadron. Son numerosos, es inusual...\nEstamos $location. Envien las tropas cercanas a nuestra ubicaci&#243;n.</text>
+		<text>$speaker reportandose. Hace unos minutos, vi $target acerc&#225;ndose a nuestro escuadr&#243;n. Son numerosos, es inusual...\nEstamos $location. Envien las tropas cercanas a nuestra ubicaci&#243;n.</text>
 	</string>
 	<string id="st_dyn_news_zone_activity_troop_mutant_6">
 		<text>Qu&#233; est&#225; pasando en $map? Perdimos contacto con la ubicaci&#243;n del escuadr&#243;n $location.\nAlguien vio $target rondando el lugar, necesito m&#225;s informaci&#243;n sobre la situaci&#243;n all&#237;.</text>
@@ -5181,7 +5181,7 @@
 		<text>Uno de nuestros cient&#237;ficos desapareci&#243; $location.\nEl &#250;ltimo mensaje que recib&#237; de &#233;l fue sobre la detecci&#243;n de $target en movimiento... &#191;Hay alguien cerca que pueda comprobar su ubicaci&#243;n?</text>
 	</string>
 	<string id="st_dyn_news_zone_activity_scientist_mutant_5">
-		<text>$speaker reportandose. Hace unos minutos, vi $target acerc&#225;ndose a nuestro escuadron. Son muchos, parece realmente malo...\nEstamos $location. Env&#237;a algunos refuerzos a nuestra ubicaci&#243;n.</text>
+		<text>$speaker reportandose. Hace unos minutos, vi $target acerc&#225;ndose a nuestro escuadr&#243;n. Son muchos, parece realmente malo...\nEstamos $location. Env&#237;a algunos refuerzos a nuestra ubicaci&#243;n.</text>
 	</string>
 	<string id="st_dyn_news_zone_activity_scientist_mutant_6">
 		<text>Qu&#233; est&#225; pasando en $map? Perdimos contacto con la ubicaci&#243;n del grupo $location.\nAlguien vio $target rondando el lugar, necesito m&#225;s informaci&#243;n sobre la situaci&#243;n all&#237;.</text>
@@ -6610,7 +6610,7 @@
 		<text>Esos cabrones del Cordon se creen due&#241;os del aparcamiento, alguien tiene que ense&#241;arles c&#243;mo funcionan las cosas aqu&#237;.</text>
 	</string>
 	<string id="st_dyn_news_companion_life_bandit_11">
-		<text>Uno de los chicos de los Tuneles de Agroprom volvi&#243; el otro d&#237;a. Habl&#243; durante horas sobre todo tipo de cosas espeluznantes que habitan en ese lugar. Si fuera tu yo no bajar&#237;a all&#237;.</text>
+		<text>Uno de los chicos de los T&#250;neles de Agroprom volvi&#243; el otro d&#237;a. Habl&#243; durante horas sobre todo tipo de cosas espeluznantes que habitan en ese lugar. Si fuera tu yo no bajar&#237;a all&#237;.</text>
 	</string>
 	<string id="st_dyn_news_companion_life_bandit_12">
 		<text>Las tropas de guardia le dieron un mal rato a nuestros chicos del Vertedero, quieren tomar el control del &#225;rea. Odio a esa escoria.</text>
@@ -7802,7 +7802,7 @@
 		<text>tan</text>
 	</string>
 	<string id="st_dyn_news_after">
-		<text>despues</text>
+		<text>despu&#233;s</text>
 	</string>
 	<string id="st_dyn_news_this">
 		<text>este</text>

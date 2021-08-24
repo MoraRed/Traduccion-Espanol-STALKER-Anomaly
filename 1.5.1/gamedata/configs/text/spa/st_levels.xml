@@ -5,7 +5,7 @@
 		<text>Agroprom</text>
 	</string>
 	<string id="l03u_agr_underground">
-		<text>Tuneles de Agroprom</text>
+		<text>T&#250;neles de Agroprom</text>
 	</string>
 	<string id="l07_military">
 		<text>Almacenes Militares</text>
@@ -109,7 +109,7 @@
 		<text>a Agroprom</text>
 	</string>
 	<string id="space_restrictor_to_agr_ug_desc">
-		<text>a los Tuneles de Agroprom</text>
+		<text>a los T&#250;neles de Agroprom</text>
 	</string>
 	<string id="space_restrictor_to_military_desc">
 		<text>a los Almacenes Militares</text>
@@ -145,7 +145,7 @@
 		<text>a Jupiter</text>
 	</string>
 	<string id="space_restrictor_to_jupiter_ug_desc">
-		<text>a los Tuneles de Jupiter</text>
+		<text>a los T&#250;neles de Jupiter</text>
 	</string>
 	<string id="space_restrictor_to_labx16_desc">
 		<text>al Laboratory X16</text>
@@ -184,7 +184,7 @@
 		<text>a Rostok</text>
 	</string>
 	<string id="space_restrictor_to_sarcophagus_desc">
-		<text>al Sarcofago</text>
+		<text>al Sarc&#243;fago</text>
 	</string>
 	<string id="space_restrictor_to_tc_desc">
 		<text>al Cementerio de Camiones</text>

@@ -46,7 +46,7 @@
 		<text>AN-94 (camuflado)</text>
 	</string>
 	<string id="st_wpn_abakan_descr">
-		<text>Una mejora clave del AN-94 sobre el AK-74 es la introducci&#243;n del modo de rafaga adicional de 2 rondas. El dise&#241;o de Nikonov retrasa la fuerza del retroceso hasta que las balas disparadas hayan salido del ca&#241;on, lo que junto con una funci&#243;n Unica de explosi&#243;n de dos disparos de 1800 rpm aumenta las capacidades de perforaci&#243;n del blindaje corporal de esta arma de fuego. Utilizado por los operadores de Spetsnaz y los miembros de Deber para eliminar objetivos blindados a distancias relativamente largas. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despues de modificarse)\n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1\n</text>
+		<text>Una mejora clave del AN-94 sobre el AK-74 es la introducci&#243;n del modo de rafaga adicional de 2 rondas. El dise&#241;o de Nikonov retrasa la fuerza del retroceso hasta que las balas disparadas hayan salido del ca&#241;on, lo que junto con una funci&#243;n Unica de explosi&#243;n de dos disparos de 1800 rpm aumenta las capacidades de perforaci&#243;n del blindaje corporal de esta arma de fuego. Utilizado por los operadores de Spetsnaz y los miembros de Deber para eliminar objetivos blindados a distancias relativamente largas. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despu&#233;s de modificarse)\n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1\n</text>
 	</string>
 	<string id="st_wpn_abakan_worn">
 		<text>AN-94 (desgastado)</text>
@@ -86,7 +86,7 @@
 		<text>AK-47</text>
 	</string>
 	<string id="st_wpn_ak_descr">
-		<text>El AK-47 puede describirse como un hibrido en tecnologia de fusiles anteriores. Mikhail Kalashnikov dise&#241;o este rifle automatico que combina las mejores caracteristicas del American M1 y el StG44 aleman. El Kalashnikov es un rifle de asalto a gas de 7.62x39 y, por mucho, el arma peque&#241;a m&#225;s prolifica de la segunda mitad del siglo XX. Ha sido y sigue siendo, en forma m&#225;s o menos modificada, fabricado en docenas de paises y se ha utilizado en cientos de conflictos desde su introducci&#243;n.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor PBS-1 \n%c[d_purple]  • %c[d_red] Ninguno debido a la ausencia de un montaje en cola de milano \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despues de modificarse)\n</text>
+		<text>El AK-47 puede describirse como un hibrido en tecnologia de fusiles anteriores. Mikhail Kalashnikov dise&#241;o este rifle automatico que combina las mejores caracteristicas del American M1 y el StG44 aleman. El Kalashnikov es un rifle de asalto a gas de 7.62x39 y, por mucho, el arma peque&#241;a m&#225;s prolifica de la segunda mitad del siglo XX. Ha sido y sigue siendo, en forma m&#225;s o menos modificada, fabricado en docenas de paises y se ha utilizado en cientos de conflictos desde su introducci&#243;n.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor PBS-1 \n%c[d_purple]  • %c[d_red] Ninguno debido a la ausencia de un montaje en cola de milano \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despu&#233;s de modificarse)\n</text>
 	</string>
 	
 	<string id="st_wpn_ak101">
@@ -96,7 +96,7 @@
 		<text>AK-101 (camuflado)</text>
 	</string>
 	<string id="st_wpn_ak101_descr">
-		<text>El AK-101 es un rifle de asalto de la familia Kalashnikov dise&#241;ado para el mercado de exportacion. Utilizar cartuchos de la OTAN de 5,56 x 45mm; el estandar de la mayoria de los paises de la OTAN. El AK-101 se comercializa para aquellos que buscan un arma que combine la compatibilidad logistica y la familiaridad del calibre de la OTAN de 5.56x45mm con la confiabilidad de un Kalashnikov. Esta dise&#241;ado con materiales modernos y compuestos, incluidos plasticos para reducir el peso y mejorar la precisi&#243;n. Muchas de las mejoras encontradas en el AK-101 tambien estan presentes en el AK-103 y el resto de la serie de fusiles AK-10x. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despues de modificarse) \n%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_purple] • %c[ui_gray_2] Supresor ATG\n</text>
+		<text>El AK-101 es un rifle de asalto de la familia Kalashnikov dise&#241;ado para el mercado de exportacion. Utilizar cartuchos de la OTAN de 5,56 x 45mm; el estandar de la mayoria de los paises de la OTAN. El AK-101 se comercializa para aquellos que buscan un arma que combine la compatibilidad logistica y la familiaridad del calibre de la OTAN de 5.56x45mm con la confiabilidad de un Kalashnikov. Esta dise&#241;ado con materiales modernos y compuestos, incluidos plasticos para reducir el peso y mejorar la precisi&#243;n. Muchas de las mejoras encontradas en el AK-101 tambien estan presentes en el AK-103 y el resto de la serie de fusiles AK-10x. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despu&#233;s de modificarse) \n%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech, EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_purple] • %c[ui_gray_2] Supresor ATG\n</text>
 	</string>
 	
 	<string id="st_wpn_ak102">
@@ -113,7 +113,7 @@
 		<text>AK-103 (camuflado)</text>
 	</string>
 	<string id="st_wpn_ak103_descr">
-		<text>El fusil de asalto AK-103 es un derivado del AK-74M con una camara de 7.62x39mm, igual que el AKM y el AK-47. El AK-103 puede equiparse con una variedad de Miras que incluyen: laser, vision nocturna y Miras telescopicas, ademas de un supresor y el lanzagranadas GP-25. Utiliza componentes plasticos siempre que sea posible en lugar de madera o metal para reducir el peso. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despues de modificarse) \n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_purple] • %c[ui_gray_2] Supresor ATG\n</text>
+		<text>El fusil de asalto AK-103 es un derivado del AK-74M con una camara de 7.62x39mm, igual que el AKM y el AK-47. El AK-103 puede equiparse con una variedad de Miras que incluyen: laser, vision nocturna y Miras telescopicas, ademas de un supresor y el lanzagranadas GP-25. Utiliza componentes plasticos siempre que sea posible en lugar de madera o metal para reducir el peso. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despu&#233;s de modificarse) \n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_purple] • %c[ui_gray_2] Supresor ATG\n</text>
 	</string>
 	
 	<string id="st_wpn_ak104">
@@ -153,7 +153,7 @@
 		<text>AK-74N "EOTech"</text>
 	</string>
 	<string id="st_wpn_ak74_eot_descr">
-		<text>El AK-74 es un rifle de asalto de 5,45x45mm desarrollado a principios de la decada de 1970 por Mikhail Kalashnikov para reemplazar al AKM anterior. Fue introducido en 1974 y vio servicio por primera vez con las fuerzas sovieticas involucradas en el conflicto de Afganistan. El rifle AKM fue adaptado para disparar cartuchos m&#225;s peque&#241;os de 5,45 x 45mm y equipado con un gran freno de boca. Este modelo particular tiene una holomira EOTech integrada y una cargador de 45 rondas. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despues de modificarse) \n%c[d_purple] • %c[ui_gray_2] Mira EOTech (integrada)\n%c[d_purple] • %c[ui_gray_2] Supresor TGP-A\n</text>
+		<text>El AK-74 es un rifle de asalto de 5,45x45mm desarrollado a principios de la decada de 1970 por Mikhail Kalashnikov para reemplazar al AKM anterior. Fue introducido en 1974 y vio servicio por primera vez con las fuerzas sovieticas involucradas en el conflicto de Afganistan. El rifle AKM fue adaptado para disparar cartuchos m&#225;s peque&#241;os de 5,45 x 45mm y equipado con un gran freno de boca. Este modelo particular tiene una holomira EOTech integrada y una cargador de 45 rondas. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despu&#233;s de modificarse) \n%c[d_purple] • %c[ui_gray_2] Mira EOTech (integrada)\n%c[d_purple] • %c[ui_gray_2] Supresor TGP-A\n</text>
 	</string>
 	<string id="st_wpn_ak74_modern">
 		<text>AK-74N (moderno)</text>
@@ -162,13 +162,13 @@
 		<text>AK-74</text>
 	</string>
 	<string id="st_wpn_ak74_old_descr">
-		<text>El AK-74 es un rifle de asalto de 5,45x45mm desarrollado a principios de la decada de 1970 por Mikhail Kalashnikov para reemplazar al AKM anterior. Fue introducido en 1974 y vio servicio por primera vez con las fuerzas sovieticas involucradas en el conflicto de Afganistan. El rifle AKM fue adaptado para disparar cartuchos m&#225;s peque&#241;os de 5,45 x 45mm y equipado con un gran freno de boca. Esta variante en particular se ensamblo hace mucho tiempo.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despues de modificarse) \n%c[d_purple]  • %c[d_red] Mira: Ninguna debido a la ausencia de una montura tipo cola de milano\n%c[d_purple] • %c[ui_gray_2] Supresor TGP-A\n</text>
+		<text>El AK-74 es un rifle de asalto de 5,45x45mm desarrollado a principios de la decada de 1970 por Mikhail Kalashnikov para reemplazar al AKM anterior. Fue introducido en 1974 y vio servicio por primera vez con las fuerzas sovieticas involucradas en el conflicto de Afganistan. El rifle AKM fue adaptado para disparar cartuchos m&#225;s peque&#241;os de 5,45 x 45mm y equipado con un gran freno de boca. Esta variante en particular se ensamblo hace mucho tiempo.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despu&#233;s de modificarse) \n%c[d_purple]  • %c[d_red] Mira: Ninguna debido a la ausencia de una montura tipo cola de milano\n%c[d_purple] • %c[ui_gray_2] Supresor TGP-A\n</text>
 	</string>
 	<string id="st_wpn_ak74_rusty">
 		<text>AK-74N (oxidado)</text>
 	</string>
 	<string id="st_wpn_ak74_rusty_descr">
-		<text>El AK-74 es un rifle de asalto de 5,45x45mm desarrollado a principios de la decada de 1970 por Mikhail Kalashnikov para reemplazar al AKM anterior. Fue introducido en 1974 y vio servicio por primera vez con las fuerzas sovieticas involucradas en el conflicto de Afganistan. El rifle AKM fue adaptado para disparar cartuchos m&#225;s peque&#241;os de 5,45 x 45mm y equipado con un gran freno de boca. Este modelo parece estar muy oxidado y ser poco confiable.\n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despues de modificarse) \n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1\n%c[d_purple] • %c[d_red] Montar un supresor no es posible\n</text>
+		<text>El AK-74 es un rifle de asalto de 5,45x45mm desarrollado a principios de la decada de 1970 por Mikhail Kalashnikov para reemplazar al AKM anterior. Fue introducido en 1974 y vio servicio por primera vez con las fuerzas sovieticas involucradas en el conflicto de Afganistan. El rifle AKM fue adaptado para disparar cartuchos m&#225;s peque&#241;os de 5,45 x 45mm y equipado con un gran freno de boca. Este modelo parece estar muy oxidado y ser poco confiable.\n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despu&#233;s de modificarse) \n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1\n%c[d_purple] • %c[d_red] Montar un supresor no es posible\n</text>
 	</string>
 	<string id="st_wpn_ak74_worn">
 		<text>AEK-971 (desgastado)</text>
@@ -187,7 +187,7 @@
 		<text>AK-74M (personalizado)</text>
 	</string>
 	<string id="st_wpn_ak74m_descr">
-		<text>En 1991, la fabrica de Izhmash comenzo a producir un AK-74 mejorado: el rifle de asalto AK-74M. Ademas de varias mejoras menores de producci&#243;n, el rifle tambien presenta una nueva culata sintetica plegable hecha de una poliamida negra con relleno de vidrio. El AK-74M tambien utiliza un dispositivo de boca reforzado y una cubierta antipolvo. Cada AK-74M esta equipado con un soporte de riel lateral para el montaje de la optica. El AK-74M ha sido aceptado como el nuevo rifle de servicio de la Federacion de Rusia. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despues de modificarse) \n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_purple] • %c[ui_gray_2] Supresor TGP-A\n \n</text>
+		<text>En 1991, la fabrica de Izhmash comenzo a producir un AK-74 mejorado: el rifle de asalto AK-74M. Ademas de varias mejoras menores de producci&#243;n, el rifle tambien presenta una nueva culata sintetica plegable hecha de una poliamida negra con relleno de vidrio. El AK-74M tambien utiliza un dispositivo de boca reforzado y una cubierta antipolvo. Cada AK-74M esta equipado con un soporte de riel lateral para el montaje de la optica. El AK-74M ha sido aceptado como el nuevo rifle de servicio de la Federacion de Rusia. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despu&#233;s de modificarse) \n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_purple] • %c[ui_gray_2] Supresor TGP-A\n \n</text>
 	</string>
 	<string id="st_wpn_ak74m_duty">
 		<text>AK-74M (camuflaje Deber)</text>
@@ -196,7 +196,7 @@
 		<text>AK-74M PK-A</text>
 	</string>
 	<string id="st_wpn_ak74m_pk-a_descr">
-		<text>En 1991, la fabrica de Izhmash comenzo a producir un AK-74 mejorado: el rifle de asalto AK-74M. Ademas de varias mejoras menores de producci&#243;n, el rifle tambien presenta una nueva culata sintetica plegable hecha de una poliamida negra con relleno de fibra vidrio. El AK-74M tambien utiliza un dispositivo de boca reforzado y una cubierta antipolvo. Cada AK-74M esta equipado con un soporte de riel lateral para el montaje de la optica. El AK-74M ha sido aceptado como el nuevo rifle de servicio de la Federacion Rusa. Este modelo tiene una mira PK-A instalada en el soporte optico MTK-83. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despues de modificarse) \n%c[d_purple] • %c[ui_gray_2] Mira de punto rojo PK-A (integrada) \n%c[d_purple] • %c[ui_gray_2] Supresor TGP-A</text>
+		<text>En 1991, la fabrica de Izhmash comenzo a producir un AK-74 mejorado: el rifle de asalto AK-74M. Ademas de varias mejoras menores de producci&#243;n, el rifle tambien presenta una nueva culata sintetica plegable hecha de una poliamida negra con relleno de fibra vidrio. El AK-74M tambien utiliza un dispositivo de boca reforzado y una cubierta antipolvo. Cada AK-74M esta equipado con un soporte de riel lateral para el montaje de la optica. El AK-74M ha sido aceptado como el nuevo rifle de servicio de la Federacion Rusa. Este modelo tiene una mira PK-A instalada en el soporte optico MTK-83. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despu&#233;s de modificarse) \n%c[d_purple] • %c[ui_gray_2] Mira de punto rojo PK-A (integrada) \n%c[d_purple] • %c[ui_gray_2] Supresor TGP-A</text>
 	</string>
 	<string id="st_wpn_ak74m_worn">
 		<text>AK-74M (desgastado)</text>
@@ -240,7 +240,7 @@
 		<text>AKMN</text>
 	</string>
 	<string id="st_wpn_akm_descr">
-		<text>El AKM es un rifle de asalto de 7.62x39mm dise&#241;ado por Mikhail Kalashnikov. Es una version mejorada del rifle AK-47 y se desarrollo en la decada de 1950. Introducido al Ejercito Rojo en 1959, el AKM es la variante m&#225;s omnipresente de la serie de armas de fuego AK y ha encontrado un uso generalizado con los antiguos estados del Pacto de Varsovia y sus numerosos aliados africanos y asiaticos. La producci&#243;n de fusiles AKM se llevo a cabo en el Tula Arsenal e Izhevsk Mechanical Works. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor PBS-1 \n%c[d_purple]  • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despues de modificarse)\n</text>
+		<text>El AKM es un rifle de asalto de 7.62x39mm dise&#241;ado por Mikhail Kalashnikov. Es una version mejorada del rifle AK-47 y se desarrollo en la decada de 1950. Introducido al Ejercito Rojo en 1959, el AKM es la variante m&#225;s omnipresente de la serie de armas de fuego AK y ha encontrado un uso generalizado con los antiguos estados del Pacto de Varsovia y sus numerosos aliados africanos y asiaticos. La producci&#243;n de fusiles AKM se llevo a cabo en el Tula Arsenal e Izhevsk Mechanical Works. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor PBS-1 \n%c[d_purple]  • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despu&#233;s de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_akm_worn">
 		<text>AKMN (desgastado)</text>
@@ -253,7 +253,7 @@
 		<text>AKMSN (alternativo)</text>
 	</string>
 	<string id="st_wpn_akms_descr">
-		<text>Una variante del AKM, equipado con una culata de metal debajo del plegado en lugar de la culata de madera fija. El stock de metal del AKMS es algo diferente del stock plegable del modelo AK-47 anterior, ya que tiene un mecanismo de bloqueo modificado, que bloquea ambos brazos de soporte del stock de AKMS en lugar de solo uno. \n \n% c [ui_gray_2 ]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor PBS-1 \n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despues de modificarse)\n</text>
+		<text>Una variante del AKM, equipado con una culata de metal debajo del plegado en lugar de la culata de madera fija. El stock de metal del AKMS es algo diferente del stock plegable del modelo AK-47 anterior, ya que tiene un mecanismo de bloqueo modificado, que bloquea ambos brazos de soporte del stock de AKMS en lugar de solo uno. \n \n% c [ui_gray_2 ]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor PBS-1 \n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despu&#233;s de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_akms_worn">
 		<text>AKMSN (desgastado)</text>
@@ -263,13 +263,13 @@
 		<text>AKS-47</text>
 	</string>
 	<string id="st_wpn_aks_descr">
-		<text>Una variante del AK-47, equipada con una culata de metal debajo del hombro plegable en lugar de la culata de madera fija. Fue dise&#241;ado para su uso dentro de veh&#237;culos blindados y paracaidistas. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor PBS-1 \n%c[d_purple]  • %c[d_red] Sin mira debido a la ausencia de un montaje en cola de milano\n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despues de modificarse)\n </text>
+		<text>Una variante del AK-47, equipada con una culata de metal debajo del hombro plegable en lugar de la culata de madera fija. Fue dise&#241;ado para su uso dentro de veh&#237;culos blindados y paracaidistas. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor PBS-1 \n%c[d_purple]  • %c[d_red] Sin mira debido a la ausencia de un montaje en cola de milano\n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despu&#233;s de modificarse)\n </text>
 	</string>
 	<string id="st_wpn_aks74">
 		<text>AKS-74N</text>
 	</string>
 	<string id="st_wpn_aks74_descr">
-		<text>Un rifle m&#225;s preciso y confiable que el AKM, el AK-74 todavia es utilizado por la mayoria de los paises de la antigua URSS. El AKS-74 es la version de stock plegable de AK-74 y su stock tiene una forma triangular y carece de la almohadilla de hombro plegable del AKMS y se pliega hacia el lado izquierdo del receptor.\n \n%c[ui_gray_2]ACCESORIOS : \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despues de modificarse) \n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_purple] • %c[ui_gray_2] Supresor TGP-A\n</text>
+		<text>Un rifle m&#225;s preciso y confiable que el AKM, el AK-74 todavia es utilizado por la mayoria de los paises de la antigua URSS. El AKS-74 es la version de stock plegable de AK-74 y su stock tiene una forma triangular y carece de la almohadilla de hombro plegable del AKMS y se pliega hacia el lado izquierdo del receptor.\n \n%c[ui_gray_2]ACCESORIOS : \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despu&#233;s de modificarse) \n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_purple] • %c[ui_gray_2] Supresor TGP-A\n</text>
 	</string>
 	<string id="st_wpn_aks74_new">
 		<text>AKS-74N (nuevo)</text>
@@ -278,7 +278,7 @@
 		<text>AKS-74N (oxidado)</text>
 	</string>
 	<string id="st_wpn_aks74_rusty_descr">
-		<text>Un rifle m&#225;s preciso y confiable que el AKM, el AK-74 todavia es utilizado por la mayoria de los paises de la antigua URSS. El AKS-74 es la version de stock plegable de AK-74 y su stock tiene una forma triangular y carece de la almohadilla de hombro plegable del AKMS y se pliega hacia el lado izquierdo del receptor. Este modelo esta oxidado y, por lo tanto, no es muy confiable.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despues de modificarse) \n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_purple]  • %c[d_red] Imposible montar un supresor\n</text>
+		<text>Un rifle m&#225;s preciso y confiable que el AKM, el AK-74 todavia es utilizado por la mayoria de los paises de la antigua URSS. El AKS-74 es la version de stock plegable de AK-74 y su stock tiene una forma triangular y carece de la almohadilla de hombro plegable del AKMS y se pliega hacia el lado izquierdo del receptor. Este modelo esta oxidado y, por lo tanto, no es muy confiable.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Lanzagranadas GP-25 (despu&#233;s de modificarse) \n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_purple]  • %c[d_red] Imposible montar un supresor\n</text>
 	</string>
 	<string id="st_wpn_aks74_worn">
 		<text>AKS-74N (desgastado)</text>
@@ -329,7 +329,7 @@
 		<text>Beretta 92F (camuflada)</text>
 	</string>
 	<string id="st_wpn_beretta_descr">
-		<text>La 92F es quizas mejor conocida como la pistola estandar de las Fuerzas Armadas de EE. UU., Reemplazando a la legendaria M1911. Es un arma de recamara cerrada, operada con retroceso corto, con un marco de aluminio y un ca&#241;on cromado duro. Una arma popular adoptada por varios paises, es especialmente popular entre los delincuentes por sus rondas de gran potencia y su cargador de alta capacidad. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor 9x19 compatible (despues de modificarse)\n</text>
+		<text>La 92F es quizas mejor conocida como la pistola estandar de las Fuerzas Armadas de EE. UU., Reemplazando a la legendaria M1911. Es un arma de recamara cerrada, operada con retroceso corto, con un marco de aluminio y un ca&#241;on cromado duro. Una arma popular adoptada por varios paises, es especialmente popular entre los delincuentes por sus rondas de gran potencia y su cargador de alta capacidad. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor 9x19 compatible (despu&#233;s de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_beretta_modern">
 		<text>Beretta 92F (moderna)</text>
@@ -399,25 +399,25 @@
 		<text>Colt M1911 (camuflado)</text>
 	</string>
 	<string id="st_wpn_colt1911_camo_descr">
-		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros d&#237;as. Este es un modelo &#250;nico con manchas rojas en color beige oscuro.\n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] .45 Supresor ACP (despues de modificarse)\n</text>
+		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros d&#237;as. Este es un modelo &#250;nico con manchas rojas en color beige oscuro.\n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] .45 Supresor ACP (despu&#233;s de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_colt1911_custom">
 		<text>Colt M1911 (personalizado)</text>
 	</string>
 	<string id="st_wpn_colt1911_descr">
-		<text>El M1911 el arma corta estandar del ejercito de los EE. UU. Desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta el d&#237;a de hoy. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor .45 ACP (despues de modificarse)\n</text>
+		<text>El M1911 el arma corta estandar del ejercito de los EE. UU. Desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta el d&#237;a de hoy. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor .45 ACP (despu&#233;s de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_colt1911_duty">
 		<text>Colt M1911 (camuflaje Deber)</text>
 	</string>
 	<string id="st_wpn_colt1911_duty_descr">
-		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros d&#237;as. Esta variante tiene una caracteristica distintiva: es m&#225;s potente que la normal. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] .45 Supresor ACP (despues de modificarse)\n</text>
+		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros d&#237;as. Esta variante tiene una caracteristica distintiva: es m&#225;s potente que la normal. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] .45 Supresor ACP (despu&#233;s de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_colt1911_merc">
 		<text>Colt M1911 (camuflaje Mercenario)</text>
 	</string>
 	<string id="st_wpn_colt1911_merc_descr">
-		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros d&#237;as. Este modelo es considerablemente m&#225;s confiable y preciso. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor .45 ACP (despues de modificarse)\n</text>
+		<text>El M1911 el arma corta estandar del ejercito estadounidense desde 1911 hasta 1985. Un arma extremadamente confiable y robusta, se ha adoptado para uso militar, policial y civil en todo el mundo y sigue siendo un arma de fuego muy popular hasta nuestros d&#237;as. Este modelo es considerablemente m&#225;s confiable y preciso. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor .45 ACP (despu&#233;s de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_colt1911_modern">
 		<text>Colt M1911 (moderno)</text>
@@ -567,7 +567,7 @@
 		<text>G36</text>
 	</string>
 	<string id="st_wpn_g36_descr">
-		<text>El Hamp; K G-36 era conocido como el proyecto HK-50 a principios de la decada de 1990. Despues de la cancelacion de los proyectos G11 y G41, el Bundeswehr se quedo con los rifles G3 obsoletos; Amplificador Heckler; Koch estaba preparado para desarrollar un nuevo rifle de asalto tanto para el ejercito aleman como para la exportacion. El nuevo rifle de asalto de 5.56x45mm fue adoptado por la Bundeswehr en 1995 y tambien llego a manos de varias agencias de aplicacion de la ley en todo el mundo, incluida la policia britanica y algunos departamentos de policia estadounidenses. Hasta ahora, ha habido muy pocas quejas sobre este rifle. Los m&#225;s comunes son el sobrecalentamiento de los protectores durante el fuego sostenido y la perdida de cero en el alcance incorporado de los rifles G36KE. Algunos soldados alemanes tambien se quejaron de la posicion de las miras opticas duales y de que se empanen facilmente con mal tiempo. De lo contrario, es preciso, confiable y simple en mantenimiento.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor 5.56x45 compatible\n</text>
+		<text>El Hamp; K G-36 era conocido como el proyecto HK-50 a principios de la decada de 1990. Despu&#233;s de la cancelacion de los proyectos G11 y G41, el Bundeswehr se quedo con los rifles G3 obsoletos; Amplificador Heckler; Koch estaba preparado para desarrollar un nuevo rifle de asalto tanto para el ejercito aleman como para la exportacion. El nuevo rifle de asalto de 5.56x45mm fue adoptado por la Bundeswehr en 1995 y tambien llego a manos de varias agencias de aplicacion de la ley en todo el mundo, incluida la policia britanica y algunos departamentos de policia estadounidenses. Hasta ahora, ha habido muy pocas quejas sobre este rifle. Los m&#225;s comunes son el sobrecalentamiento de los protectores durante el fuego sostenido y la perdida de cero en el alcance incorporado de los rifles G36KE. Algunos soldados alemanes tambien se quejaron de la posicion de las miras opticas duales y de que se empanen facilmente con mal tiempo. De lo contrario, es preciso, confiable y simple en mantenimiento.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor 5.56x45 compatible\n</text>
 	</string>
 	<string id="st_wpn_g36_camo">
 		<text>G36 (camuflado)</text>
@@ -620,7 +620,7 @@
 		<text>Galil AR (personalizado)</text>
 	</string>
 	<string id="st_wpn_galil_descr">
-		<text>Formalmente aceptado en servicio con las FDI en 1972, el IMI Galil esta dise&#241;ado para operar en condiciones aridas y se basa en el RK 62 finlandes, que se deriva del AK-47 sovietico. El Galil destaca por su fiabilidad en condiciones de combate y facilidad de mantenimiento. Tiene una linea con camara para 5.56x45mm y una para 7.62x51mm. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor PBS-1 \n%c[d_purple] • %c[ui_gray_2] Mira Galil 4x (despues de modificarse)\n</text>
+		<text>Formalmente aceptado en servicio con las FDI en 1972, el IMI Galil esta dise&#241;ado para operar en condiciones aridas y se basa en el RK 62 finlandes, que se deriva del AK-47 sovietico. El Galil destaca por su fiabilidad en condiciones de combate y facilidad de mantenimiento. Tiene una linea con camara para 5.56x45mm y una para 7.62x51mm. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor PBS-1 \n%c[d_purple] • %c[ui_gray_2] Mira Galil 4x (despu&#233;s de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_galil_modern">
 		<text>Galil AR (moderno)</text>
@@ -643,13 +643,13 @@
 		<text>Glock 19 (personalizado)</text>
 	</string>
 	<string id="st_wpn_glock_descr">
-		<text>El Glock 19 es una version m&#225;s peque&#241;a del Glock 17. Su tamano reducido hizo que el Glock 19 fuera m&#225;s facil de ocultar y transportar por las fuerzas militares y policiales. La pistola fue lanzada por Glock GbmH de Austria en 1988. Cuando se compara con la Glock 17, la Glock 19 retiene el peso de su deslizador para controlar la operacion de retroceso y al mismo tiempo acorta el agarre y el ca&#241;on. Muchos componentes del Glock 19 se hicieron intercambiables con el Glock 17, incluida el cargador. En pocas palabras, el Glock 19 es una version compacta del 17. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor GemTech (despues de modificarse)</text>
+		<text>El Glock 19 es una version m&#225;s peque&#241;a del Glock 17. Su tamano reducido hizo que el Glock 19 fuera m&#225;s facil de ocultar y transportar por las fuerzas militares y policiales. La pistola fue lanzada por Glock GbmH de Austria en 1988. Cuando se compara con la Glock 17, la Glock 19 retiene el peso de su deslizador para controlar la operacion de retroceso y al mismo tiempo acorta el agarre y el ca&#241;on. Muchos componentes del Glock 19 se hicieron intercambiables con el Glock 17, incluida el cargador. En pocas palabras, el Glock 19 es una version compacta del 17. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor GemTech (despu&#233;s de modificarse)</text>
 	</string>
 	<string id="st_wpn_glock_modern">
 		<text>Glock 19 (alternativo)</text>
 	</string>
 	<string id="st_wpn_glock_modern_descr">
-		<text>El Glock 19 es una version m&#225;s peque&#241;a del Glock 17. Su tamano reducido hizo que el Glock 19 fuera m&#225;s facil de ocultar y transportar por las fuerzas militares y policiales. La pistola fue lanzada por Glock GbmH de Austria en 1988. Cuando se compara con la Glock 17, la Glock 19 retiene el peso de su deslizador para controlar la operacion de retroceso y al mismo tiempo acorta el agarre y el ca&#241;on. Muchos componentes del Glock 19 se hicieron intercambiables con el Glock 17, incluida el cargador. En pocas palabras, el Glock 19 es una version compacta del 17. Este modelo tiene un modo de disparo automatico opcional. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor GemTech (despues de modificarse)</text>
+		<text>El Glock 19 es una version m&#225;s peque&#241;a del Glock 17. Su tamano reducido hizo que el Glock 19 fuera m&#225;s facil de ocultar y transportar por las fuerzas militares y policiales. La pistola fue lanzada por Glock GbmH de Austria en 1988. Cuando se compara con la Glock 17, la Glock 19 retiene el peso de su deslizador para controlar la operacion de retroceso y al mismo tiempo acorta el agarre y el ca&#241;on. Muchos componentes del Glock 19 se hicieron intercambiables con el Glock 17, incluida el cargador. En pocas palabras, el Glock 19 es una version compacta del 17. Este modelo tiene un modo de disparo automatico opcional. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor GemTech (despu&#233;s de modificarse)</text>
 	</string>
 	<string id="st_wpn_glock_worn">
 		<text>Glock 19 (desgastado)</text>
@@ -705,7 +705,7 @@
 		<text>Browning Hi-Power (alternativo)</text>
 	</string>
 	<string id="st_wpn_hpsa_descr">
-		<text>La Browning Hi-Power es una pistola semiautom&#225;tica de 9 mm de acci&#243;n simple. Se basa en las ideas del inventor de armas de fuego americanas John Browning, creadas y patentadas en 1922, posteriormente patentadas por FN Herstal. Browning muri&#243; en 1926, antes de que terminara de desarrollar una versi&#243;n de producci&#243;n, pero el dise&#241;ador de armas de FN, Dieudonne Saive, la desarroll&#243; completamente. La pistola Hi-Power se destac&#243; por su capacidad de 13 balas, el doble de la de dise&#241;os contempor&#225;neos como la Luger o la Mauser 1910. Esta variante modificada de la pistola Browning HP, a pesar de su venerable antig&#252;edad, goza de popularidad en todo el mundo.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] supresor 9x19 compatible (despues de modificarse)\n</text>
+		<text>La Browning Hi-Power es una pistola semiautom&#225;tica de 9 mm de acci&#243;n simple. Se basa en las ideas del inventor de armas de fuego americanas John Browning, creadas y patentadas en 1922, posteriormente patentadas por FN Herstal. Browning muri&#243; en 1926, antes de que terminara de desarrollar una versi&#243;n de producci&#243;n, pero el dise&#241;ador de armas de FN, Dieudonne Saive, la desarroll&#243; completamente. La pistola Hi-Power se destac&#243; por su capacidad de 13 balas, el doble de la de dise&#241;os contempor&#225;neos como la Luger o la Mauser 1910. Esta variante modificada de la pistola Browning HP, a pesar de su venerable antig&#252;edad, goza de popularidad en todo el mundo.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] supresor 9x19 compatible (despu&#233;s de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_hpsa_rusty">
 		<text>Browning Hi-Power (oxidado)</text>
@@ -747,7 +747,7 @@
 		<text>L85A2 (moderno)</text>
 	</string>
 	<string id="st_wpn_l85a2_descr">
-		<text>El desarrollo del sistema SA80, que inclu&#237;a dos armas - el rifle de asalto SA80 IW y la ametralladora ligera SA80 LSW - comenz&#243; a finales de los a&#241;os sesenta cuando el ej&#233;rcito brit&#225;nico decidi&#243; desarrollar un nuevo rifle, para sustituir al antiguo SLR L1 de 7,62 x 51 mm de fabricaci&#243;n brit&#225;nica FN FAL. El arma individual est&#225;ndar de las fuerzas armadas brit&#225;nicas, el L85 (en su versi&#243;n original A1) ten&#237;a numerosos problemas de rendimiento. El L85A2 mejorado es extremadamente fiable en una gama de climas para varios escenarios operacionales. Los actuales rifles L85A2 son reconocidos como fiables y precisos, especialmente cuando utilizan miras telesc&#243;picas est&#225;ndar de SUSAT.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Mira SUSAT 4x (integrada) \n%c[d_purple] • %c[ui_gray_2] Supresor 5.56x45 compatible (despues de modificarse)\n</text>
+		<text>El desarrollo del sistema SA80, que inclu&#237;a dos armas - el rifle de asalto SA80 IW y la ametralladora ligera SA80 LSW - comenz&#243; a finales de los a&#241;os sesenta cuando el ej&#233;rcito brit&#225;nico decidi&#243; desarrollar un nuevo rifle, para sustituir al antiguo SLR L1 de 7,62 x 51 mm de fabricaci&#243;n brit&#225;nica FN FAL. El arma individual est&#225;ndar de las fuerzas armadas brit&#225;nicas, el L85 (en su versi&#243;n original A1) ten&#237;a numerosos problemas de rendimiento. El L85A2 mejorado es extremadamente fiable en una gama de climas para varios escenarios operacionales. Los actuales rifles L85A2 son reconocidos como fiables y precisos, especialmente cuando utilizan miras telesc&#243;picas est&#225;ndar de SUSAT.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Mira SUSAT 4x (integrada) \n%c[d_purple] • %c[ui_gray_2] Supresor 5.56x45 compatible (despu&#233;s de modificarse)\n</text>
 	</string>
 	
 	<string id="st_wpn_l85">
@@ -766,7 +766,7 @@
 		<text>L85A1 (desgastado)</text>
 	</string>
 	<string id="st_wpn_l85_descr">
-		<text>El desarrollo del sistema SA80, que inclu&#237;a dos armas - el rifle de asalto SA80 IW y la ametralladora ligera SA80 LSW - comenz&#243; a finales de los a&#241;os sesenta cuando el ej&#233;rcito brit&#225;nico decidi&#243; desarrollar un nuevo rifle, para sustituir al antiguo SLR L1 de 7,62 x 51 mm de fabricaci&#243;n brit&#225;nica FN FAL. El arma individual est&#225;ndar de las fuerzas armadas brit&#225;nicas, el L85 (en su versi&#243;n original A1) ten&#237;a numerosos problemas de rendimiento. El L85A1 mejorado es extremadamente fiable en una gama de climas para varios escenarios operacionales. Los actuales rifles L85A1 son reconocidos como fiables y precisos, especialmente cuando utilizan miras telesc&#243;picas est&#225;ndar de SUSAT. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Mira SUSAT (integrada) \n%c[d_purple] • %c[ui_gray_2] Supresor 5.56x45 compatible (despues de modificarse)\n</text>
+		<text>El desarrollo del sistema SA80, que inclu&#237;a dos armas - el rifle de asalto SA80 IW y la ametralladora ligera SA80 LSW - comenz&#243; a finales de los a&#241;os sesenta cuando el ej&#233;rcito brit&#225;nico decidi&#243; desarrollar un nuevo rifle, para sustituir al antiguo SLR L1 de 7,62 x 51 mm de fabricaci&#243;n brit&#225;nica FN FAL. El arma individual est&#225;ndar de las fuerzas armadas brit&#225;nicas, el L85 (en su versi&#243;n original A1) ten&#237;a numerosos problemas de rendimiento. El L85A1 mejorado es extremadamente fiable en una gama de climas para varios escenarios operacionales. Los actuales rifles L85A1 son reconocidos como fiables y precisos, especialmente cuando utilizan miras telesc&#243;picas est&#225;ndar de SUSAT. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Mira SUSAT (integrada) \n%c[d_purple] • %c[ui_gray_2] Supresor 5.56x45 compatible (despu&#233;s de modificarse)\n</text>
 	</string>
 	
 	<string id="st_wpn_l96a1">
@@ -796,13 +796,13 @@
 		<text>LR-300ML (personalizado)</text>
 	</string>
 	<string id="st_wpn_lr300_descr">
-		<text>Basado en el AR-15, el LR 300 es un excelente sistema de armas adecuado para uso militar en combate cuerpo a cuerpo. Su esqueleto plegable lo hace ideal para entradas de edificios agresivos y r&#225;pidos que requieren un arma de fuego selectiva compacta pero poderosa. Con una excelente ergonom&#237;a y un peso ligero, esta arma es muy precisa pero es sensible a la suciedad y no es ideal para condiciones de campo dif&#237;ciles. Este modelo est&#225; cubierto de &#243;xido, lo que lo hace a&#250;n menos fiable en las duras condiciones de la Zona.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor 5.56x45 compatible \n%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech\n%c[d_purple] • %c[ui_gray_2] Lanzagranadas M203 (despues de modificarse)\n</text>
+		<text>Basado en el AR-15, el LR 300 es un excelente sistema de armas adecuado para uso militar en combate cuerpo a cuerpo. Su esqueleto plegable lo hace ideal para entradas de edificios agresivos y r&#225;pidos que requieren un arma de fuego selectiva compacta pero poderosa. Con una excelente ergonom&#237;a y un peso ligero, esta arma es muy precisa pero es sensible a la suciedad y no es ideal para condiciones de campo dif&#237;ciles. Este modelo est&#225; cubierto de &#243;xido, lo que lo hace a&#250;n menos fiable en las duras condiciones de la Zona.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor 5.56x45 compatible \n%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech\n%c[d_purple] • %c[ui_gray_2] Lanzagranadas M203 (despu&#233;s de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_lr300_rusty">
 		<text>LR-300ML (oxidado)</text>
 	</string>
 	<string id="st_wpn_lr300_rusty_descr">
-		<text>Basado en el AR-15, el LR 300 es un excelente sistema de armas adecuado para uso militar en combate cuerpo a cuerpo. Su esqueleto plegable lo hace ideal para entradas r&#225;pidas en edificios conflicticos que requieren un arma de fuego selectiva compacta pero poderosa. Con una excelente ergonom&#237;a y un peso ligero, esta arma es muy precisa pero es sensible a la suciedad y no es ideal para condiciones de campo dif&#237;ciles. Este modelo est&#225; cubierto de &#243;xido, lo que lo hace a&#250;n menos fiable en las duras condiciones de la Zona.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple]  • %c[d_red] Imposible montar un supresor\n%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech\n%c[d_purple] • %c[ui_gray_2] Lanzagranadas M203 (despues de modificarse)\n</text>
+		<text>Basado en el AR-15, el LR 300 es un excelente sistema de armas adecuado para uso militar en combate cuerpo a cuerpo. Su esqueleto plegable lo hace ideal para entradas r&#225;pidas en edificios conflicticos que requieren un arma de fuego selectiva compacta pero poderosa. Con una excelente ergonom&#237;a y un peso ligero, esta arma es muy precisa pero es sensible a la suciedad y no es ideal para condiciones de campo dif&#237;ciles. Este modelo est&#225; cubierto de &#243;xido, lo que lo hace a&#250;n menos fiable en las duras condiciones de la Zona.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple]  • %c[d_red] Imposible montar un supresor\n%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech\n%c[d_purple] • %c[ui_gray_2] Lanzagranadas M203 (despu&#233;s de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_lr300_worn">
 		<text>LR-300ML (desgastado)</text>
@@ -859,7 +859,7 @@
 		<text>M4A1 (personalizado)</text>
 	</string>
 	<string id="st_wpn_m4a1_descr">
-		<text>Ideal para el CQC (Close Quarters Combat, o Combate a corta distancia), la carabina M4A1 es una variante totalmente autom&#225;tica del rifle de asalto M16A2. En el uso militar, ha reemplazado en gran medida a las subfusiles que disparan cartuchos de pistola que son inadecuados contra los modernos chalecos antibalas. La M4A1 es una variante modificada de la carabina M4 capaz de disparar de forma autom&#225;tica o semiautom&#225;tica.\n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] 5.56x45 supresor compatible \n%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech\n%c[d_purple] • %c[ui_gray_2] Lanzagranadas M203 (despues de modificarse)\n</text>
+		<text>Ideal para el CQC (Close Quarters Combat, o Combate a corta distancia), la carabina M4A1 es una variante totalmente autom&#225;tica del rifle de asalto M16A2. En el uso militar, ha reemplazado en gran medida a las subfusiles que disparan cartuchos de pistola que son inadecuados contra los modernos chalecos antibalas. La M4A1 es una variante modificada de la carabina M4 capaz de disparar de forma autom&#225;tica o semiautom&#225;tica.\n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] 5.56x45 supresor compatible \n%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech\n%c[d_purple] • %c[ui_gray_2] Lanzagranadas M203 (despu&#233;s de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_m4a1_freedom">
 		<text>M4A1 (camuflaje de Libertad)</text>
@@ -879,7 +879,7 @@
 		<text>Barrett M98B "Bravo"</text>
 	</string>
 	<string id="st_wpn_m98b_descr">
-		<text>El Barrett M98B es un rifle de francotirador de cerrojo con c&#225;mara en la Lapua Mag .338. En lugar de modificar un rifle de caza, Barrett cre&#243; un dise&#241;o original para el M98B. El M98B cuenta con una culata y una almohadilla de mejillas ajustables para mayor comodidad, un gatillo ajustable para un control de disparo preferente, un monopodo trasero y un b&#237;pode delantero para mayor estabilidad. Los usuarios pueden modificar a&#250;n m&#225;s el rifle fijando miras, luces y agarraderas a sus rieles. El M98B tiene un dise&#241;o simple que facilita a los usuarios el desmontaje y la limpieza. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Mira Leupold Mark 4 (integrado) \n%c[d_purple] • %c[ui_gray_2] Supresor SR-25 (despues de modificarse)\n</text>
+		<text>El Barrett M98B es un rifle de francotirador de cerrojo con c&#225;mara en la Lapua Mag .338. En lugar de modificar un rifle de caza, Barrett cre&#243; un dise&#241;o original para el M98B. El M98B cuenta con una culata y una almohadilla de mejillas ajustables para mayor comodidad, un gatillo ajustable para un control de disparo preferente, un monopodo trasero y un b&#237;pode delantero para mayor estabilidad. Los usuarios pueden modificar a&#250;n m&#225;s el rifle fijando miras, luces y agarraderas a sus rieles. El M98B tiene un dise&#241;o simple que facilita a los usuarios el desmontaje y la limpieza. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Mira Leupold Mark 4 (integrado) \n%c[d_purple] • %c[ui_gray_2] Supresor SR-25 (despu&#233;s de modificarse)\n</text>
 	</string>
 	
 	<string id="st_wpn_mosin">
@@ -945,13 +945,13 @@
 		<text>MP5A3 (personalizado)</text>
 	</string>
 	<string id="st_wpn_mp5_descr">
-		<text>La MP5 es una de las armas de fuego m&#225;s famosas y extendidas de su clase. La compactibilidad, precisi&#243;n y fiabilidad de la MP5 la han convertido en la favorita de numerosas organizaciones militares, policiales, de inteligencia y de seguridad de todo el mundo. La MP5A3 est&#225; equipada con una culata met&#225;lica retr&#225;ctil. No es sorprendente que, habiendo inundado los mercados negros globales, finalmente se haya abierto camino hasta la Zona.\n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632\n%c[d_purple] • %c[ui_gray_2] supresor 9x19 compatible (despues de modificarse)\n</text>
+		<text>La MP5 es una de las armas de fuego m&#225;s famosas y extendidas de su clase. La compactibilidad, precisi&#243;n y fiabilidad de la MP5 la han convertido en la favorita de numerosas organizaciones militares, policiales, de inteligencia y de seguridad de todo el mundo. La MP5A3 est&#225; equipada con una culata met&#225;lica retr&#225;ctil. No es sorprendente que, habiendo inundado los mercados negros globales, finalmente se haya abierto camino hasta la Zona.\n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632\n%c[d_purple] • %c[ui_gray_2] supresor 9x19 compatible (despu&#233;s de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_mp5_nimble">
 		<text>MP5A3 "Frasier"</text>
 	</string>
 	<string id="st_wpn_mp5_nimble_descr">
-		<text>Un prototipo de subfusil basado en el excelente modelo MP5A3 de H&amp;K. Dise&#241;ada como un arma de combate cuerpo a cuerpo de &#250;ltima generaci&#243;n, se beneficia de un mayor calibre, velocidad de disparo y precisi&#243;n.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Mira ACOG, Barska ES AC10632 \n%c[d_purple] • %c[ui_gray_2] Supresor GemTech (despues de modificarse)\n</text>
+		<text>Un prototipo de subfusil basado en el excelente modelo MP5A3 de H&amp;K. Dise&#241;ada como un arma de combate cuerpo a cuerpo de &#250;ltima generaci&#243;n, se beneficia de un mayor calibre, velocidad de disparo y precisi&#243;n.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Mira ACOG, Barska ES AC10632 \n%c[d_purple] • %c[ui_gray_2] Supresor GemTech (despu&#233;s de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_mp5_worn">
 		<text>MP5A3 (desgastado)</text>
@@ -977,7 +977,7 @@
 		<text>OTs-33 "Pernach"</text>
 	</string>
 	<string id="st_wpn_oc33_descr">
-		<text>OTs-33 "Pernach" (maza multivanado en ruso) es una entrada reciente en la peque&#241;a clase de pistolas autom&#225;ticas rusas. La OTs-33 es un arma operada por retroceso que dispara el cartucho de la pistola Makarov de 9x18mm en modo autom&#225;tico y semiautom&#225;tico. La Pernach fue desarrollada en 1995 para reemplazar la pistola Stechkin APS en unidades paramilitares especiales. Dise&#241;ada en 1995 por Igor Stechkin en el TSKIB SOO, Oficina Central de Dise&#241;o de Armas Deportivas y de Caza, Tula, Rusia, el mismo dise&#241;ador que desarroll&#243; la APS.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor APS (despues de la modificaci&#243;n)\n</text>
+		<text>OTs-33 "Pernach" (maza multivanado en ruso) es una entrada reciente en la peque&#241;a clase de pistolas autom&#225;ticas rusas. La OTs-33 es un arma operada por retroceso que dispara el cartucho de la pistola Makarov de 9x18mm en modo autom&#225;tico y semiautom&#225;tico. La Pernach fue desarrollada en 1995 para reemplazar la pistola Stechkin APS en unidades paramilitares especiales. Dise&#241;ada en 1995 por Igor Stechkin en el TSKIB SOO, Oficina Central de Dise&#241;o de Armas Deportivas y de Caza, Tula, Rusia, el mismo dise&#241;ador que desarroll&#243; la APS.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor APS (despu&#233;s de la modificaci&#243;n)\n</text>
 	</string>
 	<string id="st_wpn_oc33_rusty">
 		<text>OTs-33 Pernach (oxidado)</text>
@@ -1320,7 +1320,7 @@
 		<text>SVD (personalizado)</text>
 	</string>
 	<string id="st_wpn_svd_descr">
-		<text>Originalmente destinado a tiradores designados en cada unidad basica de infanteria sovietica, el SVD Dragunov no fue dise&#241;ado para equipos de francotiradores especializados. Relativamente ligero para ser un rifle de francotirador pero bien equilibrado y con fuego semiautomatico, su precision es buena pero no excepcional. Tiene un alcance efectivo de hasta 800 metros. \n \n%c[ui_gray_2]ACCESORIOS: \n %c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1\n %c[d_purple] • %c[ui_gray_2] Supresor KZRZP (despues de modificarse)\n</text>
+		<text>Originalmente destinado a tiradores designados en cada unidad basica de infanteria sovietica, el SVD Dragunov no fue dise&#241;ado para equipos de francotiradores especializados. Relativamente ligero para ser un rifle de francotirador pero bien equilibrado y con fuego semiautomatico, su precision es buena pero no excepcional. Tiene un alcance efectivo de hasta 800 metros. \n \n%c[ui_gray_2]ACCESORIOS: \n %c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1\n %c[d_purple] • %c[ui_gray_2] Supresor KZRZP (despu&#233;s de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_svd_nimble">
 		<text>SVD "Lynx"</text>
@@ -1377,7 +1377,7 @@
 		<text>TOZ-194</text>
 	</string>
 	<string id="st_wpn_toz194_descr">
-		<text>La TOZ-194 es una escopeta de acci&#243;n de bomba de calibre 12 fabricada por la planta de armas de Tula. Dise&#241;ada durante los &#250;timos a&#241;os de la Union Sovietica, la fabricaci&#243;n de esta arma de fuego comenz&#243; despues de su colapso, y desde entonces ha ganado cierta popularidad entre los amantes de las armas en Rusia y en Europa y se informa que esta en uso con algunas fuerzas de seguridad rusas.\n</text>
+		<text>La TOZ-194 es una escopeta de acci&#243;n de bomba de calibre 12 fabricada por la planta de armas de Tula. Dise&#241;ada durante los &#250;timos a&#241;os de la Union Sovietica, la fabricaci&#243;n de esta arma de fuego comenz&#243; despu&#233;s de su colapso, y desde entonces ha ganado cierta popularidad entre los amantes de las armas en Rusia y en Europa y se informa que esta en uso con algunas fuerzas de seguridad rusas.\n</text>
 	</string>
 	<string id="st_wpn_toz194_rusty">
 		<text>TOZ-194 (oxidado)</text>
@@ -1489,19 +1489,19 @@
 		<text>USP45 (personalizado)</text>
 	</string>
 	<string id="st_wpn_usp_descr">
-		<text>Originalmente dise&#241;ada para el mercado estadounidense, la USP, la pistola universal de carga automatica, se conoce como una pistola precisa y confiable. La aplicaci&#243;n de la ley y el ejercito de los Estados Unidos proporcionaron gran parte de los criterios de dise&#241;o para la USP. Los controles son exclusivamente estadounidenses, influenciados por dise&#241;os famosos como la pistola Government Model 1911. Todos los USP usan un armaz&#243;n de polimero reforzado con fibra endurecido por inserciones de acero inoxidable en areas expuestas a tension y friccion. Al incorporar varios elementos de dise&#241;o de pistola exitosos, el USP Compact .45 es parte de la familia de pistolas USP dise&#241;ada por Hamp; K. Capaz de soportar castigos extremos y condiciones adversas, es utilizada por la policia de varios paises y unidades de fuerzas especiales. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor .45 ACP. (despues de modificarse)</text>
+		<text>Originalmente dise&#241;ada para el mercado estadounidense, la USP, la pistola universal de carga automatica, se conoce como una pistola precisa y confiable. La aplicaci&#243;n de la ley y el ejercito de los Estados Unidos proporcionaron gran parte de los criterios de dise&#241;o para la USP. Los controles son exclusivamente estadounidenses, influenciados por dise&#241;os famosos como la pistola Government Model 1911. Todos los USP usan un armaz&#243;n de polimero reforzado con fibra endurecido por inserciones de acero inoxidable en areas expuestas a tension y friccion. Al incorporar varios elementos de dise&#241;o de pistola exitosos, el USP Compact .45 es parte de la familia de pistolas USP dise&#241;ada por Hamp; K. Capaz de soportar castigos extremos y condiciones adversas, es utilizada por la policia de varios paises y unidades de fuerzas especiales. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor .45 ACP. (despu&#233;s de modificarse)</text>
 	</string>
 	<string id="st_wpn_usp_match">
 		<text>USP Match</text>
 	</string>
 	<string id="st_wpn_usp_match_descr">
-		<text>Un USP mejorado a partir de un HK con caracteristicas distintivas que lo hacen m&#225;s atractivo. Con el ca&#241;on de la junta torica visto por primera vez en el Mark 23, el Match incluye un compensador que ayuda a reducir el retroceso relativamente suave de la 9x19. El Match tambien presenta rifles poligonales, un tope de gatillo y una mira trasera totalmente ajustable. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor GemTech (despues de modificarse)\n</text>
+		<text>Un USP mejorado a partir de un HK con caracteristicas distintivas que lo hacen m&#225;s atractivo. Con el ca&#241;on de la junta torica visto por primera vez en el Mark 23, el Match incluye un compensador que ayuda a reducir el retroceso relativamente suave de la 9x19. El Match tambien presenta rifles poligonales, un tope de gatillo y una mira trasera totalmente ajustable. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor GemTech (despu&#233;s de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_usp_nimble">
 		<text>USP "March"</text>
 	</string>
 	<string id="st_wpn_usp_nimble_descr">
-		<text>Una pistola compacta de gran calibre con movimiento de perno corto y un conjunto de perno liviano. Solia pertenecer a un mercenario llamado Wolfhound. Parece ser una pistola compacta USP modificada.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor GemTech (despues de modificarse)\n</text>
+		<text>Una pistola compacta de gran calibre con movimiento de perno corto y un conjunto de perno liviano. Solia pertenecer a un mercenario llamado Wolfhound. Parece ser una pistola compacta USP modificada.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor GemTech (despu&#233;s de modificarse)\n</text>
 	</string>
 	<string id="st_wpn_usp_worn">
 		<text>USP45 (desgastado)</text>
@@ -1679,7 +1679,7 @@
 		<text>Remington 700</text>
 	</string>
 	<string id="st_wpn_remington700_descr">
-		<text>Hay muchas opciones para un cartucho de rifle diferente. Cartucho estandar - 7.62x51mm OTAN (.308 Win). Tecnicamente, es un rifle de cargador con un perno giratorio deslizante longitudinalmente. La capacidad de almacenamiento depende del calibre y puede ser de 3 a 5. Es un producto superior de Remington Arms. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor KZRZP ( despues de modificarse)\n</text>
+		<text>Hay muchas opciones para un cartucho de rifle diferente. Cartucho estandar - 7.62x51mm OTAN (.308 Win). Tecnicamente, es un rifle de cargador con un perno giratorio deslizante longitudinalmente. La capacidad de almacenamiento depende del calibre y puede ser de 3 a 5. Es un producto superior de Remington Arms. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor KZRZP ( despu&#233;s de modificarse)\n</text>
 	</string>
 	
 	<string id="st_wpn_remington870">
@@ -1693,7 +1693,7 @@
 		<text>Walther WA 2000</text>
 	</string>
 	<string id="st_wpn_wa2000_descr">
-		<text>El Walther WA 2000 es un rifle de francotirador bullpup semiautomatico producido por la empresa Carl Walther GmbH Sportwaffen desde 1982 hasta 1988. Fue producido en tres calibres diferentes. La producci&#243;n del rifle fue limitada y se detuvo al poco tiempo porque era demasiado costosa para lograr ventas generalizadas y no lo suficientemente robusto para uso militar como rifle francotirador. Solo 176 fueron construidos debido a su alto costo, por lo que es una de las armas de fuego de producci&#243;n m&#225;s raras y buscadas, jamas fabricadas. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor KZRZP (despues de modificarse)\n</text>
+		<text>El Walther WA 2000 es un rifle de francotirador bullpup semiautomatico producido por la empresa Carl Walther GmbH Sportwaffen desde 1982 hasta 1988. Fue producido en tres calibres diferentes. La producci&#243;n del rifle fue limitada y se detuvo al poco tiempo porque era demasiado costosa para lograr ventas generalizadas y no lo suficientemente robusto para uso militar como rifle francotirador. Solo 176 fueron construidos debido a su alto costo, por lo que es una de las armas de fuego de producci&#243;n m&#225;s raras y buscadas, jamas fabricadas. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor KZRZP (despu&#233;s de modificarse)\n</text>
 	</string>
 	
 	<string id="st_wpn_apb">

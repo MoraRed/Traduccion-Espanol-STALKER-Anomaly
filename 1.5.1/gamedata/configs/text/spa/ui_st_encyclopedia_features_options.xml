@@ -115,11 +115,11 @@
 	</string>
 	
 	<string id="encyclopedia_features_options_helicopter_patrols">
-		<text>Patrullas de helicopteros</text>
+		<text>Patrullas de helic&#243;pteros</text>
 	</string>
 	<string id="encyclopedia_features_options_helicopter_patrols_text">
 		<text>
-			%c[d_cyan]Patrullas de helicopteros%c[ui_gray_2] permite a las facciones el uso de apoyo a&#233;reo para defender &#225;reas estrat&#233;gicas.\n \n%c[d_green]Informaci&#243;n%c[ui_gray_2]\n \nLas facciones que tienen aeronaves amigas patrullando en la zona podr&#225;n pedirles apoyo para atacar o defenderse de los stalkers enemigos (incluido t&#250;) y de los mutantes.\n \nA pesar de su apariencia intimidante, pueden ser f&#225;cilmente derribados despu&#233;s de recibir un ligero da&#241;o en el rotor de cola.\n \nEsta caracter&#237;stica se puede cambiar desde el men&#250; de opciones del juego y est&#225; activada por defecto.\n \n%c[d_green]Ubicaciones%c[ui_gray_2]\n \n• Agroprom\n• El Cordon\n• Paisaje Oscuro\n• Grandes Pantanos\n• Limansk
+			%c[d_cyan]Patrullas de helic&#243;pteros%c[ui_gray_2] permite a las facciones el uso de apoyo a&#233;reo para defender &#225;reas estrat&#233;gicas.\n \n%c[d_green]Informaci&#243;n%c[ui_gray_2]\n \nLas facciones que tienen aeronaves amigas patrullando en la zona podr&#225;n pedirles apoyo para atacar o defenderse de los stalkers enemigos (incluido t&#250;) y de los mutantes.\n \nA pesar de su apariencia intimidante, pueden ser f&#225;cilmente derribados despu&#233;s de recibir un ligero da&#241;o en el rotor de cola.\n \nEsta caracter&#237;stica se puede cambiar desde el men&#250; de opciones del juego y est&#225; activada por defecto.\n \n%c[d_green]Ubicaciones%c[ui_gray_2]\n \n• Agroprom\n• El Cordon\n• Paisaje Oscuro\n• Grandes Pantanos\n• Limansk
 		</text>
 	</string>
 	

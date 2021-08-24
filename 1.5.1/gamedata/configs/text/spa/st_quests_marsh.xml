@@ -340,7 +340,7 @@
 
 	<!-- DESTROY HELICOPTER FOR SPORE TASK -->
 	<string id="mar_base_owl_stalker_trader_task_2_name">
-		<text>Destruir el helicoptero</text>
+		<text>Destruir el helic&#243;ptero</text>
 	</string>
 	<string id="mar_base_owl_stalker_trader_task_2_text">
 		<text>Spore est&#225; harto y quiere que destruyas el helic&#243;ptero. Te ofrecer&#225; un descuento si sigues adelante.</text>
@@ -494,10 +494,10 @@
 	</string>
 	<!-- MARSH DOCTOR VISIT LABS -->
 	<string id="st_main_1_search_agr_ug_name">
-		<text>Investiga los Tuneles de Agroprom</text>
+		<text>Investiga los T&#250;neles de Agroprom</text>
 	</string>
 	<string id="st_main_1_search_agr_ug_text">
-		<text>Investiga los Tuneles de Agroprom y busca pruebas contundentes de una conspiraci&#243;n.</text>
+		<text>Investiga los T&#250;neles de Agroprom y busca pruebas contundentes de una conspiraci&#243;n.</text>
 	</string>
 	<string id="st_main_2_search_labx18_name">
 		<text>Investiga el Laboratorio X18</text>
@@ -524,10 +524,10 @@
 		<text>Investiga el Laboratorio X8 y busca pruebas contundentes de una conspiraci&#243;n.</text>
 	</string>
 	<string id="st_main_6_search_jup_ug_name">
-		<text>Investiga los Tuneles de J&#250;piter</text>
+		<text>Investiga los T&#250;neles de J&#250;piter</text>
 	</string>
 	<string id="st_main_6_search_jup_ug_text">
-		<text>Investiga los Tuneles de J&#250;piter y busca pruebas contundentes de una conspiraci&#243;n.</text>
+		<text>Investiga los T&#250;neles de J&#250;piter y busca pruebas contundentes de una conspiraci&#243;n.</text>
 	</string>
 	<string id="st_main_7_search_mon_con_name">
 		<text>Investiga la central Nuclear Chernobyl</text>
