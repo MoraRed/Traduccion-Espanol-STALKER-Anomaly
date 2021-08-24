@@ -62,7 +62,7 @@
 		<text>Recoge %s para Monolito</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_task_2_text">
-		<text>Conejo me ha pedido que le traiga %s.</text>
+		<text>Conejo me pidi&#243; que le traiga %s.</text>
 	</string>
 	<string id="drx_sl_pri_monolith_monolith_trader_stalker_task_2_about">
 		<text>Hijo m&#237;o, tus hermanos necesitan que recolectes provisiones.</text>
@@ -211,7 +211,7 @@
 		<text>Debes recuperar el $item_2 que encontraste y mostr&#225;rselo a Olivar.</text>
 	</string>
 	<string id="drx_sl_trader_monolith_kbo_task_2_text_4">
-		<text>Vuelve a Olivar con tus hallazgos.</text>
+		<text>Vuelve con Olivar con tus hallazgos.</text>
 	</string>
 	<string id="drx_sl_trader_monolith_kbo_task_2_about">
 		<text>Tengo una misi&#243;n importante para ti, hermano. Hemos enviado un escuadr&#243;n de nuestros exploradores para observar actividades inusuales en el &#225;rea. Ha pasado un d&#237;a y no se les encuentra por ning&#250;n lado. &#161;Su fracaso nos ha avergonzado a todos! Depende de nosotros ver si todav&#237;a pueden ser redimidos. Aqu&#237;, esta es la frecuencia de la se&#241;al de la PDA de uno de los exploradores. Rastr&#233;ala y descubre qu&#233; les ha pasado.</text>
@@ -554,7 +554,7 @@
 		<text>Destruir al Enemigo</text>
 	</string>
 	<string id="lider_monolith_haron_task_1_text">
-		<text>Charon me ha pedido que libere una posici&#243;n clave en la Zona.</text>
+		<text>Charon me pidi&#243; que libere una posici&#243;n clave en la Zona.</text>
 	</string>
 	<string id="lider_monolith_haron_task_1_about">
 		<text>Hermano m&#237;o, se necesita tu ayuda para destruir a los infieles.</text>
@@ -584,7 +584,7 @@
 		<text>Consigue %s</text>
 	</string>
 	<string id="merc_pri_grifon_mlr_task_1_text">
-		<text>Griffin me ha pedido que le encuentre %s.</text>
+		<text>Griffin me pidi&#243; que le encuentre %s.</text>
 	</string>
 	<string id="merc_pri_grifon_mlr_task_1_about">
 		<text>Hay demasiados fan&#225;ticos merodeando por ah&#237; como para que trabajemos eficientemente. Me gustar&#237;a que tu les hicieras sangrar la nariz, hacerlos retroceder un poco, y arrancarles los parches como prueba. Tengo un gran fajo de dinero escondido por aqu&#237; en alguna parte. Es tuyo si me traes %s.</text>
@@ -600,7 +600,7 @@
 		<text>Encuentra un Artefacto Alma</text>
 	</string>
 	<string id="merc_pri_grifon_mlr_task_2_text">
-		<text>Griffin me ha pedido que le lleve un artefacto Alma.</text>
+		<text>Griffin me pidi&#243; que le lleve un artefacto Alma.</text>
 	</string>
 	<string id="merc_pri_grifon_mlr_task_2_fetch_about">
 		<text>No hay ning&#250;n doctor aqu&#237;, y tenemos que sobrevivir de alguna manera. El equipo m&#233;dico ordinario no es suficiente para nosotros, y no muchos de los hombres saben c&#243;mo usarlo correctamente. Ya es bastante dif&#237;cil cuidar de todos por aqu&#237;. As&#237; que quiero pedirles ayuda. He o&#237;do hablar de un artefacto llamado Alma, que se dice que tiene la capacidad de curar las heridas de la gente. &#191;Podr&#237;as encontrar uno y traernoslo?</text>
@@ -628,7 +628,7 @@
 		<text>Encuentra %s para los Mecanicos Mercenarios en las Afueras</text>
 	</string>
 	<string id="merc_pri_a18_mech_mlr_task_1_text">
-		<text>Un t&#233;cnico mercenario de las afueras me ha pedido que busque %s.</text>
+		<text>Un t&#233;cnico mercenario de las afueras me pidi&#243; que busque %s.</text>
 	</string>
 	<string id="merc_pri_a18_mech_mlr_task_1_about">
 		<text>Hemos estado sentados sobre nuestros traseros aqu&#237; en Pripyat durante mucho tiempo... Seguramente, has escuchado nuestra historia de Griffin. He buscado por todas partes herramientas, pero s&#243;lo he encontrado las de bajo nivel que no son adecuadas para un mantenimiento y personalizaci&#243;n grandes. Esto es indignante. Soy un t&#233;cnico, y necesito las herramientas adecuadas para trabajar de forma &#243;ptima. &#191;Puedes ayudarme?</text>
@@ -644,7 +644,7 @@
 		<text>Encuentra %s para los Mecanicos Mercenarios en las Afueras</text>
 	</string>
 	<string id="merc_pri_a18_mech_mlr_task_2_text">
-		<text>Un t&#233;cnico mercenario de las afueras me ha pedido que busque %s.</text>
+		<text>Un t&#233;cnico mercenario de las afueras me pidi&#243; que busque %s.</text>
 	</string>
 	<string id="merc_pri_a18_mech_mlr_task_2_about">
 		<text>Bueno, hemos resuelto algunos problemas, pero a&#250;n queda mucho por hacer. Necesitamos mejores herramientas para m&#225;s actualizaciones. &#191;Te importar&#237;a ayudarnos de nuevo?</text>
@@ -662,7 +662,7 @@
 		<text>Encuentra %s para el mecanico Monolito</text>
 	</string>
 	<string id="mechanic_monolith_kbo_task_1_text">
-		<text>El t&#233;cnico del centro de servicio de Yubileiny me ha pedido que le traiga %s.</text>
+		<text>El t&#233;cnico del centro de servicio de Yubileiny me pidi&#243; que le traiga %s.</text>
 	</string>
 	<string id="mechanic_monolith_kbo_task_1_about">
 		<text>Necesito tu ayuda, hermano. Necesito herramientas para nuestro equipo para que nuestros hermanos puedan difundir la palabra del Monolito m&#225;s efectivamente.</text>
@@ -678,7 +678,7 @@
 		<text>Encuentra %s para el mecanico Monolito</text>
 	</string>
 	<string id="mechanic_monolith_kbo_task_2_text">
-		<text>El t&#233;cnico del centro de servicio de Yubileiny me ha pedido que le traiga %s.</text>
+		<text>El t&#233;cnico del centro de servicio de Yubileiny me pidi&#243; que le traiga %s.</text>
 	</string>
 	<string id="mechanic_monolith_kbo_task_2_about">
 		<text>El conjunto de herramientas que localiz&#243; anteriormente no es suficiente. Se necesitan herramientas m&#225;s especializadas para un trabajo m&#225;s complejo, para que nuestros hermanos puedan seguir difundiendo su voluntad. &#191;Servir&#225;s a nuestra causa una vez m&#225;s?</text>

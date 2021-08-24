@@ -669,7 +669,7 @@
 		<text>Consigue %s</text>
 	</string>
 	<string id="simulation_task_17_text">
-		<text>Uno de Libertad me ha pedido que recolecte %s.</text>
+		<text>Uno de Libertad me pidi&#243; que recolecte %s.</text>
 	</string>
 	<string id="simulation_task_17_about">
 		<text>Oye, t&#237;o, &#191;puedes reunir algunos parches de escorias Deber para m&#237;? Eso me ayudar&#225; a dormir m&#225;s tranquilo.</text>
@@ -686,7 +686,7 @@
 		<text>Consigue %s</text>
 	</string>
 	<string id="simulation_task_18_text">
-		<text>Uno de Deber me ha pedido que recolecte %s.</text>
+		<text>Uno de Deber me pidi&#243; que recolecte %s.</text>
 	</string>
 	<string id="simulation_task_18_about">
 		<text>&#191;Te apetece salir con unos cuantos anarquistas? Ha habido demasiados &#250;ltimamente. Tr&#225;eme sus parches como prueba, &#191;quieres?</text>
@@ -703,7 +703,7 @@
 		<text>Consigue %s</text>
 	</string>
 	<string id="simulation_task_19_text">
-		<text>Un stalker me ha pedido que encuentre %s.</text>
+		<text>Un stalker me pidi&#243; que encuentre %s.</text>
 	</string>
 	<string id="simulation_task_19_about">
 		<text>Hola hermano, &#191;quieres matar a algunos bastardos? Dame sus parchesitos y te dar&#233; un artefacto. &#191;Qu&#233; dices?</text>
@@ -720,7 +720,7 @@
 		<text>Consigue %s</text>
 	</string>
 	<string id="simulation_task_20_text">
-		<text>Un bandido me ha pedido que recolecte %s.</text>
+		<text>Un bandido me pidi&#243; que recolecte %s.</text>
 	</string>
 	<string id="simulation_task_20_about">
 		<text>Hola, muchacho. Tengo un trabajo para ti. Hay demasiados gamberros por ah&#237; interfiriendo con nuestro negocio. Elimina a algunos y tr&#225;eme sus parches, &#191;quieres?</text>
@@ -943,7 +943,7 @@
 		<text>Un monolito fue derrotado por un infiel. Debo destruirlos para que los infieles no empiecen a pensar que no deben temer al Monolito.</text>
 	</string>
 	<string id="simulation_task_34_about">
-		<text>Mi hermano, Conejo me ha pedido que mate a uno de los infieles por el bien del Monolito. Me temo que le he fallado, ya que no pude llegar al objetivo. &#191;Completar&#225;s mi tarea y arreglar&#225;s mi error?</text>
+		<text>Mi hermano, Conejo me pidi&#243; que mate a uno de los infieles por el bien del Monolito. Me temo que le he fallado, ya que no pude llegar al objetivo. &#191;Completar&#225;s mi tarea y arreglar&#225;s mi error?</text>
 	</string>
 	<string id="simulation_task_34_finish">
 		<text>Bien hecho. Es un honor servir al Todopoderoso Monolito junto a t&#237;.</text>
@@ -1026,7 +1026,7 @@
 		<text>Intercepta fuerzas enemigas</text>
 	</string>
 	<string id="simulation_task_40_text">
-		<text>Se me ha pedido que intercepte a las fuerzas enemigas que se mueven en el &#225;rea.</text>
+		<text>Se me pidi&#243; que intercepte a las fuerzas enemigas que se mueven en el &#225;rea.</text>
 	</string>
 	<string id="simulation_task_40_about">
 		<text>Unos bandidos se est&#225;n moviendo en el &#225;rea. Voy a alertar al comandante. Mantenlos alejados hasta que regrese.</text>
@@ -1440,7 +1440,7 @@
 		<text>Consigue %s</text>
 	</string>
 	<string id="simulation_task_62_text">
-		<text>Un Solitario me ha pedido que le traiga %s.</text>
+		<text>Un Solitario me pidi&#243; que le traiga %s.</text>
 	</string>
 	<string id="simulation_task_62_about">
 		<text>La Zona debe ser purificada de la suciedad que la inunda. Maten a la escoria y traeme sus parches.</text>

@@ -2,11 +2,11 @@
 
 <string_table>
   <string id="st_anabiotic_combat">
-      <text>Ser&#237;a inseguro tomar anamioticos con enermigos rondando cerca</text>
+      <text>Ser&#237;a inseguro tomar anamioticos con enemigos rondando cerca</text>
   </string>
 
    <string id="st_psy_death_scene">
-      <text>Has escapado de un destino peor que la muerte...</text>
+      <text>Escapaste de un destino peor que la muerte...</text>
   </string>
 
   <string id="st_psy_zombification_scene">

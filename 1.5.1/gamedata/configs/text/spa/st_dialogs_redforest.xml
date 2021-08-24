@@ -86,7 +86,7 @@
 		<text>Viejo, si la Zona me quiere en Limansk, llegare all&#237;. Te conviene ayudarme, a ver si te va a pasar algo malo.</text>
 	</string>
 	<string id="look_for_cs_history_part_2_1_7">
-		<text>... Vi algo en Scar: la Zona lo necesitaba. Tu, sin embargo... Si, me gustaria saber que le paso. Entonces, escuchame: ayudamos al destacamento mercenario a salir de la anomalia espacial. Una vez que todo estuvo arreglado, me hicieron una visita. Parece que uno de ellos se burlo de mi y les dijo que tambien particip&#233; en el rescate. Habl&#233; con su lider, Leshiy, quien me dio algunas provisiones, dinero y municiones, y luego siguio su camino. En sus propias palabras, se dirigio a los Almacenes Militares, a Libertad. Puedes ir a buscarlo alli, ha pasado mucho tiempo, pero a juzgar por nuestra conversacion, sus intenciones de unirse a ellos son serias.</text>
+		<text>... Vi algo en Scar: la Zona lo necesitaba. Tu, sin embargo... Si, me gustar&#237;a saber que le paso. Entonces, escuchame: ayudamos al destacamento mercenario a salir de la anomalia espacial. Una vez que todo estuvo arreglado, me hicieron una visita. Parece que uno de ellos se burlo de mi y les dijo que tambien particip&#233; en el rescate. Habl&#233; con su lider, Leshiy, quien me dio algunas provisiones, dinero y municiones, y luego siguio su camino. En sus propias palabras, se dirigio a los Almacenes Militares, a Libertad. Puedes ir a buscarlo all&#237;, ha pasado mucho tiempo, pero a juzgar por nuestra conversacion, sus intenciones de unirse a ellos son serias.</text>
 	</string>
 
 	
@@ -106,10 +106,10 @@
 	</string>
 
 	<string id="travel_guid_red_forest_mon_0">
-		<text>Me gustaria viajar a un sitio especifico.</text>
+		<text>Me gustar&#237;a viajar a un sitio especifico.</text>
 	</string>
 	<string id="travel_guid_red_forest_mon_1">
-		<text>Claro que si. &#191;A donde te gustaria que te llevaran los guias?</text>
+		<text>Claro que si. &#191;A donde te gustar&#237;a que te llevaran los guias?</text>
 	</string>
 	<string id="travel_guid_red_forest_mon_2">
 		<text>Al Bosque Rojo. %c[d_orange][5000 RU]</text>

@@ -207,7 +207,7 @@
 		<text>Investigaci&#243;n An&#243;mala</text>
 	</string>
 	<string id="yan_stalker_sakharov_task_2_text">
-		<text>El profesor Sakharov me ha pedido que encuentre un artefacto "%s" para ayudarlo con su investigaci&#243;n.</text>
+		<text>El profesor Sakharov me pidi&#243; que encuentre un artefacto "%s" para ayudarlo con su investigaci&#243;n.</text>
 	</string>
 	<string id="yan_stalker_sakharov_task_2_about">
 		<text>&#191;Quieres ayudarme con algunas investigaciones? Le pagar&#233; por sus esfuerzos.</text>
@@ -224,7 +224,7 @@
 		<text>Informacion Clasificada</text>
 	</string>
 	<string id="classified_information_task_text">
-		<text>El profesor me ha pedido que le consiga algunos documentos de investigaci&#243;n confidenciales.</text>
+		<text>El profesor me pidi&#243; que le consiga algunos documentos de investigaci&#243;n confidenciales.</text>
 	</string>
 	<string id="classified_information_task_about">
 		<text>Bandidos desconocidos abordaron a uno de nuestros equipos de investigaci&#243;n. Afortunadamente, parte de la expedici&#243;n regres&#243; con vida y bien. Desafortunadamente, tuvieron que dejar atr&#225;s una investigaci&#243;n algo sensible durante su huida.\n \nEn aras del progreso cient&#237;fico, as&#237; como del futuro bienestar de mis colegas, no deseo que estos datos se pierdan, o peor a&#250;n, que lleguen a manos del misterioso grupo que atac&#243; a mis investigadores. Por favor, ve a la memoria cach&#233; en estas coordenadas: si te das prisa, los documentos que deseo recuperar deber&#237;an estar todav&#237;a all&#237;. Por su discreci&#243;n, as&#237; como la entrega de estos documentos a mi oficina aqu&#237;, ofrezco un pago razonable. Como otra muestra de mi gratitud, tambi&#233;n puede ayudarse con los suministros que mi equipo haya dejado en ese almac&#233;n. </text>

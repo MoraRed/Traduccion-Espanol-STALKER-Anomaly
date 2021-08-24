@@ -12,7 +12,7 @@
 		<text>La carne no es la &#250;nica parte de los mutantes que puede ser valiosa. Algunos stalkers valoran partes espec&#237;ficas de los mutantes como trofeos o amuletos. Como un bonito collar de colmillos de pseudoperro o una esponjosa cola de gato colgando del cintur&#243;n. Cualquiera puede cazar a un mutante y llevar sus partes como s&#237;mbolo de logro, pero para crear objetos excepcionalmente espectaculares, &#161;se requiere verdadera habilidad! - Tr&#225;eme algunos trofeos y crear&#233; algunos accesorios con estilo a partir de ellos. &#191;Te apuntas?</text>
 	</string>
 	<string id="igi_task_text_hunter_gar_trader_task_arszi_fetch_trophy_finish">
-		<text>Has reunido buenos materiales. Bien hecho, cazador.</text>
+		<text>Reuniste buenos materiales. Bien hecho, cazador.</text>
 	</string>
 <!-- hunter_gar_trader_task_common_hide -->
 	<string id="igi_task_text_hunter_gar_trader_task_arszi_fetch_hide_title">
@@ -29,7 +29,7 @@
 		<text>La mejor piel - Encuentra una piel de pseudoperro psiquico para Carnicero</text>
 	</string>
     <string id="igi_task_text_hunter_gar_trader_task_arszi_fetch_psy_dog_fur_descr">
-		<text>Carnicero me ha pedido que le lleve una rara piel de perro ps&#237;quico.</text>
+		<text>Carnicero me pidi&#243; que le lleve una rara piel de perro ps&#237;quico.</text>
 	</string>
     <string id="igi_task_text_hunter_gar_trader_task_arszi_fetch_psy_dog_fur_job_descr">
 		<text>Hay una criatura que habita en lo m&#225;s profundo del coraz&#243;n de la Zona. Es una criatura bastante rara y no muchos stalkers sobreviven a un encuentro con ella. Su aullido te hiela la sangre y sus ojos ven tu mente y alma. Esta criatura le llaman 'perro ps&#237;quico', una criatura de belleza y muerte con un pelaje plateado &#250;nico. El pelaje m&#225;s fino que muchos cazadores anhelan. Tr&#225;eme una piel de uno, cazador.</text>
@@ -42,7 +42,7 @@
 		<text>Leyendas de la Zona - Encuentra un pico de cuervo mutado para Carnicero</text>
 	</string>
     <string id="igi_task_text_hunter_gar_trader_task_arszi_fetch_beak_descr">
-		<text>El carnicero me ha pedido que le traiga un raro pico mutado de cuervo.</text>
+		<text>El carnicero me pidi&#243; que le traiga un raro pico mutado de cuervo.</text>
 	</string>
     <string id="igi_task_text_hunter_gar_trader_task_arszi_fetch_beak_job_descr">
 		<text>Hay muchas leyendas sobre la Zona. Pero s&#243;lo hay unas pocas que nos interesan a nosotros, los cazadores. El pico m&#225;gico mutado de un cuervo viejo es una de estas leyendas. Algunos stalkers creen que si haces una bebida con &#233;l y la tomas, obtendr&#225;s habilidades sobrenaturales temporalmente. Esto significa, que hay algunos stalkers, que pagar&#237;an generosamente por eso. Tr&#225;eme un pico mutado de un cuervo viejo.</text>
@@ -55,7 +55,7 @@
 		<text>Joyas exquisitas</text>
 	</string>
     <string id="igi_task_text_hunter_gar_trader_task_arszi_fetch_bloodsucker_descr">
-		<text>Carnicero me ha pedido que le lleve la mand&#237;bula de un chupasangre.</text>
+		<text>Carnicero me pidi&#243; que le lleve la mand&#237;bula de un chupasangre.</text>
 	</string>
     <string id="igi_task_text_hunter_gar_trader_task_arszi_fetch_bloodsucker_job_descr">
 		<text>La gente dice que los chupasangres son raros. Bueno, no es del todo cierto. La gente no los ve demasiado, porque la mayor&#237;a de los stalkers no sobreviven al encuentro para contarlo... En realidad, los chupasangres pululan por todas partes. Durante el d&#237;a se esconden, y salen a cazar durante la noche. Puedo hacer joyas excepcionalmente finas usando sus mand&#237;bulas. Cons&#237;gueme unas mand&#237;bulas de un chupasangre, y ten cuidado durante la caza. Si no los ves, no significa que no te vean...</text>
@@ -68,7 +68,7 @@
 		<text>El cazador definitivo</text>
 	</string>
     <string id="igi_task_text_hunter_gar_trader_task_arszi_fetch_chimera_descr">
-		<text>Carnicero me ha pedido que le lleve parte de Quimera</text>
+		<text>Carnicero me pidi&#243; que le lleve parte de Quimera</text>
 	</string>
     <string id="igi_task_text_hunter_gar_trader_task_arszi_fetch_chimera_job_descr">
 		<text>En aquel entonces los humanos tem&#237;an a los animales, y luego los animales tem&#237;an a los humanos. Pero todo cambi&#243; de nuevo, cuando apareci&#243; la Zona... En la Zona no hay cazadores y presas, sino s&#243;lo cazadores. Hoy eres el cazador, ma&#241;ana puedes ser el cazado. Hay una criatura, el cazador definitivo, la Quimera. El pin&#225;culo de la evoluci&#243;n. &#191;Eres lo suficientemente valiente para enfrentarte a la prueba definitiva como cazador? Si la respuesta es s&#237;, entonces caza una Quimera, y tr&#225;eme un trofeo. &#161;Esperar&#233; tu regreso!</text>
@@ -110,7 +110,7 @@
 		<text>Recolecta de muestras mutantes comunes</text>
 	</string>
     <string id="igi_task_text_yan_stalker_sakharov_task_arszi_fetch_monster_common_descr">
-		<text>Sakharov me ha pedido que le lleve algunas muestras de mutantes comunes</text>
+		<text>Sakharov me pidi&#243; que le lleve algunas muestras de mutantes comunes</text>
 	</string>
     <string id="igi_task_text_yan_stalker_sakharov_task_arszi_fetch_monster_common_job_descr">
 		<text>Nos hemos quedado sin muestras de mutantes corrientes. Aunque nuestra prioridad de investigaci&#243;n son los mutantes humanoides raros y los artefactos, seguimos interesados en los cambios que se producen en la fauna local. Aparte del inter&#233;s personal, puede que todav&#237;a haya cosas que podamos aprender sobre las formas &#250;nicas de evoluci&#243;n que tomaron los animales en la Zona. Varias especies muestran habilidades prometedoras, que podemos utilizar para desarrollar nuevas medicinas o simplemente para entender mejor la propia Zona. &#191;Quieres ayudar a la ciencia? Todo lo que tienes que hacer es traerme algunas muestras!</text>
@@ -123,7 +123,7 @@
 		<text>Recolecta de muestras humanoides zombificados</text>
 	</string>
     <string id="igi_task_text_yan_stalker_sakharov_task_arszi_fetch_zombie_descr">
-		<text>Sakharov me ha pedido que le lleve algunas muestras de humanoides zombificados</text>
+		<text>Sakharov me pidi&#243; que le lleve algunas muestras de humanoides zombificados</text>
 	</string>
     <string id="igi_task_text_yan_stalker_sakharov_task_arszi_fetch_zombie_job_descr">
 		<text>Hay muchos fen&#243;menos &#250;nicos en la Zona. Nos interesan sobre todo los efectos relacionados con la psicosis, como la capacidad que tienen ciertos mutantes o anomal&#237;as. Por otra parte, el resultado de estos efectos es sorprendente. Las v&#237;ctimas de estos efectos siguen "vivas" en cierto modo, cuando no deber&#237;an estarlo. Esto cambia muchas teor&#237;as sobre la propia "vida". Como ya habras adivinado, me refiero a las llamadas personas "zombificadas", pero el t&#233;rmino me parece muy poco cient&#237;fico. Siempre estoy ansioso por estudiar los procesos biol&#243;gicos que tuvieron lugar en ellos despu&#233;s de que el cerebro quedara gravemente da&#241;ado por el contacto con altos niveles de emisiones Psy. Por favor, tr&#225;eme algunas muestras.</text>
@@ -136,7 +136,7 @@
 		<text>Recolecta de muestras humanoides</text>
 	</string>
     <string id="igi_task_text_yan_stalker_sakharov_task_arszi_fetch_humanoid_descr">
-		<text>Sakharov me ha pedido que le lleve algunas muestras humanoides</text>
+		<text>Sakharov me pidi&#243; que le lleve algunas muestras humanoides</text>
 	</string>
     <string id="igi_task_text_yan_stalker_sakharov_task_arszi_fetch_humanoid_job_descr">
 		<text>La Zona ha cambiado la vida tal y como la conocemos. No s&#243;lo para los animales, sino tambi&#233;n para los humanos. Hay una cantidad considerable de informes sobre humanos fuertemente mutados, con nuevas y fascinantes habilidades. Control mental, fuerza sobrehumana, regeneraci&#243;n y muchas m&#225;s. Lo que m&#225;s nos interesa son muestras de estos humanos mutados, o si se puede decir, mutantes humanoides. Naturalmente, su curioso intelecto los hace mucho m&#225;s formidables que los cerdos o perros a los que est&#225;n acostumbrados los acosadores menos experimentados. Es ciertamente una petici&#243;n peligrosa, pero si me traes una muestra, &#161;ser&#225;s un stalker millonario de verdad!</text>
@@ -149,7 +149,7 @@
 		<text>Recolecta de muestras mutantes raras</text>
 	</string>
     <string id="igi_task_text_yan_stalker_sakharov_task_arszi_fetch_monster_rare_descr">
-		<text>Sakharov me ha pedido que le lleve algunas muestras mutantes raras</text>
+		<text>Sakharov me pidi&#243; que le lleve algunas muestras mutantes raras</text>
 	</string>
     <string id="igi_task_text_yan_stalker_sakharov_task_arszi_fetch_monster_rare_job_descr">
 		<text>En la Zona existen animales mutados, que pueden considerarse depredadores de la c&#250;spide. S&#243;lo muy pocos stalkers sobreviven a los encuentros con ellos, lo que los convierte en espec&#237;menes muy raros para nosotros. Los rumores dicen que algunos de ellos pueden incluso sobrevivir a las condiciones m&#225;s duras, como la alta radiaci&#243;n o el contacto con las anomal&#237;as. Quiero probar cient&#237;ficamente, si estos rumores son ciertos o no. Muchas cosas son posibles en la Zona, que incluso yo hubiera considerado poco cient&#237;ficas en su momento... Ser&#225; una misi&#243;n peligrosa. Trae algunas muestras, &#161;ser&#225;s bien recompensado, stalker!</text>

@@ -62,7 +62,7 @@
 		<text>Asalto de Libertad al Monolito</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_text">
-		<text>Lukash me ha pedido que dirija Libertad en un asalto contra el Monolito.</text>
+		<text>Lukash me pidi&#243; que dirija Libertad en un asalto contra el Monolito.</text>
 	</string>
 	<string id="drx_sl_mil_smart_terrain_7_7_freedom_leader_stalker_task_2_about">
 		<text>Las fuerzas del Monolito siguen rompiendo nuestro bloqueo. Quiero llevar la guerra a su casa aunque sea por una vez. He reclutado un escuadr&#243;n de asalto y quiero que los dirijas en una invasi&#243;n a su territorio. Elim&#237;nalos.</text>
@@ -204,7 +204,7 @@
 		<text>Trae a Lukash un Confiable %s</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_text">
-		<text>Lukash me ha pedido que encuentres un arma de fuego espec&#237;fica en perfecto estado. Debo volver con &#233;l cuando encuentre lo que quiere.</text>
+		<text>Lukash me pidi&#243; que encuentres un arma de fuego espec&#237;fica en perfecto estado. Debo volver con &#233;l cuando encuentre lo que quiere.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_5_about">
 		<text>Mientras que los benefactores de Libertad mantienen a los chicos con el armamento que necesitan, yo podr&#237;a hacerme con un nuevo %s por razones personales. Si encuentras uno en excelentes condiciones, estar&#237;a dispuesto a darte una buena paga por &#233;l.</text>
@@ -266,7 +266,7 @@
 		<text>Por qu&#233; no podemos tener cosas buenas</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_9_text">
-		<text>Lukash me ha pedido que destruya los veh&#237;culos militares del Cordon antes de que hagan alg&#250;n da&#241;o en la Zona. Necesitar&#233; traer explosivos.</text>
+		<text>Lukash me pidi&#243; que destruya los veh&#237;culos militares del Cordon antes de que hagan alg&#250;n da&#241;o en la Zona. Necesitar&#233; traer explosivos.</text>
 	</string>
 	<string id="mil_smart_terrain_7_7_freedom_leader_stalker_task_9_about">
 		<text>&#191;Tienes explosivos? Si es as&#237;, tengo un gran trabajo para ti. Ahora mismo, los militares est&#225;n trayendo veh&#237;culos blindados a la Zona para reforzar sus tropas. Te pregunto, &#191;es esto justo? &#161;Mira las piezas oxidadas y disfuncionales de basura que tenemos pudri&#233;ndose en nuestros almacenes! &#161;Si no podemos tener tanques que funcionen en la Zona, entonces tampoco el gobierno puede! Mis esp&#237;as dicen que estos veh&#237;culos est&#225;n llegando para luego estacionarlos en el puesto de control del Cordon mientras hablamos. No te preocupes, se asegurar&#225;n de que los veh&#237;culos no tengan tripulaci&#243;n cuando hagas tu visita, para que puedas destruirlos sin que se conviertan en queso suizo. &#191;Quieres entrarle? &#161;Entonces empaca tus pi&#241;as y ponte en marcha!</text>
@@ -317,7 +317,7 @@
 		<text>Taca&#241;o me pagar&#225; para detener a un terrible mutante que acecha a la Villa Chupasangre. Tendr&#233; que mantenerme alerta.</text>
 	</string>
 	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_about">
-		<text>Ultimamente dormir aqu&#237; ha sido dificil. Cada noche o&#237;mos gritos, pero antes de que podamos hacer algo, otro de nuestros guardias es tragado por la oscuridad. Luego encontramos sus restos destrozados esparcidos por la aldea de los chupasangres al d&#237;a siguiente. \n \nLukash cree que una rara raza de chupasangres puede estar en la Villa. Un hijo de puta m&#225;s negro, m&#225;s fuerte y m&#225;s mortal que s&#243;lo sale de noche. Algunos de los perros guardianes piensan que deber&#237;amos dejar de hacer caminatas nocturnas hasta que emigre y con suerte empiece a fastidiar a Deber, cree que es demaciado peligroso como para ir a cazarlo. Bueno, yo digo que si tienes las agallas de esperarlo en la aldea en la noche, me encantar&#237;a darte una ducha de rublos por matar al bastardo, y el resto de los muchachos de por aqu&#237; estar&#225;n agradecidos de poder dormir a gusto de nuevo. O al menos tan bien como permita el Cauterizador.  </text>
+		<text>Ultimamente dormir aqu&#237; ha sido dif&#237;cil. Cada noche o&#237;mos gritos, pero antes de que podamos hacer algo, otro de nuestros guardias es tragado por la oscuridad. Luego encontramos sus restos destrozados esparcidos por la aldea de los chupasangres al d&#237;a siguiente. \n \nLukash cree que una rara raza de chupasangres puede estar en la Villa. Un hijo de puta m&#225;s negro, m&#225;s fuerte y m&#225;s mortal que s&#243;lo sale de noche. Algunos de los perros guardianes piensan que deber&#237;amos dejar de hacer caminatas nocturnas hasta que emigre y con suerte empiece a fastidiar a Deber, cree que es demaciado peligroso como para ir a cazarlo. Bueno, yo digo que si tienes las agallas de esperarlo en la aldea en la noche, me encantar&#237;a darte una ducha de rublos por matar al bastardo, y el resto de los muchachos de por aqu&#237; estar&#225;n agradecidos de poder dormir a gusto de nuevo. O al menos tan bien como permita el Cauterizador.  </text>
 	</string>
 	<string id="mil_smart_terrain_7_10_freedom_trader_stalker_task_3_finish">
 		<text>&#161;Wow, realmente lo hiciste! Est&#225;s loco amigo. Le har&#233; saber al campamento las buenas noticias. Me alegro de que tengamos un cazador como t&#250; por aqu&#237;.</text>

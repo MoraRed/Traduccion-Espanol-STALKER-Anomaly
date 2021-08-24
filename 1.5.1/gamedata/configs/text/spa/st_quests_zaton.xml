@@ -161,7 +161,7 @@
 		<text>Debes recuperar el $item_2 que encontraste y mostr&#225;rselo a Vector.</text>
 	</string>
 	<string id="drx_sl_zat_stancia_trader_merc_task_1_text_4">
-		<text>Vuelve a Vector con lo que encontraste.</text>
+		<text>Vuelve con Vector con lo que encontraste.</text>
 	</string>
 	<string id="drx_sl_zat_stancia_trader_merc_task_1_about">
 		<text>Un poco tarde, pero me alegro de que est&#233;s aqu&#237;. Est&#225;bamos terminando nuestro negocio la &#250;ltima vez, hasta que recib&#237; una se&#241;al de emergencia que ven&#237;a del sur. No creo equivocarme, viene de la PDA de uno de los hombres que envi&#233; ayer a nuestra base en el otro lado de la Zona. Algo sali&#243; mal, as&#237; que necesito que rastrees su se&#241;al usando un receptor de RF y veas que pas&#243;. Debes traer la PDA tambi&#233;n, contiene informaci&#243;n sensata.</text>
@@ -325,7 +325,7 @@
 		<text>Consigue %s</text>
 	</string>
 	<string id="zat_stancia_trader_merc_task_1_text">
-		<text>Un mercenario me ha pedido que le encuentre %s.</text>
+		<text>Un mercenario me pidi&#243; que le encuentre %s.</text>
 	</string>
 	<string id="zat_stancia_trader_merc_task_1_about">
 		<text>&#191;Tienes ganas de organizar un verdadero safari? Cazar&#225;s a la gente y traer&#225;s sus parches. As&#237; elevaremos los est&#225;ndares de la facci&#243;n.</text>
@@ -342,7 +342,7 @@
 		<text>Encuentra %s para los Mecanicos Mercenarios en Zaton</text>
 	</string>
 	<string id="zat_stancia_mech_merc_task_1_text">
-		<text>Un t&#233;cnico mercenario me ha pedido que le lleve %s.</text>
+		<text>Un t&#233;cnico mercenario me pidi&#243; que le lleve %s.</text>
 	</string>
 	<string id="zat_stancia_mech_merc_task_1_about">
 		<text>Escucha, &#191;qu&#233; clase de mercenarios somos sin un equipo bien mantenido y personalizado? Sabes, sol&#237;amos tener herramientas para cualquier cosa, pero alg&#250;n cabr&#243;n las rob&#243; del taller de la subestaci&#243;n. As&#237; que, necesito herramientas, y no las de mierda tampoco. &#191;Puedes encontrarnos alguna?</text>
@@ -358,7 +358,7 @@
 		<text>Encuentra %s para los Mecanicos Mercenarios en Zaton</text>
 	</string>
 	<string id="zat_stancia_mech_merc_task_2_text">
-		<text>Un t&#233;cnico mercenario me ha pedido que le lleve %s.</text>
+		<text>Un t&#233;cnico mercenario me pidi&#243; que le lleve %s.</text>
 	</string>
 	<string id="zat_stancia_mech_merc_task_2_about">
 		<text>Tener armas confiables es bueno, pero hasta ahora no tenemos suficientes mejoras. &#191;Me buscar&#237;as un juego de herramientas a&#250;n mejor?</text>
@@ -374,7 +374,7 @@
 		<text>Encuentra %s para los Mecanicos Mercenarios en Zaton</text>
 	</string>
 	<string id="zat_stancia_mech_merc_task_3_text">
-		<text>Un t&#233;cnico mercenario me ha pedido que le lleve %s.</text>
+		<text>Un t&#233;cnico mercenario me pidi&#243; que le lleve %s.</text>
 	</string>
 	<string id="zat_stancia_mech_merc_task_3_about">
 		<text>Escucha... terminemos nuestro trabajo, &#191;s&#237;? Necesito herramientas de calibraci&#243;n para asegurarme de que ninguna escoria se nos escape.</text>

@@ -493,7 +493,7 @@
 		<text>Encuentra %s</text>
 	</string>
 	<string id="mechanic_monolith_jup_depo_task_1_text">
-		<text>El t&#233;cnico del dep&#243;sito me ha pedido que busque %s.</text>
+		<text>El t&#233;cnico del dep&#243;sito me pidi&#243; que busque %s.</text>
 	</string>
 	<string id="mechanic_monolith_jup_depo_task_1_about">
 		<text>Nuestra base se estableci&#243; aqu&#237; recientemente, pero la falta de herramientas para nuestros hermanos ha sido grave. &#191;Podr&#237;as encontrar un conjunto de herramientas b&#225;sicas para el beneficio de la hermandad? Ser&#237;a invaluable.</text>
@@ -509,7 +509,7 @@
 		<text>Encuentra %s</text>
 	</string>
 	<string id="mechanic_monolith_jup_depo_task_2_text">
-		<text>El t&#233;cnico del dep&#243;sito me ha pedido que busque %s.</text>
+		<text>El t&#233;cnico del dep&#243;sito me pidi&#243; que busque %s.</text>
 	</string>
 	<string id="mechanic_monolith_jup_depo_task_2_about">
 		<text>La confrontaci&#243;n ha demostrado que nuestras armas son marginalmente inferiores a las de los infieles, entre los que existen t&#233;cnicos calificados. Necesito herramientas de trabajo para salvar a nuestros hermanos de tales inferioridades. &#191;Ayudar&#225;s, hermano?</text>
@@ -525,7 +525,7 @@
 		<text>Encuentra %s</text>
 	</string>
 	<string id="mechanic_monolith_jup_depo_task_3_text">
-		<text>El t&#233;cnico del dep&#243;sito me ha pedido que busque %s.</text>
+		<text>El t&#233;cnico del dep&#243;sito me pidi&#243; que busque %s.</text>
 	</string>
 	<string id="mechanic_monolith_jup_depo_task_3_about">
 		<text>&#161;Seremos capaces de superarlos a todos, hermano! Para lograrlo, necesito herramientas para calibrar nuestras armas. Por favor, localice un juego y tr&#225;igamelo.</text>
@@ -543,7 +543,7 @@
 		<text>Encuentra %s</text>
 	</string>
 	<string id="jup_cont_mech_bandit_task_1_text">
-		<text>El g&#225;ngster de la tecnolog&#237;a me ha pedido que le traiga %s.</text>
+		<text>El g&#225;ngster de la tecnolog&#237;a me pidi&#243; que le traiga %s.</text>
 	</string>
 	<string id="jup_cont_mech_bandit_task_1_about">
 		<text>Los stalkers lo arrebataron todo y establecieron defensas en Yanov, esos malditos. &#161;No tenemos nada! Necesitamos algunas herramientas hombre. Cons&#237;gueme algunas, &#191;s&#237;?</text>
@@ -559,7 +559,7 @@
 		<text>Encuentra %s</text>
 	</string>
 	<string id="jup_cont_mech_bandit_task_2_text">
-		<text>El g&#225;ngster de la tecnolog&#237;a me ha pedido que le traiga %s.</text>
+		<text>El g&#225;ngster de la tecnolog&#237;a me pidi&#243; que le traiga %s.</text>
 	</string>
 	<string id="jup_cont_mech_bandit_task_2_about">
 		<text>Escucha, no quiero molestarte demasiado y todo eso, pero &#191;podr&#237;as traer un equipo m&#225;s aqu&#237;? Necesitamos un mejor kit para mejorar nuestra mierda, &#191;sabes? Es dif&#237;cil para nosotros sin las mejoras adecuadas, jeje.</text>
@@ -575,7 +575,7 @@
 		<text>Encuentra %s</text>
 	</string>
 	<string id="jup_cont_mech_bandit_task_3_text">
-		<text>El g&#225;ngster de la tecnolog&#237;a me ha pedido que le traiga %s.</text>
+		<text>El g&#225;ngster de la tecnolog&#237;a me pidi&#243; que le traiga %s.</text>
 	</string>
 	<string id="jup_cont_mech_bandit_task_3_about">
 		<text>Oye, amigo, los otros dos juegos de herramientas que nos trajiste ayudan mucho, pero necesito lo mejor de lo mejor. Ya sabes... la mierda que les har&#225; decir, "oooh, s&#237;..."</text>

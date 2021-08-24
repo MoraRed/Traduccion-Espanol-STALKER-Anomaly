@@ -272,10 +272,10 @@
 	</string>
 
 	<string id="travel_guid_prikbo_mon_mon_0">
-		<text>Me gustaria viajar a un sitio especifico.</text>
+		<text>Me gustar&#237;a viajar a un sitio especifico.</text>
 	</string>
 	<string id="travel_guid_prikbo_mon_mon_1">
-		<text>Claro que si. &#191;A donde te gustaria que te llevaran los guias?</text>
+		<text>Claro que si. &#191;A donde te gustar&#237;a que te llevaran los guias?</text>
 	</string>
 	<string id="travel_guid_prikbo_mon_mon_2">
 		<text>Al Bosque Rojo. %c[d_orange][5000 RU]</text>
@@ -307,7 +307,7 @@
 	</string>
 
 	<string id="travel_guid_l11pri_mon_haron_0">
-		<text>Me gustaria viajar a un sitio especifico.</text>
+		<text>Me gustar&#237;a viajar a un sitio especifico.</text>
 	</string>
 	<string id="travel_guid_l11pri_mon_haron_1">
 		<text>Hay caminos a las Afueras de Pripyat al este de aqu&#237;, a J&#250;piter al oeste y al Bosque Rojo ubicado al suroeste.</text>

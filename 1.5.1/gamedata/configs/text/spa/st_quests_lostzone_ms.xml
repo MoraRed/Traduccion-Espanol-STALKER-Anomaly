@@ -173,25 +173,25 @@
 		<text>Pecado Mortal: Emboscada</text>
 	</string>
 	<string id="lttz_ms_ambush_dolg_descr">
-		<text>Las fuerzas de Pecado est&#225;n invadiendo el Bar. Defiendete de ellas.</text>
+		<text>Las fuerzas de Pecado est&#225;n invadiendo el Bar. Defi&#233;ndete de ellas.</text>
 	</string>
 	<string id="lttz_ms_ambush_dolg_done_descr">
 		<text>Has repelido el asalto enemigo. Rep&#243;rtate con el general Voronin.</text>
 	</string>
 	<string id="lttz_ms_ambush_killer_descr">
-		<text>Las fuerzas de Pecado est&#225;n invadiendo la Ciudad Muerta. Defiendete de ellos.</text>
+		<text>Las fuerzas de Pecado est&#225;n invadiendo la Ciudad Muerta. Defi&#233;ndete de ellos.</text>
 	</string>
 	<string id="lttz_ms_ambush_killer_done_descr">
 		<text>Has repelido el asalto enemigo. Rep&#243;rtate con Dushman.</text>
 	</string>
 	<string id="lttz_ms_ambush_stalker_descr">
-		<text>Las fuerzas de Pecado est&#225;n invadiendo el Campamento de Novatos. Defiendete de ellos.</text>
+		<text>Las fuerzas de Pecado est&#225;n invadiendo el Campamento de Novatos. Defi&#233;ndete de ellos.</text>
 	</string>
 	<string id="lttz_ms_ambush_stalker_done_descr">
 		<text>Has repelido el asalto enemigo. Rep&#243;rtate con Sidorovich.</text>
 	</string>
 	<string id="lttz_ms_ambush_csky_descr">
-		<text>Las fuerzas de Pecado est&#225;n invadiendo la Aldea de Pescadores. Defiendete de ellos.</text>
+		<text>Las fuerzas de Pecado est&#225;n invadiendo la Aldea de Pescadores. Defi&#233;ndete de ellos.</text>
 	</string>
 	<string id="lttz_ms_ambush_csky_done_descr">
 		<text>Has repelido el asalto enemigo. Rep&#243;rtate con Cold.</text>
@@ -286,7 +286,7 @@
 		<text>El equipo de exploradores enviado por Rogue no regres&#243; de su misi&#243;n. Investiga la situaci&#243;n.</text>
 	</string>
 	<string id="lttz_ms_contact_lost_descr2">
-		<text>Has conseguido obtener algo de informaci&#243;n del equipo. Vuelve a Rogue.</text>
+		<text>Has conseguido obtener algo de informaci&#243;n del equipo. Vuelve con Rogue.</text>
 	</string>
 	
 	<string id="contact_lost_pda_name">

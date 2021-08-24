@@ -22,7 +22,7 @@
 	</string>
 	
 	<string id="st_trader_dialog_init">
-		<text>Me gustaria comprar algo. %c[d_orange][Comerciar]</text>
+		<text>Me gustar&#237;a comprar algo. %c[d_orange][Comerciar]</text>
 	</string>
 	<string id="st_trader_dialog_reply_1">
 		<text>Claro, &#191;por qu&#233; no?.</text>
@@ -48,7 +48,7 @@
 	</string>
 	
 	<string id="st_medic_dialog_init">
-		<text>Me gustaria comprar suministros medicos. %c[d_orange][Comerciar]</text>
+		<text>Me gustar&#237;a comprar suministros medicos. %c[d_orange][Comerciar]</text>
 	</string>
 	<string id="st_medic_dialog_reply_1">
 		<text>Tengo pocos suministros, pero esto es lo que tengo.</text>

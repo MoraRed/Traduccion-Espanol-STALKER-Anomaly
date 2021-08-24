@@ -1402,7 +1402,7 @@
 		<text>TOZ-34 "Bull"</text>
 	</string>
 	<string id="st_wpn_toz34_bull_descr">
-		<text>Modificacion hecha a mano a partir del TOZ-34 que usa solo municiones "Bull" (Toro) especialmente hechas que probablemente podrian detener un tanque. Las modificaciones estan relacionadas principalmente con la fuerza del arma, y a primera vista, se ve simplemente como un TOZ-34 decorado. Pero cuando se observa m&#225;s de cerca, se puede ver que el barril esta hecho de un metal &#250;nico, traicionando su origen no estandar, y el stock tambien esta hecho de alg&#250;n tipo de fibra de carbono, firmada con la letra "F". Es dificil saber quien lo hizo y como termino en la Zona...%c[ui_gray_2]\n</text>
+		<text>Modificacion hecha a mano a partir del TOZ-34 que usa solo municiones "Bull" (Toro) especialmente hechas que probablemente podrian detener un tanque. Las modificaciones estan relacionadas principalmente con la fuerza del arma, y a primera vista, se ve simplemente como un TOZ-34 decorado. Pero cuando se observa m&#225;s de cerca, se puede ver que el barril esta hecho de un metal &#250;nico, traicionando su origen no estandar, y el stock tambien esta hecho de alg&#250;n tipo de fibra de carbono, firmada con la letra "F". Es dif&#237;cil saber quien lo hizo y como termino en la Zona...%c[ui_gray_2]\n</text>
 	</string>
 	<string id="st_wpn_toz34_mark4">
 		<text>TOZ-34 "Bizon"</text>
@@ -1466,7 +1466,7 @@
 		<text>UMP45 (personalizado)</text>
 	</string>
 	<string id="st_wpn_ump45_descr">
-		<text>La UMP fue desarrollada por Hamp; K en la decada de 1990, apareciendo por primera vez en el mercado en 1999. La idea detras de la UMP era crear una ametralladora ligera y potente, que tambien fuera m&#225;s barata que la MP5. El UMP, dirigido principalmente a las fuerzas del orden p&#250;blico de EE. UU, Aparecio en calibres .45ACP y .40SW, y m&#225;s tarde en 9mm. Al proporcionar una mayor potencia de frenado que el MP5, el UMP45 tambien produce m&#225;s retroceso. Esto hace que controlar el fuego completamente automatico sea m&#225;s dificil. La cadencia de fuego ciclica del UMP45 se redujo significativamente para combatir este problema. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech\n%c[d_purple] • %c[ui_gray_2] Supresor Gemtech\n</text>
+		<text>La UMP fue desarrollada por Hamp; K en la decada de 1990, apareciendo por primera vez en el mercado en 1999. La idea detras de la UMP era crear una ametralladora ligera y potente, que tambien fuera m&#225;s barata que la MP5. El UMP, dirigido principalmente a las fuerzas del orden p&#250;blico de EE. UU, Aparecio en calibres .45ACP y .40SW, y m&#225;s tarde en 9mm. Al proporcionar una mayor potencia de frenado que el MP5, el UMP45 tambien produce m&#225;s retroceso. Esto hace que controlar el fuego completamente automatico sea m&#225;s dif&#237;cil. La cadencia de fuego ciclica del UMP45 se redujo significativamente para combatir este problema. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech\n%c[d_purple] • %c[ui_gray_2] Supresor Gemtech\n</text>
 	</string>
 	<string id="st_wpn_ump45_worn">
 		<text>UMP45 (desgastado)</text>
@@ -1476,7 +1476,7 @@
 		<text>USAS-12</text>
 	</string>
 	<string id="st_wpn_usas12_descr">
-		<text>La Daewoo Precision Industries USAS-12 ("Universal Sports Automatic Shotgun 12 gauge", o "Escopeta autom&#225;tica deportiva universal de calibre 12") es una escopeta automatica dise&#241;ada para el combate fabricada en Corea del Sur por Daewoo Precision Industries en la decada de 1980. Como un arma coreana llego a Ucrania es algo que me gustaria mucho saber. Tal vez haya un rifle K2 de por medio.\n</text>
+		<text>La Daewoo Precision Industries USAS-12 ("Universal Sports Automatic Shotgun 12 gauge", o "Escopeta autom&#225;tica deportiva universal de calibre 12") es una escopeta automatica dise&#241;ada para el combate fabricada en Corea del Sur por Daewoo Precision Industries en la decada de 1980. Como un arma coreana llego a Ucrania es algo que me gustar&#237;a mucho saber. Tal vez haya un rifle K2 de por medio.\n</text>
 	</string>
 	
 	<string id="st_wpn_usp">

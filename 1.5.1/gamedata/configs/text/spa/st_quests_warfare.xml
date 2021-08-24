@@ -610,7 +610,7 @@
 		<text>Escoltar Cient&#237;ficos a %s para Cielo Despejado </text>
 	</string>
 	<string id="sim_default_csky_trader_task_3_text">
-		<text>%s de %s te ha contratado para guiar a algunos cient&#237;ficos a un lugar espec&#237;fico para que hagan su estudio. Una vez que su investigaci&#243;n est&#233; lista, devu&#233;lvelos a salvo al campamento; alli ser&#225;s compensado.</text>
+		<text>%s de %s te ha contratado para guiar a algunos cient&#237;ficos a un lugar espec&#237;fico para que hagan su estudio. Una vez que su investigaci&#243;n est&#233; lista, devu&#233;lvelos a salvo al campamento; all&#237; ser&#225;s compensado.</text>
 	</string>
 	<string id="sim_default_csky_trader_task_3_about">
 		<text>Los cient&#237;ficos aqu&#237; en el campamento necesitan un stalker experimentado para llevarlos al campo de estudio. &#191;Est&#225;s preparado? Tu trabajo es mantenerlos vivos y guiarlos a su destino. Si fracasas tendr&#225;s una mala reputaci&#243;n por aqu&#237;.</text>

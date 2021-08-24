@@ -129,7 +129,7 @@
 	</string>
 	<string id="st_mm_ck_hardcore_aim_desc">
 		<text>
-			%c[0,150,150,150]Punteria de IA Hardcore es una opci&#243;n que maximiza la previsibilidad de la IA, lo que hace que sea m&#225;s dificil para el jugador esquivar balas mientras se mueve.
+			%c[0,150,150,150]Punteria de IA Hardcore es una opci&#243;n que maximiza la previsibilidad de la IA, lo que hace que sea m&#225;s dif&#237;cil para el jugador esquivar balas mientras se mueve.
 		</text>
 	</string>
 	<string id="st_mm_ck_survival_desc">

@@ -362,7 +362,7 @@
 		<text>La ruptura del Cord&#243;n</text>
 	</string>
 	<string id="esc_3_16_military_trader_task_1_text">
-		<text>El comandante del puesto de control, el mayor Zhurov, me ha pedido que le traiga %s. Esto deber&#237;a ayudar a recordar a los stalkers qui&#233;n est&#225; a cargo</text>
+		<text>El comandante del puesto de control, el mayor Zhurov, me pidi&#243; que le traiga %s. Esto deber&#237;a ayudar a recordar a los stalkers qui&#233;n est&#225; a cargo</text>
 	</string>
 	<string id="esc_3_16_military_trader_task_1_about">
 		<text>La jefatura ha lanzado un programa no oficial, &#191;quieres participar? Como prueba, requiero parches de los criminales de la Zona.</text>
@@ -380,7 +380,7 @@
 		<text>Encuentre %s para Seryoga</text>
 	</string>
 	<string id="army_south_mechan_mlr_task_1_text">
-		<text>Seryoga, un t&#233;cnico militar, me ha pedido encontrar %s.</text>
+		<text>Seryoga, un t&#233;cnico militar, me pidi&#243; encontrar %s.</text>
 	</string>
 	<string id="army_south_mechan_mlr_task_1_about">
 		<text>De hecho, s&#237;. Hace un tiempo, todas nuestras herramientas fueron enviadas al complejo de investigaci&#243;n en Yantar, por lo que no puedo ni reparar el BTR de aqu&#237;. Necesito herramientas... b&#225;sicas. &#191;Te importar&#237;a ayudar?</text>
@@ -396,7 +396,7 @@
 		<text>Encuentre %s para Seryoga</text>
 	</string>
 	<string id="army_south_mechan_mlr_task_2_text">
-		<text>Seryoga, un t&#233;cnico militar, me ha pedido encontrar %s.</text>
+		<text>Seryoga, un t&#233;cnico militar, me pidi&#243; encontrar %s.</text>
 	</string>
 	<string id="army_south_mechan_mlr_task_2_about">
 		<text>Lamentablemente, las herramientas que me diste no son suficientes, ya que s&#243;lo funcionan para las actualizaciones m&#225;s b&#225;sicas. Necesito herramientas m&#225;s avanzadas, ya que dudo que log&#237;stica nos env&#237;e pronto, &#191;podr&#237;as encontrarme alguna?</text>
@@ -412,7 +412,7 @@
 		<text>Encuentre %s para Seryoga</text>
 	</string>
 	<string id="army_south_mechan_mlr_task_3_text">
-		<text>Seryoga, un t&#233;cnico militar, me ha pedido encontrar %s.</text>
+		<text>Seryoga, un t&#233;cnico militar, me pidi&#243; encontrar %s.</text>
 	</string>
 	<string id="army_south_mechan_mlr_task_3_about">
 		<text>Muy bien, la mala noticia es que nada va a hacer que este BTR en particular vuelva a la vida. La buena noticia es que no tendremos que hacerlo. Algunos stalkers militares est&#225;n mostrando inter&#233;s en mi trabajo. Es hora de equipar a nuestros chicos con el equipo adecuado. Pero para ello, necesitar&#233; las mejores herramientas de la Zona: herramientas de calibraci&#243;n. Puedo encargarte que recuperes algunas. &#191;Est&#225;s preparado?</text>
