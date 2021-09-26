@@ -3875,7 +3875,7 @@
 	
 	<!-- Bounty gossip -->
 	<string id="st_dyn_news_gossip_bounty_1">
-		<text>Acabo de ver qui&#233;n $who, $when. Escuch&#233; que alguien puso una recompensa por su cabeza. </text>
+		<text>Acabo de ver a $who, $when . Escuch&#233; que alguien puso una recompensa por su cabeza. </text>
 	</string>
 	<string id="st_dyn_news_gossip_bounty_2">
 		<text>Escuch&#233; que alguien puso una recompensa por la cabeza de $who.</text>
@@ -6555,7 +6555,7 @@
 		<text>Mantente alejado de los campos psi, no quiero unirme a esos zombis.</text>
 	</string>
 	<string id="st_dyn_news_companion_life_all_20">
-		<text>La enciclopedia dice que "los pseudodogs son mutantes descendientes de lobos"... &#191;Entonces por qu&#233; demonios los llaman "pseudoperros"?</text>
+		<text>La enciclopedia dice que "los pseudoperros son mutantes descendientes de lobos"... &#191;Entonces por qu&#233; demonios los llaman "pseudoperros"?</text>
 	</string>
 	<string id="st_dyn_news_companion_life_all_21">
 		<text>Deb&#237; haber afilado mi cuchillo, nunca se sabe cu&#225;ndo tendr&#225;s que apu&#241;alar algo.</text>
@@ -7039,7 +7039,7 @@
 		<text>Los bandidos suelen esconderse en el puente, esperando que los novatos aparezcan.</text>
 	</string>
 	<string id="st_dyn_news_companion_level_k01_darkscape_5">
-		<text>Los pseudodogs son bastante comunes aqu&#237;, espero que no nos encontremos con uno hambriento.</text>
+		<text>Los pseudoperros son bastante comunes aqu&#237;, espero que no nos encontremos con uno hambriento.</text>
 	</string>
 	<string id="st_dyn_news_companion_level_k01_darkscape_6">
 		<text>Mirando los rieles, este lugar sol&#237;a ser una gran estaci&#243;n de tren. Ahora es s&#243;lo un bosque vac&#237;o.</text>

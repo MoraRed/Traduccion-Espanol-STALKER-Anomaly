@@ -1436,7 +1436,7 @@
 	</string>
 	
 	<string id="st_wpn_trg_descr">
-		<text>La TRG-42 no es una version maldita de un rifle existente, sino que se desarrollo desde el principio como un rifle de francotirador. Su alta precision y fiabilidad consistentes lo han hecho popular tanto en competiciones de largo alcance como en operaciones de francotiradores militares. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Mira FINDOT (integrada)\n</text>
+		<text>El TRG-42 no es una version mejorada de un rifle existente, sino que fue desarrollado desde el principio como un rifle de francotirador. Su alta y constante precision y fiabilidad lo han hecho popular tanto en competiciones de largo alcance como en operaciones militares de francotiradores. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Mira FINDOT (integrada)\n</text>
 	</string>
 	
 	<string id="st_wpn_tt33">

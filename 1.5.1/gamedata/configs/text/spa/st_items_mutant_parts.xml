@@ -114,7 +114,7 @@
 		<text>Carne de pseudoperro</text>
 	</string>
 	<string id="mutant_psevdodog_meat_description">
-		<text>La carne de pseudodog es un componente diet&#233;tico com&#250;n en la Zona. Sabrosa, con un alto valor nutricional, una elecci&#243;n popular entre los stalkers. Puede ser vendida a los cient&#237;ficos. Adem&#225;s, tambi&#233;n puede servir como fuente de grasa animal para la lubricaci&#243;n de armas.\n \n %c[d_red]ADVERTENCIA:\n \n%c[default]Se aconseja a los stalkers que se abstengan de comer carne cruda, ya que es probable que los animales y los mutantes de la Zona sean portadores de triquinosis o brucelosis. Estas enfermedades se transmiten por la ingesti&#243;n de carne infectada. Los s&#237;ntomas incluyen fiebre, fatiga y p&#233;rdida de apetito, todo lo cual es extremadamente peligroso dadas las condiciones de la Zona. Los abscesos, el crecimiento de hongos y los tumores en la superficie del cuerpo indican que la carne est&#225; infectada y debe ser desechada.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_green] • %c[ui_gray_2] carne mutante de bajo nivel\n %c[d_green] • %c[ui_gray_2] cocinable\n %c[d_red] • %c[ui_gray_2] alimento t&#243;xico\n
+		<text>La carne de pseudoperro es un componente diet&#233;tico com&#250;n en la Zona. Sabrosa, con un alto valor nutricional, una elecci&#243;n popular entre los stalkers. Puede ser vendida a los cient&#237;ficos. Adem&#225;s, tambi&#233;n puede servir como fuente de grasa animal para la lubricaci&#243;n de armas.\n \n %c[d_red]ADVERTENCIA:\n \n%c[default]Se aconseja a los stalkers que se abstengan de comer carne cruda, ya que es probable que los animales y los mutantes de la Zona sean portadores de triquinosis o brucelosis. Estas enfermedades se transmiten por la ingesti&#243;n de carne infectada. Los s&#237;ntomas incluyen fiebre, fatiga y p&#233;rdida de apetito, todo lo cual es extremadamente peligroso dadas las condiciones de la Zona. Los abscesos, el crecimiento de hongos y los tumores en la superficie del cuerpo indican que la carne est&#225; infectada y debe ser desechada.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_green] • %c[ui_gray_2] carne mutante de bajo nivel\n %c[d_green] • %c[ui_gray_2] cocinable\n %c[d_red] • %c[ui_gray_2] alimento t&#243;xico\n
 		</text>
 	</string>
 
@@ -205,7 +205,7 @@
 		<text>Cola de pseudoperro</text>
 	</string>
 	<string id="mutant_psevdodog_tail_description">
-		<text>Se rumorea que una cierta tendencia se ha apoderado recientemente del mundo de la moda: la piel de las colas de los pseudodoctos. Se dice que la piel es suave como ninguna otra. Tambi&#233;n se dice que te mantendr&#225; caliente incluso en las tormentas de nieve y ventiscas m&#225;s feroces. Por estas razones, las colas de los pseudodogs tienen una gran demanda.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] parte corporal mutada\n %c[d_cyan] • %c[ui_gray_2] muestra cient&#237;fica com&#250;n\n</text>
+		<text>Se rumorea que una cierta tendencia se ha apoderado recientemente del mundo de la moda: la piel de las colas de los pseudodoctos. Se dice que la piel es suave como ninguna otra. Tambi&#233;n se dice que te mantendr&#225; caliente incluso en las tormentas de nieve y ventiscas m&#225;s feroces. Por estas razones, las colas de los pseudoperros tienen una gran demanda.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] parte corporal mutada\n %c[d_cyan] • %c[ui_gray_2] muestra cient&#237;fica com&#250;n\n</text>
 	</string>
 
 	<string id="mutant_krovosos_jaw">
@@ -368,7 +368,7 @@
 		<text>Colmillo de pesudoperro</text>
 	</string>
 	<string id="mutant_fang_psevdodog_description">
-		<text>Los colmillos de los pseudodogs se usan para desgarrar y sostener a sus presas. Debido a la tremenda presi&#243;n de la mand&#237;bula del mutante, atraviesa con su mordida la mayor parte del equipo de protecci&#243;n utilizado en la Zona. Los dientes en s&#237; no son demasiado fuertes y son reemplazados rutinariamente a lo largo de la vida. Los cient&#237;ficos no est&#225;n particularmente interesados en ellos, a diferencia de los coleccionistas de fuera de la Zona.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] parte corporal mutada\n %c[d_cyan] • %c[ui_gray_2] muestra cient&#237;fica com&#250;n\n</text>
+		<text>Los colmillos de los pseudoperros se usan para desgarrar y sostener a sus presas. Debido a la tremenda presi&#243;n de la mand&#237;bula del mutante, atraviesa con su mordida la mayor parte del equipo de protecci&#243;n utilizado en la Zona. Los dientes en s&#237; no son demasiado fuertes y son reemplazados rutinariamente a lo largo de la vida. Los cient&#237;ficos no est&#225;n particularmente interesados en ellos, a diferencia de los coleccionistas de fuera de la Zona.\n \n %c[ui_gray_2]PROPIEDADES:\n %c[d_cyan] • %c[ui_gray_2] parte corporal mutada\n %c[d_cyan] • %c[ui_gray_2] muestra cient&#237;fica com&#250;n\n</text>
 	</string>
 
 	<string id="mutant_brain_burer">

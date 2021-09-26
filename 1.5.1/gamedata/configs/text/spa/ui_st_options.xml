@@ -872,7 +872,7 @@
 		<text>Cambiar a modo correr</text>
 	</string>
 	<string id="ui_mm_control_general_lookout_toggle">
-		<text>Cambiar podo de aprendizaje</text>
+		<text>Cambiar modo inclinacion</text>
 	</string>
 	<string id="ui_mm_control_general_aim_toggle">
 		<text>Cambiar modo apuntado</text>
@@ -948,7 +948,7 @@
 		</text>
 	</string>
 	<string id="ui_mm_gameplay_general_npc_loot_distance">
-		<text>Distancia de aqueo de cadaveres [Metros]</text>
+		<text>Distancia de saqueo de cadaveres [Metros]</text>
 	</string>
 	<string id="ui_mm_gameplay_general_npc_loot_distance_desc">
 		<text>Los cad&#225;veres s&#243;lo son saqueados por otros stalkers si el jugador est&#225; algo lejos. \nEsto deber&#237;a evitar que roben el bot&#237;n que tanto te cost&#243; ganar.
@@ -1515,7 +1515,7 @@
 	</string>
 	
 	<string id="ui_mm_alife_warfare_general_all_out_war">
-		<text>Todos en guerra</text>
+		<text>Guerra total</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_all_out_war_desc">
 		<text>Cuando se habilite, cada facci&#243;n ser&#225; hostil a cualquier otra facci&#243;n. Cuando se detectan las relaciones din&#225;micas de DrX, esto s&#243;lo se aplicar&#225; al principio del juego.</text>
@@ -1527,31 +1527,31 @@
 		<text>Cuando se habilita, el jugador aparecer&#225; en una base aleatoria en la Zona. Todas las dem&#225;s bases se poblar&#225;n con las opci&#243;nes random_stalker_chance y random_mutant_chance options.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_random_starting_character">
-		<text>Car&#225;cter de inicio aleatorio</text>
+		<text>Personaje inicial aleatorio</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_random_starting_character_desc">
-		<text>Cuando esta opci&#243;n est&#225; activada, aleatorizar&#225; el nombre y la facci&#243;n del jugador despu&#233;s de comenzar un nuevo juego; se utiliza mejor con random_starting_locations.</text>
+		<text>Cuando esta opci&#243;n est&#225; activada, aleatorizar&#225; el nombre y la faccion del jugador despu&#233;s de iniciar una nueva partida; se utiliza mejor con random_starting_locations.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_random_stalker_chance">
 		<text>Probabilidad de stalker al azar</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_random_stalker_chance_desc">
-		<text>La probabilidad, entre 0 - 100, de que los escuadrones de stalkers se generen en una base o punto de recursos cuando se habiliten las random_starting_locations. Esta es la oportunidad de que un solo escuadr&#243;n se reproduzca. Si una base tiene una poblaci&#243;n m&#225;xima de 2, y la probabilidad_de_acecho_al azar se establece en 50, entonces hay un 50% de probabilidad de que el primer escuadr&#243;n desove, y un 50% de probabilidad de que el segundo escuadr&#243;n desove.</text>
+		<text>La probabilidad, entre 0 y 100, de que los escuadrones de stalkers aparezcan en una base o punto de recursos cuando random_starting_locations est&#225; activado. Esta es la oportunidad de que un solo escuadr&#243;n se reproduzca. Si una base tiene una poblaci&#243;n m&#225;xima de 2, y la probabilidad_de_acecho_al azar se establece en 50, entonces hay un 50% de probabilidad de que el primer escuadr&#243;n desove, y un 50% de probabilidad de que el segundo escuadr&#243;n desove.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_random_monster_chance">
-		<text>Oportunidad de mutante aleatorio</text>
+		<text>Probabilidad mutante al azar</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_random_monster_chance_desc">
-		<text>La probabilidad, entre 0 - 100, de que los escuadrones de mutantes se generen en un punto del territorio cuando se habiliten las random_starting_locations. S&#243;lo un mutante por punto ser&#225; engendrado.</text>
+		<text>La probabilidad, entre 0 y 100, de que se generen escuadrones de mutantes en un punto del territorio cuando se activa random_starting_locations. S&#243;lo se generar&#225; un mutante por punto.</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_auto_capture">
-		<text>Habilitar la auto-captura</text>
+		<text>Habilitar auto-captura</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_auto_capture_desc">
 		<text>Cuando se habilite, el jugador podr&#225; capturar puntos permaneciendo dentro de la distancia especificada por auto_capture_distance durante el tiempo especificado por auto_capture_time. Si est&#225;s cerca de m&#250;ltiples puntos, se elegir&#225; la base m&#225;s cercana seguida del resto de las bases y luego los puntos de recursos; los puntos de territorio no son autocapturables</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_auto_capture_max_distance">
-		<text>Captura autom&#225;tica de la m&#225;xima distancia</text>
+		<text>Distancia m&#225;xima de auto-captura</text>
 	</string>
 	<string id="ui_mm_alife_warfare_general_auto_capture_max_distance_desc">
 		<text>Los puntos dentro de esta distancia al jugador ser&#225;n auto-capturados; si la distancia entre el jugador y el punto que est&#225; siendo capturado es mayor que esto, entonces dejar&#225; de ser capturado.</text>
