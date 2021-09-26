@@ -572,7 +572,7 @@
 		<text>Ganaste m&#225;s confianza entre los %s.</text>
 	</string>
 	<string id="st_news_goodwill_main_lose_1">
-		<text>Est&#225;s perdiendo %s confianza.</text>
+		<text>Est&#225;s perdiendo confianza con los %s.</text>
 	</string>
 	<string id="st_news_goodwill_enemy_1">
 		<text>Los %s no lo recibieron tan bien.</text>

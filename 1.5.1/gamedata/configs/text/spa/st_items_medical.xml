@@ -131,7 +131,7 @@
 		<text>Botiqu&#237;n m&#233;dico del ej&#233;rcito</text>
 	</string>
 	<string id="st_medkit_army_descr">
-		<text>Un botiqu&#237;n especializado para proporcionar primeros auxilios a las v&#237;ctimas de los combates. El kit incluye coagulantes sangu&#237;neos a base de menadiona, analg&#233;sicos, antibi&#243;ticos e inmunoestimulantes, as&#237; como un kit para extraer balas y fragmentos del cuerpo. Este botiqu&#237;n se entrega principalmente a personal del ej&#233;rcito como las unidades Spetsnaz que se aventuran en las profundidades de la Zona y es popular entre las fuerzas Deber.\n \n %c[ui_gray_3]CURANDO:\n %c[d_red] • %c[ui_gray_2] Restaura 3% salud/s, total 100%\n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culos militar\n %c[d_red] • %c[ui_gray_2] uso lento (kit de campo)\n %c[d_red] • %c[ui_gray_2] tiempo prolongado de recuperaci&#243;n del cuerpo\n
+		<text>Un botiqu&#237;n especializado para proporcionar primeros auxilios a las v&#237;ctimas de los combates. El kit incluye coagulantes sangu&#237;neos a base de menadiona, analg&#233;sicos, antibi&#243;ticos e inmunoestimulantes, as&#237; como un kit para extraer balas y fragmentos del cuerpo. Este botiqu&#237;n se entrega principalmente a personal del ej&#233;rcito como las unidades Spetsnaz que se aventuran en las profundidades de la Zona y es popular entre las fuerzas Deber.\n \n %c[ui_gray_3]CURANDO:\n %c[d_red] • %c[ui_gray_2] Restaura 3% salud/s, total 100%\n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culos militares\n %c[d_red] • %c[ui_gray_2] uso lento (kit de campo)\n %c[d_red] • %c[ui_gray_2] tiempo prolongado de recuperaci&#243;n del cuerpo\n
 		</text>
 	</string>
 	<string id="st_medkit_science">

@@ -669,13 +669,13 @@
 		<text>un cient&#237;fico</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_2">
-		<text>un empollon</text>
+		<text>un cara de mi verga</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_3">
 		<text>alg&#250;n ecologista</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_4">
-		<text>alg&#250;n empollon</text>
+		<text>alg&#250;n cara nabo</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_5">
 		<text>defecto</text>
@@ -693,7 +693,7 @@
 		<text>algunos cient&#237;ficos</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_10">
-		<text>empollones</text>
+		<text>gilipuertas</text>
 	</string>
 	<string id="st_dyn_news_comm_ecolog_11">
 		<text>&#161;Ayuda! &#161;Alguien por favor, ay&#250;dennos!</text>
@@ -1234,7 +1234,7 @@
 		<text>Herida de bala</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_3_2">
-		<text>algunas armas peque&#241;as</text>
+		<text>algunas armas ligeras</text>
 	</string>
 	<string id="st_dyn_news_wpn_cls_3_3">
 		<text>pistola</text>
@@ -2554,7 +2554,7 @@
 		<text>Hace un par de minutos, escuch&#233;</text>
 	</string>
 	<string id="st_dyn_news_builder_hear_6">
-		<text>&#191;Alguien escucha eso? Suena bien</text>
+		<text>&#191;Alguien escucha eso? Suena c&#243;mo</text>
 	</string>
 	<string id="st_dyn_news_builder_hear_7">
 		<text>Mi escuadr&#243;n acaba de escuchar</text>
@@ -3714,7 +3714,7 @@
 		<text>&#201;ste pens&#243; que pod&#237;a escapar jugando con la muerte.</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_4">
-		<text>Es hora de dejarlo para siempre.</text>
+		<text>Te voy a hacer picadillo!.</text>
 	</string>
 	<string id="st_dyn_news_gossip_kill_wounded_5">
 		<text>Deja las cosas como est&#225;n.</text>
@@ -3806,7 +3806,7 @@
 		<text>Bastardo muerto, &#191;qu&#233; hac&#237;a aqu&#237; con los bolsillos vac&#237;os?</text>
 	</string>
 	<string id="st_dyn_news_loot_bad_7">
-		<text>Adivina qu&#233; encontr&#233; en su mochila, una Playboy... no est&#225; mal, &#191;eh?</text>
+		<text>Adivina qu&#233; encontr&#233; en su mochila, fotos de pies... no est&#225; mal, &#191;eh?</text>
 	</string>
 	<string id="st_dyn_news_loot_bad_8">
 		<text>Su mochila est&#225; vac&#237;a... &#161;maldita sea!</text>
@@ -3825,7 +3825,7 @@
 		<text>&#161;$what! Esa la mejor cosa que lleva. No creo que llore cuando se lo quite.</text>
 	</string>
 	<string id="st_dyn_news_loot_item_5">
-		<text>Necesitaba este $what. Gracias por salvarme de gastar dinero, mi amigo muerto.</text>
+		<text>Necesitaba este/a $what. Gracias por salvarme de gastar dinero, mi amigo muerto.</text>
 	</string>
 	<string id="st_dyn_news_loot_item_6">
 		<text>Llevaba $what. Le dar&#233; un buen uso.</text>
@@ -3954,7 +3954,7 @@
 		<text>Ahora lo he visto todo...</text>
 	</string>
 	<string id="st_dyn_news_surge_after_2">
-		<text>&#161;Lo logramos chicos, sobrevivimos al $what!</text>
+		<text>&#161;Lo logramos chicos, sobrevivimos a $what!</text>
 	</string>
 	<string id="st_dyn_news_surge_after_3">
 		<text>Eso fue duro... &#161;&#191;Est&#225;n bien, chicos?!</text>
@@ -3989,7 +3989,7 @@
 		<text>Esperen un cataclismo, una $what golpear&#225; $when.</text>
 	</string>
 	<string id="st_dyn_news_surge_template_3">
-		<text>Encuentra alguna cobertura, una $what vendr&#225; $when.</text>
+		<text>Escondete o vas a conocer a Maradona, una $what vendr&#225; $when.</text>
 	</string>
 	<string id="st_dyn_news_surge_template_4">
 		<text>Chicos, el equipo comienza a enloquecer. Lo m&#225;s probable es que sean se&#241;ales de un $what $when.</text>
@@ -4516,7 +4516,7 @@
 		<text>Pasa toda la informaci&#243;n relacionada con el asalto y los mutantes al canal privado. Realmente no queremos una fuga.</text>
 	</string>
 	<string id="st_dyn_news_spam_faction_dolg_12">
-		<text>Algunos SVDs nuevos han llegado al almac&#233;n. Los interesados deben moverse.</text>
+		<text>Algunos SVDs nuevos han llegado al almac&#233;n. Los interesados muevanse.</text>
 	</string>
 	<string id="st_dyn_news_spam_faction_dolg_13">
 		<text>Aqu&#237; el equipo de reconocimiento. Acabamos de ver una especie de humo negro volador en el Territorio Salvaje. Esperando instrucciones. Cambio.</text>
@@ -6359,7 +6359,7 @@
 		<text>&#161;Eh, cuidado! $who ha sido visto cerca.</text>
 	</string>
 	<string id="st_dyn_news_enemy_activity_mutant_3_5">
-		<text>Ten cuidado, $who est&#225; acechado.</text>
+		<text>Ten cuidado, $who est&#225; merodeando.</text>
 	</string>
 	<string id="st_dyn_news_enemy_activity_mutant_3_6">
 		<text>Hey... chicos, &#191;hab&#233;is o&#237;do eso?! suena como quien... &#161;debe ser $who!</text>
@@ -6385,7 +6385,7 @@
 		<text>Uno de nuestros chicos ha visto $who, &#191;cu&#225;l es su situaci&#243;n?</text>
 	</string>
 	<string id="st_dyn_news_enemy_activity_mutant_2_3">
-		<text>Ten cuidado, $who est&#225; acechado.</text>
+		<text>Ten cuidado, $who est&#225; merodeando.</text>
 	</string>
 	<string id="st_dyn_news_enemy_activity_mutant_2_4">
 		<text>&#191;Es eso $who que suena a lo lejos? Parece que...</text>
@@ -7799,7 +7799,7 @@
 		<text>por</text>
 	</string>
 	<string id="st_dyn_news_so">
-		<text>tan</text>
+		<text>as&#237;</text>
 	</string>
 	<string id="st_dyn_news_after">
 		<text>despu&#233;s</text>
@@ -7814,7 +7814,7 @@
 		<text>dentro de</text>
 	</string>
 	<string id="st_dyn_news_about">
-		<text>sobre</text>
+		<text>m&#225;s o menos</text>
 	</string>
 	<string id="st_dyn_news_soon">
 		<text>pronto</text>

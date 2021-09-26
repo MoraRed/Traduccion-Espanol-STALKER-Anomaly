@@ -2338,9 +2338,9 @@ Production ceased in January 2016 after the introduction of the Keymod Lightweig
 		<text>PM (custom)</text>
 	</string>
 	<string id="st_wpn_pm_custom_descr">
-	<text>Customized version of Makarov PM with longer threaded barrel for use with PMM silencer. This Soviet legacy is the most common pistol in the Zone and is one of the best compact self-defence handguns available. It is small, highly reliable, easy to use and maintain in working order. It also suffers from several drawbacks, including short range, low firing accuracy and poor stopping power, while also losing out to modern pistols in its class in terms of weight and magazine size. In 1951, the Pistol Makarova was selected because of its simplicity, easy manufacturing, accuracy, and reasonable stopping power.\n
-				%c[ui_gray_2]Attachments: \n
-   %c[d_purple] • %c[ui_gray_2] Silencer: Silencer PMM\n</text>
+	<text>Version personalizada de la Makarov PM con un canon roscado mas largo para su uso con silenciador PMM. Este legado sovietico es la pistola mas comun en la Zona y es una de las mejores pistolas compactas de autodefensa disponibles. Es pequena, muy fiable, facil de usar y de mantener en funcionamiento. Sin embargo, tiene varios inconvenientes, como su corto alcance, su escasa precision de tiro y su escaso poder de detencion, ademas de salir perdiendo frente a las pistolas modernas de su clase en cuanto a peso y tamano del cargador. En 1951, se eligio la pistola Makarova por su sencillez, su facil fabricacion, su precision y su razonable poder de parada.\n
+				%c[ui_gray_2]Accesorios: \n
+   %c[d_purple] • %c[ui_gray_2] Silenciador: Silenciador PMM\n</text>
 	</string>
 		
 	<string id="st_wpn_pm">

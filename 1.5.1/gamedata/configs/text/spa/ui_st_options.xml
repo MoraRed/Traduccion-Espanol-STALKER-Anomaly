@@ -284,7 +284,7 @@
 		<text>Extremo</text>
 	</string>
 	<string id="ui_mm_lst_off">
-		<text>Off</text>
+		<text>Desactivado</text>
 	</string>
 	<string id="ui_mm_lst_default">
 		<text>Predeterminado</text>
@@ -321,7 +321,7 @@
 	</string>
 	
 	<string id="ui_mm_video_advanced_ai_torch">
-		<text>Stalkers pueden usar linternas</text>
+		<text>Los stalkers pueden usar linternas</text>
 	</string>
 	<string id="ui_mm_video_advanced_v_sync">
 		<text>Sincronizaci&#243;n vertical</text>
@@ -330,10 +330,10 @@
 		<text>Frecuencia 60Hz</text>
 	</string>
 	<string id="ui_mm_video_advanced_framelimit">
-		<text>Limitador FPS</text>
+		<text>Limitador de FPS</text>
 	</string>
 	<string id="ui_mm_video_advanced_framelimit_desc">
-		<text>Este deslizador permite personalizar el limite de FPS. "0" significa que no hay limite.</text>
+		<text>Este slider permite personalizar el limite de FPS. "0" significa que no hay limite.</text>
 	</string>
 	
 	<string id="ui_mm_header_rendering_dist">
@@ -349,10 +349,10 @@
 		<text>Objetos din&#225;micos</text>
 	</string>
 	<string id="ui_mm_video_advanced_optimize_shadow_geom">
-		<text>Corte Sombras Lejanas</text>
+		<text>Remover sombras lejanas</text>
 	</string>
 	<string id="ui_mm_video_advanced_optimize_shadow_geom_desc">
-		<text>Permitir esto puede mejorar el rendimiento eliminando las sombras distantes (normalmente no se pueden ver de todos modos). \nPuede provocar que se eliminen sombras muy largas (perceptibles solo durante el amanecer y el atardecer).
+		<text>Activar esto puede mejorar el rendimiento eliminando las sombras distantes (normalmente no se pueden ver de todos modos). \nPuede provocar que se eliminen sombras muy largas (perceptibles solo durante el amanecer y el atardecer).
 		</text>
 	</string>
 	
@@ -387,10 +387,10 @@
 		<text>SMAA</text>
 	</string>
 	<string id="ui_mm_video_advanced_detail_bump">
-		<text>Detalle Bump</text>
+		<text>Detallar rugosidad</text>
 	</string>
 		<string id="ui_mm_video_advanced_steep_parallax">
-		<text>Steep parallax</text>
+		<text>Mapeo de Parlaje</text>
 	</string>
 	<string id="ui_mm_video_advanced_enable_tessellation">
 		<text>Teselacion</text>
@@ -412,7 +412,7 @@
 		<text>Sombras de la vegetaci&#243;n</text>
 	</string>
 	<string id="ui_mm_video_advanced_sun_details">
-		<text>Sombra de hierba</text>
+		<text>Sombras de la hierba</text>
 	</string>
 	
 	<string id="ui_mm_header_lighting">
@@ -431,10 +431,10 @@
 		<text>Calidad sombras</text>
 	</string>
 	<string id="ui_mm_video_advanced_sun">
-		<text>Sombra del sol</text>
+		<text>Sombras del sol</text>
 	</string>
 	<string id="ui_mm_video_advanced_sun_quality">
-		<text>Calidad sombras del sol</text>
+		<text>Calidad de las sombras del sol</text>
 	</string>
 	<string id="ui_mm_video_advanced_sunshafts_mode">
 		<text>Modo rayos de sol</text>
@@ -479,10 +479,10 @@
 		<text>Profundidad de campo</text>
 	</string>
 	<string id="ui_mm_video_advanced_mblur_enable">
-		<text>Motion Blur</text>
+		<text>Desenfoque de movimiento</text>
 	</string>
 	<string id="ui_mm_video_advanced_mblur">
-		<text>Cantidad de Motion Blur</text>
+		<text>Cantidad de desenfoque</text>
 	</string>
 	<string id="ui_mm_video_advanced_dynamic_wet_surfaces">
 		<text>Superficies mojadas</text>

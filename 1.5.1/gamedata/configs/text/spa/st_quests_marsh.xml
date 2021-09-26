@@ -459,7 +459,7 @@
 
 	<!-- ESCORT SCIENTISTS DIALOGS -->
 	<string id="ecolog_companion_task_1_start_dialog_1">
-		<text>&#191;Eres nuestro gu&#237;a? Voy a marcar la ubicaci&#243;n en tu PDA. Muestranos el camino y nosotros te seguiremos. Despu&#233;s de que completemos nuestro an&#225;lisis, esc&#250;penos de regreso de manera segura. H&#225;blame nuevamente cuando regresemos al campamento.</text>
+		<text>&#191;Eres nuestro gu&#237;a? Voy a marcar la ubicaci&#243;n en tu PDA. Muestranos el camino y nosotros te seguiremos. Despu&#233;s de que completemos nuestro an&#225;lisis, escoltanos de manera segura. H&#225;blame nuevamente cuando regresemos al campamento.</text>
 	</string>
 	<string id="ecolog_companion_task_1_start_dialog_2">
 		<text>&#191;Si? Deber&#237;amos ponernos en movimiento. Cuanto m&#225;s esperemos, m&#225;s peligroso se vuelve.</text>
