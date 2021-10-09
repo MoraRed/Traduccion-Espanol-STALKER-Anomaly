@@ -3,7 +3,7 @@
 
 <!-- (Bandit ground leader) -->
 	<string id="st_agr_u_bandit_boss_dialog_start_0">
-		<text>&#191;Quien eres... y que cojones estas haciendo aqui?!</text>
+		<text>&#191;Quien eres... y que cojones estas haciendo aqu&#237;?!</text>
 	</string>
 	<string id="st_agr_u_bandit_boss_dialog_start_1a">
 		<text>Buscando tesoros, &#191;has encontrado alguno?</text>
@@ -12,10 +12,10 @@
 			<text>No, no he encontrado ningun "tesoro". &#191;Esto es una especie de broma? Primero escucha los ruidos que suenan ahi abajo, luego puedes pensar en los putos tesoros.</text>
 		</string>
 	<string id="st_agr_u_bandit_boss_dialog_start_1b">
-		<text>Exploracion. Nunca sabes lo que puedes encontrar aqui.</text>
+		<text>Exploracion. Nunca sabes lo que puedes encontrar aqu&#237;.</text>
 	</string>
 		<string id="st_agr_u_bandit_boss_dialog_start_1b_1">
-			<text>De todos los lugares que podrias explorar en la Zona, terminaste aqu&#237;... que lindo...</text>
+			<text>De todos los lugares que podr&#237;as explorar en la Zona, terminaste aqu&#237;... que lindo...</text>
 		</string>
 	<string id="st_agr_u_bandit_boss_dialog_start_1c">
 		<text>Estoy en una mision.</text>
@@ -28,7 +28,7 @@
 		<text>&#191;Y que me dices de ti? &#191;Como llegastes aqu&#237;?</text>
 	</string>
 	<string id="st_agr_u_bandit_boss_dialog_ask_1">
-		<text>Me llamo Reefer. Los chicos y yo llegamos aqui hace un par de d&#237;as, todo gracias a Sultan. "Esta bien chicos, ese lugar fue abandonado hace mucho tiempo", "No hay nada de que temer". Nos abandon&#243;... Casi nos mataron anoche cuando esas cosas cabreadas aparecieron de la nada. Nos retiramos aqui y no nos movimos desde entonces. \nSe supone que debemos buscar cualquier objeto util en el lugar. Segun los rumores, Strelok tenia un escondite en algun lugar aqui donde guardaba sus cosas. &#191;Por qu&#233; le importa tanto a Sultan? Realmente no lo se. Dijo que nos lanza a los Pseudoperros si no le traemos nada util.</text>
+		<text>Me llamo Reefer. Los chicos y yo llegamos aqu&#237; hace un par de d&#237;as, todo gracias a Sultan. "Esta bien chicos, ese lugar fue abandonado hace mucho tiempo", "No hay nada de que temer". Nos abandon&#243;... Casi nos mataron anoche cuando esas cosas cabreadas aparecieron de la nada. Nos retiramos aqu&#237; y no nos movimos desde entonces. \nSe supone que debemos buscar cualquier objeto util en el lugar. Segun los rumores, Strelok tenia un escondite en algun lugar aqu&#237; donde guardaba sus cosas. &#191;Por qu&#233; le importa tanto a Sultan? Realmente no lo se. Dijo que nos lanza a los Pseudoperros si no le traemos nada util.</text>
 	</string>
 	<string id="st_agr_u_bandit_boss_dialog_ask_2">
 		<text>Suena como una mala situacion. &#191;Tal vez pueda ayudar?</text>
@@ -128,7 +128,7 @@
 	</string>
 
 	<string id="st_agr_u_bandit_boss_news_on_going">
-		<text>Muy bien muchachos, nuestro amigo y yo vamos por los t&#250;neles. Quedense aqui y vigilen el lugar.</text>
+		<text>Muy bien muchachos, nuestro amigo y yo vamos por los t&#250;neles. Quedense aqu&#237; y vigilen el lugar.</text>
 	</string>
 	<string id="st_agr_u_bandit_boss_news_on_going_reply">
 		<text>Ten cuidado, hombre.</text>

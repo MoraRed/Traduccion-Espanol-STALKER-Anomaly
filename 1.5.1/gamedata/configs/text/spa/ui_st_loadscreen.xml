@@ -106,7 +106,7 @@
 		<text>No ignores un arma s&#243;lo porque es un tipo que normalmente no usas. La munici&#243;n es escasa, e incluso el mejor francotirador tendr&#225; que escapar apresuradamente de vez en cuando.</text>
 	</string>
 	<string id="ls_tip_34">
-		<text>Invertir en protecci&#243;n ps&#237;quica te llevara lejos en la Zona. Por lo menos, considera tomar algunas pildoras de bloqueo ps&#237;quico; nunca se sabe cuando podrias encontrarte con un controlador.</text>
+		<text>Invertir en protecci&#243;n ps&#237;quica te llevara lejos en la Zona. Por lo menos, considera tomar algunas pildoras de bloqueo ps&#237;quico; nunca se sabe cuando podr&#237;as encontrarte con un controlador.</text>
 	</string>
 	<string id="ls_tip_35">
 		<text>Confia en tus oidos. El sonido sobrepasa las colinas y los densos arbustos. Un sonido debil pero familiar puede ser todo lo que necesites para que te prepares a recibir un ataque furtivo.</text>
@@ -157,7 +157,7 @@
 		<text>Ten a la mano un arma secundaria en la que confies, por si tu arma principal se queda sin munici&#243;n. Las pistolas son las amigas cercanas de un stalker, pero una escopeta recortada tambien puede marcar la diferencia.</text>
 	</string>
 	<string id="ls_tip_51">
-		<text>Cuida el peso que cargas cuando busques artefactos. Incluso podrias dejar algunas de tus cosas en una mochila antes de entrar en un area anomala, as&#237;, m&#225;s tarde podr&#237;as volver y recogerla.</text>
+		<text>Cuida el peso que cargas cuando busques artefactos. Incluso podr&#237;as dejar algunas de tus cosas en una mochila antes de entrar en un area anomala, as&#237;, m&#225;s tarde podr&#237;as volver y recogerla.</text>
 	</string>
 	<string id="ls_tip_52">
 		<text>La Radio RF te ayudara a encontrar cosas lejanas y escondidas. Puedes cambiar la frecuencia de la radio a traves de LMB, RMB y Shift LMB / RMB mientras tienes la otra mano libre.</text>
@@ -193,7 +193,7 @@
 		<text>Siempre lleva drogas como botiquines, psicobloqueos o anabioticos; puede que comience una emision y no haya refugio cerca. Es posible que no te protejan por completo, pero tal vez, solo tal vez te permitan llegar a un lugar seguro antes de freirte.</text>
 	</string>
 	<string id="ls_tip_63">
-		<text>La munici&#243;n es una mercancia en la zona. Empieza a recoger munici&#243;n para las armas que generalmente no usas y podrias ahorrarte algunos rublos a la larga. Incluso si es vieja, puedes usarla como est&#225; o hacer municiones pristinas con kits de armero.</text>
+		<text>La munici&#243;n es una mercancia en la zona. Empieza a recoger munici&#243;n para las armas que generalmente no usas y podr&#237;as ahorrarte algunos rublos a la larga. Incluso si es vieja, puedes usarla como est&#225; o hacer municiones pristinas con kits de armero.</text>
 	</string>
 	<string id="ls_tip_64">
 		<text>Llevate lo menos posible al salir, para que puedas recoger m&#225;s cosas y venderlas a los comerciantes cuando regreses.</text>
@@ -211,7 +211,7 @@
 		<text>El logro "Guerra Mecanizada" se obtiene al entregar tres juegos de herramientas a un tecnico. Despu&#233;s de completarlo, los art&#237;culos utilizados al reparar tu equipo seran m&#225;s efectivos.</text>
 	</string>
 	<string id="ls_tip_69">
-		<text>Algunos stalkers de la vieja escuela llevan notas en papel en lugar de escribirlas en sus PDAs. Puede valer la pena leerlas... incluso podrias aprender algo sobre ellos.</text>
+		<text>Algunos stalkers de la vieja escuela llevan notas en papel en lugar de escribirlas en sus PDAs. Puede valer la pena leerlas... incluso podr&#237;as aprender algo sobre ellos.</text>
 	</string>
 	<string id="ls_tip_70">
 		<text>Cada dispositivo usa su propio conjunto de baterias. Siempre que estas se queden sin energ&#237;a, tendras que sacarlas y poner otras nuevas. Esto se puede hacer presionando clic derecho en el dispositivo desde tu inventario.</text>

@@ -155,7 +155,7 @@
 		<text>Bolsa con una tienda de campa&#241;a</text>
 	</string>
 	<string id="st_itm_tent_descr">
-		<text>Una bolsa que contiene una tienda de campa&#241;a para acampar, protegi&#233;ndose asi de la lluvia y el viento. El montaje y la instalaci&#243;n toma alg&#250;n tiempo. En la Zona, es mejor desplegarla en un lugar con rutas de escape en caso de peligro.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso cotidiano\n %c[d_orange] • %c[ui_gray_2] usado para deplegar tienda\n %c[d_blue] • %c[ui_gray_2] usos ilimitados\n</text>
+		<text>Una bolsa que contiene una tienda de campa&#241;a para acampar, protegi&#233;ndose as&#237; de la lluvia y el viento. El montaje y la instalaci&#243;n toma alg&#250;n tiempo. En la Zona, es mejor desplegarla en un lugar con rutas de escape en caso de peligro.\n \n %c[ui_gray_3]PROPIEDADES:\n %c[d_blue] • %c[ui_gray_2] art&#237;culo de uso cotidiano\n %c[d_orange] • %c[ui_gray_2] usado para deplegar tienda\n %c[d_blue] • %c[ui_gray_2] usos ilimitados\n</text>
 	</string>
 	
 	<string id="st_lighter">

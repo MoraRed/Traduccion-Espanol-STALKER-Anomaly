@@ -409,7 +409,7 @@
 		<text>Hola.</text>
 	</string>
 	<string id="zat_b215_stalker_guide_greeting_2">
-		<text>Hola, stalker. &#191;C&#243;mo est&#225;s?</text>
+		<text>Hola stalker. &#191;C&#243;mo est&#225;s?</text>
 	</string>
 	<string id="zat_b22_stalker_medic_diary">
 		<text>Grabaci&#243;n 12. Mi investigaci&#243;n terminar&#225; pronto... La gente del campamento est&#225; empezando a sospechar algo. Grouse y Danila est&#225;n planeando cazar algunos chupasangres... Me pregunto cu&#225;ndo lo descubrir&#225;n. Tengo que clasificar los frascos de sangre para saber cu&#225;les han sido contaminados... Y esconder el resto... Alguien viene... Grabaci&#243;n 13. Posiblemente la &#250;ltima. Primero ese cazador entrometido, y ahora Grouse. No me saldr&#233; con la m&#237;a. Vendr&#225;n por m&#237;. Ya lo s&#233;... En realidad no importa... Esta dependencia de la hemoglobina me matar&#225; pronto de todos modos. Y prefiero morir de una bala que de una enfermedad.</text>
@@ -439,7 +439,7 @@
 		<text>El trabajo est&#225; hecho. Aqu&#237;, toma el artefacto.</text>
 	</string>
 	<string id="zat_b3_tech_drink_no_more">
-		<text>&#191;C&#243;mo te va, stalker?</text>
+		<text>&#191;C&#243;mo te va stalker?</text>
 	</string>
 	<string id="zat_b3_tech_drunk">
 		<text>Uhh... &#191;Qu&#233; quieres...?</text>
@@ -592,7 +592,7 @@
 		<text>&#161;Bien, suelta a ese retrasado!</text>
 	</string>
 	<string id="zat_b40_merc_go_away_1">
-		<text>&#161;Regresate, stalker! &#161;Este lugar no es para ti!</text>
+		<text>&#161;Regresate stalker! &#161;Este lugar no es para ti!</text>
 	</string>
 	<string id="zat_b40_merc_go_away_2">
 		<text>&#161;Stalker! &#161;Vete, mientras a&#250;n tengas piernas!</text>
@@ -1577,7 +1577,7 @@
 		<text>Bien, est&#225;n todos muertos.</text>
 	</string>
 	<string id="pas_b400_vano_about_transformer_1">
-		<text>Escucha, deber&#237;a haber palancas aqui con las que puedas encender las cosas.</text>
+		<text>Escucha, deber&#237;a haber palancas aqu&#237; con las que puedas encender las cosas.</text>
 	</string>
 	<string id="pas_b400_vano_about_underpass">
 		<text>Entonces... &#191;Vamos?</text>

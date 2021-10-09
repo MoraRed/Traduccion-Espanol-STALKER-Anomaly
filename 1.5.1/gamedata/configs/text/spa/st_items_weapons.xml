@@ -56,7 +56,7 @@
 		<text>Galil ACE-21</text>
 	</string>
 	<string id="st_wpn_ace21_descr">
-		<text>La familia ACE Galil esta dise&#241;ada y producida por la compa&#241;ia de armas israeli IWI Ltd. La base de los rifles ACE Galil es el rifle de asalto Galil, que a su vez se basa en el rifle AK de Kalashnikov. La ACE Galil se centra en la ergonom&#237;a, la facilidad de uso y la integraci&#243;n con accesorios adicionales, asi como la flexibilidad en el combate: la familia ACE Galil incluye los tres tipos de municiones m&#225;s comunes en el mundo (5.56x45 OTAN, 7.62x39 M43 y OTAN 7.62x51), con multiples longitudes de barril para cada tipo. Esta variante particular utiliza proyeciles 5.56x45 de la OTAN y tiene un ca&#241;on compacto. En la Zona, este rifle de asalto es una verdadera rareza.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresores 5.56x45 compatibles \n%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech\n</text>
+		<text>La familia ACE Galil esta dise&#241;ada y producida por la compa&#241;ia de armas israeli IWI Ltd. La base de los rifles ACE Galil es el rifle de asalto Galil, que a su vez se basa en el rifle AK de Kalashnikov. La ACE Galil se centra en la ergonom&#237;a, la facilidad de uso y la integraci&#243;n con accesorios adicionales, as&#237; como la flexibilidad en el combate: la familia ACE Galil incluye los tres tipos de municiones m&#225;s comunes en el mundo (5.56x45 OTAN, 7.62x39 M43 y OTAN 7.62x51), con multiples longitudes de barril para cada tipo. Esta variante particular utiliza proyeciles 5.56x45 de la OTAN y tiene un ca&#241;on compacto. En la Zona, este rifle de asalto es una verdadera rareza.\n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresores 5.56x45 compatibles \n%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech\n</text>
 	</string>
 	
 	<string id="st_wpn_aek971">
@@ -134,7 +134,7 @@
 		<text>AK-12</text>
 	</string>
 	<string id="st_wpn_ak12_descr">
-		<text>El rifle de asalto Kalashnikov AK-12 es la creaci&#243;n m&#225;s reciente de la fabrica IZMASH. Esta destinado a reemplazar los fusiles Kalashnikov AK-74M y AK-100 m&#225;s antiguos para uso interno, asi como para la exportacion. El rifle es de fuego selectivo operado por gas que utiliza la acci&#243;n tradicional "tipo Kalashnikov" con pist&#243;n de gas de carrera larga y bloqueo de perno giratorio. El grupo de tornillos se aligera notablemente para disminuir el retroceso y mejorar la precision en el disparo automatico. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech\n %c[d_purple]  • %c[ui_gray_2] Lanzagranadas GP-25 \n%c[d_purple] • %c[ui_gray_2] Supresor TGP-A\n</text>
+		<text>El rifle de asalto Kalashnikov AK-12 es la creaci&#243;n m&#225;s reciente de la fabrica IZMASH. Esta destinado a reemplazar los fusiles Kalashnikov AK-74M y AK-100 m&#225;s antiguos para uso interno, as&#237; como para la exportacion. El rifle es de fuego selectivo operado por gas que utiliza la acci&#243;n tradicional "tipo Kalashnikov" con pist&#243;n de gas de carrera larga y bloqueo de perno giratorio. El grupo de tornillos se aligera notablemente para disminuir el retroceso y mejorar la precision en el disparo automatico. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Miras ACOG, Barska ES AC10632, EOTech\n %c[d_purple]  • %c[ui_gray_2] Lanzagranadas GP-25 \n%c[d_purple] • %c[ui_gray_2] Supresor TGP-A\n</text>
 	</string>
 	
 	<string id="st_wpn_ak74">
@@ -1003,7 +1003,7 @@
 		<text>PB (moderno)</text>
 	</string>
 	<string id="st_wpn_pb_descr">
-		<text>El PB (Pistolet Besshumnyj o Pistola Silenciosa), tambien conocido en el ejercito sovietico como 6P9, se desarrollo en 1967 para las unidades Spetsnaz del Ejercito sovietico, asi como para los operativos de la KGB. La pistola se basa en una pistola Makarov PM modificada y presenta un exclusivo supresor integral de dos partes. Emitido en servicio en 1967, el PB (indice GRAU 6P9) es una pistola silenciada sovietica basada en el PM Makarov. Estaba destinado a ser utilizado por la KGB y los grupos de reconocimiento del ejercito. La parte frontal del supresor es desmontable, de modo que la pistola se puede dividir en dos partes para transportarla comodamente. El supresor integral del PB tambien reduce la velocidad de la bala por debajo de los niveles subsonicos. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor 6P9 (integrado)\n</text>
+		<text>El PB (Pistolet Besshumnyj o Pistola Silenciosa), tambien conocido en el ejercito sovietico como 6P9, se desarrollo en 1967 para las unidades Spetsnaz del Ejercito sovietico, as&#237; como para los operativos de la KGB. La pistola se basa en una pistola Makarov PM modificada y presenta un exclusivo supresor integral de dos partes. Emitido en servicio en 1967, el PB (indice GRAU 6P9) es una pistola silenciada sovietica basada en el PM Makarov. Estaba destinado a ser utilizado por la KGB y los grupos de reconocimiento del ejercito. La parte frontal del supresor es desmontable, de modo que la pistola se puede dividir en dos partes para transportarla comodamente. El supresor integral del PB tambien reduce la velocidad de la bala por debajo de los niveles subsonicos. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor 6P9 (integrado)\n</text>
 	</string>
 	<string id="st_wpn_pb_worn">
 		<text>PB (desgastado)</text>
@@ -1030,7 +1030,7 @@
 		<text>Makarov PM Ceremonial</text>
 	</string>
 	<string id="st_wpn_pm_actor_descr">
-		<text>Un antiguo PM entregado a Degtyarev como recompensa por la "Ejecucion exitosa de ordenes estatales altamente peligrosas, asi como el valor y el coraje que se muestran en el cumplimiento del deber".</text>
+		<text>Un antiguo PM entregado a Degtyarev como recompensa por la "Ejecucion exitosa de ordenes estatales altamente peligrosas, as&#237; como el valor y el coraje que se muestran en el cumplimiento del deber".</text>
 	</string>
 	<string id="st_wpn_pm_custom">
 		<text>PM (personalizado)</text>
@@ -1119,14 +1119,14 @@
 		<text>RG-6</text>
 	</string>
 	<string id="st_wpn_rg6_descr">
-		<text>El RG-6 (indice 6G30) fue desarrollado entre 1993 y 1994 por TSKIB SOO. Se requiri&#243; el nuevo lanzador de disparos r&#225;pidos multiples e independiente para aumentar la potencia de fuego de la infanteria durante el combate urbano, debido a conflictos recientes a peque&#241;a escala, como las Guerras Chechenas. El RG-6 entr&#243; en producci&#243;n limitada a mediados de la decada de 1990 y ahora esta en uso por varios elementos del ejercito ruso y las fuerzas especiales, asi como por fuerzas especiales en el MVD (Ministerio de Asuntos Internos). El RG-6 est&#225; dise&#241;ado para disparar todas las granadas est&#225;ndar de 40 mm sin casquillo, disponibles para lanzadores bajo el ca&#241;&#243;n de uso general, como el GP-25 y el GP-30. Estos cartuchos incluyen granadas de fragmentacion VOG-25, granadas de fragmentacion de rebote VOG-25P y granadas de gas lacrimogeno no letal "Gvozd" (clavo) para el control de disturbios. El tambor tambien tiene carga frontal. Ampliamente utilizado para la supresi&#243;n rapida de las posiciones enemigas y, al aire libre, atacar objetivos fijos fortificados o luchar contra mutantes particularmente resistentes.</text>
+		<text>El RG-6 (indice 6G30) fue desarrollado entre 1993 y 1994 por TSKIB SOO. Se requiri&#243; el nuevo lanzador de disparos r&#225;pidos multiples e independiente para aumentar la potencia de fuego de la infanteria durante el combate urbano, debido a conflictos recientes a peque&#241;a escala, como las Guerras Chechenas. El RG-6 entr&#243; en producci&#243;n limitada a mediados de la decada de 1990 y ahora esta en uso por varios elementos del ejercito ruso y las fuerzas especiales, as&#237; como por fuerzas especiales en el MVD (Ministerio de Asuntos Internos). El RG-6 est&#225; dise&#241;ado para disparar todas las granadas est&#225;ndar de 40 mm sin casquillo, disponibles para lanzadores bajo el ca&#241;&#243;n de uso general, como el GP-25 y el GP-30. Estos cartuchos incluyen granadas de fragmentacion VOG-25, granadas de fragmentacion de rebote VOG-25P y granadas de gas lacrimogeno no letal "Gvozd" (clavo) para el control de disturbios. El tambor tambien tiene carga frontal. Ampliamente utilizado para la supresi&#243;n rapida de las posiciones enemigas y, al aire libre, atacar objetivos fijos fortificados o luchar contra mutantes particularmente resistentes.</text>
 	</string>
 	
 	<string id="st_wpn_rp">
 		<text>PKM</text>
 	</string>
 	<string id="st_wpn_rp_descr">
-		<text>Equipada con una culata de esqueleto hecha de madera, asi como una placa de tope con bisagras y una empu&#241;adura de madera, tipo pistola. La parte trasera de la culata alberga un kit de limpieza, y una varilla de limpieza desmontada se almacena en la pata derecha del bipode. Una ametralladora muy confiable.\n</text>
+		<text>Equipada con una culata de esqueleto hecha de madera, as&#237; como una placa de tope con bisagras y una empu&#241;adura de madera, tipo pistola. La parte trasera de la culata alberga un kit de limpieza, y una varilla de limpieza desmontada se almacena en la pata derecha del bipode. Una ametralladora muy confiable.\n</text>
 	</string>
 	
 	<string id="st_wpn_rpd">
@@ -1236,7 +1236,7 @@
 		<text>Francotirador SIG SG550-1</text>
 	</string>
 	<string id="st_wpn_sig550_sniper_descr">
-		<text>Una variante de un popular rifle de asalto de fabricacion suiza, el SG 550-S constituye un punto medio perfecto entre los rifles de francotirador y de asalto, conservando los puntos fuertes de ambos tipos de armamento. Por otro lado, sufre ciertos inconvenientes, como la falta de potencia de frenado y la precision de un rifle de francotirador y la falta de fuego automatico. A&#250;n asi, sigue siendo uno de los mejores sistemas de armas de nivel superior disponibles dentro de la Zona de Exclusi&#243;n. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor 5.56x45 compatible \n%c[d_purple] • %c[ui_gray_2] Mira Kahles ZF95 (integrada)\n</text>
+		<text>Una variante de un popular rifle de asalto de fabricacion suiza, el SG 550-S constituye un punto medio perfecto entre los rifles de francotirador y de asalto, conservando los puntos fuertes de ambos tipos de armamento. Por otro lado, sufre ciertos inconvenientes, como la falta de potencia de frenado y la precision de un rifle de francotirador y la falta de fuego automatico. A&#250;n as&#237;, sigue siendo uno de los mejores sistemas de armas de nivel superior disponibles dentro de la Zona de Exclusi&#243;n. \n \n%c[ui_gray_2] ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Supresor 5.56x45 compatible \n%c[d_purple] • %c[ui_gray_2] Mira Kahles ZF95 (integrada)\n</text>
 	</string>
 	<string id="st_wpn_sig550_strelok">
 		<text>SIG SG550 Arrow</text>
@@ -1511,13 +1511,13 @@
 		<text>AS Val</text>
 	</string>
 	<string id="st_wpn_val_descr">
-		<text>El AS Val es ampliamente utilizado por las unidades de reconocimiento del Ejercito ruso, asi como por las Fuerzas Especiales MVD (Ministerio de Asuntos Internos) y FSB (Oficina Federal de Seguridad). El AS-VAL es un arma operada por gas, suprimida integralmente. El receptor esta mecanizado en acero forjado para mejorar la resistencia. Tiene un riel estandar de montaje lateral para opticas, vision nocturna o telescopios rojos, pero no tiene ninguna disposicion para montar una bayoneta o un lanzagranadas. El supresor integral puede desmontarse facilmente para mantenimiento, reparacion o almacenamiento compacto, pero el rifle no debe dispararse con el supresor retirado debido a problemas de seguridad y confiabilidad. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1M2-1\n%c[d_purple] • %c[ui_gray_2] Supresor VSS (integrado) \n</text>
+		<text>El AS Val es ampliamente utilizado por las unidades de reconocimiento del Ejercito ruso, as&#237; como por las Fuerzas Especiales MVD (Ministerio de Asuntos Internos) y FSB (Oficina Federal de Seguridad). El AS-VAL es un arma operada por gas, suprimida integralmente. El receptor esta mecanizado en acero forjado para mejorar la resistencia. Tiene un riel estandar de montaje lateral para opticas, vision nocturna o telescopios rojos, pero no tiene ninguna disposicion para montar una bayoneta o un lanzagranadas. El supresor integral puede desmontarse facilmente para mantenimiento, reparacion o almacenamiento compacto, pero el rifle no debe dispararse con el supresor retirado debido a problemas de seguridad y confiabilidad. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1M2-1\n%c[d_purple] • %c[ui_gray_2] Supresor VSS (integrado) \n</text>
 	</string>
 	<string id="st_wpn_val_modern">
 		<text>AS Val (moderno)</text>
 	</string>
 	<string id="st_wpn_val_modern_descr">
-		<text>El AS Val es ampliamente utilizado por las unidades de reconocimiento del Ejercito ruso, asi como por las Fuerzas Especiales MVD (Ministerio de Asuntos Internos) y FSB (Oficina Federal de Seguridad). El AS-VAL es un arma operada por gas, suprimida integralmente. El receptor esta mecanizado en acero forjado para mejorar la resistencia. Tiene un riel estandar de montaje lateral para opticas, vision nocturna o telescopios rojos, pero no tiene ninguna disposicion para montar una bayoneta o un lanzagranadas. El supresor integral puede desmontarse facilmente para mantenimiento, reparacion o almacenamiento compacto, pero el rifle no debe dispararse con el supresor retirado debido a problemas de seguridad y confiabilidad. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple]  • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_purple] • %c[ui_gray_2] Supresor VSS (integrado)\n</text>
+		<text>El AS Val es ampliamente utilizado por las unidades de reconocimiento del Ejercito ruso, as&#237; como por las Fuerzas Especiales MVD (Ministerio de Asuntos Internos) y FSB (Oficina Federal de Seguridad). El AS-VAL es un arma operada por gas, suprimida integralmente. El receptor esta mecanizado en acero forjado para mejorar la resistencia. Tiene un riel estandar de montaje lateral para opticas, vision nocturna o telescopios rojos, pero no tiene ninguna disposicion para montar una bayoneta o un lanzagranadas. El supresor integral puede desmontarse facilmente para mantenimiento, reparacion o almacenamiento compacto, pero el rifle no debe dispararse con el supresor retirado debido a problemas de seguridad y confiabilidad. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple]  • %c[ui_gray_2] Miras EKP-8-02 Kobra, 1P29, PSO-1 \n%c[d_purple] • %c[ui_gray_2] Supresor VSS (integrado)\n</text>
 	</string>
 	<string id="st_wpn_val_worn">
 		<text>AS Val (desgastado)</text>
@@ -1593,7 +1593,7 @@
 		<text>Skorpion vz.61 (camuflado)</text>
 	</string>
 	<string id="st_wpn_vz61_descr">
-		<text>Originalmente con camara para municiones .32 ACP cuando fue adoptada por el ejercito checoslovaco en 1961. La producci&#243;n en masa del Skorpion vz. 61 nunca tuvo lugar. Aun asi, una gran cantidad de pre-produccion de modelos vz. 61 llegaron a la Zona. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple]  • %c[d_red] Imposible montar un supresor\n</text>
+		<text>Originalmente con camara para municiones .32 ACP cuando fue adoptada por el ejercito checoslovaco en 1961. La producci&#243;n en masa del Skorpion vz. 61 nunca tuvo lugar. Aun as&#237;, una gran cantidad de pre-produccion de modelos vz. 61 llegaron a la Zona. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple]  • %c[d_red] Imposible montar un supresor\n</text>
 	</string>
 	<string id="st_wpn_vz61_freedom">
 		<text>Skorpion vz.61 (camuflaje Libertad)</text>
@@ -1602,7 +1602,7 @@
 		<text>Skorpion vz.61 (oxidado)</text>
 	</string>
 	<string id="st_wpn_vz61_rusty_descr">
-		<text>Originalmente con camara para municiones .32 ACP cuando fue adoptada por el ejercito checoslovaco en 1961. La producci&#243;n en masa del Skorpion vz. 61 nunca tuvo lugar. Aun asi, una gran cantidad de pre-produccion de modelos vz. 61 llegaron a la Zona. Este modelo oxidado es menos confiable y es imposible conectarle un supresor. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple]  • %c[d_red] Imposible montar un supresor\n</text>
+		<text>Originalmente con camara para municiones .32 ACP cuando fue adoptada por el ejercito checoslovaco en 1961. La producci&#243;n en masa del Skorpion vz. 61 nunca tuvo lugar. Aun as&#237;, una gran cantidad de pre-produccion de modelos vz. 61 llegaron a la Zona. Este modelo oxidado es menos confiable y es imposible conectarle un supresor. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple]  • %c[d_red] Imposible montar un supresor\n</text>
 	</string>
 	<string id="st_wpn_vz61_worn">
 		<text>Skorpion vz.61 (desgastada)</text>
@@ -1686,7 +1686,7 @@
 		<text>Remington 870</text>
 	</string>
 	<string id="st_wpn_remington870_descr">
-		<text>La Remington 870 es un arma estadounidense, introducida por primera vez en 1950 por Remington Arms. Debido a su caracteristica recarga, es uno de los rifles de bombeo m&#225;s famosos del mundo. Producido en varias versiones, es adecuado tanto para el ejercito como para la policia, para cazadores y atletas, asi como para defensa personal. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Miras Barska ES AC10632, C-more Railway Tactical, EOTech\n</text>
+		<text>La Remington 870 es un arma estadounidense, introducida por primera vez en 1950 por Remington Arms. Debido a su caracteristica recarga, es uno de los rifles de bombeo m&#225;s famosos del mundo. Producido en varias versiones, es adecuado tanto para el ejercito como para la policia, para cazadores y atletas, as&#237; como para defensa personal. \n \n%c[ui_gray_2]ACCESORIOS: \n%c[d_purple] • %c[ui_gray_2] Miras Barska ES AC10632, C-more Railway Tactical, EOTech\n</text>
 	</string>
 	
 	<string id="st_wpn_wa2000">
