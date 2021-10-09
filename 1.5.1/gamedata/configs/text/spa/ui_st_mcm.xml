@@ -1,0 +1,29 @@
+<!-- 
+	Anomaly Modconfiguration Menu strings
+	
+-->
+
+<string_table>
+
+	<string id="ui_mcm_desc_mcm">
+		<text>Bienvenido al Men&#250; de Configuraci&#243;n del Mod Anomaly. Por s&#237; mismo, MCM no hace nada. MCM proporciona un lugar para que otros mods/addons muestren una interfaz de usuario de configuraci&#243;n. A la izquierda ver&#225; una lista de mods/addons que est&#225;n usando MCM para hacerlo.</text>
+	</string>
+	<string id="ui_mcm_desc_mcm2">
+		<text>Los errores con MCM o los bloqueos con ui_mcm.script en el registro, son probablemente causados por uno de los mods/addons que usan MCM y deben informarse al autor de ese mod/addon.</text>
+	</string>
+	<string id="ui_mm_menu_mcm">
+		<text>Men&#250;s Configuraci&#243;n Mod</text>
+	</string>
+
+	<string id="ui_mcm_menu_mcm">
+		<text>MCM</text>
+	</string>
+	<string id="ui_mcm_mcm_reset">
+		<text>Refrescar todos los men&#250;s</text>
+	</string>
+	<string id="ui_mcm_mcm_reset_desc">
+		<text>Marcar esto y presionar en Aplicar har&#225; que MCM recargue todos los men&#250;s. Esta es una herramienta de depuraci&#243;n y no deber&#237;a ser necesaria en el curso normal de las cosas.</text>
+	</string>
+
+
+</string_table>
