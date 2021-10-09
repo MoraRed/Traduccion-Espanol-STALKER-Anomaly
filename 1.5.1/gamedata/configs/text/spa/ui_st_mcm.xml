@@ -19,7 +19,7 @@
 		<text>MCM</text>
 	</string>
 	<string id="ui_mcm_mcm_reset">
-		<text>Refrescar todos los men&#250;s</text>
+		<text>Refrescar men&#250;s</text>
 	</string>
 	<string id="ui_mcm_mcm_reset_desc">
 		<text>Marcar esto y presionar en Aplicar har&#225; que MCM recargue todos los men&#250;s. Esta es una herramienta de depuraci&#243;n y no deber&#237;a ser necesaria en el curso normal de las cosas.</text>
